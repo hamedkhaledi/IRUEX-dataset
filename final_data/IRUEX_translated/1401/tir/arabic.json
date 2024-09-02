@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "«یَا أَیُّهَا الَّذِینَ آمَنُوا ... إِنَّ بَعْضَ الظَّنِّ إِثْمٌ؛ وَ لَا تَجَسَّسُوا وَلَا یَغْتَبْ بَعْضُکُمْ بَعْضًا»:\n",
+        "options": {
+            "1": "ای کسانی که ایمان آورده‌اید، ... بعضی گمان‌ها گناه است، و تجسّس مکنید و از یکدیگر غیبت مکنید!",
+            "2": "ای کسانی که ایمان آورده‌اند، ... به برخی گمان‌های بد از گناهان است، پس جاسوسی مکنید و غیبت همدیگر را نکنید!",
+            "3": "ای کسانی که ایمان آورده‌ایده، ... بعضی گمان‌های بد گناه است، پس تجسس دیگران را مکنید و از همدیگر غیبت نکنید!",
+            "4": "ای کسانی که ایمان آورده‌اید، ... برخی گمان‌ها از گناهان است، و جاسوسی دیگران را نکنید و غیبت یکدیگر را مکنید!"
+        },
+        "final_answer": 1,
+        "full_text": "\"Oh, those who believe... And don't spy on each other and don't slander each other.\"\n\nOptions:\nA) O you who have believed, ... some assumptions are sins, and do not spy and do not backbite one another!\nB) O you who have believed, some bad thoughts are among the sins, so do not spy on each other and do not hide from each other!\nC) O you who believe, some bad thoughts are sins, so don't spy on others and don't backstab each other!\nD) O you who have believed, some suspicions are sins, and do not spy on others and do not backbite each other!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "«جدیرٌ للإنسان أن یُعوٌد نفسَه بقول الحقیقة و إن کان صعبا، و یبتعد عن کُلِّ کذبِ و إن کان ضروریاًا!»\n",
+        "options": {
+            "1": "برای انسان بایسته است که نفسش به گفتن حق عادت کند و از همهٔ دروغ‌ها دور باشد حتی اگر لازم به نظر بیاید!",
+            "2": "شایستهٔ انسان این است که نفس را به سخن درست عادت بدهد حتی اگر سخت بود، و از دروغ دور شود حتی اگر لازم شود!",
+            "3": "شایستهٔ انسان است که نفسش را به گفتار راست اگرچه سخت باشد عادت دهند، و از کل دروغ دوری کند اگرچه ضرورت باشد!",
+            "4": "برای انسان شایسته است که خود را به گفتن حقیقت عادت دهد هرچند سخت باشد، و از هر دروغی دور شود اگرچه ضروری باشد!"
+        },
+        "final_answer": 4,
+        "full_text": "\"It is necessary for a person to return his soul to the truth, and that is difficult, and to stay away from all lies, and that is necessary!\"\n\nOptions:\nA) It is necessary for a person to get used to telling the truth and stay away from all lies, even if it seems necessary!\nB) It is proper for a person to get used to speaking the truth even if it is difficult, and to stay away from lying even if it is necessary!\nC) It is proper for a person to get used to speaking the truth even if it is difficult, and to avoid all lies even if it is necessary!\nD) It is appropriate for a person to get used to telling the truth even if it is difficult, and to avoid any lie even if it is necessary!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "«کلٌّ ما أری، أنت فیه؛ کلٌ ما اُشمٌ، رفحتک فیه، فأبکی من فرافک بکاءٌ یٌسبّب أن الطیورَ تنوح فی وکناتها»:\n",
+        "options": {
+            "1": "هرچه را نگاه می‌کنم تو را می‌بینم؛ هر چیزی را که می‌بویم در آن بوی تو است؛ از جدایی تو آنچنان گریه می‌کنم که سبب می‌شود پرنده‌ها در لانه‌هایشان بنالند!",
+            "2": "هرچه را می‌بینم تو در آن هستی، هرچه را می‌بویم بوی تو در آن است، پس از دوری تو چنان می‌گریم که سبب می‌شود پرندگان در آشیانه‌های خود ناله کنند!",
+            "3": "همهٔ آنچه را می‌بینم تو در آنی؛ هرچه را بو می‌کنم رایحهٔ تو در آن است؛ از دوری تو چنان شیون می‌کنم که سبب می‌گردد پرندگان در آشیانهٔ خود ناله سر دھند!",
+            "4": "همهٔ چیزهایی را که می‌بینم تو در آن هستی؛ هر چیزی را که بو می‌کنم در آن رایحهٔ تو است، از جدایی تو گریه سر می‌دهم آنچنان که پرنده‌ها در لانه‌های یکدیگر ناله سر دهنده!"
+        },
+        "final_answer": 2,
+        "full_text": "\"All of us are you, you are Fey; All of us are like, Rafhatak fieh, my tears are farafak bekaa yٌسبب ان التورا تونوه في وكناتها:\n\nOptions:\nA) Whatever I look at, I see you; Everything we smell has your smell in it; I cry so much because of your separation that it makes birds sing in their nests!\nB) Everything I see, you are in it, everything we smell, your smell is in it, after your absence, we cry so much that it causes the birds to moan in their nests!\nC) All that I see you are in the moment; Everything I smell is your scent in it; I am so excited about your distance that it causes the birds to wail in their nest!\nD) You are in everything I see; Everything I smell is your scent, I cry because of your separation, like birds in each other's nests.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "«من ذا الذی أوجد هذه الظّاهرة العجیبة أنّ غیمةٌ سَوداء عظیمةٌ تُمطر مطرًا من السّمک علی الأرض ساعاتٍ!»:\n",
+        "options": {
+            "1": "کیست آنکه این پدیدهٔ عجیب را ایجاد کرد که یک قطعه ابر سیاه بزرگ، ساعت‌ها بارانی از ماهی بر زمین ببارد!",
+            "2": "چه کسی است که پدیده‌ای چنین شگفت‌انگیز ایجاد کرد، همانا قطعه‌ای ابر سیاه بزرگ، ساعت‌ها بر زمین باران ماهی می‌ریزد!",
+            "3": "چه کسی است آنکه این پدیدهٔ عجیب را بوجود آورد که ابری سیاه و بزرگ، در ساعت‌هایی متوالی باران ماهی، بر زمین فرو ریزد!",
+            "4": "کیست آن که چنین پدیده‌ای شگفت‌انگیز بوجود آورد، اینکه ابری بزرگ و سیاه، ساعت‌های طولانی بارانی از ماهی را روی زمین ببارد!"
+        },
+        "final_answer": 1,
+        "full_text": "\"I am the one who created this strange phenomenon, that a huge black cloud rains rain from me on the earth for hours!\":\n\nOptions:\nA) Who created this strange phenomenon that a piece of a big black cloud rains fish on the ground for hours!\nB) Who is it that created such a wonderful phenomenon, that is, a piece of a big black cloud rains fish on the ground for hours!\nC) Who is the one who created this strange phenomenon that a big black cloud falls on the earth during consecutive hours of rain?\nD) Who is the one who created such a wonderful phenomenon, that a big black cloud rains fish on the earth for long hours!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "«هناک عدیدٌ من النّاس لدیهم انکثیرُ من أوقات الفراغ و لکنّهم لا یَعرفون کَیف یَستفیدون منها حتَی یشعروا بالرضا!»:\n",
+        "options": {
+            "1": "تعدادی از مردم هستند که با داشتن اوقات فراغت زیاد چگونگی استفاده از آن و بهره‌مندی از احساس رضایت را نمی‌شناسند!",
+            "2": "تعداد زیادی از مردم با وقت آزاد بسیار وجود دارند ولی چگونگی استفاده از آن را نمی‌دانند تا بتوانند احساس رضایت کنند!",
+            "3": "بسیار زیادند مردمی که وقت آزاد زیادی داشتند اما نمی‌دانستند چطور از آن بهره ببرند تا احساس رضایت داشته باشند!",
+            "4": "بسیاری از مردم هستند که اوقات فراغت زیادی دارند اما نمی‌دانند چگونه از آن استفاده کنند تا احساس رضایت کنند!"
+        },
+        "final_answer": 4,
+        "full_text": "\"There are so many people who have my free time, but they don't know how to benefit from it until they feel satisfied!\":\n\nOptions:\nA) There are a number of people who, having a lot of free time, do not know how to use it and enjoy the feeling of satisfaction!\nB) There are a lot of people with a lot of free time, but they don't know how to use it to feel satisfied!\nC) There are many people who had a lot of free time but did not know how to use it to feel satisfied!\nD) There are many people who have a lot of free time but do not know how to use it to feel satisfied!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "«نَستخدم النورَ الأحمرَ فی الأماکن الّتی تحتاج إلی الانتباه، مثل إشارات المرور!»:\n",
+        "options": {
+            "1": "نور قرمز در اماکنی که نیاز به توجه دارند، مثل علامت‌های عبور و مرور، بکار می‌رود.",
+            "2": "نور قرمز را در جاهای قابل توجه که نیاز دارند، مثل نشانه‌های آمد و رفت، استفاده می‌کنیم!",
+            "3": "نور قرمز را در اماکنی که نیاز به توجه دارند، مثل علامت‌های راهنمایی و رانندگی، بکار می‌بریم.",
+            "4": "از نور قرمز در مکان‌هایی که نیازمند دقت هستیم، مثل علامت‌های راهنمایی و رانندگی، استفاده می‌شود."
+        },
+        "final_answer": 3,
+        "full_text": "\"Don't use red light in places where you need attention, like traffic lights!\":\n\nOptions:\nA) Red light is used in places that need attention, such as traffic signs.\nB) We use red light in significant places that need it, like traffic signs!\nC) We use red light in places that need attention, such as traffic signs.\nD) Red light is used in places where we need to be careful, such as traffic signs.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "«تُدیر الحریاءُ عینیها بسرعةٍ فی اتجاهین لِتهرب من البومة الصیّادة، ولکن الصیادةٌ تستطیع أن تُدبر رأسها مائتینِ و سبعین درجة و تراها!»:\n",
+        "options": {
+            "1": "آفتاب‌پرست برای اینکه از جغد شکارچی بگریزد دو چشم خود را به دو جهت می‌گرداند، ولیکن شکارچی قادر است سر خود را برای دیدن او دویست و هفتاد درجه بچرخاند!",
+            "2": "آفتاب‌پرست برای اینکه از جغد شکارچی فرار کند چشمان خود را به سرعت در دو جهت می‌چرخاند، اما آن صیاد می‌تواند سرش را دویست و هفتاد درجه بچرخاند و او را ببیند!",
+            "3": "آفتاب‌پرست چشمانش می‌تواند به سرعت در دو جهت بگردد بخاطر اینکه از جند صیّاد فرار کند، اما سر جغد برای دیدنش می‌تواند دویست و هفتاد درجه بچرخد!",
+            "4": "آفتاب‌پرست دو چشمش را سریع در دو جهت می‌چرخاند تا جغد صیاد از او بگریزد، ولی صیاد می‌تواند سرش را دویست و هفتاد درجه بچرخاند و او را ببیند!"
+        },
+        "final_answer": 2,
+        "full_text": "\"The freedom of the objective people is moving quickly in two directions to prevent me from hunting, but the hunting is able to take care of the dead and seventy-degree heads!\":\n\nOptions:\nA) The chameleon turns its two eyes in two directions in order to escape from the owl hunter, but the hunter is able to turn his head 270 degrees to see him!\nB) The chameleon quickly turns its eyes in two directions to escape from the hunting owl, but the hunter can turn its head 270 degrees and see him!\nC) The chameleon's eyes can quickly turn in two directions to escape from the hunter, but the owl's head can turn two hundred and seventy degrees to see it!\nD) The chameleon quickly turns its two eyes in two directions so that the hunter owl escapes from him, but the hunter can turn his head two hundred and seventy degrees and see him!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "کان خائفا مِمّا سَیحدت لَه قریبا: از چیزی که بزودی اتفاق می‌افتاد، ترسان بود!",
+            "2": "أ لم تَتحیّر برویة هذه الظاهرة الغربیة: آیا از دیدن چنین پدیدهٔ عجیبی حیرت نمی‌کنی!",
+            "3": "أصبحوا نادمین عن ما کانوا یعاملونه: دربارهٔ آنچه که با او داد و ستد می‌کنند، پشیمان شدند!",
+            "4": "یَکفی أن یُحبُک قلبٌ واحد کی تستطیع أن تَعیش: کافی است یک قلب تو را دوست بدارد، تا بتوانی زندگی کنی!"
+        },
+        "final_answer": 4,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) kan khaifa memma saihadt leh kariba: He was afraid of something that was going to happen soon!\nB) Astonishment at this strange phenomenon: Aren't you surprised to see such a strange phenomenon!\nC) Bezwa nadmin an ma kanwa yaamaluna: They regretted about what they traded with him!\nD) Yakfi ان يوهبوك قلبٌ واحد كي تستاطي ان تعيش: It is enough for one heart to love you, so that you can live!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "اِعلم أنّ للذُکاء حدودٌا، لکن لاحدودَ للحُمق: بدان که فراست محدودیّت دارد، امّا نادانی حدّی ندارد!",
+            "2": "لا تَظنْ لحظةٌ أنْ کثرةَ الکلام دلیلٌ علی کثرة العمل: هرگز برای لحظه‌ای هم گمان مکن که زیادی سخن دلیل زیاد بودن عقل است!",
+            "3": "هذه الأشجار طویلة لدرجة أنّها تَکاد أن تَصل إلی السّماء: این درختان به اندازه‌ای بلند هستند که نزدیک است به آسمان برسند!",
+            "4": "قد لایحل العلمُ مشکلة، ولکنّه یَجلب العشرات من المشاکل: گاهی علم هیچ مشکلی را حل نمی‌کند ولی ده مشکل دیگر بوجود می‌آورد!"
+        },
+        "final_answer": 3,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) Know that the wise have limits, but the fool has no limits: know that frost has limits, but ignorance has no limits!\nB) Don't think for a moment that a lot of speech is a reason for a lot of action: Never think for a moment that a lot of talk is a reason for a lot of wisdom!\nC) These trees are so tall that they almost reach the sky!\nD) Science cannot solve a problem, but it brings dozens of problems: Sometimes science does not solve any problem, but it creates ten more problems!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "«به صفات برتر اخلاقی پایبند باشید. زیرا پروردگارم مرا بخاطر آن فرستاده است»:\n",
+        "options": {
+            "1": "علیکم بمکارم الأخلاق فإنَّ ربّی بعثنی بها!",
+            "2": "اِلتزموا بمکارم الأخلاق فإنَّ ربی بعثنا بها!",
+            "3": "علیکم بالأخلاق الحسنة لأنّ ربَنا أرسلنی بها!",
+            "4": "اِلتزموا الأخلاق الکریمة لأن ربنا أرسلنا بها!"
+        },
+        "final_answer": 1,
+        "full_text": "Adhere to superior moral qualities. Because my Lord has sent me for that.\"\n\nOptions:\nA) Alaikum, Bumkarem al-Akhlaq, because my Lord sent me to you!\nB) Let's go to work, because our Lord sent us!\nC) Alaikum with good manners because God sent me!\nD) Let's be kind to God because our Lord has sent us!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "إقرأ النَص التالی ثم أجب عن الأسئلة بما یناسب النَص:\nصار التَسیر (العقاب) شعارا لکثیر من الدُول فی العصور القدیمةٌ و الحدیثةٌ. و فی أیام الحروب الصِّلیبیّةٌ کان لسرٌ أصفر منقوشا علی علم جیش المسلمین. یتمیّز هذا الطائرُ بنگاله و حدة بصره، کما أنه یمتارُ بحاسّة شمّ قویة جدًا و سرعة طَیرانه تَبنی اللسورُ أعشاشها علی أغصان الأشجار العالیة أو علی الصُخور أو فی الکهوف. فتضع اُنثی الفَسر بَیضَها فی العَشَ ثم تَترکُه تحتَ أشعة الشَمس، و لهذا غالباً تکون لقمة لذیذة لبعض انطیور القویة!\nو من الحیوانات التی تقع دائما فریسةٌ للنصر، الحیُةُ و السنجابُ. من الأشیاء الّتی یُحب النسرُ أکلَها هو بَیضُ بعض الحیوانات، فیستخدم قطعة من الحجر و یَحملها بمنقاره ثمَّ یُسقِطها علی البیضة حتی تنکسر و بد ذلک یَشربُ و یأکل مُحتَویاتها!\n* بیض: ما یتولد منه فرخ بعض الحیوانات.\nعیّن الخطأ:\n",
+        "options": {
+            "1": "یستطیع النُسر أن یری الأشیاء البعیدة.",
+            "2": "یشمُ العقاب الروائح التی لیست قریبة منه.",
+            "3": "الحیوانات التی لا تقدر أن تسیر بسرعة ریما تقع فریسة للنَسر.",
+            "4": "یُحب العقاب أن یتناول لحوم الطیور فلا یرغب فی اکل شیء آخر."
+        },
+        "final_answer": 4,
+        "full_text": "Read the following text and then answer the questions appropriate to the text:\nTasir (punishment) has become a slogan for many countries in ancient and modern times. In the days of the Crusades, a yellow secret was engraved on the flag of the Muslim army. This bird is distinguished by its longevity and keen eyesight. It also has a very strong sense of smell and the speed of its flight. Eagles build their nests on the branches of high trees, on rocks, or in caves. The female finch lays her eggs in the nest and then leaves it under the sun’s rays, which is why it is often a delicious meal for some of the strong finch!\nAmong the animals that always fall prey to victory are the snake and the squirrel. One of the things that the eagle likes to eat is the eggs of some animals. He uses a piece of stone and holds it in his beak and then drops it on the egg until it breaks, and instead he drinks and eats its contents!\n* Eggs: what the chicks of some animals are born from.\nSet the error:\n\nOptions:\nA) The eagle can see distant things.\nB) The eagle smells odors that are not close to it.\nC) Animals that cannot move quickly may fall prey to the eagle.\nD) The eagle loves to eat bird meat, but does not want to eat anything else.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "عن أی شیء لایتکلم اللنصْ؟\n",
+        "options": {
+            "1": "فریسة النسر.",
+            "2": "کیفیّة صید الفریسة.",
+            "3": "مکان حیاة النسر.",
+            "4": "ما یُجب أن یتناول."
+        },
+        "final_answer": 2,
+        "full_text": "What do you say about the text?\n\nOptions:\nA) The Angel of Victory.\nB) The quality of the angel.\nC) Victory Life Center.\nD) What is obligatory to enter.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "یُحب النسر نفس البیض فیأکله.",
+            "2": "إنّما الطیور کانت فریسة للعقاب.",
+            "3": "لا یُحدد العقاب نوعیة طعامة و کذلک مکان عیشه.",
+            "4": "إنّما للنسر یحمل الحجر برجله لیکسر بیض الحیوانات."
+        },
+        "final_answer": 3,
+        "full_text": "Determine the correct one:\n\nOptions:\nA) The eagle loves the same eggs and eats them.\nB) The birds were the prey of punishment.\nC) The punishment does not determine the quality of its food or its place of living.\nD) The eagle carries the stone with its foot to break animal eggs.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "لا یولَد من کلُ بیض نسرٌ؛ فکما تصید تُصاد!",
+            "2": "اُشعةٌ الشّمس تمنع من إصابة الخطر بالبیض!",
+            "3": "اُنثی النسر تُواظب علی البیض حتی زمن الولادة!",
+            "4": "تضع اُنثی النسر البیضَ فی الأماکن المختفیة الّتی لا نور فیها!"
+        },
+        "final_answer": 1,
+        "full_text": "Determine the correct one:\n\nOptions:\nA) An eagle is not born from every egg. As you hunt, you will be caught!\nB) Sunlight prevents the danger from infecting the eggs!\nC) The female eagle continues to lay eggs until the time of birth!\nD) The female eagle lays eggs in hidden places where there is no light!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی / «یتمیّز»:\n",
+        "options": {
+            "1": "مضارع - للمفرد المذکر الغائب - حروفه الأصلیة «میز» - معلوم - فعل و مع فاعله جملة فعلیة",
+            "2": "فعل مضارع - ماضیه للغائب: «تمیّز» علی وزن «تفعُل» - معلوم - فعل و فاعله «هذا»",
+            "3": "فعل مضارع - ماضیه الغائب «تمیز» علی وزن «تفعُل» -له حرفان زائدان - معلوم",
+            "4": "مضارع - للمفرد المؤنت الغائب - له حرفان زائدان، مصدره تمیز علی وزن «تفعُل»"
+        },
+        "final_answer": 4,
+        "full_text": "Identify the error in parsing and morphological analysis / “distinguished”:\n\nOptions:\nA) Present tense - for the third person singular masculine - its original letters are “miz” - known - a verb with its subject, a verbal sentence\nB) A present-past verb for the third person: “Tamayez” in the form of “Tafa’ul” - known - a verb and its subject is “this.”\nC) Present tense verb - its third person past “Tamayez” has the form of “Tafa’ul” - it has two extra letters - known.\nD) Present tense - for the third person singular - has two extra letters, its source is tamayz, with the form of “tafa’ul”",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی / «یستخدم»:\n",
+        "options": {
+            "1": "فعل مضارع - ماضیه علی وزن «استفعل» - حروفه الأصلیة «خ د م»",
+            "2": "فعل مضارع - الغائب المذکر - ماضیه «استخدم» علی وزن استفعل - مجهول",
+            "3": "مضارع - له ثلاثة أحرف زائدة، علی وزن «استفعل» - معلوم - فعل و مع فاعله جملة فعلیة",
+            "4": "مضارع - للمفرد الغائب - حروفه الأصلیة ثلاثة، و له ثلاثة أحرف زائدة - مع فاعله جملةٌ فعلیة"
+        },
+        "final_answer": 2,
+        "full_text": "Identify the error in parsing and morphological analysis / “used”:\n\nOptions:\nA) A present-past verb in the form of “Istafa’il” - its original letters are “Kh D M”\nB) Present tense verb - third person masculine - past tense “used” in the form of “wasta’il” - unknown\nC) Present tense - has three extra letters, in the form of “Istafa’il” - known - a verb, and with its subject, a verbal sentence.\nD) Present tense - for the third person singular - its original letters are three, and it has three additional letters - with its subject, a verbal sentence.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی / «اصفر»:\n",
+        "options": {
+            "1": "مفرد مذکر - اسم تفضیل علی وزن «أفعل» - نکرة",
+            "2": "مفرد مذکر - اسم علی وزن «أفعل» لبیان اللّون - نکرة",
+            "3": "اسم - لیس مؤنثه «فُعلی» - نکرة - صفة للموصرف «نصر»",
+            "4": "اسم - مذکر - حروفها الأصلیة «ص ف ر» - صفة و موصوفه «نصر»"
+        },
+        "final_answer": 1,
+        "full_text": "Identify the error in parsing and morphological analysis / “yellow”:\n\nOptions:\nA) Masculine singular - a noun that is preferred over the form of “I do” - indefinite article.\nB) Singular masculine - a noun in the form of “Af’l” to indicate the color - indefinite noun\nC) A noun - not a feminine form. “Actual” - indefinite article - an adjective for the inflection “Nasr”\nD) A noun - a masculine - its original letters are “S F R” - an adjective and a description of “Nasr”",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "عین الخطأ فی ضبط حرکات الحروف:\n",
+        "options": {
+            "1": "اِقرأ ما تُحِبٌ مِن الکُتُبِ فانتجارِب لا تُغنینا عن الکُتُب!",
+            "2": "مِن أخلاقِ الجاهِلِ الإجابة قَبلَ أن یَسمَع و المُعارَضةُ قبل أن یَفهَمُ!",
+            "3": "لِلغُرابِ صَوت یُحَذَّرُ بهِ بَقیةَ الحَیَوانات حَتی تبتعَدَ عَن منطَقةِ الخَطَرِ!",
+            "4": "کانَت مَکتبةُ جُندی سابور فی خوزِستان أکبَر مَکتبةِ فی العالَمِ القَدیم!"
+        },
+        "final_answer": 3,
+        "full_text": "Identify the error in adjusting the movements of the letters:\n\nOptions:\nA) Read whatever books you like, as experiences are no substitute for books!\nB) Among the morals of the ignorant person is to answer before he hears and oppose before he understands!\nC) The crow has a voice that warns the rest of the animals to stay away from the danger zone!\nD) Jundi Sabur Library in Khuzestan was the largest library in the ancient world!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "عیّن الصحیح عن توضیح المفردات التالیة:\n",
+        "options": {
+            "1": "عَداهُ: جمع تکسیر لکلمة «عادی» و هو مَن یَرجع إلی بلاده!",
+            "2": "رِجل: عضو من الأعضاء فی بدن الإنسان أو الحیوان!",
+            "3": "أُرجُل: جمع تکسیر، و مفرده یدلْ علی شخص مذکّر!",
+            "4": "غداة: أوّل کلُ زمن مثل أوّل الصبح أو أوَّل اللیل!"
+        },
+        "final_answer": 2,
+        "full_text": "Determine the correct statement about the following words:\n\nOptions:\nA) Adahu: A plural form of the word “ordinary” which means someone who returns to his country!\nB) Leg: one of the organs in the body of a human or animal!\nC) Arjul: the plural of Kasir, and the singular indicates a masculine person!\nD) Morning: The beginning of every time, like the beginning of the morning or the beginning of the night!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "عیّن الصحیح عن ما یعادل المفهوم: «مَن طَلبَ أخا بلاعیبٍ بَقی بلا أخٍ!»\n",
+        "options": {
+            "1": "لا یُذمُّ المرءُ بذنب أخیه!",
+            "2": "المُجالَسة مؤثّرة فی خُلق الإنسان!",
+            "3": "إذا تَختار الوحدةَ خیرٌ من اختیار الشّر!",
+            "4": "إنّه متردَّد فی انتخاب الصّدیق فبقی وحیدًا!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify the correct statement about what is equivalent to the concept: “Whoever seeks a brother without faults will remain without a brother!”\n\nOptions:\nA) A person is not blamed for his brother’s sin!\nB) Sitting with people affects a person’s character!\nC) Choosing loneliness is better than choosing evil!\nD) He is hesitant to choose a friend, so he is left alone!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "عیّن فعلا فیه للحروف الزائدة أقلُ من البقیة:\n",
+        "options": {
+            "1": "تحرَک القطارُ فی السّاعة المحدّدة من الموقف إلی المقصد فی المرّة الماضیة!",
+            "2": "تجمّع الطُّلابُ حول اُستاذهم أمس و سألوه أسئلةٌ کثیرةٌ و أجاب أسئلتهم بدقة؟",
+            "3": "تخرّب الأمطارُ الشدیدة بعضَ البیوت غیر المستحکمة غدا!",
+            "4": "تخرج بعضُ الطّلاب من الجامعة قبل هذه السُنة الدّراسیّة!"
+        },
+        "final_answer": 3,
+        "full_text": "Ain is a verb in which the extra letters are less than the rest:\n\nOptions:\nA) The train moved at the specified hour from the stop to the destination the last time!\nB) The students gathered around their professor yesterday and asked him many questions, and he answered their questions accurately?\nC) Heavy rains will destroy some unstable homes tomorrow!\nD) Some students graduated from the university before this academic year!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "عیّن ما لیس فیه اسم للتفضیل:\n",
+        "options": {
+            "1": "لا موجودَ فی الطَبیعة إلا أنّه قد جَعل الله فیه خیرًا کثیراً!",
+            "2": "فی السّنوات الماضیةٌ کانت للاً کابر مَدارس خاصّة!",
+            "3": "إنَّ أعلی الملابس للأغنیاء فلا یلبسها کلٌّ أحد!",
+            "4": "إنَّ الیأس شَرٌ الأشیاء الّتی تَمنعنا من التقدَّم!"
+        },
+        "final_answer": 1,
+        "full_text": "Specify what does not have a noun for preference:\n\nOptions:\nA) There is nothing found in nature except that God has placed much good in it!\nB) In the past years, Lala Kaber had private schools!\nC) The best clothes are for the rich, so not everyone wears them!\nD) Despair is the worst thing that prevents us from progressing!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "عیّن ما فیه الأعداد کلّها أصلیّة:\n",
+        "options": {
+            "1": "فی غرفة الفندق الخامسة و الثلاثین کانت ثلاثة أسرة.",
+            "2": "فاصلة تلک الغرفة من المدخل خمسة عشر مترا أو خمسة و عشرون قدماء.",
+            "3": "دخلنا فیه فی السّاعةُ العاشرة صباحًا و بقینا هناک خمسة أیّام.",
+            "4": "کان مطعم الفندق مفتوحاً من الساعة السابعة صباحاً لِمدّة أربعة عشر یومًا!"
+        },
+        "final_answer": 2,
+        "full_text": "Specify what contains all the original numbers:\n\nOptions:\nA) In the thirty-fifth hotel room there were three beds.\nB) The separation of that room from the entrance is fifteen meters, or twenty-five meters.\nC) We entered it at ten in the morning and stayed there for five days.\nD) The hotel restaurant was open from seven in the morning for fourteen days!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "عیّن ما فیه التأکید:\n",
+        "options": {
+            "1": "هل تَعلم أن العاقل لایظلم لأنّه یری نتیجته قریبا!",
+            "2": "کأنَ الهواءَ باردٌ فیَجب أن نَلبس مَلابسَ خاصَّة!",
+            "3": "إنَّ الله لایقذف من الخیر إلا فی قلوب أولیائه!",
+            "4": "أُنشد الشاعر إنشاذا رائعا فی مجلسنا!"
+        },
+        "final_answer": 3,
+        "full_text": "Specify what is confirmed:\n\nOptions:\nA) Did you know that a wise person does not commit injustice because he sees its result soon?\nB) It is as if the air is cold, so we must wear special clothes!\nC) God does not throw goodness except into the hearts of His friends!\nD) The poet sang a wonderful song in our assembly!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "عیّن «تنصح» یوضح ما قبله:\n",
+        "options": {
+            "1": "هذه المعلّمةُ تنصح تلمیذاتها بإشارات قلیلة و مفیدة!",
+            "2": "أُحبُّ معلّمةٌ تنصح تلمیذاتها و من یَستمعن إلیها برغبة!",
+            "3": "کانت المعلّمةٌ تنصح التلمیذات فی الصّف برحمةٌ و شفقةٌ!",
+            "4": "رأیت معلّمة مشفقةٌ و هی تنصح تلمیذاتها بالتفکُر و الإجتهاد!"
+        },
+        "final_answer": 2,
+        "full_text": "The word “advises” explains what comes before it:\n\nOptions:\nA) This teacher advises her students with few useful signs!\nB) I love a teacher who gives advice to her students and those who listen to her willingly!\nC) The teacher was advising the students in the class with mercy and compassion!\nD) I saw a compassionate teacher advising her students to think and work hard!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

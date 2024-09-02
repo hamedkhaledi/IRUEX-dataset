@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "کدام یکاها، همگی مربوط به کمیت‌های اصلی هستند؟\n",
+        "options": {
+            "1": "ژول، کولن و مول",
+            "2": "کیلوگرم، آمپر و مول",
+            "3": "کیلوگرم، کولن و کندلا (شمع)",
+            "4": "ژول، آمپر و کندلا (شمع)"
+        },
+        "final_answer": 2,
+        "full_text": "Which units are all related to basic quantities?\n\nOptions:\nA) joule, coulomb and mole\nB) kg, ampere and mole\nC) kilograms, coulombs and candelas (candles)\nD) joule, ampere and candela (candle)",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "دو قطبی‌های مغناطیسی کدام مواد به صورت کاتوره‌ای سمت‌گیری کرده‌اند و این مواد در حضور میدان مغناطیسی خارجی، قوی چه خاصیت مغناطیسی پیدا می‌کنند؟\n",
+        "options": {
+            "1": "پارامغناطیسی - قوی و دائمی",
+            "2": "فرومغناطیسی - قوی و دائمی",
+            "3": "فرومغناطیسی - ضعیف و موقت",
+            "4": "پارامغناطیسی - ضعیف و موقت"
+        },
+        "final_answer": 4,
+        "full_text": "Which materials have magnetic dipoles oriented in a circular manner and what magnetic properties do these materials acquire in the presence of an external magnetic field?\n\nOptions:\nA) Paramagnetic - strong and permanent\nB) ferromagnetic - strong and permanent\nC) ferromagnetic - weak and temporary\nD) paramagnetic - weak and temporary",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "کدام مورد در چشم‌های الکترونیکی استفاده می‌شود؟\n",
+        "options": {
+            "1": "ترمیستور",
+            "2": "مقاومت نوری",
+            "3": "پتانسیومتر",
+            "4": "دیود نور گسیل"
+        },
+        "final_answer": 2,
+        "full_text": "Which item is used in electronic eyes?\n\nOptions:\nA) Thermistor\nB) photoresist\nC) Potentiometer\nD) light emitting diode",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "معادله حرکت متحرکی در SI به صورت x = ۳{t^۲} - ۱۲t + ۹ است. تندی متوسط متحرک در بازهٔ زمانی {t_۱} = ۱s تا {t_۲} = ۴s، چند متر بر ثانیه است؟\n",
+        "options": {
+            "1": "۵",
+            "2": "۸",
+            "3": "۳",
+            "4": "۶"
+        },
+        "final_answer": 1,
+        "full_text": "The equation of motion in SI is x = 3{t^2} - 12t + 9. How many meters per second is the moving average speed in the time interval {t_1} = 1s to {t_2} = 4s?\n\nOptions:\nA) 5\nB) 8\nC) 3\nD) 6",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "شکل زیر نمودار سرعت - زمان متحرکی است که روی محور x حرکت می‌کند و در مبدأ زمان، از مکان x = + ۴۲m گذشته است در این حرکت، چند ثانیه فاصلهٔ متحرک تا مبدأ محور، کمتر یا مساوی ۱۰ متر است؟\n",
+        "options": {
+            "1": "۵",
+            "2": "۵/۲۵",
+            "3": "۶",
+            "4": "۶/۲۵"
+        },
+        "final_answer": 4,
+        "full_text": "The figure below is the velocity-time diagram of a moving object that moves on the x-axis and at the origin of time, it has passed the location x = + 42m. In this movement, how many seconds does the moving distance to the origin of the axis take, less than or equal to 10 meters?\n\nOptions:\nA) 5\nB) 5/25\nC) 6\nD) 6/25",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "هواپیمایی با سرعت ۶۰\\frac{m}{s} روی باند فرودگاه می‌نشیند و با شتاب ثابت، سرعت خود را کاهش می‌دهد تا متوقف شود. اگر هواپیما، ۳۲ متر پایانیِ مسیر مستقیم خود را در مدت ۴ ثانیه طی کرده باشد، مسافتی که هواپیما روی باند پیموده، چند متر است؟\n",
+        "options": {
+            "1": "۴۵۰",
+            "2": "۶۰۰",
+            "3": "۷۵۰",
+            "4": "۸۰۰"
+        },
+        "final_answer": 1,
+        "full_text": "An airplane lands on the runway at 60\\frac{m}{s} and decelerates to a stop with constant acceleration. If the plane has traveled the last 32 meters of its straight path in 4 seconds, how many meters has the plane traveled on the runway?\n\nOptions:\nA) 450\nB) 600\nC) 750\nD) 800",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "گلوله‌ای در شرایط خلأ، از نقطه A رها می‌شود و ۳ ثانیه طول می‌کشد تا فاصلهٔ بین دو نقطه B و C را طی کند. گلوله ۳ ثانیه قبل از رسیدن به زمین، از ارتفاع چند متری عبور می‌کند؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۴۵",
+            "2": "۹۰",
+            "3": "۱۲۰",
+            "4": "۱۵۰"
+        },
+        "final_answer": 3,
+        "full_text": "A bullet is released from point A in vacuum and takes 3 seconds to travel the distance between two points B and C. How many meters does the bullet pass 3 seconds before reaching the ground? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 45\nB) 90\nC) 120\nD) 150",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "فنری به جرم ناچیز و طول ۲۰cm را از یک انتها از نقطهٔ ثابتی آویزان می‌کنیم ثابت فنر ۴۰۰\\frac{N}{m} است و به انتهای دیگر آن، وزنهٔ یک کیلوگرمی می‌بندیم و وزنه را در شرایطی از حال سکون رها می‌کنیم که طول فنر همان ۲۰ سانتی‌متر باشد. در این آزمایش، بیشترین طول فنر به چند سانتی‌متر می‌رسد و تندی وزنه در این وضعیت چند سانتی‌متر بر ثانیه است؟ (g = ۱۰\\frac{m}{{{s^۲}}} و مقاومت هوا ناچیز است.)\n",
+        "options": {
+            "1": "۲۵ و صفر",
+            "2": "۲۵ و ۵۰",
+            "3": "۲۲/۵ و صفر",
+            "4": "۲۲/۵ و ۵۰"
+        },
+        "final_answer": 1,
+        "full_text": "We hang a spring with a small mass and a length of 20 cm from a fixed point from one end. The constant of the spring is 400\\frac{N}{m} and we tie a 1 kg weight to the other end of it and release the weight in a state of rest so that the length The spring should be 20 cm. In this experiment, the maximum length of the spring reaches how many centimeters, and how many centimeters per second is the acceleration of the weight in this situation? (g = 10\\frac{m}{{{s^2}}} and air resistance is negligible.)\n\nOptions:\nA) 25 and zero\nB) 25 and 50\nC) 5.22 and zero\nD) 5/22 and 50",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "مطابق شکل، جسم تحت‌تأثیر نیروی افقی F با شتاب ثابت، از حال سکون به حرکت در می‌آید. اگر به جسم، نیروی ۳۰N رو به پایین وارد کنیم، جسم با سرعت ثابت به حرکت خود ادامه می‌دهد شتاب جسم در حالت اول چند متر بر مربع ثانیه است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۱/۵",
+            "2": "۲/۲۵",
+            "3": "۳/۷۵",
+            "4": "۴/۵"
+        },
+        "final_answer": 3,
+        "full_text": "According to the figure, the body under the influence of horizontal force F moves from rest with constant acceleration. If we apply a downward force of 30N to the object, the object will continue to move at a constant speed. What is the acceleration of the object in the first state? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 1/5\nB) 2/25\nC) 3/75\nD) 4.5",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "رانندهٔ خودرویی که با تندی ۵۴\\frac{{km}}{h} در مسیر مستقیم در حرکت است، ناگهان ترمز می‌کند و خودرو با به جا گذاشتن خط ترمزی به طول ۲۲/۵ متر می‌ایستد. ضریب اصطکاک جنبشی بین لاستیک‌ها و جاده چقدر است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۰/۶",
+            "2": "۰/۵",
+            "3": "۰/۴",
+            "4": "۰/۳"
+        },
+        "final_answer": 2,
+        "full_text": "The driver of a car that is moving at a speed of 54\\frac{{km}}{h} on a straight road suddenly brakes and the car stops by leaving a brake line of 22.5 meters. What is the coefficient of kinetic friction between the tires and the road? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 0.6\nB) 0.5\nC) 0.4\nD) 0.3",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "دو ماهوارهٔ A و B، روی مدارهای دایره‌ای به‌طور یکنواخت به دور زمین می‌چرخند. اگر دورهٔ حرکت ماهوارهٔ A، \\frac{{\\sqrt ۲ }}{۴} دوره حرکت ماهوارهٔ B باشد، شتاب حرکت ماهوارهٔ B، چند برابر شتاب حرکت ماهوارهٔ A است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "\\frac{۱}{۲}",
+            "3": "\\frac{۱}{۸}",
+            "4": "\\frac{۱}{۴}"
+        },
+        "final_answer": 4,
+        "full_text": "Two satellites A and B rotate uniformly around the earth on circular orbits. If the period of movement of satellite A is \\frac{{\\sqrt 2 }}{4} the period of movement of satellite B, how many times the acceleration of satellite B is the acceleration of satellite A?\n\nOptions:\nA) 2\nB) \\frac{1}{2}\nC) \\frac{1}{8}\nD) \\frac{1}{4}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "نوسانگری به جرم ۴۰۰ گرم، روی پاره‌خطی به طول ۱۰ سانتی‌متر، حرکت هماهنگ ساده انجام می‌دهد. اگر حداقل زمان لازم برای طی یک مسافت ۵ سانتی‌متری برابر \\frac{۱}{{۳۰}} ثانیه باشد، بیشینهٔ انرژی جنبشی این نوسانگر، چند میلی‌ژول است؟ (\\pi = ۳)\n",
+        "options": {
+            "1": "۹۰۰",
+            "2": "۴۵۰",
+            "3": "۹۰",
+            "4": "۴۵"
+        },
+        "final_answer": 2,
+        "full_text": "An oscillator with a mass of 400 grams performs simple coordinated motion on a line segment 10 cm long. If the minimum time required to travel a distance of 5 cm is \\frac{1}{{30}} seconds, how many millijoules is the maximum kinetic energy of this oscillator? (\\pi = 3)\n\nOptions:\nA) 900\nB) 450\nC) 90\nD) 45",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "معادله مکان - زمان نوسانگر هماهنگ ساده‌ای در SI به‌صورت x = ۰/۰۳\\cos ۵۰\\pi t است. در کدام بازهٔ زمانی مشخص‌شده بر حسب ثانیه، بردارهای سرعت و شتاب نوسانگر، هر دو در جهت محور x است؟\n",
+        "options": {
+            "1": "۰ \\lt t \\lt ۰/۰۱",
+            "2": "۰/۰۱ \\lt t \\lt ۰/۰۲",
+            "3": "۰/۰۲ \\lt t \\lt ۰/۰۳",
+            "4": "۰/۰۳ \\lt t \\lt ۰/۰۴"
+        },
+        "final_answer": 3,
+        "full_text": "The space-time equation of a simple harmonic oscillator in SI is x = 0.03\\cos50\\pi t. At what time interval, in seconds, are the velocity and acceleration vectors of the oscillator both in the direction of the x-axis?\n\nOptions:\nA) 0 \\lt t \\lt 0.01\nB) 0.01 \\lt t \\lt 0.02\nC) 0.02 \\lt t \\lt 0.03\nD) 0.03 \\lt t \\lt 0.04",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "در شکل زیر، موج الکترومغناطیسی سینوسی در جهت محور Z منتشر می‌شود و میدان الکتریکی آن در یک لحظه و در یک نقطه نشان داده شده است در این نقطه و در این لحظه میدان مغناطیسی موج به کدام جهت است؟\n",
+        "options": {
+            "1": "در خلاف جهت محور x",
+            "2": "در خلاف جهت محور y",
+            "3": "در جهت محور x",
+            "4": "در جهت محور y"
+        },
+        "final_answer": 1,
+        "full_text": "In the figure below, a sinusoidal electromagnetic wave propagates in the direction of the Z axis, and its electric field is shown at one moment and at one point. At this point and at this moment, which direction is the magnetic field of the wave?\n\nOptions:\nA) against the x-axis direction\nB) against the direction of the y axis\nC) in the x-axis direction\nD) in the direction of the y axis",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "نوری که طول موج آن در خلأ {\\lambda _۱} است، وارد محیط شفافی می‌شود و طول موج آن ۱۵۰ نانومتر تغییر می‌کند. اگر بسامد این نور ۵ \\times {۱۰^{۱۴}}Hz باشد ضریب شکست این محیط شفاف چقدر است؟ (c = ۳ \\times {۱۰^۸}\\frac{m}{s})\n",
+        "options": {
+            "1": "\\frac{۳}{۲}",
+            "2": "\\frac{۴}{۳}",
+            "3": "\\frac{۵}{۴}",
+            "4": "\\frac{۸}{۵}"
+        },
+        "final_answer": 2,
+        "full_text": "Light whose wavelength in space is {\\lambda _1} enters a transparent medium and its wavelength changes by 150 nm. If the frequency of this light is 5 \\times {10^{14}}Hz, what is the refractive index of this transparent medium? (c = 3 \\times {10^8}\\frac{m}{s})\n\nOptions:\nA) \\frac{3}{2}\nB) \\frac{4}{3}\nC) \\frac{5}{4}\nD) \\frac{8}{5}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "نیروی کشش یک تار ۶۰N است و هنگامی که با بسامد ۲۰۰ هرتز به ارتعاش در می‌آید، طول موج در آن ۲۵ سانتی‌متر می‌شود اگر چگالی تار ۸\\frac{g}{{c{m^۳}}} باشد قطر مقطع آن چند میلی‌متر است؟ (\\pi = ۳)\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 3,
+        "full_text": "The tension force of a string is 60N, and when it vibrates with a frequency of 200 Hz, the wavelength is 25 cm. If the density of the string is 8\\frac{g}{{c{m^3}}}, how many millimeters is its cross-section diameter? Is? (\\pi = 3)\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "در آزمایش فوتوالکتریک، بسامد آستانه فلز ۵ \\times {۱۰^{۱۴}}Hz است. نوری با بسامد f به فلز می‌تابد و سبب گسیل فوتوالکترون‌هایی با بیشینه سرعت \\frac{۴}{۳}\\frac{{Mm}}{s} می‌شود. f چند هرتز است؟\n(e = ۱/۶ \\times {۱۰^{ - ۱۹}}C و h = ۴ \\times {۱۰^{ - ۱۵}}eV.s و {m_e} = ۹ \\times {۱۰^{ - ۳۱}}kg)\n",
+        "options": {
+            "1": "۱/۷۵ \\times {۱۰^{۱۵}}",
+            "2": "۷/۵ \\times {۱۰^{۱۵}}",
+            "3": "۳/۵ \\times {۱۰^{۱۵}}",
+            "4": "۱/۵ \\times {۱۰^{۱۵}}"
+        },
+        "final_answer": 1,
+        "full_text": "In the photoelectric test, the threshold frequency of the metal is 5 \\times {10^{14}}Hz. A light with a frequency of f shines on the metal and causes the emission of photoelectrons with a maximum speed of \\frac{4}{3}\\frac{{Mm}}{s}. How many Hz is f?\n(e = 1/6 \\times {10^{ - 19}}C and h = 4 \\times {10^{ - 15}}eV.s and {m_e} = 9 \\times {10^{ - 31}} kg)\n\nOptions:\nA) 1/75 \\times {10^{15}}\nB) 7.5 \\times {10^{15}}\nC) 3/5 \\times {10^{15}}\nD) 1/5 \\times {10^{15}}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "کدام انرژی (برحسب الکترون ولت) وابسته به فوتونی در محدودهٔ نور مرئی است؟ (hc = ۱۲۴۰eV.nm)\n",
+        "options": {
+            "1": "۱",
+            "2": "۲/۵",
+            "3": "۴/۵",
+            "4": "۱۰"
+        },
+        "final_answer": 2,
+        "full_text": "Which energy (in electron volts) is associated with a photon in the visible light range? (hc = 1240eV.nm)\n\nOptions:\nA) 1\nB) 2.5\nC) 4.5\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "شکل زیر، مسیر پرتوهای گسیل‌شده از یک ماده پرتوزای طبیعی را نشان می‌دهد که از یک میدان مغناطیسی عبور می‌کنند. نوع آن‌ها در مسیرهای از A تا C به ترتیب کدام است؟\n",
+        "options": {
+            "1": "الکترون، گاما و آلفا",
+            "2": "آلفا، گاما و الکترون",
+            "3": "الکترون، پوزیترون و آلفا",
+            "4": "آلفا، پوزیترون و الکترون"
+        },
+        "final_answer": 1,
+        "full_text": "The figure below shows the path of rays emitted from a naturally radioactive material that pass through a magnetic field. What is their type in the routes from A to C respectively?\n\nOptions:\nA) electron, gamma and alpha\nB) alpha, gamma and electron\nC) electron, positron and alpha\nD) alpha, positron and electron",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "چهار سال طول می‌کشد تا ۷۵ درصد تعداد هسته‌های یک مادهٔ پرتوزا به هسته‌های دیگر تبدیل شود. چند سال دیگر بگذرد تا تعداد هسته‌های باقی‌مانده ۱۲/۵ درصد تعداد هسته‌های اولیه باشد؟\n",
+        "options": {
+            "1": "۲۴",
+            "2": "۸",
+            "3": "۶",
+            "4": "۲"
+        },
+        "final_answer": 4,
+        "full_text": "It takes four years for 75% of the number of nuclei of a radioactive substance to turn into other nuclei. How many more years will it take for the number of remaining nuclei to be 12.5% ​​of the initial number of nuclei?\n\nOptions:\nA) 24\nB) 8\nC) 6\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "دو بار الکتریکی نقطه‌ای {q_۱} = ۶\\mu C و {q_۲} = - ۸\\mu C در فاصلهٔ ۱۲۰ سانتی‌متری از هم ثابت نگه داشته شده‌اند. میدان الکتریکی حاصل، در نقطه‌ای روی عمود‌منصف خط واصل بارها و در فاصلهٔ ۶۰ سانتی‌متری خط واصل، چند نیوتون بر کولن است؟ (k = ۹ \\times {۱۰^۹}\\frac{{N.{m^۲}}}{{{C^۲}}})\n",
+        "options": {
+            "1": "۱/۲۵ \\times {۱۰^۳}",
+            "2": "۱/۲۵ \\times {۱۰^۵}",
+            "3": "۲/۵ \\times {۱۰^۳}",
+            "4": "۲/۵ \\times {۱۰^۵}"
+        },
+        "final_answer": 2,
+        "full_text": "Two electric point charges {q_1} = 6\\mu C and {q_2} = -8\\mu C are kept constant at a distance of 120 cm from each other. How many newtons per coulomb is the resulting electric field at a point on the bisector of the connecting line and at a distance of 60 cm from the connecting line? (k = 9 \\times {10^9}\\frac{{N.{m^2}}}{{{C^2}}})\n\nOptions:\nA) 1/25 \\times {10^3}\nB) 1/25 \\times {10^5}\nC) 2/5 \\times {10^3}\nD) 2/5 \\times {10^5}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "شعاع کرهٔ فلزی A دو برابر شعاع کرهٔ فلزی B است. اگر بار الکتریکی کرهٔ B، ۵۰ درصد بار الکتریکی A باشد، چگالی سطحی بار الکتریکی کرهٔ A، چند برابر چگالی سطحی بار کرهٔ B است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "\\frac{{\\sqrt ۲ }}{۲}",
+            "4": "\\frac{۱}{۲}"
+        },
+        "final_answer": 4,
+        "full_text": "The radius of metal sphere A is twice the radius of metal sphere B. If the electric charge of sphere B is 50% of the electric charge of A, how many times the surface charge density of sphere A is the surface charge density of sphere B?\n\nOptions:\nA) 1\nB) 2\nC) \\frac{{\\sqrt 2 }}{2}\nD) \\frac{1}{2}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "در صفحهٔ xy بار الکتریکی نقطه‌ای {q_۱} = - ۲\\mu C در نقطه A به مختصات (۰,۹cm) قرار دارد و بار الکتریکی {q_۲} = - ۸\\mu C نیز در نقطهٔ B به مختصات (۱۲cm,۰) ثابت نگه داشته شده است. بار الکتریکی نقطه‌ای {q_۳} در مکانی در این صفحه قرار دارد که نیروی الکتریکی خالص وارد بر آن صفر است. فاصلهٔ بین {q_۱} و {q_۳} چند سانتی‌متر است؟\n",
+        "options": {
+            "1": "۱۰",
+            "2": "۶",
+            "3": "۵",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "In the xy plane, the point electric charge {q_1} = -2\\mu C is located at point A at the coordinates (0.9cm) and the electric charge {q_2} = -8\\mu C is at the point B at the coordinates (12cm,0) is kept constant. Point electric charge {q_3} is located in a place in this plane where the net electric force acting on it is zero. How many centimeters is the distance between {q_1} and {q_3}?\n\nOptions:\nA) 10\nB) 6\nC) 5\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "در مدار زیر، توان مصرفی مقاومت ۶ اُهمی، چند برابر توان مصرفی مقاومت ۴ اُهمی است؟\n",
+        "options": {
+            "1": "۱۳/۵",
+            "2": "۱۲",
+            "3": "۷/۵",
+            "4": "۶"
+        },
+        "final_answer": 1,
+        "full_text": "In the following circuit, the power consumption of the 6 ohm resistor is how many times the power consumption of the 4 ohm resistor?\n\nOptions:\nA) 5/13\nB) 12\nC) 7.5\nD) 6",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "در شکل زیر، کلید اتصال را از A جدا می‌کنیم و به B وصل می‌کنیم. جریان‌های {I_۱} و {I_۲} به ترتیب چند برابر می‌شوند؟\n",
+        "options": {
+            "1": "\\frac{۱}{۲} و ۱",
+            "2": "۱ و \\frac{۱}{۲}",
+            "3": "۲ و \\frac{۱}{۲}",
+            "4": "۲ و ۱"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, we disconnect the connection key from A and connect it to B. How many times are the currents {I_1} and {I_2} respectively?\n\nOptions:\nA) \\frac{1}{2} and 1\nB) 1 and \\frac{1}{2}\nC) 2 and \\frac{1}{2}\nD) 2 and 1",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "طول سیملولهٔ A، دو برابر طول سیملولهٔ B و تعداد حلقه‌های آن نیز دو برابر تعداد حلقه‌های سیملولهٔ B است و از آن‌ها جریان الکتریکی یکسان می‌گذرد. اگر سطح مقطع آن‌ها نیز برابر باشد، میدان مغناطیسی درون سیملوله و ضریب القاوری سیملولهٔ A، به‌ترتیب چند برابر میدان مغناطیسی و ضریب القاوری سیملوله B است؟ (درون سیملوله‌ها هوا است.)\n",
+        "options": {
+            "1": "۲ و ۲",
+            "2": "۲ و ۴",
+            "3": "۱ و ۲",
+            "4": "۱ و ۱"
+        },
+        "final_answer": 3,
+        "full_text": "The length of wire A is twice the length of wire B and its number of loops is also twice the number of loops of wire B and the same electric current passes through them. If their cross-sectional areas are also equal, how many times the magnetic field and the inductance coefficient of the A coil are, respectively, the magnetic field and the inductance coefficient of the B coil? (There is air inside the wires.)\n\nOptions:\nA) 2 and 2\nB) 2 and 4\nC) 1 and 2\nD) 1 and 1",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "مطابق شکل، آهنربای میله‌ای روی محور حلقهٔ رسانا حرکت می‌کند و در حلقه جریان القایی ایجاد می‌کند. قطب A کدام است و جهت حرکت آهنربا به کدام سمت است؟\n",
+        "options": {
+            "1": "N و ←",
+            "2": "N و →",
+            "3": "S و ←",
+            "4": "S و →"
+        },
+        "final_answer": 2,
+        "full_text": "According to the figure, the bar magnet moves on the axis of the conductive ring and creates an induced current in the ring. Which is the pole A and which direction is the direction of the magnet?\n\nOptions:\nA) N and ←\nB) N and →\nC) S and ←\nD) S and →",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "پیچه‌ای از ۲۰۰ حلقه تشکیل شده است و شار مغناطیسی که از آن می‌گذرد در مدت ۰٫۱ ثانیه از ۰٫۰۲ وِبر به ۰/۰۰۵ وِبر می‌رسد. اگر مقاومت الکتریکی پیچه ۱۵\\Omega باشد، جریان القایی متوسط که در این مدت از پیچه می‌گذرد، چند آمپر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۲۰",
+            "4": "۳۰"
+        },
+        "final_answer": 1,
+        "full_text": "A coil consists of 200 loops and the magnetic flux passing through it reaches 0.02 Weber to 0.005 Weber in 0.1 second. If the electrical resistance of the coil is 15/Omega, how many amperes is the average induced current that passes through the coil during this time?\n\nOptions:\nA) 2\nB) 3\nC) 20\nD) 30",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "شکل زیر، فشار درون یک مایع را برحسب h نشان می‌دهد و h فاصله تا سطح آزاد مایع است. فشار پیمانه‌ای در عمق ۱۰ سانتی‌متری این مایع، چند پاسکال است؟ (g = ۱۰\\frac{N}{{kg}} و چگالی مایع ثابت فرض شود.)\n",
+        "options": {
+            "1": "۱/۳۴ \\times {۱۰^۵}",
+            "2": "۱/۱۶۶ \\times {۱۰^۵}",
+            "3": "۶/۸ \\times {۱۰^۴}",
+            "4": "۱/۳۶ \\times {۱۰^۴}"
+        },
+        "final_answer": 4,
+        "full_text": "The figure below shows the pressure inside a liquid in terms of h, and h is the distance to the free surface of the liquid. How many pascals is the volumetric pressure of this liquid at a depth of 10 cm? (g = 10\\frac{N}{{kg}} and the liquid density is assumed to be constant.)\n\nOptions:\nA) 1/34 \\times {10^5}\nB) 1/166 \\times {10^5}\nC) 6/8 \\times {10^4}\nD) 1/36 \\times {10^4}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در شکل زیر ظرف مکعب شکلی به ابعاد ۱۰cm روی سطح افقی قرار دارد و به سطح بالایی ظرف لوله قائمی به سطح مقطع ۲c{m^۲} وصل است و درون آن تا اندازهٔ نشان داده شده آب قرار دارد. در این حالت به ازای هر قطره آبی به وزن {W_۱} که به آب درون لوله اضافه شود، به ترتیب نیرویی که آب به کف ظرف وارد می‌کند و نیرویی که ظرف به سطح افقی وارد می‌کند، چقدر افزایش می‌یابد؟\n",
+        "options": {
+            "1": "۵۰{W_۱} و {W_۱}",
+            "2": "۱۰۰{W_۱} و {W_۱}",
+            "3": "۵۰{W_۱} و ۵۰{W_۱}",
+            "4": "۱۰۰{W_۱} و ۱۰۰{W_۱}"
+        },
+        "final_answer": 1,
+        "full_text": "In the figure below, a 10cm cube-shaped container is on a horizontal surface, and a vertical pipe with a cross section of 2c{m^2} is connected to the upper surface of the container, and there is water inside it up to the size shown. In this case, for every drop of water weighing {W_1} that is added to the water in the tube, how much will the force that the water exerts on the bottom of the container and the force that the container exerts on the horizontal surface increase, respectively?\n\nOptions:\nA) 50{W_1} and {W_1}\nB) 100{W_1} and {W_1}\nC) 50{W_1} and 50{W_1}\nD) 100{W_1} and 100{W_1}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "اگر تندی جسمی را از ۲\\frac{m}{s} به ۶\\frac{m}{s} برسانیم انرژی جنبشی آن ۴ ژول افزایش می‌یابد. جرم جسم چند گرم است؟\n",
+        "options": {
+            "1": "۱۵۰",
+            "2": "۲۵۰",
+            "3": "۳۰۰",
+            "4": "۴۰۰"
+        },
+        "final_answer": 2,
+        "full_text": "If we increase the acceleration of a body from 2\\frac{m}{s} to 6\\frac{m}{s}, its kinetic energy will increase by 4 joules. What is the mass of the object in grams?\n\nOptions:\nA) 150\nB) 250\nC) 300\nD) 400",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "در شکل زیر نیروی ثابت F، جسم را روی سطح افقی از حال سکون به حرکت در می‌آورد و بعد از طی مسافت ۵ متر، سرعت جسم را به ۲/۵\\frac{m}{s} می‌رساند. بزرگی نیروی اصطکاک در این حرکت چند نیوتون است؟\n",
+        "options": {
+            "1": "۲۰",
+            "2": "۱۶",
+            "3": "۱۵",
+            "4": "۱۲"
+        },
+        "final_answer": 3,
+        "full_text": "In the figure below, the constant force F moves the object on a horizontal surface from rest and after traveling a distance of 5 meters, it accelerates the object to 2.5\\frac{m}{s}. How many newtons is the magnitude of the friction force in this movement?\n\nOptions:\nA) 20\nB) 16\nC) 15\nD) 12",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "هوایی با فشار {۱۰^۵}Pa درون استوانه یک تلمبه دوچرخه به طول ۳۴cm محبوس است. راه‌های ورودی و خروجی هوای استوانه تلمبه را می‌بندیم. اگر طول استوانه را در دمای ثابت به ۴۰cm افزایش دهیم، فشار هوای محبوس به چند سانتی‌متر جیوه می‌رسد؟ (\\rho = ۱۳/۶\\frac{g}{{c{m^۳}}} جیوه و g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۶۸",
+            "2": "۶۷/۵",
+            "3": "۶۵",
+            "4": "۶۲/۵"
+        },
+        "final_answer": 4,
+        "full_text": "Air with a pressure of {10^5}Pa is trapped inside the cylinder of a bicycle pump with a length of 34 cm. We close the air inlet and outlet of the pump cylinder. If we increase the length of the cylinder at a constant temperature to 40 cm, the pressure of the trapped air will reach how many centimeters of mercury? (\\rho = 13/6\\frac{g}{{c{m^3}}} mercury and g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 68\nB) 5/67\nC) 65\nD) 5/62",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "مقداری گاز آرمانی در فشار {P_۱} و دمای {T_۱} دارای حجم {V_۱} است. از سه مسیر جداگانهٔ هم‌فشار، هم‌دما و بی‌دررو حجم این گاز را ۲۰ درصد افزایش می‌دهیم. کدام موارد درست است؟\nالف) گرمای داده‌شده به گاز در فرایند هم‌فشار بیشتر از سایر فرایندها است.\nب) گرمای داده‌شده به گاز در فرایند هم‌دما صفر است.\nج) انرژی درونی فقط در فرایند بی‌دررو کاهش یافته است.\nد) انرژی درونی در فرایند هم‌فشار کاهش یافته است.\n",
+        "options": {
+            "1": "«الف» و «ج»",
+            "2": "«الف» و «د»",
+            "3": "«ب» و «ج»",
+            "4": "«ب» و «د»"
+        },
+        "final_answer": 1,
+        "full_text": "Some ideal gas at pressure {P_1} and temperature {T_1} has volume {V_1}. We increase the volume of this gas by 20% from three separate paths of constant pressure, constant temperature and constant flow. Which items are correct?\na) The heat given to the gas in the compression process is more than other processes.\nb) The heat given to the gas in isothermal process is zero.\nc) Internal energy is reduced only in the direct process.\nd) The internal energy has decreased in the compression process.\n\nOptions:\nA) \"A\" and \"C\"\nB) \"a\" and \"d\"\nC) \"b\" and \"c\"\nD) \"b\" and \"d\"",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "نمودار P-Vی مقداری گاز آرمانی، مطابق شکل زیر است. کدام مورد در مقایسهٔ انرژی درونی نقطه‌های A و B و C درست است؟\n",
+        "options": {
+            "1": "{U_A} = {U_C} = ۳{U_B}",
+            "2": "{U_B} = ۳{U_A} = ۳{U_C}",
+            "3": "{U_B} = ۳{U_A} = \\frac{{۱۰}}{۳}{U_C}",
+            "4": "{U_B} = ۳{U_A} = \\frac{۵}{۳}{U_C}"
+        },
+        "final_answer": 4,
+        "full_text": "The P-V diagram of some ideal gas is as shown below. Which one is correct in comparing the internal energy of points A, B and C?\n\nOptions:\nA) {U_A} = {U_C} = 3{U_B}\nB) {U_B} = 3{U_A} = 3{U_C}\nC) {U_B} = 3{U_A} = \\frac{{10}}{3}{U_C}\nD) {U_B} = 3{U_A} = \\frac{5}{3}{U_C}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1401",
+            "month": "day",
+            "question_number": "35"
+        }
+    }
+}

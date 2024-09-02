@@ -1,0 +1,722 @@
+{
+    "1": {
+        "question": "اگر جملات یک دنباله هندسی با قدر نسبت r را نصف کنید، دنباله‌ای حسابی با قدرنسبت d خواهید داشت. مقدار r + d کدام است؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۱",
+            "3": "\\sqrt ۲",
+            "4": "\\frac{۱}{۲}"
+        },
+        "final_answer": 2,
+        "full_text": "اگر جملات یک دنباله هندسی با قدر نسبت r را نصف کنید, دنباله‌ای حسابی با قدرنسبت d خواهید داشت. مقدار r + d کدام است؟\n\nOptions:\nA) صفر\nB) 1\nC) \\sqrt 2\nD) \\frac{1}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "نقاط A\\left( {۳,y} \\right) و B\\left( { - ۵,y} \\right) روی یک سهمی واقع شده‌اند و عرض رأس سهمی برابر ۱ است. اگر این سهمی، محور xها را در نقاطی با طول‌های \\alpha و \\beta قطع کند و {\\alpha ^۲} + {\\beta ^۲} = ۵ باشد، این سهمی محور yها را در نقطه‌ای با کدام عرض قطع می‌کند؟\n",
+        "options": {
+            "1": "- \\frac{۱}{۳}",
+            "2": "- \\frac{۲}{۳}",
+            "3": "\\frac{۱}{۳}",
+            "4": "\\frac{۲}{۳}"
+        },
+        "final_answer": 3,
+        "full_text": "نقاط A\\left( {3,y} \\right) و B\\left( { - 5,y} \\right) روی یک سهمی واقع شده‌اند و عرض راس سهمی برابر 1 است. اگر این سهمی, محور xها را در نقاطی با طول‌های \\alpha و \\beta قطع کند و {\\alpha ^2} + {\\beta ^2} = 5 باشد, این سهمی محور yها را در نقطه‌ای با کدام عرض قطع می‌کند؟\n\nOptions:\nA) - \\frac{1}{3}\nB) - \\frac{2}{3}\nC) \\frac{1}{3}\nD) \\frac{2}{3}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "برای مجموعه‌های A = \\left\\{ {a - ۲,۶,۲b + ۱,c} \\right\\} و B = \\left\\{ {\\sqrt d ,۵, - ۱} \\right\\}، فرض کنید A \\times B = B \\times A باشد، در چند حالت مقدار a + b + c = ۹ است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "صفر"
+        },
+        "final_answer": 2,
+        "full_text": "برای مجموعه‌های A = \\left\\{ {a - 2,6,2b + 1,c} \\right\\} و B = \\left\\{ {\\sqrt d ,5, - 1} \\right\\}, فرض کنید A \\times B = B \\times A باشد, در چند حالت مقدار a + b + c = 9 است؟\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) صفر",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "مطابق با جدول ارزش درستی گزاره‌های زیر، کدام گزارهٔ مرکب می‌تواند هم‌ارز منطقی گزارهٔ X باشد؟\n",
+        "options": {
+            "1": "(q \\Rightarrow (p \\vee r)) \\Rightarrow ((p \\vee \\sim p) \\wedge ( \\sim q \\wedge r))",
+            "2": "(r \\Rightarrow (p \\vee q)) \\Rightarrow ((p \\vee \\sim p) \\wedge (q \\wedge \\sim r))",
+            "3": "\\left[ {p \\Rightarrow ((q \\vee r) \\Rightarrow (q \\wedge r))} \\right] \\Rightarrow ( \\sim (p \\vee r) \\wedge q)",
+            "4": "(r \\Rightarrow (p \\vee q)) \\Rightarrow \\left[ {((p \\Rightarrow r) \\Rightarrow ( \\sim p \\wedge r)) \\wedge q} \\right]"
+        },
+        "final_answer": 1,
+        "full_text": "مطابق با جدول ارزش درستی گزاره‌های زیر, کدام گزارهٔ مرکب می‌تواند هم‌ارز منطقی گزارهٔ X باشد؟\n\nOptions:\nA) (q \\Rightarrow (p \\vee r)) \\Rightarrow ((p \\vee \\sim p) \\wedge ( \\sim q \\wedge r))\nB) (r \\Rightarrow (p \\vee q)) \\Rightarrow ((p \\vee \\sim p) \\wedge (q \\wedge \\sim r))\nC) \\left[ {p \\Rightarrow ((q \\vee r) \\Rightarrow (q \\wedge r))} \\right] \\Rightarrow ( \\sim (p \\vee r) \\wedge q)\nD) (r \\Rightarrow (p \\vee q)) \\Rightarrow \\left[ {((p \\Rightarrow r) \\Rightarrow ( \\sim p \\wedge r)) \\wedge q} \\right]",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "اگر \\alpha و \\beta ریشه‌های متمایز معادله a{x^۲} - ax - b = ۰ و ۴۰{\\beta ^۲} + ۲۰{\\alpha ^۲} - ۲۰\\beta = ۱۷ باشد، اختلاف ریشه‌های این معادله کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۵}",
+            "2": "\\frac{۲}{۵}",
+            "3": "\\frac{۱}{{\\sqrt ۵ }}",
+            "4": "\\frac{۲}{{\\sqrt ۵ }}"
+        },
+        "final_answer": 4,
+        "full_text": "اگر \\alpha و \\beta ریشه‌های متمایز معادله a{x^2} - ax - b = 0 و 40{\\beta ^2} + 20{\\alpha ^2} - 20\\beta = 17 باشد, اختلاف ریشه‌های این معادله کدام است؟\n\nOptions:\nA) \\frac{1}{5}\nB) \\frac{2}{5}\nC) \\frac{1}{{\\sqrt 5 }}\nD) \\frac{2}{{\\sqrt 5 }}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "مجموع ریشه‌های معادله \\frac{۱}{{{x^۲}}} + \\frac{۱}{{{{\\left( {۱ - x} \\right)}^۲}}} = \\frac{{۱۶۰}}{۹} کدام است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۱/۷۵",
+            "3": "۲",
+            "4": "۲/۲۵"
+        },
+        "final_answer": 3,
+        "full_text": "مجموع ریشه‌های معادله \\frac{1}{{{x^2}}} + \\frac{1}{{{{\\left( {1 - x} \\right)}^2}}} = \\frac{{160}}{9} کدام است؟\n\nOptions:\nA) 1\nB) 1.75\nC) 2\nD) 2.25",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "نقطهٔ (۴/۵,۲) رأس یک مستطیل است که دو ضلع آن منطبق بر خطوط ۴x + y = ۳ و x - ۴y = ۵ هستند. بیشترین فاصله وسط قطر از اضلاع کدام است؟\n",
+        "options": {
+            "1": "\\sqrt {۱۷}",
+            "2": "\\frac{{\\sqrt {۱۷} }}{۴}",
+            "3": "۲\\sqrt {۱۷}",
+            "4": "\\sqrt {۱۷}"
+        },
+        "final_answer": 1,
+        "full_text": "نقطهٔ (4.5,2) رأس یک مستطیل است که دو ضلع آن منطبق بر خطوط 4x + y = 3 و x - 4y = 5 هستند. بیشترین فاصله وسط قطر از اضلاع کدام است؟\n\nOptions:\nA) \\sqrt {17}\nB) \\frac{{\\sqrt {17} }}{4}\nC) 2\\sqrt {17}\nD) \\sqrt {17}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "وارون تابع f(x) = \\sqrt {x - ۲\\sqrt {mx - ۱} } در دامنه محدود، خط y = ۱۲ - x را در نقطهٔ به عرض ۱۰ قطع می‌کند. مقدار f(m + ۴) کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۲}",
+            "2": "\\frac{۱}{۴}",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 4,
+        "full_text": "وارون تابع f(x) = \\sqrt {x - 2\\sqrt {mx - 1} } در دامنه محدود, خط y = 12 - x را در نقطهٔ به عرض 10 قطع می‌کند. مقدار f(m + 4) کدام است؟\n\nOptions:\nA) \\frac{1}{2}\nB) \\frac{1}{4}\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "مقداری از یک عنصر موجود است. اگر عنصر در هر ساعت \\frac{۱}{۹} از جرم باقیمانده را از دست بدهد، پس از چند دقیقه \\frac{۱}{۶} از جرم عنصر باقی خواهد ماند؟ (\\log _۳^۵ = ۱/۴ و \\log _۲^۵ = ۲/۴)\n",
+        "options": {
+            "1": "۳۸۰",
+            "2": "۳۶۰",
+            "3": "۴۴۰",
+            "4": "۴۲۰"
+        },
+        "final_answer": 1,
+        "full_text": "مقداری از یک عنصر موجود است. اگر عنصر در هر ساعت \\frac{1}{9} از جرم باقیمانده را از دست بدهد, پس از چند دقیقه \\frac{1}{6} از جرم عنصر باقی خواهد ماند؟ (\\log _3^5 = 1.4 و \\log _2^5 = 2.4)\n\nOptions:\nA) 380\nB) 360\nC) 440\nD) 420",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "در شکل زیر، مقدار \\cot \\alpha کدام است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۳",
+            "3": "\\frac{۱}{۲}",
+            "4": "\\frac{۱}{۳}"
+        },
+        "final_answer": 2,
+        "full_text": "در شکل زیر, مقدار \\cot \\alpha کدام است؟\n\nOptions:\nA) 1\nB) 3\nC) \\frac{1}{2}\nD) \\frac{1}{3}",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "مثلث ABC، با اضلاع \\sqrt ۳ و ۶ و \\alpha (زاویه بین آنها) قابل رسم است. اگر مساحت این مثلث ۴/۵ باشد، بیشترین مقدار \\alpha چند برابر کمترین مقدار \\alpha است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 1,
+        "full_text": "مثلث ABC, با اضلاع \\sqrt 3 و 6 و \\alpha (زاویه بین آنها) قابل رسم است. اگر مساحت این مثلث 4.5 باشد, بیشترین مقدار \\alpha چند برابر کمترین مقدار \\alpha است؟\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "اگر شکل زیر، قسمتی از نمودار تابع f(x) = a + b\\sin (cx - \\frac{{۳\\pi }}{۴})\\cos (cx - \\frac{{۳\\pi }}{۴}) باشد، اختلاف صفرهای تابع f در بازهٔ \\left[ {۰,\\pi } \\right]، کدام است؟\n",
+        "options": {
+            "1": "\\frac{\\pi }{۶}",
+            "2": "\\frac{\\pi }{۴}",
+            "3": "\\frac{\\pi }{۲}",
+            "4": "\\frac{{۲\\pi }}{۳}"
+        },
+        "final_answer": 4,
+        "full_text": "اگر شکل زیر, قسمتی از نمودار تابع f(x) = a + b\\sin (cx - \\frac{{3\\pi }}{4})\\cos (cx - \\frac{{3\\pi }}{4}) باشد, اختلاف صفرهای تابع f در بازهٔ \\left[ {0,\\pi } \\right], کدام است؟\n\nOptions:\nA) \\frac{\\pi }{6}\nB) \\frac{\\pi }{4}\nC) \\frac{\\pi }{2}\nD) \\frac{{2\\pi }}{3}",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "در معادله مثلثاتی m(\\cos x - \\sin x) - ۳\\sqrt ۶ \\sin (۲x) = \\sqrt ۶ اگر \\cos (x + \\frac{\\pi }{۴}) = \\frac{۱}{{\\sqrt ۳ }} باشد، مقدار m کدام است؟\n",
+        "options": {
+            "1": "- ۶",
+            "2": "- ۳",
+            "3": "۶",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "در معادله مثلثاتی m(\\cos x - \\sin x) - 3\\sqrt 6 \\sin (2x) = \\sqrt 6 اگر \\cos (x + \\frac{\\pi }{4}) = \\frac{1}{{\\sqrt 3 }} باشد, مقدار m کدام است؟\n\nOptions:\nA) - 6\nB) - 3\nC) 6\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "تابع f اکیداً نزولی و دامنه آن مجموعه‌ای از مقادیر منفی است. اگر f({m^۲} - m - ۵) \\lt f( - ۳ + ۲m - {m^۲}) باشد، m دارای چند مقدار صحیح است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "صفر"
+        },
+        "final_answer": 1,
+        "full_text": "تابع f اکیداً نزولی و دامنه آن مجموعه‌ای از مقادیر منفی است. اگر f({m^2} - m - 5) \\lt f( - 3 + 2m - {m^2}) باشد, m دارای چند مقدار صحیح است؟\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) صفر",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "f تابع هموگرافیک، g(x) = \\frac{۱}{{f(x)}} و \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{f(x)}}{{{g^{ - ۱}}(x)}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{g^{ - ۱}}(x)}}{{g(x)}} است، کدام عدد می‌تواند حاصل \\mathop {\\lim }\\limits_{x \\to {۰^ + }} {f^{ - ۱}}(x) باشد؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "\\frac{۱}{۲}",
+            "3": "۱",
+            "4": "۲"
+        },
+        "final_answer": 3,
+        "full_text": "f تابع هموگرافیک, g(x) = \\frac{1}{{f(x)}} و \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{f(x)}}{{{g^{ - 1}}(x)}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{g^{ - 1}}(x)}}{{g(x)}} است, کدام عدد می‌تواند حاصل \\mathop {\\lim }\\limits_{x \\to {0^ + }} {f^{ - 1}}(x) باشد؟\n\nOptions:\nA) صفر\nB) \\frac{1}{2}\nC) 1\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "برای مقدار مشخص k، تابع f(x) = \\left\\{ \\begin{gathered}  \\left| {x - \\left[ x \\right]} \\right| \\hfill \\\\  x - \\left[ x \\right] + k \\hfill \\\\ \\end{gathered} \\right.\\,\\,\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  {\\left[ x \\right]} \\\\  {\\left[ x \\right]} \\end{array} در x = n و x = - n پیوسته است. کدام مورد در خصوص n صحیح است؟ (n \\in \\mathbb{N} و k)\n",
+        "options": {
+            "1": "n زوج",
+            "2": "n فرد",
+            "3": "برای جمیع مقادیر n پیوسته است.",
+            "4": "برای هیچ مقداری از n پیوسته نیست."
+        },
+        "final_answer": 2,
+        "full_text": "برای مقدار مشخص k, تابع f(x) = \\left\\{ \\begin{gathered} \\left| {x - \\left[ x \\right]} \\right| \\hfill \\\\ x - \\left[ x \\right] + k \\hfill \\\\ \\end{gathered} \\right.\\,\\,\\,\\,\\,\\,\\begin{array}{*{20}{c}} {\\left[ x \\right]} \\\\ {\\left[ x \\right]} \\end{array} در x = n و x = - n پیوسته است. کدام مورد در خصوص n صحیح است؟ (n \\in \\mathbb{N} و k)\n\nOptions:\nA) n زوج\nB) n فرد\nC) برای جمیع مقادیر n پیوسته است.\nD) برای هیچ مقداری از n پیوسته نیست.",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "اگر f(x) = {\\left( {\\frac{{ - ۱ + \\sin x}}{{۱ + \\sin x}}} \\right)^۲} و f(x) = xg(x) + ۱ باشد، حاصل \\mathop {\\lim }\\limits_{x \\to ۰} g(x) کدام است؟\n",
+        "options": {
+            "1": "۴",
+            "2": "۲",
+            "3": "۴-",
+            "4": "۲-"
+        },
+        "final_answer": 3,
+        "full_text": "اگر f(x) = {\\left( {\\frac{{ - 1 + \\sin x}}{{1 + \\sin x}}} \\right)^2} و f(x) = xg(x) + 1 باشد, حاصل \\mathop {\\lim }\\limits_{x \\to 0} g(x) کدام است؟\n\nOptions:\nA) 4\nB) 2\nC) 4-\nD) 2-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "خط d موازی محور xها، قرینه سهمی y = {x^۲} + ۱ نسبت به محور xها را در دو نقطه قطع می‌کند و مماس‌های رسم شده در این نقاط بر هم عمودند. فاصله خط d از مبدأ مختصات کدام است؟\n",
+        "options": {
+            "1": "۱/۲۵",
+            "2": "۳/۲۵",
+            "3": "۰/۷۵",
+            "4": "۲/۷۵"
+        },
+        "final_answer": 1,
+        "full_text": "خط d موازی محور xها, قرینه سهمی y = {x^2} + 1 نسبت به محور xها را در دو نقطه قطع می‌کند و مماس‌های رسم شده در این نقاط بر هم عمودند. فاصله خط d از مبدا مختصات کدام است؟\n\nOptions:\nA) 1.25\nB) 3.25\nC) 0.75\nD) 2.75",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "به‌ازای چند مقدار صحیح و منفی k، نقطه عطف منحنی y = k{x^۳} + (k + ۱){x^۲} در ناحیه دوم محورهای مختصات قرار دارد؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "بیش از ۲",
+            "4": "صفر"
+        },
+        "final_answer": 4,
+        "full_text": "به‌ازای چند مقدار صحیح و منفی k, نقطه عطف منحنی y = k{x^3} + (k + 1){x^2} در ناحیه دوم محورهای مختصات قرار دارد؟\n\nOptions:\nA) 1\nB) 2\nC) بیش از 2\nD) صفر",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "کمترین فاصله نقاط واقع بر منحنی y = \\sqrt {x - \\left[ {{x^۲}} \\right]} از خط ۲x - y + ۲ = ۰ کدام است؟\n",
+        "options": {
+            "1": "\\frac{{\\sqrt ۵ }}{۵}",
+            "2": "\\frac{{۳\\sqrt ۵ }}{۸}",
+            "3": "\\frac{{\\sqrt ۵ }}{{۱۰}}",
+            "4": "\\frac{{۳\\sqrt ۵ }}{{۱۰}}"
+        },
+        "final_answer": 2,
+        "full_text": "کمترین فاصله نقاط واقع بر منحنی y = \\sqrt {x - \\left[ {{x^2}} \\right]} از خط 2x - y + 2 = 0 کدام است؟\n\nOptions:\nA) \\frac{{\\sqrt 5 }}{5}\nB) \\frac{{3\\sqrt 5 }}{8}\nC) \\frac{{\\sqrt 5 }}{{10}}\nD) \\frac{{3\\sqrt 5 }}{{10}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "۴ وزیر هرکدام با یک معاون به چند طریق می‌توانند روی ۸ صندلی در دو ردیف روبه‌روی هم بنشینند به‌طوریکه هر وزیر دقیقاً روبه‌ر‌وی معاونش قرار بگیرد؟\n",
+        "options": {
+            "1": "۲۴",
+            "2": "۳۲",
+            "3": "۴۸",
+            "4": "۶۴"
+        },
+        "final_answer": 3,
+        "full_text": "4 وزیر هرکدام با یک معاون به چند طریق می‌توانند روی 8 صندلی در دو ردیف روبه‌روی هم بنشینند به‌طوریکه هر وزیر دقیقاً روبه‌ر‌وی معاونش قرار بگیرد؟\n\nOptions:\nA) 24\nB) 32\nC) 48\nD) 64",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "در یک گروه ۱۵۰ نفرش دانش‌آموزای، ۴۰ نفر فقط بلیت فیلم «الف» و ۷۵ نفر فقط بلیت فیلم «ب» را خریداری کرده‌اند. اگر P(A) و P(B) به‌ترتیب احتمال خرید بلیت فیلم‌های «الف» و «ب» باشند، بیشترین مقدار \\frac{{P(A)}}{{P(B)}} کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۱۵}}{{۲۹}}",
+            "2": "\\frac{{۳۸}}{{۴۵}}",
+            "3": "\\frac{{۸}}{{۱۵}}",
+            "4": "\\frac{{۱۵}}{{۲۲}}"
+        },
+        "final_answer": 4,
+        "full_text": "در یک گروه 150 نفرش دانش‌آموزای, 40 نفر فقط بلیت فیلم \"الف\" و 75 نفر فقط بلیت فیلم \"ب\" را خریداری کرده‌اند. اگر P(A) و P(B) به‌ترتیب احتمال خرید بلیت فیلم‌های \"الف\" و \"ب\" باشند, بیشترین مقدار \\frac{{P(A)}}{{P(B)}} کدام است؟\n\nOptions:\nA) \\frac{{15}}{{29}}\nB) \\frac{{38}}{{45}}\nC) \\frac{{8}}{{15}}\nD) \\frac{{15}}{{22}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "اعداد ۹ تا ۱۹ در اختیار است. دو عدد دلخواه از بین این اعداد را حذف نموده و با مقدار اختلاف آن دو عدد جایگزین می‌شود. این روند تا جایی ادامه می‌یابد که همه اعداد زوج، غیرتکراری و با بیشترین میانگین ممکن باشند، انحراف معیار داده‌های جدید کدام است؟\n",
+        "options": {
+            "1": "\\sqrt {۱۰}",
+            "2": "\\sqrt {۱۱}",
+            "3": "\\sqrt {۲۱}",
+            "4": "\\sqrt {۲۸}"
+        },
+        "final_answer": 3,
+        "full_text": "اعداد 9 تا 19 در اختیار است. دو عدد دلخواه از بین این اعداد را حذف نموده و با مقدار اختلاف آن دو عدد جایگزین می‌شود. این روند تا جایی ادامه می‌یابد که همه اعداد زوج, غیرتکراری و با بیشترین میانگین ممکن باشند, انحراف معیار داده‌های جدید کدام است؟\n\nOptions:\nA) \\sqrt {10}\nB) \\sqrt {11}\nC) \\sqrt {21}\nD) \\sqrt {28}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "یک دستگاه طوری طراحی شده که به تصادف یکی از دو حرف A یا B را از ورودی می‌گیرد و پس از طی سه مرحله حرفی را در خروجی چاپ می‌کند. در هر مرحله حرف ورودی با احتمال \\frac{۱}{۴} بدون تغییر به مرحله بعد می‌رود یا به شکل حرف دیگری درآمده و به مرحله بعدی وارد می‌شود. اگر احتمال انتخاب حرف A، ۲ برابر حرف B باشد، با کدام احتمال، حرف «A» چاپ شده توسط دستگاه با حرف ورودی یکسان است؟\n",
+        "options": {
+            "1": "\\frac{{۱۴}}{{۲۳}}",
+            "2": "\\frac{{۲۱}}{{۲۳}}",
+            "3": "\\frac{۹}{{۴۱}}",
+            "4": "\\frac{{۱۷}}{{۴۱}}"
+        },
+        "final_answer": 1,
+        "full_text": "یک دستگاه طوری طراحی شده که به تصادف یکی از دو حرف A یا B را از ورودی می‌گیرد و پس از طی سه مرحله حرفی را در خروجی چاپ می‌کند. در هر مرحله حرف ورودی با احتمال \\frac{1}{4} بدون تغییر به مرحله بعد می‌رود یا به شکل حرف دیگری درآمده و به مرحله بعدی وارد می‌شود. اگر احتمال انتخاب حرف A, 2 برابر حرف B باشد, با کدام احتمال, حرف \"A\" چاپ شده توسط دستگاه با حرف ورودی یکسان است؟\n\nOptions:\nA) \\frac{{14}}{{23}}\nB) \\frac{{21}}{{23}}\nC) \\frac{9}{{41}}\nD) \\frac{{17}}{{41}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "در یک لوزی هر ضلع واسطه هندسی دو قطر لوزی است. اندازه زاویه کوچک‌تر در هر مثلث حاصل از رسم قطرهای این لوزی چند درجه است؟\n",
+        "options": {
+            "1": "۱۰",
+            "2": "۱۵",
+            "3": "۳۰",
+            "4": "۴۵"
+        },
+        "final_answer": 2,
+        "full_text": "در یک لوزی هر ضلع واسطه هندسی دو قطر لوزی است. اندازه زاویه کوچک‌تر در هر مثلث حاصل از رسم قطرهای این لوزی چند درجه است؟\n\nOptions:\nA) 10\nB) 15\nC) 30\nD) 45",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "در شکل زیر، A\\hat BF = C\\hat AE = B\\hat CD ، DF = ۲/۵ و EF = ۳ است. طول AB کدام است؟\n",
+        "options": {
+            "1": "۸/۶",
+            "2": "۷/۵",
+            "3": "۱۰/۵",
+            "4": "۹/۶"
+        },
+        "final_answer": 4,
+        "full_text": "در شکل زیر, A\\hat BF = C\\hat AE = B\\hat CD , DF = 2.5 و EF = 3 است. طول AB کدام است؟\n\nOptions:\nA) 8.6\nB) 7.5\nC) 10.5\nD) 9.6",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "در یک مستطیل، خط‌هایی از دو رأس مقابل بر یک قطر عمود می‌شوند و آن قطر به سه قسمت طوری تقسیم می‌شود که قسمت وسط دو برابر هریک از قسمت‌های کناری است. مساحت این مستطیل چند برابر مساحت کوچک‌ترین مثلث ایجاد شده در مستطیل است؟\n",
+        "options": {
+            "1": "۲۴",
+            "2": "۱۶",
+            "3": "۱۲",
+            "4": "۸"
+        },
+        "final_answer": 1,
+        "full_text": "در یک مستطیل, خط‌هایی از دو راس مقابل بر یک قطر عمود می‌شوند و آن قطر به سه قسمت طوری تقسیم می‌شود که قسمت وسط دو برابر هریک از قسمت‌های کناری است. مساحت این مستطیل چند برابر مساحت کوچک‌ترین مثلث ایجاد شده در مستطیل است؟\n\nOptions:\nA) 24\nB) 16\nC) 12\nD) 8",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "در مثلث ABC، میانه‌های رسم شده از رأس‌های B و C برهم عمودند. اگر طول میانه رسم شده از رأس C برابر ۴/۵ و مساحت این مثلث ۱۸ باشد، نسبت طول میانه‌های رسم شده از دو رأس B و C کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۱۷}}{۹}",
+            "2": "\\frac{{۱۹}}{۹}",
+            "3": "\\frac{۵}{۳}",
+            "4": "\\frac{۴}{۳}"
+        },
+        "final_answer": 4,
+        "full_text": "در مثلث ABC, میانه‌های رسم شده از رأس‌های B و C برهم عمودند. اگر طول میانه رسم شده از رأس C برابر 4.5 و مساحت این مثلث 18 باشد, نسبت طول میانه‌های رسم شده از دو رأس B و C کدام است؟\n\nOptions:\nA) \\frac{{17}}{9}\nB) \\frac{{19}}{9}\nC) \\frac{5}{3}\nD) \\frac{4}{3}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "یک پنج‌ ضلعی در یک دایره محاط شده است. هر ضلع این پنج‌ضلعی، وتر رو به یک زاویه محاطی است. مجموع این زوایای محاطی کدام است؟\n",
+        "options": {
+            "1": "۵۴۰",
+            "2": "۱۸۰",
+            "3": "۷۲۰",
+            "4": "۳۶۰"
+        },
+        "final_answer": 3,
+        "full_text": "یک پنج‌ ضلعی در یک دایره محاط شده است. هر ضلع این پنج‌ضلعی, وتر رو به یک زاویه محاطی است. مجموع این زوایای محاطی کدام است؟\n\nOptions:\nA) 540\nB) 180\nC) 720\nD) 360",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در شکل زیر، از نقطه A دو مماس رسم شده است. شعاع دایره کدام است؟\n",
+        "options": {
+            "1": "۷/۲\\sqrt ۲",
+            "2": "۴/۸\\sqrt ۵",
+            "3": "۳/۶\\sqrt ۲",
+            "4": "۲/۴\\sqrt ۵"
+        },
+        "final_answer": 4,
+        "full_text": "در شکل زیر, از نقطه A دو مماس رسم شده است. شعاع دایره کدام است؟\n\nOptions:\nA) 7.2\\sqrt 2\nB) 4.8\\sqrt 5\nC) 3.6\\sqrt 2\nD) 2.4\\sqrt 5",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "در بین مثلث‌هایی با مساحت ۳۰ واحد مربع که در ضلعی به اندازه ۱۵ واحد مشترک هستند، کمترین مقدار محیط کدام است؟\n",
+        "options": {
+            "1": "۳۰",
+            "2": "۳۲",
+            "3": "۳۴",
+            "4": "۳۶"
+        },
+        "final_answer": 2,
+        "full_text": "در بین مثلث‌هایی با مساحت 30 واحد مربع که در ضلعی به اندازه 15 واحد مشترک هستند, کمترین مقدار محیط کدام است؟\n\nOptions:\nA) 30\nB) 32\nC) 34\nD) 36",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "در شکل زیر، اگر D\\hat AC = ۳B\\hat AD باشد، طول ضلع AC کدام است؟\n",
+        "options": {
+            "1": "۱۹/۲",
+            "2": "۱۶/۸",
+            "3": "۱۸/۶",
+            "4": "۱۵/۴"
+        },
+        "final_answer": 1,
+        "full_text": "در شکل زیر, اگر D\\hat AC = 3B\\hat AD باشد, طول ضلع AC کدام است؟\n\nOptions:\nA) 19.2\nB) 16.8\nC) 18.6\nD) 15.4",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "اگر A = \\left[ \\begin{gathered}  \\log {_۶^۳}\\,\\,\\,\\,\\log {_۶^۲} \\hfill \\\\  \\log {_۶^۲}\\,\\,\\,\\,\\log {_۶^۳} \\hfill \\\\ \\end{gathered} \\right] و B = \\left[ \\begin{gathered}  {۶^{\\left| A \\right|}}\\,\\,\\,\\,\\,{۲^{\\left| A \\right|}} \\hfill \\\\  {۳^{\\left| A \\right|}}\\,\\,\\,\\,{۳۶^{\\left| A \\right|}} \\hfill \\\\ \\end{gathered} \\right] باشد مقدار دترمینان B، کدام است؟\n",
+        "options": {
+            "1": "\\frac{۹}{۴}",
+            "2": "\\frac{{۱۵}}{۴}",
+            "3": "\\frac{۹}{۸}",
+            "4": "\\frac{{۱۵}}{۸}"
+        },
+        "final_answer": 4,
+        "full_text": "اگر A = \\left[ \\begin{gathered} \\log {_6^3}\\,\\,\\,\\,\\log {_6^2} \\hfill \\\\ \\log {_6^2}\\,\\,\\,\\,\\log {_6^3} \\hfill \\\\ \\end{gathered} \\right] و B = \\left[ \\begin{gathered} {6^{\\left| A \\right|}}\\,\\,\\,\\,\\,{2^{\\left| A \\right|}} \\hfill \\\\ {3^{\\left| A \\right|}}\\,\\,\\,\\,{36^{\\left| A \\right|}} \\hfill \\\\ \\end{gathered} \\right] باشد مقدار دترمینان B, کدام است؟\n\nOptions:\nA) \\frac{9}{4}\nB) \\frac{{15}}{4}\nC) \\frac{9}{8}\nD) \\frac{{15}}{8}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "نمودار سهمی با مختصات رأس ( - ۱, - ۱) از نقطه (۱,۱) می‌گذرد. اگر از دو سر وتری که از کانون بر محور سهمی عمود است، دو خط موازی با محور سهمی بر خط هادی عمود کنیم، یک مستطیل رسم می‌شود. قطر مستطیل حاصل کدام است؟\n",
+        "options": {
+            "1": "۵\\sqrt ۲",
+            "2": "\\sqrt ۵",
+            "3": "۳\\sqrt ۲",
+            "4": "\\sqrt ۳"
+        },
+        "final_answer": 2,
+        "full_text": "نمودار سهمی با مختصات راس ( - 1, - 1) از نقطه (1,1) می‌گذرد. اگر از دو سر وتری که از کانون بر محور سهمی عمود است, دو خط موازی با محور سهمی بر خط هادی عمود کنیم, یک مستطیل رسم می‌شود. قطر مستطیل حاصل کدام است؟\n\nOptions:\nA) 5\\sqrt 2\nB) \\sqrt 5\nC) 3\\sqrt 2\nD) \\sqrt 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "فرض کنید \\overrightarrow a و \\overrightarrow b بردارهای ناصفری هستند که ضرب داخلی آنها، - \\frac{۳}{۵} حاصل‌ضرب اندازه‌های دو بردار است. مساحت مثلثی را که توسط بردارهای (\\frac{{\\overrightarrow a }}{{|\\overrightarrow a |}} - \\frac{{۲\\overrightarrow b }}{{|\\overrightarrow b |}}) و (\\frac{{۳\\overrightarrow a }}{{|\\overrightarrow a |}} + \\frac{{۲\\overrightarrow b }}{{|\\overrightarrow b |}}) ساخته می‌شود، کدام است؟\n",
+        "options": {
+            "1": "۶/۴",
+            "2": "۴/۸",
+            "3": "۳/۲",
+            "4": "۱/۶"
+        },
+        "final_answer": 3,
+        "full_text": "فرض کنید \\overrightarrow a و \\overrightarrow b بردارهای ناصفری هستند که ضرب داخلی آنها, - \\frac{3}{5} حاصل‌ضرب اندازه‌های دو بردار است. مساحت مثلثی را که توسط بردارهای (\\frac{{\\overrightarrow a }}{{|\\overrightarrow a |}} - \\frac{{2\\overrightarrow b }}{{|\\overrightarrow b |}}) و (\\frac{{3\\overrightarrow a }}{{|\\overrightarrow a |}} + \\frac{{2\\overrightarrow b }}{{|\\overrightarrow b |}}) ساخته می‌شود, کدام است؟\n\nOptions:\nA) 6.4\nB) 4.8\nC) 3.2\nD) 1.6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "خط d به معادله y - x = ۰، عمودمنصف خطالمرکزین دو دایره است که شعاع یکی ۲ برابر دیگری است. اگر خط d بر دایره کوچک‌تر به معادله {x^۲} + {y^۲} + ۶x - ۲y = r مماس باشد، حاصل‌ضرب طول نقاط برخورد دو دایره کدام است؟\n",
+        "options": {
+            "1": "\\frac{۵}{۲}",
+            "2": "\\frac{۵}{۴}",
+            "3": "\\frac{{۶۵}}{{۳۲}}",
+            "4": "\\frac{{۶۵}}{{۶۴}}"
+        },
+        "final_answer": 1,
+        "full_text": "خط d به معادله y - x = 0, عمودمنصف خطالمرکزین دو دایره است که شعاع یکی 2 برابر دیگری است. اگر خط d بر دایره کوچک‌تر به معادله {x^2} + {y^2} + 6x - 2y = r مماس باشد, حاصل‌ضرب طول نقاط برخورد دو دایره کدام است؟\n\nOptions:\nA) \\frac{5}{2}\nB) \\frac{5}{4}\nC) \\frac{{65}}{{32}}\nD) \\frac{{65}}{{64}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "با قرار دادن عدد سه رقمی ۳(a \\circ a) بین دو رقم مشابه a، عدد جدید ساخته می‌شود. حداکثر چند عدد اول می‌تواند a را بشمارد؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۱",
+            "3": "۲",
+            "4": "۳"
+        },
+        "final_answer": 2,
+        "full_text": "با قرار دادن عدد سه رقمی 3(a \\circ a) بین دو رقم مشابه a, عدد جدید ساخته می‌شود. حداکثر چند عدد اول می‌تواند a را بشمارد؟\n\nOptions:\nA) صفر\nB) 1\nC) 2\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "مجموع ارقام کوچک‌ترین عدد طبیعی سه رقمی x که در معادله ۶۳x + ۷۷y = ۲۷۳ صدق می‌کند، کدام است؟\n",
+        "options": {
+            "1": "۴",
+            "2": "۵",
+            "3": "۸",
+            "4": "۹"
+        },
+        "final_answer": 3,
+        "full_text": "مجموع ارقام کوچک‌ترین عدد طبیعی سه رقمی x که در معادله 63x + 77y = 273 صدق می‌کند, کدام است؟\n\nOptions:\nA) 4\nB) 5\nC) 8\nD) 9",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "حداقل چند زوج مرتب با مؤلفه‌هایی از اعداد طبیعی انتخاب کنیم تا به‌طور قطع، لااقل در دو جفت انتخاب شده، هرکدام از مجموع مؤلفه‌های اول و مجموع مؤلفه‌های دوم، مضرب ۵ باشند؟\n",
+        "options": {
+            "1": "۱۳",
+            "2": "۱۴",
+            "3": "۲۵",
+            "4": "۲۶"
+        },
+        "final_answer": 2,
+        "full_text": "حداقل چند زوج مرتب با مولفه‌هایی از اعداد طبیعی انتخاب کنیم تا به‌طور قطع, لااقل در دو جفت انتخاب شده, هرکدام از مجموع مولفه‌های اول و مجموع مولفه‌های دوم, مضرب 5 باشند؟\n\nOptions:\nA) 13\nB) 14\nC) 25\nD) 26",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "حاصلضرب درجه رأس‌های گراف G، ۴۸ است. اگر تعداد رأس‌ها با درجه رأس یک حداقل باشد، حاصل \\Delta (\\overline G ) + q(\\overline G ) کدام است؟\n",
+        "options": {
+            "1": "۱۷",
+            "2": "۱۱",
+            "3": "۱۹",
+            "4": "۱۳"
+        },
+        "final_answer": 4,
+        "full_text": "حاصلضرب درجه راس‌های گراف G, 48 است. اگر تعداد راس‌ها با درجه راس یک حداقل باشد, حاصل \\Delta (\\overline G ) + q(\\overline G ) کدام است؟\n\nOptions:\nA) 17\nB) 11\nC) 19\nD) 13",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "40"
+        }
+    }
+}

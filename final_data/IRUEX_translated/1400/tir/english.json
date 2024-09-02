@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "After she ............... the body of her husband, the police asked her to collect his personal things.\n",
+        "options": {
+            "1": "had identified",
+            "2": "has identified",
+            "3": "was identified",
+            "4": "was identifying"
+        },
+        "final_answer": 1,
+        "full_text": "After she ............... the body of her husband, the police asked her to collect his personal things.\n\nOptions:\nA) had identified\nB) has identified\nC) was identified\nD) was identifying",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "In some species of fish, the male, not the female, does the task of ..................... .\n",
+        "options": {
+            "1": "for caring the young",
+            "2": "the young for caring",
+            "3": "caring for the young",
+            "4": "the caring young for"
+        },
+        "final_answer": 3,
+        "full_text": "In some species of fish, the male, not the female, does the task of ..................... .\n\nOptions:\nA) for caring the young\nB) the young for caring\nC) caring for the young\nD) the caring young for",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "Most of the suggestions ............... were made at the meeting were not very helpful.\n",
+        "options": {
+            "1": "as",
+            "2": "they",
+            "3": "which",
+            "4": "which they"
+        },
+        "final_answer": 3,
+        "full_text": "Most of the suggestions ............... were made at the meeting were not very helpful.\n\nOptions:\nA) as\nB) they\nC) which\nD) which they",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "Because drawing was so closely related to communication, it was probably .................. art form to develop.\n",
+        "options": {
+            "1": "early",
+            "2": "earlier",
+            "3": "as early",
+            "4": "the earliest"
+        },
+        "final_answer": 4,
+        "full_text": "Because drawing was so closely related to communication, it was probably .................. art form to develop.\n\nOptions:\nA) early\nB) earlier\nC) as early\nD) the earliest",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "On August 26, he returned to his laboratory and the following day began his .................. on his electric light bulb.\n",
+        "options": {
+            "1": "generations",
+            "2": "experiments",
+            "3": "combinations",
+            "4": "inventions"
+        },
+        "final_answer": 2,
+        "full_text": "On August 26, he returned to his laboratory and the following day began his .................. on his electric light bulb.\n\nOptions:\nA) generations\nB) experiments\nC) combinations\nD) inventions",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "The shop also sells artwork like ....................., glass and home decor made by over 80 artists.\n",
+        "options": {
+            "1": "pottery",
+            "2": "treasure",
+            "3": "crops",
+            "4": "tools"
+        },
+        "final_answer": 1,
+        "full_text": "The shop also sells artwork like ....................., glass and home decor made by over 80 artists.\n\nOptions:\nA) pottery\nB) treasure\nC) crops\nD) tools",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "What better way of finding .................... for your own garden than by visiting others.\n",
+        "options": {
+            "1": "solution",
+            "2": "inspriration",
+            "3": "experience",
+            "4": "imagination"
+        },
+        "final_answer": 2,
+        "full_text": "What better way of finding .................... for your own garden than by visiting others.\n\nOptions:\nA) solution\nB) inspriration\nC) experience\nD) imagination",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "The Fire Chief ................. his team and said that they had done everything possible to save the girl's life.\n",
+        "options": {
+            "1": "defended",
+            "2": "consumed",
+            "3": "warned",
+            "4": "transmitted"
+        },
+        "final_answer": 1,
+        "full_text": "The Fire Chief ................. his team and said that they had done everything possible to save the girl's life.\n\nOptions:\nA) defended\nB) consumed\nC) warned\nD) transmitted",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "Items on the menu ................. from chinese food like hotpot and dumplings to Italian pasta dishes.\n",
+        "options": {
+            "1": "range",
+            "2": "choose",
+            "3": "expand",
+            "4": "generate"
+        },
+        "final_answer": 1,
+        "full_text": "Items on the menu ................. from chinese food like hotpot and dumplings to Italian pasta dishes.\n\nOptions:\nA) range\nB) choose\nC) expand\nD) generate",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "Many parents feel that in some way they can offer a more ....................... education at home.\n",
+        "options": {
+            "1": "honest",
+            "2": "physical",
+            "3": "suitable",
+            "4": "repeated"
+        },
+        "final_answer": 3,
+        "full_text": "Many parents feel that in some way they can offer a more ....................... education at home.\n\nOptions:\nA) honest\nB) physical\nC) suitable\nD) repeated",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "What schools teach in a certain subject or at a particular grade level still varies .................. among states and countries.\n",
+        "options": {
+            "1": "suddenly",
+            "2": "actually",
+            "3": "gradually",
+            "4": "widely"
+        },
+        "final_answer": 4,
+        "full_text": "What schools teach in a certain subject or at a particular grade level still varies .................. among states and countries.\n\nOptions:\nA) suddenly\nB) actually\nC) gradually\nD) widely",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "Ed met most of his friends at the gym. Now once a week, they all meet up and exercise together by going for bike rides around the city. As the saying goes, ................... .\n",
+        "options": {
+            "1": "practicc makes perfecct",
+            "2": "easy come, easy go",
+            "3": "birds of a feather flock together",
+            "4": "two heads are better than one"
+        },
+        "final_answer": 3,
+        "full_text": "Ed met most of his friends at the gym. Now once a week, they all meet up and exercise together by going for bike rides around the city. As the saying goes, ................... .\n\nOptions:\nA) practicc makes perfecct\nB) easy come, easy go\nC) birds of a feather flock together\nD) two heads are better than one",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "When you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (1) ..................\n",
+        "options": {
+            "1": "because you understood",
+            "2": "and that you understood",
+            "3": "or you should understand",
+            "4": "which you should understand"
+        },
+        "final_answer": 2,
+        "full_text": "When you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (1) ..................\n\nOptions:\nA) because you understood\nB) and that you understood\nC) or you should understand\nD) which you should understand",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "Which is the best choice for the blank (2) ..................\n",
+        "options": {
+            "1": "renewable",
+            "2": "voluntary",
+            "3": "distinguished",
+            "4": "comfortable"
+        },
+        "final_answer": 4,
+        "full_text": "When you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (2) ..................\n\nOptions:\nA) renewable\nB) voluntary\nC) distinguished\nD) comfortable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "Which is the best choice for the blank (3) ..................\n",
+        "options": {
+            "1": "decide that",
+            "2": "had decided",
+            "3": "are deciding",
+            "4": "have decided"
+        },
+        "final_answer": 4,
+        "full_text": "When you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (3) ..................\n\nOptions:\nA) decide that\nB) had decided\nC) are deciding\nD) have decided",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "Which is the best choice for the blank (4) ..................\n",
+        "options": {
+            "1": "definitions",
+            "2": "reasons",
+            "3": "pauses",
+            "4": "tips"
+        },
+        "final_answer": 3,
+        "full_text": "When you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (4) ..................\n\nWhen you are going to give a book talk, you need to prepare it carefully. First, you should choose a book that you enjoyed (1) ............... well. You will give a better talk if you feel (2) .............. talking about it. After you (3) .................. on the book, make notes about what you want to say. Use small note cards or pieces of paper. Then practice talking from the notes until you can talk without reading the notes and without many (4) ................... . At this point, you should time yourself to make sure your talk is not too long or (5) .............. . If necessary, adjust your talk so that it takes the right amount of time. Finally, practice your talk with a friend or record it so you can listen to it.\nWhich is the best choice for the blank (4) ..................\n\nOptions:\nA) definitions\nB) reasons\nC) pauses\nD) tips",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "Which is the best choice for the blank (5) ..................\n",
+        "options": {
+            "1": "too short",
+            "2": "as short",
+            "3": "shorter than",
+            "4": "the shortest"
+        },
+        "final_answer": 1,
+        "full_text": "Which is the best choice for the blank (5) ..................\n\nOptions:\nA) too short\nB) as short\nC) shorter than\nD) the shortest",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "PASSAGE 1:\nI am a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you turn off all non-essential lights and power between 8-9 pm; things like your TV, computer and console. However, you do not just sit at home in the dark for an hour. Instead, people gather in groups and have fun without using power. Things like dancing, fireworks and musical performanecs are popular and it is very fun to take part.\nMany celebrities also take part in Earth Hour and this year is very important as it is the tenth year of the projecet.Earth Hour is not just abaut saving energy; people involved in Earth have also planted a forest in Uganda, built solar panels in India and passed a law to protect the sea in Argentina.\nI have taken part in Earth Hour every year for the last five years and I have been part of lost of activities at school and university. Last year, for example, my university had an outdoor eycle cinema. At the eycle cinema, the only way to keep watching the film is to keep pedaling your bike, if everyone stops, then the screen turns off! Luckily, there were many of us to help keep the movie going and we took turns. Although it was very cold outside at night, we had hot chocolate and blankets for the people who were not cycling Everyone who was there had a lot of fun.\nAccording to the passage, what is the author's main purpose in the passage?\n",
+        "options": {
+            "1": "To introduse a particular event",
+            "2": "To compare some fun activities",
+            "3": "To traee the origin of Earth Hour",
+            "4": "To describe some ways of saving energy"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 1:\nI am a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you turn off all non-essential lights and power between 8-9 pm; things like your TV, computer and console. However, you do not just sit at home in the dark for an hour. Instead, people gather in groups and have fun without using power. Things like dancing, fireworks and musical performanecs are popular and it is very fun to take part.\nMany celebrities also take part in Earth Hour and this year is very important as it is the tenth year of the projecet.Earth Hour is not just abaut saving energy; people involved in Earth have also planted a forest in Uganda, built solar panels in India and passed a law to protect the sea in Argentina.\nI have taken part in Earth Hour every year for the last five years and I have been part of lost of activities at school and university. Last year, for example, my university had an outdoor eycle cinema. At the eycle cinema, the only way to keep watching the film is to keep pedaling your bike, if everyone stops, then the screen turns off! Luckily, there were many of us to help keep the movie going and we took turns. Although it was very cold outside at night, we had hot chocolate and blankets for the people who were not cycling Everyone who was there had a lot of fun.\nAccording to the passage, what is the author's main purpose in the passage?\n\nOptions:\nA) To introduse a particular event\nB) To compare some fun activities\nC) To traee the origin of Earth Hour\nD) To describe some ways of saving energy",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "According to the passage, people who take part in Earth Hour ................... .\n",
+        "options": {
+            "1": "are cspecially interested in protecting nature in Uganda, India and Argentina",
+            "2": "must not stay away from home between 8 and 9 p.m",
+            "3": "use less electricity for a certain period of time",
+            "4": "turn off all lights for one hour"
+        },
+        "final_answer": 3,
+        "full_text": "PASSAGE 1:\nI am a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you turn off all non-essential lights and power between 8-9 pm; things like your TV, computer and console. However, you do not just sit at home in the dark for an hour. Instead, people gather in groups and have fun without using power. Things like dancing, fireworks and musical performanecs are popular and it is very fun to take part.\nMany celebrities also take part in Earth Hour and this year is very important as it is the tenth year of the projecet.Earth Hour is not just abaut saving energy; people involved in Earth have also planted a forest in Uganda, built solar panels in India and passed a law to protect the sea in Argentina.\nI have taken part in Earth Hour every year for the last five years and I have been part of lost of activities at school and university. Last year, for example, my university had an outdoor eycle cinema. At the eycle cinema, the only way to keep watching the film is to keep pedaling your bike, if everyone stops, then the screen turns off! Luckily, there were many of us to help keep the movie going and we took turns. Although it was very cold outside at night, we had hot chocolate and blankets for the people who were not cycling Everyone who was there had a lot of fun.\nAccording to the passage, people who take part in Earth Hour ................... .\n\nOptions:\nA) are cspecially interested in protecting nature in Uganda, India and Argentina\nB) must not stay away from home between 8 and 9 p.m\nC) use less electricity for a certain period of time\nD) turn off all lights for one hour",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "According to the passage, It is suggested in the passage that at the eycle cinema ................ .\n",
+        "options": {
+            "1": "the screen turned off a few times",
+            "2": "not everyone knew how to ride a bike",
+            "3": "the author had to pedal his/ her bike nonstop",
+            "4": "cold did not make anyone feel uncomfortable"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 1:\nI am a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you turn off all non-essential lights and power between 8-9 pm; things like your TV, computer and console. However, you do not just sit at home in the dark for an hour. Instead, people gather in groups and have fun without using power. Things like dancing, fireworks and musical performanecs are popular and it is very fun to take part.\nMany celebrities also take part in Earth Hour and this year is very important as it is the tenth year of the projecet.Earth Hour is not just abaut saving energy; people involved in Earth have also planted a forest in Uganda, built solar panels in India and passed a law to protect the sea in Argentina.\nI have taken part in Earth Hour every year for the last five years and I have been part of lost of activities at school and university. Last year, for example, my university had an outdoor eycle cinema. At the eycle cinema, the only way to keep watching the film is to keep pedaling your bike, if everyone stops, then the screen turns off! Luckily, there were many of us to help keep the movie going and we took turns. Although it was very cold outside at night, we had hot chocolate and blankets for the people who were not cycling Everyone who was there had a lot of fun.\nAccording to the passage, It is suggested in the passage that at the eycle cinema ................ .\n\nOptions:\nA) the screen turned off a few times\nB) not everyone knew how to ride a bike\nC) the author had to pedal his/ her bike nonstop\nD) cold did not make anyone feel uncomfortable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "According to the passage, Which of the following best describes the author's attitude towards Earth Hour?\n",
+        "options": {
+            "1": "Annoyed",
+            "2": "Uncertain",
+            "3": "Surprised",
+            "4": "Amused"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 1:\nI am a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you turn off all non-essential lights and power between 8-9 pm; things like your TV, computer and console. However, you do not just sit at home in the dark for an hour. Instead, people gather in groups and have fun without using power. Things like dancing, fireworks and musical performanecs are popular and it is very fun to take part.\nMany celebrities also take part in Earth Hour and this year is very important as it is the tenth year of the projecet.Earth Hour is not just abaut saving energy; people involved in Earth have also planted a forest in Uganda, built solar panels in India and passed a law to protect the sea in Argentina.\nI have taken part in Earth Hour every year for the last five years and I have been part of lost of activities at school and university. Last year, for example, my university had an outdoor eycle cinema. At the eycle cinema, the only way to keep watching the film is to keep pedaling your bike, if everyone stops, then the screen turns off! Luckily, there were many of us to help keep the movie going and we took turns. Although it was very cold outside at night, we had hot chocolate and blankets for the people who were not cycling Everyone who was there had a lot of fun.\nAccording to the passage, Which of the following best describes the author's attitude towards Earth Hour?\n\nOptions:\nA) Annoyed\nB) Uncertain\nC) Surprised\nD) Amused",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "PASSAGE 2:\nHow many planets are there in our galaxy? That is a tricky question to answer. Are there other planets that support life? Tliat is exactly what the Kepler niission hopes to discover. NASA launched the Kepler space telescope, designed to lind habitable plancts, in 2009. So far it has discovered live new Earth-sized planets beyond our solar system. These planets are houler than the Carih - much too hot for life as we know it. The Kepler team predict that they will need at least three years (and possibly longer) to find an Earth-like planet.The simplest requirement for a planet to have life (carbon-based life like on Earth) is for there to be liquid water (not frozen or gas) so the distance from the planet's sun and therefore temperature are important. There also ineeds to be the correct amount of air. IC a planet is as small as Mars (half the size of Carth) its weak gravity means that it cannot hold on to air molecules. Il a planet is Neptunc sized (four times bigger than Earth) it has very strong gravity and 100 inuch air. So size matters too.The cost of the mission is approximately six hundred million dollars. It is scheduled to observe until 2013 but this could be extended. Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?\nAccording to the passage, What does the passage mainly discuss?\n",
+        "options": {
+            "1": "Features of five new Earth-sized planets",
+            "2": "An endeavor to find Earth-like planets",
+            "3": "Our solar system and its planets",
+            "4": "Makikng a space telescope"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:\nHow many planets are there in our galaxy? That is a tricky question to answer. Are there other planets that support life? Tliat is exactly what the Kepler niission hopes to discover. NASA launched the Kepler space telescope, designed to lind habitable plancts, in 2009. So far it has discovered live new Earth-sized planets beyond our solar system. These planets are houler than the Carih - much too hot for life as we know it. The Kepler team predict that they will need at least three years (and possibly longer) to find an Earth-like planet.The simplest requirement for a planet to have life (carbon-based life like on Earth) is for there to be liquid water (not frozen or gas) so the distance from the planet's sun and therefore temperature are important. There also ineeds to be the correct amount of air. IC a planet is as small as Mars (half the size of Carth) its weak gravity means that it cannot hold on to air molecules. Il a planet is Neptunc sized (four times bigger than Earth) it has very strong gravity and 100 inuch air. So size matters too.The cost of the mission is approximately six hundred million dollars. It is scheduled to observe until 2013 but this could be extended. Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?\nAccording to the passage, What does the passage mainly discuss?\n\nOptions:\nA) Features of five new Earth-sized planets\nB) An endeavor to find Earth-like planets\nC) Our solar system and its planets\nD) Makikng a space telescope",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "According to the passage, The passage suggests that the Kepler mission .................. .\n",
+        "options": {
+            "1": "was inspired by another space mission",
+            "2": "was not finished immediately after it started",
+            "3": "did not seem to be as successful as other space missions",
+            "4": "found plancts with the same temperature as that of the Earth"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:\nHow many planets are there in our galaxy? That is a tricky question to answer. Are there other planets that support life? Tliat is exactly what the Kepler niission hopes to discover. NASA launched the Kepler space telescope, designed to lind habitable plancts, in 2009. So far it has discovered live new Earth-sized planets beyond our solar system. These planets are houler than the Carih - much too hot for life as we know it. The Kepler team predict that they will need at least three years (and possibly longer) to find an Earth-like planet.The simplest requirement for a planet to have life (carbon-based life like on Earth) is for there to be liquid water (not frozen or gas) so the distance from the planet's sun and therefore temperature are important. There also ineeds to be the correct amount of air. IC a planet is as small as Mars (half the size of Carth) its weak gravity means that it cannot hold on to air molecules. Il a planet is Neptunc sized (four times bigger than Earth) it has very strong gravity and 100 inuch air. So size matters too.The cost of the mission is approximately six hundred million dollars. It is scheduled to observe until 2013 but this could be extended. Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?\nAccording to the passage, The passage suggests that the Kepler mission .................. .\n\nOptions:\nA) was inspired by another space mission\nB) was not finished immediately after it started\nC) did not seem to be as successful as other space missions\nD) found plancts with the same temperature as that of the Earth",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "According to the passage, Which of the following best describes the funetion of the underlined sentence in paragraph 2?\n",
+        "options": {
+            "1": "It describes a situation where the condition mentioned in the previous sentence cannot be met.",
+            "2": "It provides the definition of a word mentioned in the previous sentence.",
+            "3": "It provides a solution to a problem described in the previous sentence.",
+            "4": "It draws a conelusion from the previous sentence."
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 2:\nHow many planets are there in our galaxy? That is a tricky question to answer. Are there other planets that support life? Tliat is exactly what the Kepler niission hopes to discover. NASA launched the Kepler space telescope, designed to lind habitable plancts, in 2009. So far it has discovered live new Earth-sized planets beyond our solar system. These planets are houler than the Carih - much too hot for life as we know it. The Kepler team predict that they will need at least three years (and possibly longer) to find an Earth-like planet.The simplest requirement for a planet to have life (carbon-based life like on Earth) is for there to be liquid water (not frozen or gas) so the distance from the planet's sun and therefore temperature are important. There also ineeds to be the correct amount of air. IC a planet is as small as Mars (half the size of Carth) its weak gravity means that it cannot hold on to air molecules. Il a planet is Neptunc sized (four times bigger than Earth) it has very strong gravity and 100 inuch air. So size matters too.The cost of the mission is approximately six hundred million dollars. It is scheduled to observe until 2013 but this could be extended. Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?\nAccording to the passage, Which of the following best describes the funetion of the underlined sentence in paragraph 2?\n\nOptions:\nA) It describes a situation where the condition mentioned in the previous sentence cannot be met.\nB) It provides the definition of a word mentioned in the previous sentence.\nC) It provides a solution to a problem described in the previous sentence.\nD) It draws a conelusion from the previous sentence.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "There is enough information in the passage to answer which of the following questions?\n",
+        "options": {
+            "1": "How many planets are there in our galaxy?",
+            "2": "How can Nasa reduce the cost of the Kepler mission?",
+            "3": "What characteristies does a planet need to have in order to be able to support life?",
+            "4": "Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?"
+        },
+        "final_answer": 3,
+        "full_text": "PASSAGE 2:\nHow many planets are there in our galaxy? That is a tricky question to answer. Are there other planets that support life? Tliat is exactly what the Kepler niission hopes to discover. NASA launched the Kepler space telescope, designed to lind habitable plancts, in 2009. So far it has discovered live new Earth-sized planets beyond our solar system. These planets are houler than the Carih - much too hot for life as we know it. The Kepler team predict that they will need at least three years (and possibly longer) to find an Earth-like planet.The simplest requirement for a planet to have life (carbon-based life like on Earth) is for there to be liquid water (not frozen or gas) so the distance from the planet's sun and therefore temperature are important. There also ineeds to be the correct amount of air. IC a planet is as small as Mars (half the size of Carth) its weak gravity means that it cannot hold on to air molecules. Il a planet is Neptunc sized (four times bigger than Earth) it has very strong gravity and 100 inuch air. So size matters too.The cost of the mission is approximately six hundred million dollars. It is scheduled to observe until 2013 but this could be extended. Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?\nThere is enough information in the passage to answer which of the following questions?\n\nOptions:\nA) How many planets are there in our galaxy?\nB) How can Nasa reduce the cost of the Kepler mission?\nC) What characteristies does a planet need to have in order to be able to support life?\nD) Will we be sad if we discover we are alone in our galaxy or happy if we find that we share it with other life forms?",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

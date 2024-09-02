@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "«أنزلَ من السماء ماءَ فأخرج به من الثّمرات رزقا لکم»:\n",
+        "options": {
+            "1": "آب را از آسمان نازل کرد و از میوه‌ها روزی برای شما قرار داد!",
+            "2": "از آسمان آب را نازل کرد و از ثمره‌ها روزی برای شما بیرون آمد!",
+            "3": "آبی از آسمان فرو فرستاد و به وسیلهٔ آن ثمره‌های رزق را برای شما خارج ساخت!",
+            "4": "از آسمان آبی فرو فرستاد پس به وسیلهٔ آن از میوه‌ها رزقی را برای شما خارج ساخت!"
+        },
+        "final_answer": 4,
+        "full_text": "\"Send down water from the sky, so bring forth for me the fruits of sustenance.\"\n\nOptions:\nA) He sent down water from the sky and provided you with sustenance from fruits!\nB) He sent down water from the sky and from the fruits a sustenance came out for you!\nC) He sent down water from the sky and with it brought out the fruits of sustenance for you!\nD) He sent down water from the sky, so He brought out sustenance for you from fruits!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "«لا تَعِش فی الماضی و ما وقع فیه حتی لا یُضیّع مستقبلُک!»:\n",
+        "options": {
+            "1": "در گذشته و آنچه در آن رخ داده است زندگی مکن تا آینده‌ات تباه نشود!",
+            "2": "در گذشته‌ها و چیزهایی که در آن‌ها رخ داده بود زندگی مکن تا آیندهٔ تو ضایع نگردد!",
+            "3": "برای اینکه آیندهٔ خود را تباه نسازی، در گذشته و آنچه در آن روی داد، زندگی مکن!",
+            "4": "برای تباه نساختن آیندهٔ‌ خویش،‌ در گذشته و چیزی که در آن واقع میشود، زندگی منمای!"
+        },
+        "final_answer": 1,
+        "full_text": "\"Don't worry about the past and we have no place in it, even don't waste your future!\":\n\nOptions:\nA) Don't live in the past and what happened in it so that your future is not ruined!\nB) Don't live in the past and the things that happened in them so that your future is not lost!\nC) In order not to ruin your future, do not live in the past and what happened in it!\nD) In ​​order not to ruin your future, in the past and what happens in it, don't live!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "«هناک لا إنسانَ بدون خطأ، ولکنّه یفشل عندما یَعدَ نفسَه عالما یَعرفُ کلَّ شیء!»:\n",
+        "options": {
+            "1": "هیچ انسانی نیست که خطا نکند، ولی هنگامی که خود را دانای همه چیز بشمار آورد، شکست خواهد خورد!",
+            "2": "انسان بدون اشتباه، هیچگاه وجود ندارد، اما او می‌بازد هرگاه خود را دانایی فرض کند که هر چیزی را می‌دانسته است!",
+            "3": "هیچ انسانی بدون خطا وجود ندارد، ولی زمانی که خودش را عالمی بشمار آورد که همه چیز را می‌داند، شکست می‌خورد!",
+            "4": "انسان هیچگاه بدون اشتباه نیست، اما زمانی می‌بازد که نفس خود را عالمی به حساب آورد که بر هر چیزی آگاه است!"
+        },
+        "final_answer": 3,
+        "full_text": "\"There is no human being without mistakes, but he fails when he counts his soul and knows the whole thing!\":\n\nOptions:\nA) There is no human who does not make mistakes, but when he considers himself to know everything, he will fail!\nB) A man without mistakes never exists, but he loses when he assumes himself to be the knowledge that he knew everything!\nC) There is no person without mistakes, but when he considers himself a scientist who knows everything, he fails!\nD) Man is never without mistakes, but he loses when he considers himself a scholar who knows everything!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "«کان ذلک العالمُ یُمضی أوقاتَه بالمطالعة و الدراسة و لا یبتعد عن النّشاط لحظة علی رغم الظّروف القاسیة!»:\n",
+        "options": {
+            "1": "تمام وقت آن عالم در مطالعه و پژوهش می‌گذشت، و با وجود شرایط سخت یک لحظه از فعالیت دور نمی‌شد!",
+            "2": "آن دانشمند اوقات خود را به مطالعه و تحقیق می‌گذراند و با وجود شرایط سخت، لحظه‌ای از فعالیت دور نمی‌شد!",
+            "3": "وقت آن دانشمند به مطالعه و تحقیق می‌گذشت، درحالی‌که علی‌رغم شرایط سخت لحظه‌ای از کار دور نمی‌شود!",
+            "4": "آن عالم اوقاتش را در مطالعه و پژوهش می‌گذراند، درحالی‌که علی‌رغم شرایط سختش حتی یک لحظه از کار دور نمی‌شود!"
+        },
+        "final_answer": 2,
+        "full_text": "\"If such a scholar spends his time studying and studying and does not turn away from activity for a moment, despite the harsh circumstances!\":\n\nOptions:\nA) All of that scholar's time was spent in study and research, and despite the difficult conditions, he did not leave the activity for a moment!\nB) That scientist spends his time studying and researching and despite the difficult conditions, he did not stay away from the activity for a moment!\nC) At that time, the scientist spent his time studying and researching, while despite the difficult conditions, he did not leave work for a moment!\nD) That scientist spends his time in study and research, while despite his difficult conditions, he does not leave work even for a moment!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "«کاد المعلّمُ یبدأ تدریسه أذ دخل الصفَّ أحدُ الطّلابِ و قطع کلامَ المعلّم و هو خَجِلُ من تأخُره!»:\n",
+        "options": {
+            "1": "معلم تدریسش را شروع می‌کرد که یکی از دانش‌آموزان با شرمندگی از تأخیر خود، وارد کلاس شد و سخن معلم را برید!",
+            "2": "نزدیک بود معلم درس خویش را آغاز کند که دانش‌آموزی ناگهان داخل کلاس شد و کلام معلم را با خجالت از دیر کردنش قطع نمود!",
+            "3": "نزدیک بود معلم درس خود را آغاز نماید زمانی که یک دانش‌‌آموز به کلاس داخل شد و سخن معلم را برید و او از تأخیر خویش شرمنده شد!",
+            "4": "معلم تدریس خود را داشت شروع می‌کرد، که ناگهان یکی از دانش‌آموزان وارد کلاس شد و درحالی‌که از تأخیر خود شرمنده بود سخن معلم را قطع کرد!"
+        },
+        "final_answer": 4,
+        "full_text": "\"The teacher starts teaching as soon as one of the students enters the class and interrupts the teacher's words, and he is ashamed of me for being late!\":\n\nOptions:\nA) The teacher was starting his teaching when one of the students, ashamed of his lateness, entered the class and interrupted the teacher!\nB) The teacher was about to start his lesson when a student suddenly entered the class and interrupted the teacher because he was ashamed of being late!\nC) The teacher was about to start his lesson when a student entered the class and interrupted the teacher, and he was ashamed of his delay!\nD) The teacher was starting his teaching, when suddenly one of the students entered the class and interrupted the teacher while he was ashamed of being late!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "«قَرّرتُ مع اُختی الصُغری أن نذهب غدّا رأس الساعة التاسعة و التاسعة و النّصف إلی المتحف لمشاهدة الأثار التاریخیّة!»:\n",
+        "options": {
+            "1": "با خواهر کوچکم قرار گذاشتیم فردا سر ساعت نه و نیم برای بازدید از آثار باستانی به موزه برویم!",
+            "2": "من با خواهر کوچکترم قرار گذاشتیم؛ سر ساعت نه و نیم فردا به دیدار آثار باستانی موزه‌ها برویم!",
+            "3": "من و خواهرم صغری قرار گذاشتیم رأس ساعت نه و نیم فردا به مشاهدهٔ آثار تاریخی موزه‌ها برویم!",
+            "4": "با خواهر کوچکترم قرار گذاشتم که فردا رأس ساعت نه و نیم برای مشاهدهٔ آثار تاریخی به موزه برویم!"
+        },
+        "final_answer": 4,
+        "full_text": "\"I decided with my sister Al-Saghari that we will not go to the museum tomorrow at half past nine to see the historical artifacts!\":\n\nOptions:\nA) My little sister and I made an appointment to go to the museum tomorrow at half past nine to visit the ancient works!\nB) I dated my younger sister; Let's go to visit the ancient artifacts of the museums at half past nine tomorrow!\nC) My sister Soghari and I made an appointment to go to the museum at half past nine tomorrow!\nD) I made an appointment with my younger sister to go to the museum tomorrow at half past nine to see historical monuments!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "«عامل النّاس مثلَما تُحبُّ أن یُعاملوک، و لا تَکن ذا وجهین!»:\n",
+        "options": {
+            "1": "با مردم آن‌طور رفتار کن که دوست داری با تو رفتار کنند، و دو رو مباش!",
+            "2": "طوری با مردمان معامله نمای که دوست داری با تو دادوستد شود، پس دو چهره نباش!",
+            "3": "با مردم همانظور معامله کنید که دوست داشته‌اید با شما عمل کنند، پس از دورویان نباشید!",
+            "4": "به گونه‌ای با مردم رفتار کنید که دوست می‌دارید با شما رفتار شود، و دارای دو چهره مباشید!"
+        },
+        "final_answer": 1,
+        "full_text": "\"Amal al-Nannas like us, I love you, and don't touch the faces!\":\n\nOptions:\nA) Treat people the way you want to be treated, and don't be two-faced!\nB) Deal with people the way you want to be dealt with, so don't be two-faced!\nC) Deal with people as you would like them to deal with you, so don't be hypocrites!\nD) Treat people the way you want to be treated, and don't be two-faced!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "إنّنا محتاجون إلی تجارب المتقاعدین لتقدّمنا: ما به تجربهٔ بازنشستگان نیازمندیم تا پیشرفت کنیم!",
+            "2": "إن کان المتفرّجون فی الملعب، یُشجَّع اللاعبون: اگر تماشاچیان در ورزشگاه باشند بازیکنان را تشویق می‌کنند!",
+            "3": "قد تَبدا آلافُ الصعوبات بعد لحظة إهمالٍ: گاهی بعد از یک لحظه سهل‌انگاری هزاران مشکل شروع می‌شود!",
+            "4": "مَن یَتجسّس فی أعمال الآخَرین فلا أمنَ و لا راحةَ له: کسی که در مورد دیگران جاسوسی کند امنیت و راحتی ندارد!"
+        },
+        "final_answer": 3,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) We need the experiences of the believers to advance: we need the experience of retirees to progress!\nB) If the spectators are in the stadium, they cheer the players!\nC) The length of difficulties after a moment of carelessness: sometimes thousands of problems start after a moment of carelessness!\nD) I spy on the deeds of the latter, Fala Amman wa La Rahaha Lah: The one who spies on others does not have security or comfort!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "عیّن الصّحیح:\n",
+        "options": {
+            "1": "أفضلُ سلاحِ المرء کلامُه و کأنّه حسامُ: بهترین سلاح انسان کلامی است که چون شمشیر می‌باشد!",
+            "2": "عینُ البومة ثابتة و هی لا تقدر أن تدیر إلّا رأسها: چشم جغد ثابت است و فقط سر آن حرکت می‌کند!",
+            "3": "هناک عُشّ صغیر فوق تلک الشجرة المرتفعة لا فرخَ فیه: بالای آن درخت بلند آشیانهٔ کوچکی هست که هیچ جوجه‌ای در آن نیست!",
+            "4": "طُلب من الطلّاب أن یأتوا بوالدیهم یوم الخمیس إلی المدرسة: از دانش‌آموزان خواست که روز پنج‌شنبه با والدین خود به مدرسه بیایند!"
+        },
+        "final_answer": 3,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) Man's best weapon is his words and his words: the best weapon of man is his words, which is like a sword!\nB) The eyes of the album are fixed and only the heads are fixed: the owl's eye is fixed and only its head moves!\nC) Here is the small nest of the tall tree: there is a small nest on top of that tall tree that does not have any chickens in it!\nD) I asked students to come to school with their parents on Thursday!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "«امروز کتابی خریدم که قبلاً آن را دیده بودم!»:\n",
+        "options": {
+            "1": "هذا یوم اشتریت الکتاب و رأیت قبل هذا!",
+            "2": "اشتریت الیوم کتابًا قد رأیته من قبل!",
+            "3": "هذا الیوم اشتریت کتابًا رأیت قبل هذا!",
+            "4": "قد اشتریت الیوم الکتاب و رأیته من قبل!"
+        },
+        "final_answer": 2,
+        "full_text": "\"Today I bought a book that I had already seen!\":\n\nOptions:\nA) This is the day of book purchase and your vote before this!\nB) I bought a book that I already voted for!\nC) This is the day you bought a book, your vote was before this!\nD) How long you bought the book and I voted before!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "اِقرأ النّص التّالی ثمّ أجب عن الأسئلة بما یناسب النصّ:\nالعلمُ یُحیی فی الإنسان اُمورًا مختلفة، منها الشّعور بالاعتماد علی النُفس، فمَن اتّخذه رفیقًا فی طریقة فی الحیاة یری أنّه لا یَقدر أن یَعیش غافلاً عَمّا یَجری حولَه، بل یَسعی للحصول علی غایة یَرسَمها لنفسه. لِنَنظرً إلی حیاة العلماء فی التاریخ، فهم لَم یَستطیعوا أن یعیشوا لأنفسهم فقط لأنّهم رأو غایةْ عُلیا فی الحیاة و حاولوا أن یَصلوا إلیها و کذلک قاموا بدعوة الآخرین إلیها أیضًا!\nأنّ العلم یَبنی حصارًا یُحافظ علی کلّ مَن یختاره من الوقوع فی الخطایا و یَمنعه من ارتکاب الجرائمِ و التبعیّة الخاطئة؛ ولکن هیهات هیهات من الاعتماد علی العلم أکثر من طاقته، فإنّه یُهیّی للمجتمع طرقَ التقدّم و یُحقّق له ارتقاءَ شاملاً یضمن مُستقبلاً مُضیئًا؛ ولکنّ المهمٌ فی هذا الأمر هو أنّ العلم بوحده لا یُحقِّق هذه الغایات الجمیلةَ بل بحاجة إلی رفیق آخر و هو «الإیمان»!\n* لماذا لا تُصبح الغفلةُ ملازِمة العالم؟ عیّن الصّحیح: الأنّ ...\n",
+        "options": {
+            "1": "رفیقه الآخر و هو الإیمان یمنعه من هذا الأمر!",
+            "2": "التقدّم و المستقبل المضیء لا یَسمحان بذلک!",
+            "3": "الاعتماد علی النّفس هو السبب لمنع ذلک!",
+            "4": "اتّخاذ الغایة فی الحیاة یَمنعه من ذلک!"
+        },
+        "final_answer": 4,
+        "full_text": "Read the following text and then ask the appropriate questions:\nThe knowledge of life in man is different from the consciousness of self-confidence َمّا یَجری حولَه، بل یَسعی للحصول علی غایة یَرسَمها لنفسه. Looking at the lives of the scholars in history, I understand that they do not seek Jesus for themselves only to have a higher goal in life and try to pray to Him and whatever happens The Last Invitation to Him Also!\nThe knowledge of Ibn Hasarah protects everyone who chooses from the place of sin and prevents him from accumulating crimes and the nature of sin; Walkn Hehat Hehat min hat hatmad sul elalm أkثر من تاقته، فإنّه يُهيّی للمجتمع ترقَ التقَ التقَدّم و يُحقّق له رتقاءَ شاملاً يضمن مُستقبلاً مُضياًا; But the most important thing in this command is that knowledge alone does not achieve these beautiful goals but the need for the other companion and that is faith!\n* Why doesn't negligence appear to be the servant of the world? Sahih Eye: الأنّ\n\nOptions:\nA) The last companion and he is faith prevents him from this command!\nB) The progress and future of the past does not compare to that!\nC) Self-confidence is the reason for preventing it!\nD) The end of life is forbidden from that!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "عیّن الصّحیح حسب النصّ:\n",
+        "options": {
+            "1": "مفتاح التقدّم الحقیقی هو اکتساب العلم وحیدًا!",
+            "2": "مِن أخطر الاُمور هو تحمیل العلم أکثر من طاقته!",
+            "3": "إنّ الغایة الوحیدة الّتی یَرسمها العلماءُ هی الاعتماد علی النفس!",
+            "4": "العلم من دون مساعدٍ آخر یحافظ علی الجمهور من الخطایا و الزّلل!"
+        },
+        "final_answer": 2,
+        "full_text": "Specify the correct one according to the text:\n\nOptions:\nA) The key to true progress is to acquire knowledge alone!\nB) One of the most dangerous things is overloading knowledge beyond its capacity!\nC) The only goal that scholars draw is self-reliance!\nD) Knowledge without any other helper protects the public from sins and mistakes!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "بم نحصل علی مستقبل مضیء لأبنائنا؟ عیّن الخطأ: بعلمٍ ...\n",
+        "options": {
+            "1": "یزیدهم أخلاقًا تُبعِّدهم عن السّلوکیات السّئة!",
+            "2": "یُساعدهم علی اتّخاذ غایاتٍ رفیعةٍ فی الحیاة!",
+            "3": "لا یُصاحبه أمرٌ آخر و هو الکفیل وحیدًا للتقدّم!",
+            "4": "یحتاج إلی حصول جناح آخر للطّیران و هو الإیمان!"
+        },
+        "final_answer": 3,
+        "full_text": "How can we achieve a bright future for our children? Specify the error: Knowingly...\n\nOptions:\nA) It increases their morals and keeps them away from bad behaviors!\nB) It helps them achieve high goals in life!\nC) Nothing else accompanies it, and it is the only guarantee for progress!\nD) It requires another wing to fly, which is faith!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "عیّن ما لا یناسب موضوع النصّ!\n",
+        "options": {
+            "1": "خرد باید و دانش و راستی / که کژّی بکوید در کاستی!",
+            "2": "نکند هرگز اهل دانش و داد / دل مردم خراب و گنج آباد!",
+            "3": "علمِ تنها، تو را به ره آرد!",
+            "4": "علم اگر تنها بوَد رهزن بود!"
+        },
+        "final_answer": 3,
+        "full_text": "Our eyes do not fit the subject of the text!\n\nOptions:\nA) wisdom and knowledge and truth / to be crooked in deficiency!\nB) Never let the people of knowledge and money / the hearts of the people be ruined and Ganjabad!\nC) Only knowledge will guide you!\nD) If science was alone, it would be a bandit!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "عیّن الصحیح فی الإعراب و التحلیل الصرفی«یَرسم»:\n",
+        "options": {
+            "1": "فعل مضارع - للغائب - ماضیه «رَسم» و کلُّ حروفه أصلیةٌ / فاعله «ها» و الجملة فعلیةٌ",
+            "2": "للمذکّر الغائب - حروفه کلّها أصلیّة (=مجرّد ثلاثی) - معلوم / فعلٌ و مع فاعله جملةٌ فعلیة",
+            "3": "للغائب - له ثلاثة حروف أصلیة و حرف واحد زائد (=مزید ثلاثی) / فعل و مع فاعله جملةٌ فعلیة",
+            "4": "مضارع - لیس له حرفٌ زائد (=مجرد) - مجهول / مع فاعله جملةٌ‌ فعلیة، و ضمیر «ها» مفعول"
+        },
+        "final_answer": 2,
+        "full_text": "Determine what is correct in parsing and morphological analysis: “to draw”:\n\nOptions:\nA) A present tense verb - in the third person - whose past tense is “drama” and all of its letters are original / its subject is “ha” and the sentence is verbal.\nB) for the third person masculine - all letters are original (=just triple) - known / verb and with its subject there is a verbal sentence\nC) for the third person - it has three original letters and one additional letter (= triple addition) / a verb and with its subject there is a verbal sentence.\nD) Present tense - does not have an extra letter (=abstract) - anonymous / with its subject a verbal sentence, and the pronoun “ha” is an object",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "عیّن الصحیح فی الإعراب و التحلیل الصرفی «یُحافظ»:\n",
+        "options": {
+            "1": "مضارع - للمذکّر الغائب - ماضیه «حافظ» علی وزن «فاعل» / فعل و مع فاعله جملةٌ فعلیة",
+            "2": "فعل مضارع - ماضیه «حافظ» من وزن «فاعل» و مصدره «حفظ» / الجملة فعلیة و وصفیة",
+            "3": "للغائب - ماضیه «حافظ» و مصدره «محافظة» من باب «مفاعلة» - مجهول / مع فاعله جملةً فعلیة",
+            "4": "للمفرد المذکّر الغائب - له حرفان زائدان (=مزید ثلاثی) / الجملة فعلیة و صفة للموصوف النکرة «حصارًا»"
+        },
+        "final_answer": 1,
+        "full_text": "Specify the correct statement in parsing and morphological analysis: “Yahafiz”:\n\nOptions:\nA) Present tense - for the third person masculine - its past “preserves” the meter of “subject” / verb and with its subject there is a verbal sentence.\nB) A present tense verb - the past participle of “hafez” from the meter of “fa’il” and its source is “memorize” / The sentence is verbal and descriptive.\nC) For the third person - its past participle is “hafez” and its noun is “mafada” in the context of “mafala” - anonymous / with its subject in a verbal sentence.\nD) For the third person masculine singular - it has two extra letters (= triple addition) / The sentence is a verb and an adjective for the indefinite noun “siege”",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "عیّن الصحیح فی الإعراب و التحلیل الصرفی «شاملاً»:\n",
+        "options": {
+            "1": "اسم - مفرد مذکّر - اسم فاعل (من فعل «شمل» المجرّد) / صفة للموصوف «ارتقاء»",
+            "2": "مفرد مذکّر - اسم فاعل (فعله «شمل» بدون حرف زائد) - نکرة / صفة و موصوفه «یحقّق»",
+            "3": "مفرد مذکر - معرفة - اسم فاعل (فعله «شمل» بدون حرف زائد) / صفة و موصوفه «ارتقاء»",
+            "4": "اسم - اسم فاعل (مأخوذ من فعل «شامل» علی وزن «فاعل») / صفة أو نعت للموصوف النکرة"
+        },
+        "final_answer": 1,
+        "full_text": "Specify what is correct in parsing and morphological analysis “comprehensively”:\n\nOptions:\nA) Noun - masculine singular - active participle (from the abstract verb “shamal”) / adjective for what is described “irtiqaa”\nB) Masculine singular - active participle (its verb is “shammal” without an extra letter) - indefinite article / adjective and its description “yahqīqī”\nC) Masculine singular - knowledge - active participle (its verb is “shammal” without an extra letter) / adjective and its description is “irtiqaa”\nD) Noun - active participle (taken from the verb “shamil” in the form of “subject”) / adjective or adjective for the indefinite person being described.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "عیّن الخطأ فی ضبط حرکات الحروف:\n",
+        "options": {
+            "1": "عالَمٌ یُنتَفَع بِعلمهِ خَیرِ مِن ألف عابَد!",
+            "2": "لَیسَ شَیءٌ أثقَلَ فی المیزانِ من الخُلُق الحسَن!",
+            "3": "عَلی کُلِّ النّاس أنْ یَتَعایَشوا تَعایشًا سِلمیًّا!",
+            "4": "تُؤدِّی الدَّلافین دَورًا مُهمًّا فی الحَربِ و السِّلم!"
+        },
+        "final_answer": 1,
+        "full_text": "Error in recording letter movements:\n\nOptions:\nA) The world benefits from a thousand worshipers with their knowledge!\nB) Nothing is weaker in the scales than the good creatures!\nC) عَلی کُلِّ النّاس أنْ یَتَعايَشوا تَعايشًا سِلميًّا!\nD) The study of the Dalafin during an important period in war and peace!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "عیّن الخطأ:\n",
+        "options": {
+            "1": "الأرجل: یمشی الإنسان بها!",
+            "2": "المُتفرِّج: الّذی یُشجِّع اللاعبَ فی المسابقة!",
+            "3": "السائح: من یُفرَح النّاس لزیارة الآثار التاریخیة!",
+            "4": "المشکاة: زجاجة فیها مصباح ینتشر الضوءُ من داخلها!"
+        },
+        "final_answer": 3,
+        "full_text": "Set the error:\n\nOptions:\nA) Legs: humans walk with them!\nB) Spectator: The one who encourages the player in the competition!\nC) Tourist: Who makes people happy to visit historical monuments!\nD) The niche: a bottle with a lamp inside which the light spreads!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "عیِّن المناسب للفراغین: «أیّام الاُسبوع ......... و الیوم الوسط منها ............!».\n",
+        "options": {
+            "1": "سبعة - اثنین",
+            "2": "سبعة - الثلاثاء",
+            "3": "سابعة - الاثنین",
+            "4": "سابعة - ثلاثاء"
+        },
+        "final_answer": 2,
+        "full_text": "Determine what is appropriate for the blanks: “The days of the week are ......... and the middle day is ............!”\n\nOptions:\nA) Seven - two\nB) Seven - Tuesday\nC) Seventh - Monday\nD) Seven - Tuesday",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "عیّن وزن «أفعل» لیس اسم تفضیل:\n",
+        "options": {
+            "1": "السّکوت أبلغ کلامٍ مقابل الجاهل!",
+            "2": "هذه السّورة أعظم السّور فی القرآن الکریم!",
+            "3": "مَن أحسن إلیک فأحسن إلیه، و هذا العمل حسنٌ!",
+            "4": "الغِنی الأکبر الیأسُ من کلّ ما فی أیدی الآخرین!"
+        },
+        "final_answer": 3,
+        "full_text": "Determine the weight of “I do” not a superlative:\n\nOptions:\nA) Silence is the most eloquent speech compared to the ignorant!\nB) This surah is the greatest surah in the Holy Quran!\nC) Whoever does good to you, do good to him, and this is a good deed!\nD) The greatest wealth is despair over everything that is in the hands of others!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "عیّن ما فیه «نون الوقایة!»:\n",
+        "options": {
+            "1": "أیّتها التلمیذة المجتهدة! بیِّنی لزمیلاتک اُسلوب قراءة الدروس!",
+            "2": "هل تعرفُ أنّ النّملة تَبنی بَیتَها تحت الأرض و له نوافذ!",
+            "3": "لَتمنَّی أن نَصل إلی أهدافنا دون تعب؛ و هذا محال!",
+            "4": "أَنقَذنی أحدٌ‌ أصدقائی قبل أن أغرق فی الشّدائد!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify what is included in “Noon of Prevention!”:\n\nOptions:\nA) O diligent student! Show your colleagues how to read the lessons!\nB) Did you know that the ant builds its house underground and has windows?\nC) To hope that we will reach our goals without fatigue; And this is impossible!\nD) One of my friends saved me before I drowned in adversity!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "عیّن کلمة «ما» مضافًا إلیه (بالنظر إلی المعنی):\n",
+        "options": {
+            "1": "أعظم ما فی الحیاة أن یبقی العقلُ شابًّا!",
+            "2": "لمَ تقول ما لیس لک به علمٌ!",
+            "3": "العلمُ ما ینفعک و العقلُ ما یوصلک إلیه!",
+            "4": "اُنظر إلی السّماء‌ لیلاً حتّی تُشاهد ما رأیتُه أناً!"
+        },
+        "final_answer": 1,
+        "full_text": "Specify the word “what” in addition to it (given the meaning):\n\nOptions:\nA) The greatest thing in life is to keep the mind young!\nB) Why say what you have no knowledge of!\nC) Knowledge is what benefits you and reason is what leads you to it!\nD) Look at the sky at night until you see what I saw!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "عیّن «ما» شرطیّة:\n",
+        "options": {
+            "1": "ما فعلتُ هذا لک حتّی أتوقّع أجره!",
+            "2": "ما تقول عنه فی هذا الاُمر غیر صحیح!",
+            "3": "ما تزرع فی الدنیا حتّی تری نتیجته فی الآخرة!",
+            "4": "ما تطلب من الخیر للآخرین فإنّک تری نتیجته!"
+        },
+        "final_answer": 4,
+        "full_text": "عّن «ما» Conditional:\n\nOptions:\nA) What have you done that you can't even expect a reward!\nB) What is said about him in this command is not correct!\nC) What is planted in this world has no other result in the Hereafter!\nD) What you ask of the good for the last is another result!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "عیّن حرف المشبّه بالفعل یختلف (فی المعنی):\n",
+        "options": {
+            "1": "قد جاء فی التاریخ انَّ إبراهیم (ع) أنقذ قومه من عبادة الأصنام!",
+            "2": "أیّها الإنسان لاتحزن علی ما فاتک، انّ الیأس یُبعدک من الله!",
+            "3": "أیظنّ الإنسانُ انّ الله یترکه سدًی و وحیداً!",
+            "4": "إلهنا و ربّنا نعلم انّک مع عبادک دائمًا!"
+        },
+        "final_answer": 2,
+        "full_text": "Each letter similar to the verb differs (in meaning):\n\nOptions:\nA) When in history did Abraham (pbuh) save his people from worshiping idols?\nB) O man, do not grieve for what you have lost, for Elijah has sent you away from Allah!\nC) Permit man that Allah is the One!\nD) God and our Lord know that you are always with your servants!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

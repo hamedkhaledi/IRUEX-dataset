@@ -1,0 +1,992 @@
+{
+    "1": {
+        "question": "در یک کلاس ۳۹ نفری، ۱۶ نفر در گروه ورزش، ۱۲ نفر در گروه روزنامه‌دیواری و ۹ نفر فقط در گروه ورزش هستند. چند نفر آنان عضو هیچ‌یک از این دو گروه نیستند؟\n",
+        "options": {
+            "1": "۱۵",
+            "2": "۱۶",
+            "3": "۱۷",
+            "4": "۱۸"
+        },
+        "final_answer": 4,
+        "full_text": "در یک کلاس 39 نفری, 16 نفر در گروه ورزش, 12 نفر در گروه روزنامه‌دیواری و 9 نفر فقط در گروه ورزش هستند. چند نفر آنان عضو هیچ‌یک از این دو گروه نیستند؟\n\nOptions:\nA) 15\nB) 16\nC) 17\nD) 18",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "اگرA=\\sqrt[۵]{۴\\sqrt[۳]{۱۶}}{{(\\frac{۱}{۲})}^{-\\frac{۴}{۳}}} باشد، حاصل{{(۲A)}^{-\\frac{۱}{۳}}}، کدام است؟\n",
+        "options": {
+            "1": "۰/۲۵",
+            "2": "۰/۵",
+            "3": "۰/۷۵",
+            "4": "۱"
+        },
+        "final_answer": 2,
+        "full_text": "اگرA=\\sqrt[5]{4\\sqrt[3]{16}}{{(\\frac{1}{2})}^{-\\frac{4}{3}}} باشد, حاصل{{(2A)}^{-\\frac{1}{3}}}, کدام است؟\n\nOptions:\nA) 0.25\nB) 0.5\nC) 0.75\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "به‌ازای کدام مجموعه مقادیرm، معادلهٔ درجه دوم(۲m-۱){{x}^{۲}}+۶x+m-۲=۰، دارای دو ریشهٔ حقیقی است؟\n",
+        "options": {
+            "1": "-۲\\lt m\\lt ۲/۵",
+            "2": "-۲\\lt m\\lt ۳/۵",
+            "3": "-۱\\lt m\\lt ۳/۵",
+            "4": "-۱\\lt m\\lt ۲/۵"
+        },
+        "final_answer": 3,
+        "full_text": "به‌ازای کدام مجموعه مقادیرm, معادلهٔ درجه دوم(2m-1){{x}^{2}}+6x+m-2=0, دارای دو ریشهٔ حقیقی است؟\n\nOptions:\nA) -2\\lt m\\lt 2.5\nB) -2\\lt m\\lt 3.5\nC) -1\\lt m\\lt 3.5\nD) -1\\lt m\\lt 2.5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "نمودار تابعy=-{{x}^{۲}}+۲x+۵ را ۳ واحد به طرفxهای مثبت، سپس ۲ واحد به طرفyهای منفی انتقال می‌دهیم. نمودار جدید در کدام بازه، بالای نیمساز ربع اول است؟\n",
+        "options": {
+            "1": "(۳,۴)",
+            "2": "(۲,۵)",
+            "3": "(۳,۵)",
+            "4": "(۲,۶)"
+        },
+        "final_answer": 1,
+        "full_text": "نمودار تابعy=-{{x}^{2}}+2x+5 را 3 واحد به طرفxهای مثبت, سپس 2 واحد به طرفyهای منفی انتقال می‌دهیم. نمودار جدید در کدام بازه, بالای نیمساز ربع اول است؟\n\nOptions:\nA) (3,4)\nB) (2,5)\nC) (3,5)\nD) (2,6)",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "مجموع تمام اعداد طبیعی دو رقمی مضرب ۷، کدام است؟\n",
+        "options": {
+            "1": "۷۲۱",
+            "2": "۷۲۸",
+            "3": "۷۳۵",
+            "4": "۷۴۲"
+        },
+        "final_answer": 2,
+        "full_text": "مجموع تمام اعداد طبیعی دو رقمی مضرب 7, کدام است؟\n\nOptions:\nA) 721\nB) 728\nC) 735\nD) 742",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "بهروز یک مجلّه را به تنهایی ۹ ساعت زودتر از فرهاد تایپ می‌کند. اگر هر دو با هم کار کنند، در ۲۰ ساعت این کار انجام می‌شود. بهروز به تنهایی در چند ساعت این کار را انجام می‌دهد؟\n",
+        "options": {
+            "1": "۳۲",
+            "2": "۳۳",
+            "3": "۳۵",
+            "4": "۳۶"
+        },
+        "final_answer": 4,
+        "full_text": "بهروز یک مجلّه را به تنهایی 9 ساعت زودتر از فرهاد تایپ می‌کند. اگر هر دو با هم کار کنند, در 20 ساعت این کار انجام می‌شود. بهروز به تنهایی در چند ساعت این کار را انجام می‌دهد؟\n\nOptions:\nA) 32\nB) 33\nC) 35\nD) 36",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "اگرf=\\left\\{ (۱,۲),(۲,۵),(۳,۴),(۴,۶) \\right\\} وg=\\left\\{ (۲,۳),(۴,۲),(۵,۶),(۳,۱) \\right\\} باشند. تابع\\frac{g}{go{{f}^{-۱}}}، کدام است؟\n",
+        "options": {
+            "1": "\\left\\{ (۴,۲),(۵,۲) \\right\\}",
+            "2": "\\left\\{ (۴,۲),(۳,۵) \\right\\}",
+            "3": "\\left\\{ (۵,۲),(۲,۴) \\right\\}",
+            "4": "\\left\\{ (۳,۵),(۲,۴) \\right\\}"
+        },
+        "final_answer": 1,
+        "full_text": "اگرf=\\left\\{ (1,2),(2,5),(3,4),(4,6) \\right\\} وg=\\left\\{ (2,3),(4,2),(5,6),(3,1) \\right\\} باشند. تابع\\frac{g}{go{{f}^{-1}}}, کدام است؟\n\nOptions:\nA) \\left\\{ (4,2),(5,2) \\right\\}\nB) \\left\\{ (4,2),(3,5) \\right\\}\nC) \\left\\{ (5,2),(2,4) \\right\\}\nD) \\left\\{ (3,5),(2,4) \\right\\}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "نمودار یک تابع به‌صورتf(x)=-۲+{{(\\frac{۱}{۲})}^{Ax+B}}، نمودار تابعy={{x}^{۲}}-x را در دو نقطه به طول‌های ۱ و ۲ قطع می‌کند.f(۳) کدام است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۴",
+            "3": "۵",
+            "4": "۶"
+        },
+        "final_answer": 4,
+        "full_text": "نمودار یک تابع به‌صورتf(x)=-2+{{(\\frac{1}{2})}^{Ax+B}}, نمودار تابعy={{x}^{2}}-x را در دو نقطه به طول‌های 1 و 2 قطع می‌کند.f(3) کدام است؟\n\nOptions:\nA) 3\nB) 4\nC) 5\nD) 6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "حاصل عبارت\\tan \\frac{۱۱\\pi }{۴}+\\sin \\frac{۱۵\\pi }{۴}\\cos \\frac{۱۳\\pi }{۴}، کدام است؟\n",
+        "options": {
+            "1": "-\\frac{۳}{۲}",
+            "2": "-\\frac{۱}{۲}",
+            "3": "\\frac{۱}{۲}",
+            "4": "\\frac{۳}{۲}"
+        },
+        "final_answer": 2,
+        "full_text": "حاصل عبارت\\tan \\frac{11\\pi }{4}+\\sin \\frac{15\\pi }{4}\\cos \\frac{13\\pi }{4}, کدام است؟\n\nOptions:\nA) -\\frac{3}{2}\nB) -\\frac{1}{2}\nC) \\frac{1}{2}\nD) \\frac{3}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "حاصل\\underset{x\\to ۰}{\\mathop{\\lim }}\\,\\frac{\\sin a\\cos x+\\cos a\\sin x-\\sin a}{x}، کدام است؟\n",
+        "options": {
+            "1": "-\\sin a",
+            "2": "-\\cos a",
+            "3": "\\cos a",
+            "4": "\\sin a"
+        },
+        "final_answer": 3,
+        "full_text": "حاصل\\underset{x\\to 0}{\\mathop{\\lim }}\\,\\frac{\\sin a\\cos x+\\cos a\\sin x-\\sin a}{x}, کدام است؟\n\nOptions:\nA) -\\sin a\nB) -\\cos a\nC) \\cos a\nD) \\sin a",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "به‌ازای کدام مقدارa، تابع با ضابطهٔf(x)=\\left\\{ \\begin{matrix} \\begin{matrix} \\frac{۳x-۶}{x-\\sqrt{x+۲}}; \\\\ ax-۱; \\\\ \\end{matrix} & \\begin{matrix} x\\gt ۲ \\\\ x\\le ۲ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right.، بر روی مجموعه اعداد حقیقی، پیوسته است؟\n",
+        "options": {
+            "1": "۱/۵",
+            "2": "۲",
+            "3": "۲/۵",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "به‌ازای کدام مقدارa, تابع با ضابطهٔf(x)=\\left\\{ \\begin{matrix} \\begin{matrix} \\frac{3x-6}{x-\\sqrt{x+2}}; \\\\ ax-1; \\\\ \\end{matrix} & \\begin{matrix} x\\gt 2 \\\\ x\\le 2 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right., بر روی مجموعه اعداد حقیقی, پیوسته است؟\n\nOptions:\nA) 1.5\nB) 2\nC) 2.5\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "شکل روبه‌رو، نمودار تابعy=۱+a\\sin bx\\cos bx است.a+b کدام است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "\\frac{۳}{۲}",
+            "3": "۲",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "شکل روبه‌رو, نمودار تابعy=1+a\\sin bx\\cos bx است.a+b کدام است؟\n\nOptions:\nA) 1\nB) \\frac{3}{2}\nC) 2\nD) 3",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "مجموع جواب‌های معادلهٔ مثلثاتی{{\\sin }^{۳}}x+{{\\cos }^{۳}}x=۱-\\frac{۱}{۲}\\sin ۲x، در بازهٔ\\left[ ۰,۲\\pi \\right]، کدام است؟\n",
+        "options": {
+            "1": "\\frac{۵\\pi }{۲}",
+            "2": "\\frac{۷\\pi }{۲}",
+            "3": "۲\\pi",
+            "4": "۳\\pi"
+        },
+        "final_answer": 1,
+        "full_text": "مجموع جواب‌های معادلهٔ مثلثاتی{{\\sin }^{3}}x+{{\\cos }^{3}}x=1-\\frac{1}{2}\\sin 2x, در بازهٔ\\left[ 0,2\\pi \\right], کدام است؟\n\nOptions:\nA) \\frac{5\\pi }{2}\nB) \\frac{7\\pi }{2}\nC) 2\\pi\nD) 3\\pi",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "اگر\\underset{x\\to ۲}{\\mathop{\\lim }}\\,\\frac{۲x-۵}{{{x}^{۲}}+ax+b}=-\\infty باشد،a+b کدام است؟\n",
+        "options": {
+            "1": "۱-",
+            "2": "صفر",
+            "3": "۱",
+            "4": "۲"
+        },
+        "final_answer": 2,
+        "full_text": "اگر\\underset{x\\to 2}{\\mathop{\\lim }}\\,\\frac{2x-5}{{{x}^{2}}+ax+b}=-\\infty باشد,a+b کدام است؟\n\nOptions:\nA) 1-\nB) صفر\nC) 1\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "اگرg(x)=x+\\sqrt{x} و\\underset{x\\to ۲}{\\mathop{\\lim }}\\,\\frac{f(x)-f(۲)}{x-۲}=\\frac{۴}{۳} باشد،(fog{)}'(۱) کدام است؟\n",
+        "options": {
+            "1": "\\frac{۲}{۳}",
+            "2": "\\frac{۳}{۲}",
+            "3": "۲",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "اگرg(x)=x+\\sqrt{x} و\\underset{x\\to 2}{\\mathop{\\lim }}\\,\\frac{f(x)-f(2)}{x-2}=\\frac{4}{3} باشد,(fog{)}'(1) کدام است؟\n\nOptions:\nA) \\frac{2}{3}\nB) \\frac{3}{2}\nC) 2\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "در یک ذوزنقه، خطی که وسط ساق‌ها را به هم وصل کند مساحت آن را به نسبت ۳ به ۵ تقسیم می‌کند، نسبت قاعده‌های ذوزنقه کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۴}",
+            "2": "\\frac{۱}{۳}",
+            "3": "\\frac{۲}{۵}",
+            "4": "\\frac{۳}{۵}"
+        },
+        "final_answer": 2,
+        "full_text": "در یک ذوزنقه, خطی که وسط ساق‌ها را به هم وصل کند مساحت آن را به نسبت 3 به 5 تقسیم می‌کند, نسبت قاعده‌های ذوزنقه کدام است؟\n\nOptions:\nA) \\frac{1}{4}\nB) \\frac{1}{3}\nC) \\frac{2}{5}\nD) \\frac{3}{5}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "فاصلهٔ نقطهٔ مینیمم مطلق تابعf(x)=\\frac{{{x}^{۲}}+۲x}{{{(x-۱)}^{۲}}}، از خط مجانب قائم آن کدام است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "\\frac{۴}{۳}",
+            "3": "\\frac{۳}{۲}",
+            "4": "۲"
+        },
+        "final_answer": 3,
+        "full_text": "فاصلهٔ نقطهٔ مینیمم مطلق تابعf(x)=\\frac{{{x}^{2}}+2x}{{{(x-1)}^{2}}}, از خط مجانب قائم آن کدام است؟\n\nOptions:\nA) 1\nB) \\frac{4}{3}\nC) \\frac{3}{2}\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "شکل روبه‌رو، نمودار تابعf(x)=۳{{x}^{۴}}+a{{x}^{۳}}+b{{x}^{۲}}+cx است.a کدام است؟\n",
+        "options": {
+            "1": "۸-",
+            "2": "۷-",
+            "3": "۵-",
+            "4": "۴-"
+        },
+        "final_answer": 1,
+        "full_text": "شکل روبه‌رو, نمودار تابعf(x)=3{{x}^{4}}+a{{x}^{3}}+b{{x}^{2}}+cx است.a کدام است؟\n\nOptions:\nA) 8-\nB) 7-\nC) 5-\nD) 4-",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "در تابع با ضابطهٔf(x)=(x+۲)\\sqrt{۴x+۱}، آهنگ تغییر متوسط تابع در بازه\\left[ ۰,۲ \\right] از آهنگ تغییر لحظه‌ای آن درx=\\frac{۳}{۴} چقدر بیشتر است؟\n",
+        "options": {
+            "1": "۰/۱۰",
+            "2": "۰/۱۵",
+            "3": "۰/۲۰",
+            "4": "۰/۲۵"
+        },
+        "final_answer": 4,
+        "full_text": "در تابع با ضابطهٔf(x)=(x+2)\\sqrt{4x+1}, آهنگ تغییر متوسط تابع در بازه\\left[ 0,2 \\right] از آهنگ تغییر لحظه‌ای آن درx=\\frac{3}{4} چقدر بیشتر است؟\n\nOptions:\nA) 0.10\nB) 0.15\nC) 0.20\nD) 0.25",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "تابع با ضابطهٔf(x)=\\left\\{ \\begin{matrix} \\begin{matrix} \\left| {{x}^{۲}}-۲x \\right|; & x\\lt ۲ \\\\ \\end{matrix} \\\\ \\begin{matrix} \\frac{۱}{۲}{{x}^{۲}}+ax+b; & x\\ge ۲ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right.، در نقطهٔx=۲ مشتق‌پذیر است.a+b کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 1,
+        "full_text": "تابع با ضابطهٔf(x)=\\left\\{ \\begin{matrix} \\begin{matrix} \\left| {{x}^{2}}-2x \\right|; & x\\lt 2 \\\\ \\end{matrix} \\\\ \\begin{matrix} \\frac{1}{2}{{x}^{2}}+ax+b; & x\\ge 2 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right., در نقطهٔx=2 مشتق‌پذیر است.a+b کدام است؟\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "در مثلثABC نقطهٔM وسطBC است. نیمسازهای دو زاویهٔAMB وAMC دو مثلث را درP وQ قطع می‌کنند. نقطهٔO محل تلاقیAM وPQ است.OM برابر کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۴}BC",
+            "2": "AQ",
+            "3": "OA",
+            "4": "OP"
+        },
+        "final_answer": 4,
+        "full_text": "در مثلثABC نقطهٔM وسطBC است. نیمسازهای دو زاویهٔAMB وAMC دو مثلث را درP وQ قطع می‌کنند. نقطهٔO محل تلاقیAM وPQ است.OM برابر کدام است؟\n\nOptions:\nA) \\frac{1}{4}BC\nB) AQ\nC) OA\nD) OP",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "در چهارضلعیABCD، وسط دو ضلع غیرمجاور و وسط دو قطر آن، رأس‌های یک لوزی است. الزاماً کدام نتیجه‌گیری در مورد چهارضلعی مفروض، درست است؟\n",
+        "options": {
+            "1": "دو ضلع غیرمجاور دیگر، برابرند.",
+            "2": "دو قطر عمود برهم‌اند.",
+            "3": "دو ضلع شامل رأس‌های لوزی، برابرند.",
+            "4": "دو ضلع غیرمجاور، موازی‌اند."
+        },
+        "final_answer": 1,
+        "full_text": "در چهارضلعیABCD, وسط دو ضلع غیرمجاور و وسط دو قطر آن, راس‌های یک لوزی است. الزاماً کدام نتیجه‌گیری در مورد چهارضلعی مفروض, درست است؟\n\nOptions:\nA) دو ضلع غیرمجاور دیگر, برابرند.\nB) دو قطر عمود برهم‌اند.\nC) دو ضلع شامل راس‌های لوزی, برابرند.\nD) دو ضلع غیرمجاور, موازی‌اند.",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "نقطهٔA و خطd و صفحهٔP مفروض‌اند. در رسم صفحه‌ای گذرا از نقطهٔA، موازی خطd و عمود بر صفحهٔP، در کدام حالت، تعداد جواب‌ها، بی‌شمار است؟\n",
+        "options": {
+            "1": "d\\bigcap p=d",
+            "2": "d\\bigcap p\\ne \\phi",
+            "3": "d\\left\\| p \\right.",
+            "4": "d\\bot p"
+        },
+        "final_answer": 4,
+        "full_text": "نقطهٔA و خطd و صفحهٔP مفروض‌اند. در رسم صفحه‌ای گذرا از نقطهٔA, موازی خطd و عمود بر صفحهٔP, در کدام حالت, تعداد جواب‌ها, بی‌شمار است؟\n\nOptions:\nA) d\\bigcap p=d\nB) d\\bigcap p\\ne \\phi\nC) d\\left\\| p \\right.\nD) d\\bot p",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "در یک مکعب، صفحهٔ گذرا بر یک یال و وسط یال دیگر، آن را به دو قطعه نابرابر تقسیم می‌کند. نسبت حجم‌های این دو قطعه، کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۴}",
+            "2": "\\frac{۱}{۳}",
+            "3": "\\frac{۱}{\\sqrt{۵}}",
+            "4": "\\frac{۱}{\\sqrt{۳}}"
+        },
+        "final_answer": 2,
+        "full_text": "در یک مکعب, صفحهٔ گذرا بر یک یال و وسط یال دیگر, آن را به دو قطعه نابرابر تقسیم می‌کند. نسبت حجم‌های این دو قطعه, کدام است؟\n\nOptions:\nA) \\frac{1}{4}\nB) \\frac{1}{3}\nC) \\frac{1}{\\sqrt{5}}\nD) \\frac{1}{\\sqrt{3}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "یک ذوزنقهٔ متساوی‌الساقین، با کدام شرط قابل محیط بر دایره است؟\n",
+        "options": {
+            "1": "دو قطر عمود بر هم",
+            "2": "یکی از قاعده‌های ذوزنقه، برابر یکی از ساق‌ها",
+            "3": "خط واصل وسط دو ساق، گذرا از محل تلاقی قطرها",
+            "4": "طول پاره‌خط واصل وسط دو ساق، برابر اندازهٔ یکی از ساق‌ها"
+        },
+        "final_answer": 4,
+        "full_text": "یک ذوزنقهٔ متساوی‌الساقین, با کدام شرط قابل محیط بر دایره است؟\n\nOptions:\nA) دو قطر عمود بر هم\nB) یکی از قاعده‌های ذوزنقه, برابر یکی از ساق‌ها\nC) خط واصل وسط دو ساق, گذرا از محل تلاقی قطرها\nD) طول پاره‌خط واصل وسط دو ساق, برابر اندازهٔ یکی از ساق‌ها",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "اگر مساحت شش ضلعی منتظم محاط در یک دایره۶\\sqrt{۳} باشد. آنگاه مساحت شش ضلعی منتظم محیط بر این دایره، چند برابر\\sqrt{۳} است؟\n",
+        "options": {
+            "1": "۷/۲",
+            "2": "۷/۵",
+            "3": "۸",
+            "4": "۹"
+        },
+        "final_answer": 3,
+        "full_text": "اگر مساحت شش ضلعی منتظم محاط در یک دایره6\\sqrt{3} باشد. آنگاه مساحت شش ضلعی منتظم محیط بر این دایره, چند برابر\\sqrt{3} است؟\n\nOptions:\nA) 7.2\nB) 7.5\nC) 8\nD) 9",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "نقطهٔA در صفحه دو خط متقاطعd و{d}' است. در رسم مثلث متساوی‌الاضلاع به رأس A، که دو رأس دیگر آن بر روی هر یک از دو خط مفروض باشد، کدام تبدیل هندسی به‌کار می‌رود؟\n",
+        "options": {
+            "1": "انتقال",
+            "2": "بازتاب",
+            "3": "تجانس",
+            "4": "دوران"
+        },
+        "final_answer": 4,
+        "full_text": "نقطهٔA در صفحه دو خط متقاطعd و{d}' است. در رسم مثلث متساوی‌الاضلاع به راس A, که دو راس دیگر آن بر روی هر یک از دو خط مفروض باشد, کدام تبدیل هندسی به‌کار می‌رود؟\n\nOptions:\nA) انتقال\nB) بازتاب\nC) تجانس\nD) دوران",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "در شکل زیر، وترAB برابر شعاع دایره وAB\\left\\| CD \\right.، زاویهٔ\\beta =۲\\alpha وCX مماس بر دایره است. کمان\\overset\\frown{BD} چند درجه است؟\n",
+        "options": {
+            "1": "۵۰",
+            "2": "۶۰",
+            "3": "۷۰",
+            "4": "۷۵"
+        },
+        "final_answer": 4,
+        "full_text": "در شکل زیر, وترAB برابر شعاع دایره وAB\\left\\| CD \\right., زاویهٔ\\beta =2\\alpha وCX مماس بر دایره است. کمان\\overset\\frown{BD} چند درجه است؟\n\nOptions:\nA) 50\nB) 60\nC) 70\nD) 75",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "در شکل روبه‌رو، اندازهٔ ضلع بزرگتر چهارضلعی کدام است؟\n",
+        "options": {
+            "1": "۲\\sqrt{۱۰}",
+            "2": "۲\\sqrt{۱۱}",
+            "3": "۴\\sqrt{۳}",
+            "4": "۵\\sqrt{۲}"
+        },
+        "final_answer": 1,
+        "full_text": "در شکل روبه‌رو, اندازهٔ ضلع بزرگتر چهارضلعی کدام است؟\n\nOptions:\nA) 2\\sqrt{10}\nB) 2\\sqrt{11}\nC) 4\\sqrt{3}\nD) 5\\sqrt{2}",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "از رابطهٔ ماتریسی\\left[ \\begin{matrix} x & ۲x & -۱ \\\\ \\end{matrix} \\right]\\left[ \\begin{matrix} \\begin{matrix} ۳ \\\\ ۴ \\\\ ۱ \\\\ \\end{matrix} & \\begin{matrix} -۱ \\\\ ۰ \\\\ ۲ \\\\ \\end{matrix} & \\begin{matrix} ۱ \\\\ -۲ \\\\ ۰ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]\\left[ \\begin{matrix} x \\\\ ۲x \\\\ -۱ \\\\ \\end{matrix} \\right]=۰، عدد غیرصفرx، کدام است؟\n",
+        "options": {
+            "1": "\\frac{۲}{۹}",
+            "2": "\\frac{۳}{۸}",
+            "3": "\\frac{۴}{۹}",
+            "4": "\\frac{۳}{۵}"
+        },
+        "final_answer": 1,
+        "full_text": "از رابطهٔ ماتریسی\\left[ \\begin{matrix} x & 2x & -1 \\\\ \\end{matrix} \\right]\\left[ \\begin{matrix} \\begin{matrix} 3 \\\\ 4 \\\\ 1 \\\\ \\end{matrix} & \\begin{matrix} -1 \\\\ 0 \\\\ 2 \\\\ \\end{matrix} & \\begin{matrix} 1 \\\\ -2 \\\\ 0 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]\\left[ \\begin{matrix} x \\\\ 2x \\\\ -1 \\\\ \\end{matrix} \\right]=0, عدد غیرصفرx, کدام است؟\n\nOptions:\nA) \\frac{2}{9}\nB) \\frac{3}{8}\nC) \\frac{4}{9}\nD) \\frac{3}{5}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "اگرA=\\left[ \\begin{matrix} \\begin{matrix} ۲ \\\\ ۱ \\\\ \\end{matrix} & \\begin{matrix} ۱ \\\\ ۳ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]، از رابطهٔ ماتریسیAX=A-۲I، ماتریسX، کدام است؟\n",
+        "options": {
+            "1": "\\left[ \\begin{matrix} \\begin{matrix} -۲ \\\\ ۳ \\\\ \\end{matrix} & \\begin{matrix} ۲ \\\\ -۱ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]",
+            "2": "\\left[ \\begin{matrix} \\begin{matrix} -۲ \\\\ ۴ \\\\ \\end{matrix} & \\begin{matrix} ۱ \\\\ -۱ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]",
+            "3": "\\left[ \\begin{matrix} \\begin{matrix} ۲ \\\\ ۴ \\\\ \\end{matrix} & \\begin{matrix} -۱ \\\\ ۲ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]",
+            "4": "\\left[ \\begin{matrix} \\begin{matrix} ۱ \\\\ ۴ \\\\ \\end{matrix} & \\begin{matrix} ۲ \\\\ -۱ \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]"
+        },
+        "final_answer": 2,
+        "full_text": "اگرA=\\left[ \\begin{matrix} \\begin{matrix} 2 \\\\ 1 \\\\ \\end{matrix} & \\begin{matrix} 1 \\\\ 3 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right], از رابطهٔ ماتریسیAX=A-2I, ماتریسX, کدام است؟\n\nOptions:\nA) \\left[ \\begin{matrix} \\begin{matrix} -2 \\\\ 3 \\\\ \\end{matrix} & \\begin{matrix} 2 \\\\ -1 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]\nB) \\left[ \\begin{matrix} \\begin{matrix} -2 \\\\ 4 \\\\ \\end{matrix} & \\begin{matrix} 1 \\\\ -1 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]\nC) \\left[ \\begin{matrix} \\begin{matrix} 2 \\\\ 4 \\\\ \\end{matrix} & \\begin{matrix} -1 \\\\ 2 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]\nD) \\left[ \\begin{matrix} \\begin{matrix} 1 \\\\ 4 \\\\ \\end{matrix} & \\begin{matrix} 2 \\\\ -1 \\\\ \\end{matrix} \\\\ \\end{matrix} \\right]",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "اگرA ماتریس۳\\times ۳ باشد و\\left| A \\right|=۴، آنگاه دترمینان ماتریس\\left| A \\right|\\centerdot A، کدام است؟\n",
+        "options": {
+            "1": "۶۴",
+            "2": "۹۶",
+            "3": "۱۲۸",
+            "4": "۲۵۶"
+        },
+        "final_answer": 4,
+        "full_text": "اگرA ماتریس3\\times 3 باشد و\\left| A \\right|=4, آنگاه دترمینان ماتریس\\left| A \\right|\\centerdot A, کدام است؟\n\nOptions:\nA) 64\nB) 96\nC) 128\nD) 256",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "وتر مشترک دایرهٔC با دایره به معادلهٔ{{x}^{۲}}+{{y}^{۲}}-۴x=۶ منطق بر نیمساز ناحیهٔ اول است. اگر دایرهٔC از نقطهٔ(-۱,۴) بگذرد، معادلهٔ آن کدام است؟\n",
+        "options": {
+            "1": "{{x}^{۲}}+{{y}^{۲}}-y+۳x=۶",
+            "2": "{{x}^{۲}}+{{y}^{۲}}+۲y-x=۶",
+            "3": "{{x}^{۲}}+{{y}^{۲}}-۲y+x=۶",
+            "4": "{{x}^{۲}}+{{y}^{۲}}-۳y-x=۶"
+        },
+        "final_answer": 4,
+        "full_text": "وتر مشترک دایرهٔC با دایره به معادلهٔ{{x}^{2}}+{{y}^{2}}-4x=6 منطق بر نیمساز ناحیهٔ اول است. اگر دایرهٔC از نقطهٔ(-1,4) بگذرد, معادلهٔ آن کدام است؟\n\nOptions:\nA) {{x}^{2}}+{{y}^{2}}-y+3x=6\nB) {{x}^{2}}+{{y}^{2}}+2y-x=6\nC) {{x}^{2}}+{{y}^{2}}-2y+x=6\nD) {{x}^{2}}+{{y}^{2}}-3y-x=6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "معادلهٔ یک سهمی با کانونF(۲,۱) و خط هادی به معادلهٔx=۴، کدام است؟\n",
+        "options": {
+            "1": "{{y}^{۲}}-۲y+۴x=۱۱",
+            "2": "{{y}^{۲}}-۲y+۲x=۵",
+            "3": "{{x}^{۲}}-۴x+۴y=۰",
+            "4": "{{x}^{۲}}-۶x+۲y=-۵"
+        },
+        "final_answer": 1,
+        "full_text": "معادلهٔ یک سهمی با کانونF(2,1) و خط هادی به معادلهٔx=4, کدام است؟\n\nOptions:\nA) {{y}^{2}}-2y+4x=11\nB) {{y}^{2}}-2y+2x=5\nC) {{x}^{2}}-4x+4y=0\nD) {{x}^{2}}-6x+2y=-5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "در یک بیضی به اقطار۲\\sqrt{۵} و ۲ واحد، دایره‌ای هم مرکز با بیضی و شعاع ۲ واحد، بیضی را در نقطهٔM قطع می‌کند. مجموع مربعات فواصلM از دو کانون بیضی، کدام است؟\n",
+        "options": {
+            "1": "۱۲",
+            "2": "۱۶",
+            "3": "۱۸",
+            "4": "۲۰"
+        },
+        "final_answer": 2,
+        "full_text": "در یک بیضی به اقطار2\\sqrt{5} و 2 واحد, دایره‌ای هم مرکز با بیضی و شعاع 2 واحد, بیضی را در نقطهٔM قطع می‌کند. مجموع مربعات فواصلM از دو کانون بیضی, کدام است؟\n\nOptions:\nA) 12\nB) 16\nC) 18\nD) 20",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "به‌ازای کدام مقدارm، سه بردار\\overrightarrow{a}=(-۱,۲,۳)،\\overrightarrow{b}=(۲,۰,۱) و\\overrightarrow{c}=(-۴,m,۵) در یک صفحه‌اند؟\n",
+        "options": {
+            "1": "۲-",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "به‌ازای کدام مقدارm, سه بردار\\overrightarrow{a}=(-1,2,3),\\overrightarrow{b}=(2,0,1) و\\overrightarrow{c}=(-4,m,5) در یک صفحه‌اند؟\n\nOptions:\nA) 2-\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "اگرA=\\left\\{ ۱,۲\\left\\{ ۱,۲ \\right\\},\\left\\{ ۱,\\left\\{ ۱,۲ \\right\\} \\right\\},\\left\\{ ۲ \\right\\} \\right\\} وB=\\left\\{ \\left\\{ ۱ \\right\\},\\left\\{ ۱,۲ \\right\\} \\right\\} باشند، تعداد زیر مجموعه‌هایA\\bigcap {B}'، کدام است؟\n",
+        "options": {
+            "1": "۴",
+            "2": "۸",
+            "3": "۱۶",
+            "4": "۳۲"
+        },
+        "final_answer": 3,
+        "full_text": "اگرA=\\left\\{ 1,2\\left\\{ 1,2 \\right\\},\\left\\{ 1,\\left\\{ 1,2 \\right\\} \\right\\},\\left\\{ 2 \\right\\} \\right\\} وB=\\left\\{ \\left\\{ 1 \\right\\},\\left\\{ 1,2 \\right\\} \\right\\} باشند, تعداد زیر مجموعه‌هایA\\bigcap {B}', کدام است؟\n\nOptions:\nA) 4\nB) 8\nC) 16\nD) 32",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "در دو جعبه به‌ترتیب ۲۰ و ۱۲ لامپ موجود است. در جعبهٔ اول ۴ لامپ و در جعبهٔ دوم ۳ لامپ معیوب است. از جعبهٔ اول ۵ لامپ و از جعبهٔ دوم ۷ لامپ، به تصادف برداشته و در جعبهٔ جدید قرار می‌دهیم. با کدام احتمال، یک لامپ انتخابی از جعبهٔ جدید، معیوب است؟\n",
+        "options": {
+            "1": "\\frac{۵}{۲۴}",
+            "2": "\\frac{۱۱}{۴۸}",
+            "3": "\\frac{۱۳}{۴۸}",
+            "4": "\\frac{۷}{۲۴}"
+        },
+        "final_answer": 2,
+        "full_text": "در دو جعبه به‌ترتیب 20 و 12 لامپ موجود است. در جعبهٔ اول 4 لامپ و در جعبهٔ دوم 3 لامپ معیوب است. از جعبهٔ اول 5 لامپ و از جعبهٔ دوم 7 لامپ, به تصادف برداشته و در جعبهٔ جدید قرار می‌دهیم. با کدام احتمال, یک لامپ انتخابی از جعبهٔ جدید, معیوب است؟\n\nOptions:\nA) \\frac{5}{24}\nB) \\frac{11}{48}\nC) \\frac{13}{48}\nD) \\frac{7}{24}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "در دو پیشامد مستقلA وB، اگرP(A\\bigcap B)=۰/۶ وP(A\\bigcap {B}')=۰/۲، آنگاهP(A\\bigcup {B}')، کدام است؟\n",
+        "options": {
+            "1": "۰/۷",
+            "2": "۰/۷۵",
+            "3": "۰/۸۵",
+            "4": "۰/۹"
+        },
+        "final_answer": 3,
+        "full_text": "در دو پیشامد مستقلA وB, اگرP(A\\bigcap B)=0.6 وP(A\\bigcap {B}')=0.2, آنگاهP(A\\bigcup {B}'), کدام است؟\n\nOptions:\nA) 0.7\nB) 0.75\nC) 0.85\nD) 0.9",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "نمرات ریاضی ۴۰ دانش‌آموز یک کلاس در جدول زیر آمده است. میانگین وزنی نمرات، کدام است؟\n",
+        "options": {
+            "1": "۱۴/۲",
+            "2": "۱۴/۲۵",
+            "3": "۱۴/۴",
+            "4": "۱۴/۷۵"
+        },
+        "final_answer": 1,
+        "full_text": "نمرات ریاضی 40 دانش‌آموز یک کلاس در جدول زیر آمده است. میانگین وزنی نمرات, کدام است؟\n\nOptions:\nA) 14.2\nB) 14.25\nC) 14.4\nD) 14.75",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "40"
+        }
+    },
+    "41": {
+        "question": "نرخ بیکاری یک کشور در ۱۰ سال گذشته به‌صورت زیر است، مقدار\\frac{{{Q}_{۱}}+{{Q}_{۳}}-۲{{Q}_{۲}}}{{{Q}_{۳}}-{{Q}_{۱}}} کدام است؟\n",
+        "options": {
+            "1": "۰/۲۲۵-",
+            "2": "۰/۱۲۵-",
+            "3": "۰/۱۷۵",
+            "4": "۰/۲۷۵"
+        },
+        "final_answer": 2,
+        "full_text": "نرخ بیکاری یک کشور در 10 سال گذشته به‌صورت زیر است, مقدار\\frac{{{Q}_{1}}+{{Q}_{3}}-2{{Q}_{2}}}{{{Q}_{3}}-{{Q}_{1}}} کدام است؟\n\nOptions:\nA) 0.225-\nB) 0.125-\nC) 0.175\nD) 0.275",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "41"
+        }
+    },
+    "42": {
+        "question": "اگر باقی‌ماندهٔ تقسیم عددی بر ۶ و ۱۱ به‌ترتیب ۵ و ۷ باشد، آنگاه باقی‌مانده تقسیم این عدد بر ۶۶، کدام است؟\n",
+        "options": {
+            "1": "۲۹",
+            "2": "۳۲",
+            "3": "۴۰",
+            "4": "۴۱"
+        },
+        "final_answer": 1,
+        "full_text": "اگر باقی‌ماندهٔ تقسیم عددی بر 6 و 11 به‌ترتیب 5 و 7 باشد, آنگاه باقی‌مانده تقسیم این عدد بر 66, کدام است؟\n\nOptions:\nA) 29\nB) 32\nC) 40\nD) 41",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "42"
+        }
+    },
+    "43": {
+        "question": "به‌ازای بعضی از مقادیرn\\in N، اگر\\alpha \\left| ۱۳n+۳ \\right. و\\alpha \\left| ۷n+۴ \\right. و\\alpha \\ne ۱ باشند، آنگاه مجموع ارقام کوچک‌ترین عددn، کدام است؟\n",
+        "options": {
+            "1": "۷",
+            "2": "۸",
+            "3": "۹",
+            "4": "۱۰"
+        },
+        "final_answer": 2,
+        "full_text": "به‌ازای بعضی از مقادیرn\\in N, اگر\\alpha \\left| 13n+3 \\right. و\\alpha \\left| 7n+4 \\right. و\\alpha \\ne 1 باشند, آنگاه مجموع ارقام کوچک‌ترین عددn, کدام است؟\n\nOptions:\nA) 7\nB) 8\nC) 9\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "43"
+        }
+    },
+    "44": {
+        "question": "قیمت هر واحد از دو نوع کالای متمایز به‌ترتیب ۲۲۰ و ۱۴۰ تومان است. با مبلغ ۱۹۰۰۰ تومان، به چند طریق می‌توان از این دو نوع کالا، خریداری کرد؟\n",
+        "options": {
+            "1": "۱۰",
+            "2": "۱۱",
+            "3": "۱۲",
+            "4": "۱۳"
+        },
+        "final_answer": 3,
+        "full_text": "قیمت هر واحد از دو نوع کالای متمایز به‌ترتیب 220 و 140 تومان است. با مبلغ 19000 تومان, به چند طریق می‌توان از این دو نوع کالا, خریداری کرد؟\n\nOptions:\nA) 10\nB) 11\nC) 12\nD) 13",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "44"
+        }
+    },
+    "45": {
+        "question": "اگر عدد{{۷}^{۱۳}}+a بر ۲۳ بخش‌پذیر باشد، کوچک‌ترین عدد طبیعیa، کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 2,
+        "full_text": "اگر عدد{{7}^{13}}+a بر 23 بخش‌پذیر باشد, کوچک‌ترین عدد طبیعیa, کدام است؟\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "45"
+        }
+    },
+    "46": {
+        "question": "یک گراف ساده ۶ رأسی ۴- منتظم، دارای چند دور با طول ۴ است؟\n",
+        "options": {
+            "1": "۹",
+            "2": "۱۰",
+            "3": "۱۲",
+            "4": "۱۵"
+        },
+        "final_answer": 4,
+        "full_text": "یک گراف ساده 6 راسی 4- منتظم, دارای چند دور با طول 4 است؟\n\nOptions:\nA) 9\nB) 10\nC) 12\nD) 15",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "46"
+        }
+    },
+    "47": {
+        "question": "به چند طریق می‌توان ۱۱ توپ یکسان را بین ۵ نفر توزیع کرد، به‌طوری که هر نفر حداقل، یک توپ داشته باشد؟\n",
+        "options": {
+            "1": "۱۶۰",
+            "2": "۱۸۰",
+            "3": "۲۱۰",
+            "4": "۲۲۰"
+        },
+        "final_answer": 3,
+        "full_text": "به چند طریق می‌توان 11 توپ یکسان را بین 5 نفر توزیع کرد, به‌طوری که هر نفر حداقل, یک توپ داشته باشد؟\n\nOptions:\nA) 160\nB) 180\nC) 210\nD) 220",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "47"
+        }
+    },
+    "48": {
+        "question": "تعداد توابع پوشا، از یک مجموعه ۶ عضوی به یک مجموعه ۳ عضوی، کدام است؟\n",
+        "options": {
+            "1": "۳۶۰",
+            "2": "۴۵۰",
+            "3": "۴۸۰",
+            "4": "۵۴۰"
+        },
+        "final_answer": 4,
+        "full_text": "تعداد توابع پوشا, از یک مجموعه 6 عضوی به یک مجموعه 3 عضوی, کدام است؟\n\nOptions:\nA) 360\nB) 450\nC) 480\nD) 540",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "48"
+        }
+    },
+    "49": {
+        "question": "از مجموعه اعداد\\left\\{ ۵,۸,۱۱,....,۶۵,۶۸,۷۱ \\right\\} که به‌صورت یک تصاعد عددی مرتب شده است. یک زیر مجموعهٔ حداقل چند عضوی انتخاب شود تا مطمئن باشیم، لااقل دو عدد در این زیر مجموعه موجود است که جمع آن‌ها، ۸۲ باشد؟\n",
+        "options": {
+            "1": "۱۱",
+            "2": "۱۲",
+            "3": "۱۳",
+            "4": "۱۴"
+        },
+        "final_answer": 4,
+        "full_text": "از مجموعه اعداد\\left\\{ 5,8,11,....,65,68,71 \\right\\} که به‌صورت یک تصاعد عددی مرتب شده است. یک زیر مجموعهٔ حداقل چند عضوی انتخاب شود تا مطمئن باشیم, لااقل دو عدد در این زیر مجموعه موجود است که جمع آن‌ها, 82 باشد؟\n\nOptions:\nA) 11\nB) 12\nC) 13\nD) 14",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "49"
+        }
+    },
+    "50": {
+        "question": "به‌ازای کدام مجموعه مقادیرx، بازهٔ(x+۱,۲x-۱) یک همسایگی عدد ۳، می‌باشد؟\n",
+        "options": {
+            "1": "\\varnothing",
+            "2": "\\left\\{ ۲ \\right\\}",
+            "3": "۲\\lt x\\lt ۲/۵",
+            "4": "۱/۵\\lt x\\lt ۲"
+        },
+        "final_answer": 1,
+        "full_text": "به‌ازای کدام مجموعه مقادیرx, بازهٔ(x+1,2x-1) یک همسایگی عدد 3, می‌باشد؟\n\nOptions:\nA) \\varnothing\nB) \\left\\{ 2 \\right\\}\nC) 2\\lt x\\lt 2.5\nD) 1.5\\lt x\\lt 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "50"
+        }
+    },
+    "51": {
+        "question": "نقاطA\\left| \\begin{matrix} ۳ \\\\ ۵ \\\\ \\end{matrix} \\right. وB\\left| \\begin{matrix} ۹ \\\\ ۱۱ \\\\ \\end{matrix} \\right. در صفحهٔ محورهای مختصات مفروض‌اند، دو نقطهٔM وN همواره روی دو محور می‌لغزند. کمترین اندازه خط شکستهAMNB، کدام است؟\n",
+        "options": {
+            "1": "۱۸",
+            "2": "۱۹",
+            "3": "۲۰",
+            "4": "۲۱"
+        },
+        "final_answer": 3,
+        "full_text": "نقاطA\\left| \\begin{matrix} 3 \\\\ 5 \\\\ \\end{matrix} \\right. وB\\left| \\begin{matrix} 9 \\\\ 11 \\\\ \\end{matrix} \\right. در صفحهٔ محورهای مختصات مفروض‌اند, دو نقطهٔM وN همواره روی دو محور می‌لغزند. کمترین اندازه خط شکستهAMNB, کدام است؟\n\nOptions:\nA) 18\nB) 19\nC) 20\nD) 21",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "51"
+        }
+    },
+    "52": {
+        "question": "گزارهٔ\\sim (p\\Rightarrow q)، با کدام گزاره زیر، هم ارزش است؟\n",
+        "options": {
+            "1": "\\sim p\\vee q",
+            "2": "p\\vee \\sim q",
+            "3": "\\sim p\\wedge q",
+            "4": "p\\wedge \\sim q"
+        },
+        "final_answer": 4,
+        "full_text": "گزارهٔ\\sim (p\\Rightarrow q), با کدام گزاره زیر, هم ارزش است؟\n\nOptions:\nA) \\sim p\\vee q\nB) p\\vee \\sim q\nC) \\sim p\\wedge q\nD) p\\wedge \\sim q",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "52"
+        }
+    },
+    "53": {
+        "question": "گزارهٔ سوری،\\forall x\\in N,\\exists y\\in N;P(x,y)، با کدام گزاره نمایP(x,y) دارای ارزش درست است؟\n",
+        "options": {
+            "1": "y-x=۶",
+            "2": "x-y=۶",
+            "3": "x+y=۶",
+            "4": "xy=۶"
+        },
+        "final_answer": 1,
+        "full_text": "گزارهٔ سوری,\\forall x\\in N,\\exists y\\in N;P(x,y), با کدام گزاره نمایP(x,y) دارای ارزش درست است؟\n\nOptions:\nA) y-x=6\nB) x-y=6\nC) x+y=6\nD) xy=6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "53"
+        }
+    },
+    "54": {
+        "question": "کدام مجموعه برای گراف روبه‌رو، یک مجموعهٔ احاطه‌گر مینیمال است؟\n",
+        "options": {
+            "1": "\\left\\{ a,c,e,g \\right\\}",
+            "2": "\\left\\{ a,d,e,g \\right\\}",
+            "3": "\\left\\{ a,b,d,e \\right\\}",
+            "4": "\\left\\{ a,d,c,f \\right\\}"
+        },
+        "final_answer": 2,
+        "full_text": "کدام مجموعه برای گراف روبه‌رو, یک مجموعهٔ احاطه‌گر مینیمال است؟\n\nOptions:\nA) \\left\\{ a,c,e,g \\right\\}\nB) \\left\\{ a,d,e,g \\right\\}\nC) \\left\\{ a,b,d,e \\right\\}\nD) \\left\\{ a,d,c,f \\right\\}",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "54"
+        }
+    },
+    "55": {
+        "question": "تعداد مربع‌های لاتین متعامد با مربع لاتین (تصویر)، کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۶"
+        },
+        "final_answer": 4,
+        "full_text": "تعداد مربع‌های لاتین متعامد با مربع لاتین (تصویر), کدام است؟\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 6",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "55"
+        }
+    }
+}

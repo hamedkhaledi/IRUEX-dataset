@@ -1,0 +1,9 @@
+The given question is in multiple-choice format with options A, B, C, and D. After solving, conclude the answer by clearly stating and returning only the correct option in the last line, enclosed in brackets, and following the 'The correct option is (Option-Letter)' format. For instance:\n
+Question:
+[A sample question]
+Solution:
+[Provide a detailed step-by-step solution]
+The correct option is (A)
+Question:
+{QUESTION}
+Solution:

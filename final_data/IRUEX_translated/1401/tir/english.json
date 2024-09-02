@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "After we had eaten lunch, we flew our kites. That was fantastic because we .................. the kites ourselves!\n",
+        "options": {
+            "1": "made",
+            "2": "had made",
+            "3": "were made",
+            "4": "were making"
+        },
+        "final_answer": 2,
+        "full_text": "After we had eaten lunch, we flew our kites. That was fantastic because we .................. the kites ourselves!\n\nOptions:\nA) made\nB) had made\nC) were made\nD) were making",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "The students' final degrees will indude the work and projects ........ during the yeur.\n",
+        "options": {
+            "1": "done then",
+            "2": "which done",
+            "3": "that they do",
+            "4": "which they do them"
+        },
+        "final_answer": 3,
+        "full_text": "The students' final degrees will indude the work and projects ........ during the yeur.\n\nOptions:\nA) done then\nB) which done\nC) that they do\nD) which they do them",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "If he had been ................... In the family, things right have been different for him in so many ways.\n",
+        "options": {
+            "1": "only child",
+            "2": "the only child",
+            "3": "the only children",
+            "4": "an only children"
+        },
+        "final_answer": 2,
+        "full_text": "If he had been ................... In the family, things right have been different for him in so many ways.\n\nOptions:\nA) only child\nB) the only child\nC) the only children\nD) an only children",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "Women aged 60-68 running the marathon run on average two minutes .......... year.\n",
+        "options": {
+            "1": "faster each",
+            "2": "the fastest",
+            "3": "fastest of the",
+            "4": "faster than"
+        },
+        "final_answer": 1,
+        "full_text": "Women aged 60-68 running the marathon run on average two minutes .......... year.\n\nOptions:\nA) faster each\nB) the fastest\nC) fastest of the\nD) faster than",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "We all know that when two people cooperate with each other, they ........... better Ideas.\n",
+        "options": {
+            "1": "found",
+            "2": "give off",
+            "3": "measure",
+            "4": "come up with"
+        },
+        "final_answer": 4,
+        "full_text": "We all know that when two people cooperate with each other, they ........... better Ideas.\n\nOptions:\nA) found\nB) give off\nC) measure\nD) come up with",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "You can use the device to scan the image and reproduce it on-screen in an electronie .......\n",
+        "options": {
+            "1": "event",
+            "2": "plain",
+            "3": "format",
+            "4": "region"
+        },
+        "final_answer": 3,
+        "full_text": "You can use the device to scan the image and reproduce it on-screen in an electronie .......\n\nOptions:\nA) event\nB) plain\nC) format\nD) region",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "If you want something you've never had, you must be ................. to do something you've never done.\n",
+        "options": {
+            "1": "stable",
+            "2": "willing",
+            "3": "valuable",
+            "4": "probable"
+        },
+        "final_answer": 2,
+        "full_text": "If you want something you've never had, you must be ................. to do something you've never done.\n\nOptions:\nA) stable\nB) willing\nC) valuable\nD) probable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "In cold regions, houses need to have walls that will ................. the heat from the sun.\n",
+        "options": {
+            "1": "absorb",
+            "2": "forbid",
+            "3": "grow up",
+            "4": "stand for"
+        },
+        "final_answer": 1,
+        "full_text": "In cold regions, houses need to have walls that will ................. the heat from the sun.\n\nOptions:\nA) absorb\nB) forbid\nC) grow up\nD) stand for",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "She was fortunate to have been born into ........ family known for their kindness and generosity.\n",
+        "options": {
+            "1": "social",
+            "2": "fluent",
+            "3": "cheerful",
+            "4": "distinguished"
+        },
+        "final_answer": 4,
+        "full_text": "She was fortunate to have been born into ........ family known for their kindness and generosity.\n\nOptions:\nA) social\nB) fluent\nC) cheerful\nD) distinguished",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "According to French philosopher and enthor Albert Camus, \"A man without .................. is a wild animal free in this world\".\n",
+        "options": {
+            "1": "device",
+            "2": "habits",
+            "3": "ethics",
+            "4": "diversity"
+        },
+        "final_answer": 3,
+        "full_text": "According to French philosopher and enthor Albert Camus, \"A man without .................. is a wild animal free in this world\".\n\nOptions:\nA) device\nB) habits\nC) ethics\nD) diversity",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "As a teenager, she ...... spoke her mind out of fear of being laughed at.\n",
+        "options": {
+            "1": "rarely",
+            "2": "ealmly",
+            "3": "normally",
+            "4": "comprehensibly"
+        },
+        "final_answer": 1,
+        "full_text": "As a teenager, she ...... spoke her mind out of fear of being laughed at.\n\nOptions:\nA) rarely\nB) ealmly\nC) normally\nD) comprehensibly",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "She was frightened to .................... when she saw her small daughter ren toward the busy street.\n",
+        "options": {
+            "1": "face",
+            "2": "blood",
+            "3": "illness",
+            "4": "death"
+        },
+        "final_answer": 4,
+        "full_text": "She was frightened to .................... when she saw her small daughter ren toward the busy street.\n\nOptions:\nA) face\nB) blood\nC) illness\nD) death",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (A):\n",
+        "options": {
+            "1": "not yet been answered",
+            "2": "yet not answered",
+            "3": "yet to be not answered",
+            "4": "not answered yet"
+        },
+        "final_answer": 1,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (A):\n\nOptions:\nA) not yet been answered\nB) yet not answered\nC) yet to be not answered\nD) not answered yet",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "Cloze Test (B):\n",
+        "options": {
+            "1": " They are a ",
+            "2": " There is a ",
+            "3": " It's a pity ",
+            "4": " There are so "
+        },
+        "final_answer": 2,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (B):\n\nOptions:\nA) They are a \nB) There is a \nC) It's a pity \nD) There are so",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "Cloze Test (C):\n",
+        "options": {
+            "1": " Really ",
+            "2": " It's a pity ",
+            "3": " To be honest ",
+            "4": " Of course "
+        },
+        "final_answer": 4,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (C):\nOptions:\nA) Really \nB) It's a pity \nC) To be honest \nD) Of course",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "Cloze Test (D):\n",
+        "options": {
+            "1": " the place ",
+            "2": " which ",
+            "3": " that all ",
+            "4": " where much "
+        },
+        "final_answer": 4,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (D):\n\nOptions:\nA) the place \nB) which \nC) that all \nD) where much",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe word \"cattle\" in paragraph 1 is closest in meaning to.....\n",
+        "options": {
+            "1": "herd",
+            "2": "life",
+            "3": "farm",
+            "4": "crops"
+        },
+        "final_answer": 1,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe word \"cattle\" in paragraph 1 is closest in meaning to.....\n\nOptions:\nA) herd\nB) life\nC) farm\nD) crops",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "What was the purpose of the study described in paragraph 2?\n",
+        "options": {
+            "1": "Discovering the reason why the farmers killed the cheetahs",
+            "2": "Finding a way to help prevent both calves and cheetahs from being killed",
+            "3": "Understanding how to make the cheetahs change the area where they lived",
+            "4": "Explaining why both farmers and cheetahe could not understand and respect each other"
+        },
+        "final_answer": 2,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nWhat was the purpose of the study described in paragraph 2?\n\nOptions:\nA) Discovering the reason why the farmers killed the cheetahs\nB) Finding a way to help prevent both calves and cheetahs from being killed\nC) Understanding how to make the cheetahs change the area where they lived\nD) Explaining why both farmers and cheetahe could not understand and respect each other",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "Cloze Test (E):\n",
+        "options": {
+            "1": "role",
+            "2": "value",
+            "3": "tool",
+            "4": "effect"
+        },
+        "final_answer": 1,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (E):\n\nOptions:\nA) role\nB) value\nC) tool\nD) effect",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "How did the farmers avoid cheetah attacks?\n",
+        "options": {
+            "1": "They separated calves from eows.",
+            "2": "They let cheetahs kill and eat a few of the calves.",
+            "3": "They followed the researchers' recommendation.",
+            "4": "They moved their houses to places far from cheetahs."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nHow did the farmers avoid cheetah attacks?\n\nOptions:\nA) They separated calves from eows.\nB) They let cheetahs kill and eat a few of the calves.\nC) They followed the researchers' recommendation.\nD) They moved their houses to places far from cheetahs.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "The function of the last paragraph of the passage is to ...........\n",
+        "options": {
+            "1": "make us think about our environment without the need to consider its animals",
+            "2": "encourage us to find solutions for human-wildlife conflicts that do not endanger animals.",
+            "3": "point out that we cannot understand animals without studying their bchavior to other species.",
+            "4": "suggest that more studies are needed about the role that animal behavior plays in human society."
+        },
+        "final_answer": 2,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe function of the last paragraph of the passage is to ...........\n\nOptions:\nA) make us think about our environment without the need to consider its animals\nB) encourage us to find solutions for human-wildlife conflicts that do not endanger animals.\nC) point out that we cannot understand animals without studying their bchavior to other species.\nD) suggest that more studies are needed about the role that animal behavior plays in human society.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nAccording to paragraph 1, Dave Farrow ...............\n",
+        "options": {
+            "1": "came up with the idea of writing the Guinness Book of World Records.",
+            "2": "set a world record for the greatest memory when he was a student.",
+            "3": "had difficulty with reading and writing at school.",
+            "4": "believes that he has a unique brain."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nAccording to paragraph 1, Dave Farrow ...............\n\nOptions:\nA) came up with the idea of writing the Guinness Book of World Records.\nB) set a world record for the greatest memory when he was a student.\nC) had difficulty with reading and writing at school.\nD) believes that he has a unique brain.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "The short-term memory can........................\n",
+        "options": {
+            "1": "only hold data for up to 15 seconds.",
+            "2": "store huge amounts of information at one time.",
+            "3": "hold a limited number of things for a limited length of time.",
+            "4": "only transfer seven things to the long-term memory at one time."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nThe short-term memory can........................\n\nOptions:\nA) only hold data for up to 15 seconds.\nB) store huge amounts of information at one time.\nC) hold a limited number of things for a limited length of time.\nD) only transfer seven things to the long-term memory at one time.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "Based on the acronym given in paragraph 3, which of the following words is NOT among the colors of a rainbow?\n",
+        "options": {
+            "1": "Purple",
+            "2": "Yellow",
+            "3": "Violet",
+            "4": "Orange"
+        },
+        "final_answer": 1,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nBased on the acronym given in paragraph 3, which of the following words is NOT among the colors of a rainbow?\n\nOptions:\nA) Purple\nB) Yellow\nC) Violet\nD) Orange",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "The paragraph following the last paragraph of this passage would most probably be about .......\n",
+        "options": {
+            "1": "the story of the fictional character Roy G. Biv.",
+            "2": "the study skills that helped Dave Farrow train his memory.",
+            "3": "reasons why the short-term memory easily throws information away.",
+            "4": "an other trick to hold many things in the short term memory at the same time."
+        },
+        "final_answer": 4,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nThe paragraph following the last paragraph of this passage would most probably be about .......\n\nOptions:\nA) the story of the fictional character Roy G. Biv.\nB) the study skills that helped Dave Farrow train his memory.\nC) reasons why the short-term memory easily throws information away.\nD) an other trick to hold many things in the short term memory at the same time.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

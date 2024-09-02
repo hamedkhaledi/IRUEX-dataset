@@ -1,0 +1,812 @@
+{
+    "1": {
+        "question": "در یک آزمایش، جرم و حجم یک جسم جامد را مطابق شکل زیر، پیدا می‌کنیم. با توجه به داده‌های روی شکل چگالی جسم در SI چه‌قدر است؟\n",
+        "options": {
+            "1": "۲۵۰۰",
+            "2": "۲۰۵۰",
+            "3": "۲/۵",
+            "4": "۲/۰۵"
+        },
+        "final_answer": 1,
+        "full_text": "In an experiment, we find the mass and volume of a solid body as shown below. According to the data on the figure, what is the density of the object in SI?\n\nOptions:\nA) 2500\nB) 2050\nC) 2.5\nD) 2/05",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "متحرکی روی خط راست با شتاب ثابت حرکت می‌کند و در مدت ۵s، ۷۵m جابه‌جا می‌شود و بزرگی سرعتش به ۲۰\\frac{m}{s} می‌رسد. در ۵ ثانیهٔ بعدی سرعت متوسط متحرک چند متر بر ثانیه می‌شود؟\n",
+        "options": {
+            "1": "۱۵",
+            "2": "۲۵",
+            "3": "۳۰",
+            "4": "۳۵"
+        },
+        "final_answer": 2,
+        "full_text": "A vehicle moves on a straight line with constant acceleration and moves 75 m in 5 s and its velocity reaches 20\\frac{m}{s}. What is the moving average speed in the next 5 seconds?\n\nOptions:\nA) 15\nB) 25\nC) 30\nD) 35",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "شکل زیر، نمودار مکان ـ زمان متحرکی است که در مسیر مستقیم با شتاب ثابت حرکت می‌کند. مسافتی که متحرک در بازهٔ زمانی {t_۱} = ۰ تا {t_۲} = ۱۰s طی می‌کند، چند متر است؟\n",
+        "options": {
+            "1": "۴۰",
+            "2": "۴۵",
+            "3": "۵۸",
+            "4": "۸۵"
+        },
+        "final_answer": 3,
+        "full_text": "The figure below is a moving space-time diagram that moves in a straight line with constant acceleration. How many meters does the moving vehicle travel in the time interval {t_1} = 0 to {t_2} = 10s?\n\nOptions:\nA) 40\nB) 45\nC) 58\nD) 85",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "اتومبیل A در جهت محور x با تندی ثابت ۱۰\\frac{m}{s} در لحظهٔ t = ۰ از مبدأ محور عبور می‌کند و پس از ۱۱s حرکتش با شتاب ثابت ۲\\frac{m}{{{s^۲}}} کند می‌شود. اتومبیل B نیز در جهت x در لحظهٔ t = ۰ با تندی اولیه ۲\\frac{m}{s} از مبدأ محور عبور می‌کند و حرکتش با شتاب ثابت ۲\\frac{m}{{{s^۲}}} تند می‌شود و پس از ۵ ثانیه با تندی ثابت به حرکت خود ادامه می‌دهد. لحظه‌ای که دو اتومبیل به هم می‌رسند، تندی اتومبیل B چند متر بر ثانیه از تندی اتومبیل A بیشتر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 3,
+        "full_text": "Car A passes the origin of the axis in the direction of the x axis with a constant acceleration of 10\\frac{m}{s} at the moment t = 0 and after 11s it moves with a constant acceleration of 2\\frac{m}{{{s^2}} } slows down. Car B also passes the origin of the axis in the x direction at the moment t = 0 with an initial acceleration of 2\\frac{m}{s} and its movement accelerates with a constant acceleration of 2\\frac{m}{{{s^2}}} And after 5 seconds, it continues to move at a constant speed. At the moment when the two cars meet, the speed of car B is how many meters per second more than the speed of car A?\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "نمودار سرعت ـ زمان متحرکی که روی محور x حرکت می‌کند، مطابق شکل زیر است. اگر در لحظهٔ {t_۱} = ۲s مکان متحرک در SI به صورت {\\vec x_۱} = ۶\\vec i باشد، مکان متحرک در لحظهٔ {t_۲} = ۱۵s در SI،‌ کدام است؟\n",
+        "options": {
+            "1": "۹۳\\vec i",
+            "2": "۹۶\\vec i",
+            "3": "۱۰۵\\vec i",
+            "4": "۱۱۸\\vec i"
+        },
+        "final_answer": 3,
+        "full_text": "The velocity-time diagram of a moving object moving on the x-axis is as shown in the figure below. If at the moment {t_1} = 2s the moving place in SI is {\\vec x_1} = 6\\vec i, what is the moving place at the moment {t_2} = 15s in SI?\n\nOptions:\nA) 93\\vec i\nB) 96\\vec i\nC) 105\\vec i\nD) 118\\vec i",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "دو متحرک هم‌زمان از نقطه‌های A و C با سرعت‌های ثابت به سمت یکدیگر حرکت می‌کنند و در نقطهٔ B از کنار هم می‌گذرند و در ادامه، ۱۶s طول می‌کشد تا متحرک اول از B به C برسد و ۲۵s طول می‌کشد تا دومی از B به A برسد. بزرگی سرعت متحرک اول چند متر بر ثانیه است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۵",
+            "3": "۶",
+            "4": "۸"
+        },
+        "final_answer": 2,
+        "full_text": "Two mobiles move at the same time from points A and C towards each other with constant speeds and pass each other at point B, and then it takes 16s for the first mobile to reach from B to C and it takes 25s for the second to reach from B to A. . What is the magnitude of the first moving speed in meters per second?\n\nOptions:\nA) 3\nB) 5\nC) 6\nD) 8",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "گلوله‌ای از ارتفاع H رها می‌شود. از لحظهٔ رهاشدن تا مدت‌زمانی که \\frac{۱}{۹}H را طی می‌کند، سرعت متوسط آن ۴/۹\\frac{m}{s} است. این گلوله با تندی (سرعت) چند متر بر ثانیه به زمین می‌رسد؟ (مقاومت هوا ناچیز و g = ۹/۸\\frac{m}{{{s^۲}}} است.)\n",
+        "options": {
+            "1": "۱۴/۷",
+            "2": "۱۹/۸",
+            "3": "۲۹/۴",
+            "4": "۳۹/۲"
+        },
+        "final_answer": 3,
+        "full_text": "A ball is released from a height H. From the moment of release until the time it travels \\frac{1}{9}H, its average speed is 4.9\\frac{m}{s}. How fast (speed) does this bullet reach the ground? (Air resistance is negligible and g = 9/8\\frac{m}{{{s^2}}})\n\nOptions:\nA) 7/14\nB) 19/8\nC) 29/4\nD) 39/2",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "معادلهٔ تکانهٔ جسمی برحسب زمان در SI به صورت p = ۱۵{t^۲} + ۵t می‌باشد. نیروی خالص (برایند) متوسط وارد بر جسم در بازهٔ زمانی {t_۱} = ۳s تا {t_۲} = ۶s چند نیوتون است؟\n",
+        "options": {
+            "1": "۷۰",
+            "2": "۸۵",
+            "3": "۱۴۰",
+            "4": "۱۹۰"
+        },
+        "final_answer": 3,
+        "full_text": "The equation of body momentum in terms of time in SI is p = 15{t^2} + 5t. How many newtons is the average net force on the object in the time interval {t_1} = 3s to {t_2} = 6s?\n\nOptions:\nA) 70\nB) 85\nC) 140\nD) 190",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "مطابق شکل زیر، شخصی جعبهٔ ساکنی به جرم ۵۰kg را با نیروی ثابت و افقی \\vec F = (۲۵۰N)\\vec i می کشد. اگر ضریب اصطکاک ایستایی و جنبشی بین جعبه و سطح به ترتیب ۰/۳ و ۰/۶ باشد، نیرویی که جسم به سطح وارد می‌کند، در SI کدام است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "( - ۵۰۰N)\\vec j",
+            "2": "(۵۰۰N)\\vec j",
+            "3": "( - ۲۵۰N)\\vec i + (۵۰۰N)\\vec j",
+            "4": "(۲۵۰N)\\vec i + ( - ۵۰۰N)\\vec j"
+        },
+        "final_answer": 4,
+        "full_text": "According to the figure below, a person pulls a stationary box with a mass of 50 kg with a constant and horizontal force \\vec F = (250N)\\vec i. If the coefficient of static and kinetic friction between the box and the surface is 0.3 and 0.6, respectively, what is the force that the object exerts on the surface in SI? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) (-500N)\\vec j\nB) (500N)\\vec j\nC) (-250N)\\vec i + (500N)\\vec j\nD) (250N)\\vec i + (-500N)\\vec j",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "نمودار سرعت ـ زمان متحرکی که در مسیر مستقیم حرکت می‌کند، به صورت شکل زیر است. بزرگی نیروی خالص وارد بر این متحرک (برایند نیروها) در بازهٔ زمانی بین {t_۱} تا {t_۲} چگونه تغییر می‌کند؟\n",
+        "options": {
+            "1": "پیوسته ثابت",
+            "2": "پیوسته افزایش",
+            "3": "ابتدا افزایش، سپس کاهش",
+            "4": "ابتدا کاهش، سپس افزایش"
+        },
+        "final_answer": 4,
+        "full_text": "The velocity-time diagram of a moving object moving in a straight line is as shown below. How does the magnitude of the net force acting on this mover (for forces) change in the time interval between {t_1} and {t_2}?\n\nOptions:\nA) constant constant\nB) continuously increasing\nC) increase first, then decrease\nD) decrease first, then increase",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "فاصلهٔ ماهواره‌ای تا سطح زمین به اندازهٔ شعاع زمین است. اگر این ماهواره در مداری قرار گیرد که فاصله‌اش تا سطح زمین ۱/۵ برابر شعاع زمین باشد، شتاب مرکزگرای آن چگونه تغییر می‌کند؟\n",
+        "options": {
+            "1": "۲۰ درصد افزایش می‌یابد.",
+            "2": "۲۰ درصد کاهش می‌یابد.",
+            "3": "۳۶ درصد افزایش می‌یابد.",
+            "4": "۳۶ درصد کاهش می‌یابد."
+        },
+        "final_answer": 4,
+        "full_text": "The distance of the satellite to the earth's surface is equal to the earth's radius. If this satellite is placed in an orbit whose distance to the earth's surface is 1.5 times the earth's radius, how will its centripetal acceleration change?\n\nOptions:\nA) increases by 20%.\nB) decreases by 20%.\nC) increases by 36%.\nD) decreases by 36%.",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "نوسانگری به جرم ۲۰۰g روی پاره‌خطی به طول ۴cm حرکت هماهنگ ساده انجام می‌دهد و در هر دقیقه ۱۵۰ نوسان کامل انجام می‌دهد. در لحظه‌ای که بزرگی سرعت نوسانگر ۵\\sqrt ۲ \\pi \\frac{{cm}}{s} است، انرژی پتانسیل آن چند میلی‌ژول است؟ ({\\pi ^۲} = ۱۰)\n",
+        "options": {
+            "1": "۲/۵",
+            "2": "۵",
+            "3": "۷",
+            "4": "۱۰"
+        },
+        "final_answer": 2,
+        "full_text": "An oscillator with a mass of 200g performs simple coordinated motion on a 4cm long line segment and completes 150 complete oscillations per minute. At the moment when the magnitude of the oscillator's velocity is 5\\sqrt 2 \\pi \\frac{{cm}}{s}, how many millijoules is its potential energy? ({\\pi ^2} = 10)\n\nOptions:\nA) 2.5\nB) 5\nC) 7\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "نوسانگری روی سطح افقی بدون اصطکاک نوسان می‌کند، لحظه‌ای که جهت حرکت نوسانگر تغییر می‌کند، بزرگی شتاب آن ۰/۸{\\pi ^۲}\\frac{m}{{{s^۲}}} و لحظه‌ای که نیروی وارد بر نوسانگر صفر می‌شود، بزرگی سرعت آن به ۰/۲\\pi \\frac{m}{s} می‌رسد. بزرگی شتاب نوسانگر در مکان x = ۱cm چند متر بر مربع ثانیه است؟\n",
+        "options": {
+            "1": "۰/۱۶{\\pi ^۲}",
+            "2": "۰/۳۶{\\pi ^۲}",
+            "3": "۵\\pi",
+            "4": "۵۰\\pi"
+        },
+        "final_answer": 1,
+        "full_text": "An oscillator oscillates on a frictionless horizontal surface, the moment the direction of the oscillator changes, the magnitude of its acceleration is 0.8{\\pi ^2}\\frac{m}{{{s^2}}} and the moment the force acting on the oscillator becomes zero, the magnitude of its speed reaches 0.2\\pi \\frac{m}{s}. How many meters per square second is the magnitude of the oscillator's acceleration at x = 1cm?\n\nOptions:\nA) 0/16{\\pi ^2}\nB) 0.36{\\pi ^2}\nC) 5\\pi\nD) 50\\pi",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "نوسانگری به جرم ۲kg به انتهای فنری به ثابت k متصل است و مطابق شکل زیر روی سطح افقی بدون اصطکاک با دامنهٔ ۲cm نوسان می‌کند. اگر بزرگی شتاب نوسانگر در نقطهٔ M، ۴\\frac{m}{{{s^۲}}} باشد، k چند نیوتون بر متر است؟\n",
+        "options": {
+            "1": "۸۰۰",
+            "2": "۴۰۰",
+            "3": "۸۰",
+            "4": "۴۰"
+        },
+        "final_answer": 1,
+        "full_text": "An oscillator with a mass of 2 kg is attached to the end of a spring with a constant k and it oscillates on a frictionless horizontal surface with an amplitude of 2 cm as shown in the figure below. If the magnitude of the oscillator's acceleration at point M is 4\\frac{m}{{{s^2}}}, k is how many newtons per meter?\n\nOptions:\nA) 800\nB) 400\nC) 80\nD) 40",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "توان چشمهٔ صوتی ۴۸ وات است. در فاصلهٔ چند متری این چشمه، تراز شدت صوت ۸۰ دسی‌بل است؟ (از جذب انرژی توسط محیط صرف‌نظر شود، \\pi = ۳ و {I_۰} = {۱۰^{ - ۱۲}}\\frac{W}{{{m^۲}}})\n",
+        "options": {
+            "1": "۱۰۰",
+            "2": "۲۰۰",
+            "3": "۶۰۰",
+            "4": "۸۰۰"
+        },
+        "final_answer": 2,
+        "full_text": "The power of the sound source is 48 watts. At a distance of how many meters from this spring, the sound intensity level is 80 dB? (Ignore energy absorption by the environment, \\pi = 3 and {I_0} = {10^{ - 12}}\\frac{W}{{{m^2}}})\n\nOptions:\nA) 100\nB) 200\nC) 600\nD) 800",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "در شکل زیر، دو موج عرضی با تندی‌های مساوی در دو طناب منتشر می‌شوند، در مدت‌زمانی که ذرهٔ M، دو نوسان انجام می‌دهد، ذرهٔ N چند نوسان انجام می‌دهد؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, two transverse waves with equal velocities are propagated in two ropes. In the time that particle M makes two oscillations, how many oscillations does particle N make?\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "تاری به طول ۵۰cm بین دو نقطه محکم بسته شده و بسامد هماهنگ سوم آن ۲۱۰ هرتز است. اگر جرم تار ۵ گرم باشد، نیروی کشش آن چند نیوتون است؟\n",
+        "options": {
+            "1": "۴۹",
+            "2": "۹۸",
+            "3": "۱۴۷",
+            "4": "۲۴۱"
+        },
+        "final_answer": 1,
+        "full_text": "A 50 cm long blur is tightly closed between two points and its third harmonic frequency is 210 Hz. If the mass of the string is 5 grams, how many newtons is its tensile force?\n\nOptions:\nA) 49\nB) 98\nC) 147\nD) 241",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "مطابق شکل زیر، پرتو نوری تحت زاویهٔ \\alpha به آینهٔ (۱) می‌تابد و پس از بازتاب به آینهٔ (۲) می‌تابد. پرتو بازتابیده از آینهٔ (۲) چه زاویه‌ای با سطح آن آینه می‌سازد؟\n",
+        "options": {
+            "1": "\\pi - \\beta",
+            "2": "\\beta - \\alpha",
+            "3": "\\pi - (\\beta - \\alpha )",
+            "4": "\\pi - (\\alpha + \\beta )"
+        },
+        "final_answer": 4,
+        "full_text": "According to the figure below, the light beam under the angle \\alpha shines on the mirror (1) and after reflection it shines on the mirror (2). What angle does the reflected ray from the mirror (2) make with the surface of that mirror?\n\nOptions:\nA) \\pi - \\beta\nB) \\beta - \\alpha\nC) \\pi - (\\beta - \\alpha )\nD) \\pi - (\\alpha + \\beta )",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "پرتو نوری، مطابق شکل زیر از هوا به یک تیغهٔ متوازی‌السطوح می‌تابد و پس از شکست در محیط شفاف، دوباره وارد هوا می‌شود. اگر امتداد پرتو خروجی در O' به تیغه برخورد کند و OO' = ۳/۵cm باشد، ضریب شکست محیط شفاف چقدر است؟ (\\sin {۳۷^ \\circ } = ۰/۶)\n",
+        "options": {
+            "1": "\\frac{۵}{۴}",
+            "2": "\\frac{۴}{۳}",
+            "3": "\\frac{۳}{۲}",
+            "4": "\\frac{۵}{۳}"
+        },
+        "final_answer": 2,
+        "full_text": "A light beam, as shown in the figure below, shines from the air to a parallelogram blade, and after refraction in the transparent medium, it re-enters the air. If the extension of the outgoing beam hits the blade at O' and OO' = 3.5 cm, what is the refractive index of the transparent medium? (\\sin {37^ \\circ } = 0.6)\n\nOptions:\nA) \\frac{5}{4}\nB) \\frac{4}{3}\nC) \\frac{3}{2}\nD) \\frac{5}{3}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "در آزمایش فوتوالکتریک تابع کار فلز ۲/۸eV است. نوری با طول موج \\lambda به فلز می‌تابد و سبب گسیل فوتوالکترون‌هایی با بیشینهٔ انرژی جنبشی ۴/۴eV می‌شود. \\lambda چند میکرومتر است؟ (h = ۴ \\times {۱۰^{ - ۱۵}}eV.s,c = ۳ \\times {۱۰^۸}\\frac{m}{s})\n",
+        "options": {
+            "1": "\\frac{۱}{۶}",
+            "2": "\\frac{۳}{۴}",
+            "3": "\\frac{{۵۰}}{۳}",
+            "4": "\\frac{{۱۰۰۰}}{۳}"
+        },
+        "final_answer": 1,
+        "full_text": "In the photoelectric test, the work function of the metal is 8.2 eV. Light with a wavelength of \\lambda shines on the metal and causes the emission of photoelectrons with a maximum kinetic energy of 4.4eV. How many micrometers is \\lambda? (h = 4 \\times {10^{ - 15}}eV.s, c = 3 \\times {10^8}\\frac{m}{s})\n\nOptions:\nA) \\frac{1}{6}\nB) \\frac{3}{4}\nC) \\frac{{50}}{3}\nD) \\frac{{1000}}{3}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "اختلاف طول موج دومین و سومین خط طیفی اتم هیدروژن در رشتهٔ پاشن (n' = ۳) چند نانومتر است؟ (R = \\frac{۱}{{۱۰۰}}{(nm)^{ - ۱}})\n",
+        "options": {
+            "1": "\\frac{{۸۲۵}}{۸}",
+            "2": "۱۵۰",
+            "3": "\\frac{{۸۲۵}}{۴}",
+            "4": "۳۰۰"
+        },
+        "final_answer": 3,
+        "full_text": "How many nanometers is the wavelength difference of the second and third spectral lines of the hydrogen atom in the Pashan string (n' = 3)? (R = \\frac{1}{{100}}{(nm)^{ - 1}})\n\nOptions:\nA) \\frac{{825}}{8}\nB) 150\nC) \\frac{{825}}{4}\nD) 300",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "بار الکتریکی کره‌ای فلزی به شعاع ۵cm برابر ۱۵۷nC است. بار الکتریکی موجود در هر سانتی‌متر مربع از سطح این کره چند پیکوکولن است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۵",
+            "3": "۲۰۰",
+            "4": "۵۰۰"
+        },
+        "final_answer": 4,
+        "full_text": "The electric charge of a metal sphere with a radius of 5 cm is equal to 157nC. How many picocoulombs is the electric charge per square centimeter of the surface of this sphere?\n\nOptions:\nA) 2\nB) 5\nC) 200\nD) 500",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "نمودار تغییرات میدان الکتریکی حاصل از بار نقطه‌ای q برحسب فاصله از آن به صورت شکل زیر است، اندازهٔ q چند میکروکولن و {r_۱} چند سانتی‌متر است؟ (k = ۹ \\times ۱۰\\frac{{N.{m^۲}}}{{{C^۲}}})\n",
+        "options": {
+            "1": "۵۰ ، ۱۰",
+            "2": "۵۰ ، ۲۰",
+            "3": "۲۵ ، ۱۰",
+            "4": "۲۵ ، ۲۰"
+        },
+        "final_answer": 2,
+        "full_text": "The diagram of electric field changes resulting from a point charge q in terms of distance from it is as follows, the size of q is how many microcoulombs and {r_1} how many centimeters? (k = 9 \\times 10\\frac{{N.{m^2}}}{{{C^2}}})\n\nOptions:\nA) 50, 10\nB) 50, 20\nC) 25, 10\nD) 25, 20",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "مطابق شکل زیر، دو ذرهٔ باردار {q_۱} = - ۲q و {q_۲} = ۶q در فاصلهٔ ۳r از هم قرار دارند و بزرگی میدان الکتریکی خالص (برایند) ناشی از دو ذره در نقطهٔ O برابر {E_۱} است. اگر ۵۰ درصد از بار {q_۲} به {q_۱} منتقل شود، بزرگی میدان الکتریکی خالص (برایند) در نقطهٔ O برابر {E_۲} می‌شود. \\frac{{{E_۲}}}{{{E_۱}}} کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{{۱۴}}",
+            "2": "\\frac{۱}{۶}",
+            "3": "\\frac{۱}{۴}",
+            "4": "\\frac{۱}{۲}"
+        },
+        "final_answer": 1,
+        "full_text": "According to the figure below, two charged particles {q_1} = -2q and {q_2} = 6q are located at a distance of 3r from each other, and the magnitude of the net electric field (Brynd) caused by the two particles at point O is equal to {E_1}. If 50% of the charge {q_2} is transferred to {q_1}, the magnitude of the net electric field (Brynd) at point O is equal to {E_2}. Which one is \\frac{{{E_2}}}{{{E_1}}}?\n\nOptions:\nA) \\frac{1}{{14}}\nB) \\frac{1}{6}\nC) \\frac{1}{4}\nD) \\frac{1}{2}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "اختلاف پتانسیل بین دو صفحهٔ خازن را ۱/۵ برابر می‌کنیم در نتیجه ۲۰\\mu C بر بار ذخیره‌شده در آن اضافه می‌شود و انرژی آن نیز ۲۰۰\\mu J افزایش می‌یابد. ظرفیت خازن چند میکروفاراد است؟\n",
+        "options": {
+            "1": "۵",
+            "2": "۱۰",
+            "3": "۱۵",
+            "4": "۲۰"
+        },
+        "final_answer": 1,
+        "full_text": "We multiply the potential difference between the two plates of the capacitor by 1.5, as a result, 20\\mu C is added to the charge stored in it, and its energy also increases by 200\\mu J. How many microfarads is the capacity of the capacitor?\n\nOptions:\nA) 5\nB) 10\nC) 15\nD) 20",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "در مدار شکل زیر، ابتدا کلید در حالت (۱) قرار دارد و توان خروجی باتری {P_۱} است. اگر کلید در حالت (۲) قرار گیرد، توان خروجی باتری {P_۲} می‌شود. \\frac{{{P_۲}}}{{{P_۱}}} چه‌قدر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "\\frac{۲}{۳}",
+            "3": "\\frac{۱}{۲}",
+            "4": "\\frac{۱}{۳}"
+        },
+        "final_answer": 4,
+        "full_text": "In the circuit shown below, first the key is in position (1) and the output power of the battery is {P_1}. If the key is placed in position (2), the output power of the battery becomes {P_2}. What is \\frac{{{P_2}}}{{{P_1}}}?\n\nOptions:\nA) 2\nB) \\frac{2}{3}\nC) \\frac{1}{2}\nD) \\frac{1}{3}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "در مدار زیر، توان مصرفی هر یک از مقاومت‌ها یکسان است. جریان عبوری از مقاومت {R_۲} چند آمپر است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 1,
+        "full_text": "In the following circuit, the power consumption of each resistor is the same. How many amperes is the current passing through the resistor {R_2}?\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "در مدار زیر، اختلاف پتانسیل بین دو نقطهٔ A و B برابر صفر است. کدام مورد درست است؟\n",
+        "options": {
+            "1": "R = ۲{r_۱} = ۲{r_۲}",
+            "2": "R = ۲({r_۱} - {r_۲})",
+            "3": "R = {r_۱} = {r_۲}",
+            "4": "R = {r_۱} - {r_۲}"
+        },
+        "final_answer": 2,
+        "full_text": "In the following circuit, the potential difference between two points A and B is zero. Which one is correct?\n\nOptions:\nA) R = 2{r_1} = 2{r_2}\nB) R = 2({r_1} - {r_2})\nC) R = {r_1} = {r_2}\nD) R = {r_1} - {r_2}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "در مدار زیر، آمپرسنج‌های آرمانی {A_۱} و {A_۲} به ترتیب چند آمپر را نشان می‌دهند؟\n",
+        "options": {
+            "1": "۳ و ۱",
+            "2": "۳ و ۱/۵",
+            "3": "۴ و ۱",
+            "4": "۴ و ۱/۵"
+        },
+        "final_answer": 3,
+        "full_text": "In the following circuit, how many amperes do the ideal ammeters {A_1} and {A_2} show respectively?\n\nOptions:\nA) 3 and 1\nB) 3 and 1/5\nC) 4 and 1\nD) 4 and 1/5",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در شکل زیر، ابتدا کلید در حالت (۱) قرار می‌گیرد و سپس در حالت (۲) قرار می‌گیرد. نمودار جریان الکتریکی به ترتیب به کدام صورت خواهد بود؟\n",
+        "options": {
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "4": " "
+        },
+        "final_answer": 3,
+        "full_text": "In the figure below, first the key is placed in state (1) and then it is placed in state (2). How will the electric current diagram be respectively?\n\nOptions:\nA)\nb)\nc)\nd)",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "مطابق شکل زیر، الکترونی با سرعتی به بزرگی ۲ \\times {۱۰^۵}m/s درون میدان مغناطیسی یکنواختی به بزرگی ۴۰G و میدان الکتریکی یکنواخت \\vec E بدون انحراف به حرکت خود ادامه می‌دهد. \\vec E در SI کدام است؟ (از جرم الکترون صرف نظر کنید.)\n",
+        "options": {
+            "1": "( - ۲ \\times {۱۰^۵})\\vec j",
+            "2": "(۲ \\times {۱۰^۵})\\vec j",
+            "3": "( - ۸ \\times {۱۰^۲})\\vec j",
+            "4": "(۸ \\times {۱۰^۲})\\vec j"
+        },
+        "final_answer": 4,
+        "full_text": "According to the figure below, an electron with a speed of 2 \\times {10^5} m/s continues to move without deviation in a uniform magnetic field of 40G and a uniform electric field \\vec E. What is \\vec E in SI? (Ignore the mass of the electron.)\n\nOptions:\nA) (-2 \\times {10^5})\\vec j\nB) (2 \\times {10^5})\\vec j\nC) (-8 \\times {10^2})\\vec j\nD) (8 \\times {10^2})\\vec j",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "شکل زیر، یک حلقهٔ حامل جریان الکتریکی را نشان می‌دهد که {\\vec B_۱} و {\\vec B_۲} بردارهای میدان مغناطیسی داخل و بیرون حلقه‌اند. کدام مورد دربارهٔ جریان الکتریکی حلقه و اندازهٔ بردارهای میدان درست است؟\n",
+        "options": {
+            "1": "ساعتگرد، {B_۱} = {B_۲}",
+            "2": "ساعتگرد، {B_۱} \\gt {B_۲}",
+            "3": "پادساعتگرد، {B_۱} = {B_۲}",
+            "4": "پادساعتگرد، {B_۱} \\gt {B_۲}"
+        },
+        "final_answer": 2,
+        "full_text": "The figure below shows a loop carrying an electric current, where {\\vec B_1} and {\\vec B_2} are the magnetic field vectors inside and outside the loop. Which of the following is true about the electric current in the loop and the size of the field vectors?\n\nOptions:\nA) clockwise, {B_1} = {B_2}\nB) clockwise, {B_1} \\gt {B_2}\nC) Anticlockwise, {B_1} = {B_2}\nD) counterclockwise, {B_1} \\gt {B_2}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "در شکل زیر، میدان مغناطیسی بین قطب‌های یک آهنربای الکتریکی که بر سطح حلقه عمود است، با زمان تغییر می‌کند و در مدت ۰/۲۵s از ۰/۱ تسلا رو به بالا به ۰/۱ تسلا رو به پایین می‌رسد. بزرگی نیروی محرکهٔ القایی متوسط در حلقه در این مدت چند میلی‌ولت است؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۲",
+            "3": "۴",
+            "4": "۸"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, the magnetic field between the poles of an electromagnet that is perpendicular to the surface of the ring changes with time and reaches from 0.1 tesla upwards to 0.1 tesla downwards in 0.25s. How many millivolts is the magnitude of the average induced driving force in the ring during this period?\n\nOptions:\nA) Zero\nB) 2\nC) 4\nD) 8",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "از یک سیم‌‌لولهٔ آرمانی، جریان متناوب سینوسی که نمودار تغییرات آن برحسب زمان به صورت شکل زیر است، عبور می‌کند. اگر انرژی ذخیره‌شده در سیملوله در لحظهٔ \\frac{۱}{{۴۰۰}} ثانیه برابر ۷۲ میلی‌ژول باشد، ضریب القاوری (خودالقایی) سیملوله چند میلی‌هانری است؟\n",
+        "options": {
+            "1": "۸",
+            "2": "۶",
+            "3": "۴",
+            "4": "۳"
+        },
+        "final_answer": 1,
+        "full_text": "A sinusoidal alternating current passes through an ideal wire whose graph changes over time as shown below. If the energy stored in the wire at the moment of \\frac{1}{{400}} second is equal to 72 millijoules, how much is the inductance (self-inductance) of the wire?\n\nOptions:\nA) 8\nB) 6\nC) 4\nD) 3",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "مرتبهٔ بزرگی تعداد مولکول‌های موجود در یک میکروگرم گاز هیدروژن کدام است؟ (عدد آووگادرو ۶/۰۲ \\times {۱۰^{۲۳}} و جرم مولی گاز هیدروژن ۲ گرم بر مول است.)\n",
+        "options": {
+            "1": "{۱۰^{۱۶}}",
+            "2": "{۱۰^{۱۷}}",
+            "3": "{۱۰^{۱۸}}",
+            "4": "{۱۰^{۱۹}}"
+        },
+        "final_answer": 2,
+        "full_text": "What is the order of magnitude of the number of molecules in one microgram of hydrogen gas? (Avogadro's number is 6.02 \\times {10^{23}} and the molar mass of hydrogen gas is 2 g/mol.)\n\nOptions:\nA) {10^{16}}\nB) {10^{17}}\nC) {10^{18}}\nD) {10^{19}}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "گلوله‌ای به جرم ۴۰g با سرعت افقی که بزرگی آن ۳۰۰\\frac{m}{s} است، به دیواری برخورد می‌کند و پس از طی مسافت ۲۰cm داخل دیوار، متوقف می‌شود. کار نیرویی که دیوار به گلوله وارد می‌کند، چند ژول است؟\n",
+        "options": {
+            "1": "۱۸-",
+            "2": "۱۸۰۰-",
+            "3": "۶-",
+            "4": "۶۰۰-"
+        },
+        "final_answer": 2,
+        "full_text": "A bullet with a mass of 40g hits a wall with a horizontal velocity of 300\\frac{m}{s} and stops after traveling a distance of 20cm inside the wall. How many joules is the work done by the force exerted by the wall on the bullet?\n\nOptions:\nA) 18-\nB) 1800-\nC) 6-\nD) -600",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "در شکل زیر، موتورسوار با سرعتی به بزرگی ۲۰\\frac{m}{s} از تپهٔ اول جدا می‌شود. اگر تنها نیروی مؤثر، نیروی وزن باشد، بزرگی سرعت آن در لحظهٔ رسیدن به تپهٔ دوم، چند متر بر ثانیه است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۲۵",
+            "2": "۲۸",
+            "3": "۳۰",
+            "4": "۴۰"
+        },
+        "final_answer": 3,
+        "full_text": "In the figure below, the motorcyclist leaves the first hill with a speed of 20\\frac{m}{s}. If the only effective force is the force of weight, what is the magnitude of its velocity at the moment it reaches the second hill, how many meters per second? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 25\nB) 28\nC) 30\nD) 40",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "در شکل زیر، اگر چگالی مایع ۲\\frac{g}{{c{m^۳}}} باشد، فشار گاز محبوس درون لوله چند کیلوپاسکال است؟ (g = ۱۰\\frac{m}{{{s^۲}}},{P_۰} = {۱۰^۵}Pa)\n",
+        "options": {
+            "1": "۸۵",
+            "2": "۹۵",
+            "3": "۱۰۵",
+            "4": "۱۲۵"
+        },
+        "final_answer": 3,
+        "full_text": "In the figure below, if the density of the liquid is 2\\frac{g}{{c{m^3}}}, how many kilopascals is the pressure of the gas trapped inside the tube? (g = 10\\frac{m}{{{s^2}}}, {P_0} = {10^5}Pa)\n\nOptions:\nA) 85\nB) 95\nC) 105\nD) 125",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "طول و عرض شیشهٔ پنجره اتاقی ۲/۵m و ۲m و ضخامت آن ۵mm است. در یک روز زمستانی، دمای وجهی از شیشه که در تماس با هوای بیرون است، - {۵^ \\circ }C و دمای وجهی از شیشه که در تماس با هوای درون اتاق است، + {۵^ \\circ }C است. با استفاده از یک بخاری برقی، گرمای هدر رفته از پنجره را جایگزین می‌کنیم. توان گرمایی این بخاری چند کیلووات است؟ (k = ۰/۶\\frac{W}{{m.K}})\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۶",
+            "4": "۱۰"
+        },
+        "final_answer": 3,
+        "full_text": "The length and width of the window glass is 2.5m and 2m and its thickness is 5mm. On a winter day, the temperature of the face of the glass that is in contact with the outside air is - {5^ \\circ }C and the temperature of the face of the glass that is in contact with the air inside the room is + {5^ \\circ }C. Using an electric heater, we replace the wasted heat from the window. How many kilowatts is the heating capacity of this heater? (k = 0.6\\frac{W}{{m.K}})\n\nOptions:\nA) 2\nB) 3\nC) 6\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "دمای یک کرهٔ فلزی را ۸۰ درجهٔ سلسیوس افزایش می‌دهیم، حجم آن ۰/۰۸ درصد افزایش می‌یابد. اگر دمای این کره را ۶۰ درجهٔ سلسیوس افزایش دهیم، سطح کره چند درصد افزایش می‌یابد؟\n",
+        "options": {
+            "1": "۰/۱۲",
+            "2": "۰/۰۸",
+            "3": "۰/۰۶",
+            "4": "۰/۰۴"
+        },
+        "final_answer": 4,
+        "full_text": "We increase the temperature of a metal sphere by 80 degrees Celsius, its volume increases by 0.08%. If we increase the temperature of this sphere by 60 degrees Celsius, how much will the surface of the sphere increase?\n\nOptions:\nA) 0.12\nB) 0.08\nC) 0.06\nD) 0.04",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "40"
+        }
+    },
+    "41": {
+        "question": "به مایعی به جرم ۵۰۰ گرم در هر دقیقه ۱۰۰J گرما می‌دهیم. اگر نمودار تغییرات دما برحسب زمان به صورت شکل زیر باشد، گرمای ویژهٔ مایع در SI کدام است؟\n",
+        "options": {
+            "1": "۱۴۰",
+            "2": "۱۶۰",
+            "3": "۲۸۰",
+            "4": "۳۲۰"
+        },
+        "final_answer": 1,
+        "full_text": "We give 100 J of heat to a liquid with a mass of 500 grams per minute. If the graph of temperature changes in terms of time is as shown below, what is the specific heat of liquid in SI?\n\nOptions:\nA) 140\nB) 160\nC) 280\nD) 320",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "41"
+        }
+    },
+    "42": {
+        "question": "در فشار ثابت ۱/۵ \\times {۱۰^۵}Pa، دمای۳ مول گاز آرمانی را چند درجهٔ سلسیوس کاهش دهیم تا حجم آن۴ لیتر کاهش پیدا کند؟ (R = ۸\\frac{J}{{mol.K}})\n",
+        "options": {
+            "1": "۵۰",
+            "2": "۳۰",
+            "3": "۲۵",
+            "4": "۱۵"
+        },
+        "final_answer": 3,
+        "full_text": "At a constant pressure of 1.5 \\times {10^5}Pa, how many degrees Celsius should we reduce the temperature of 3 moles of ideal gas so that its volume decreases to 4 liters? (R = 8\\frac{J}{{mol.K}})\n\nOptions:\nA) 50\nB) 30\nC) 25\nD) 15",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "42"
+        }
+    },
+    "43": {
+        "question": "مقداری گاز دواتمی، در یک فرایند هم‌فشار ۵۰۰J کار روی محیط انجام می‌دهد. انرژی درونی‌گاز چگونه تغییر می‌کند؟ ({C_v} = \\frac{۵}{۲}R)\n",
+        "options": {
+            "1": "۱۲۵۰J ، کاهش",
+            "2": "۱۲۵۰J ، افزایش",
+            "3": "۱۷۵۰J ، کاهش",
+            "4": "۱۷۵۰J ، افزایش"
+        },
+        "final_answer": 2,
+        "full_text": "Some diatomic gas does 500 J of work on the environment in a co-pressure process. How does the internal energy of the gas change? ({C_v} = \\frac{5}{2}R)\n\nOptions:\nA) 1250J, decrease\nB) 1250J, increase\nC) 1750J, reduction\nD) 1750J, increase",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "43"
+        }
+    },
+    "44": {
+        "question": "مقداری گاز اکسیژن، چرخه ABCA را طی کرده است و فرایند CA هم‌دما است. این گاز در مسیر ABC، چند ژول گرما دریافت کرده است؟ ({C_V} = \\frac{۵}{۲}R,{C_P} = \\frac{۷}{۲}R,R = ۸\\frac{J}{{mol.K}})\n",
+        "options": {
+            "1": "۵۷۶۰۰",
+            "2": "۳۳۶۰۰",
+            "3": "۲۴۰۰۰",
+            "4": "۹۶۰۰"
+        },
+        "final_answer": 4,
+        "full_text": "Some oxygen gas has gone through the ABCA cycle and the CA process is isothermal. How many joules of heat has this gas received in the path ABC? ({C_V} = \\frac{5}{2}R,{C_P} = \\frac{7}{2}R,R = 8\\frac{J}{{mol.K}})\n\nOptions:\nA) 57600\nB) 33600\nC) 24000\nD) 9600",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "44"
+        }
+    },
+    "45": {
+        "question": "مقداری گاز آرمانی، طی یک فرایند بی دررو، از حالت a به حالت b می‌رود. کدام مورد درست است؟\n",
+        "options": {
+            "1": "{V_۲} \\gt \\frac{۱}{۳}{V_۱} و دمای گاز کاهش می‌یابد.",
+            "2": "{V_۲} \\lt \\frac{۱}{۳}{V_۱} و دمای گاز کاهش می‌یابد.",
+            "3": "{V_۲} \\gt \\frac{۱}{۳}{V_۱} و دمای گاز افزایش می‌یابد.",
+            "4": "{V_۲} \\lt \\frac{۱}{۳}{V_۱} و دمای گاز افزایش می‌یابد."
+        },
+        "final_answer": 3,
+        "full_text": "Some ideal gas goes from state a to state b during a continuous process. Which one is correct?\n\nOptions:\nA) {V_2} \\gt \\frac{1}{3}{V_1} and the gas temperature decreases.\nB) {V_2} \\lt \\frac{1}{3}{V_1} and the gas temperature decreases.\nC) {V_2} \\gt \\frac{1}{3}{V_1} and the gas temperature increases.\nD) {V_2} \\lt \\frac{1}{3}{V_1} and the gas temperature increases.",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "45"
+        }
+    }
+}

@@ -1,0 +1,722 @@
+{
+    "1": {
+        "question": "با ضرب سه جمله متوالی یک دنباله هندسی به‌ترتیب در ۴، ۸ و ۱۶، یک دنباله حسابی به‌دست می‌آید. اگر مجموع مربعات سه جمله هندسی برابر مجموع جملات حسابی باشد، جمله اول دنباله هندسی کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۳۲}}{۷}",
+            "2": "\\frac{{۶۴}}{۷}",
+            "3": "\\frac{{۲۴}}{۵}",
+            "4": "\\frac{{۴۸}}{۵}"
+        },
+        "final_answer": 2,
+        "full_text": "By multiplying three consecutive terms of a geometric sequence by 4, 8 and 16 respectively, an arithmetic sequence is obtained. If the sum of the squares of three geometric terms is equal to the sum of the arithmetic terms, what is the first term of the geometric sequence?\n\nOptions:\nA) \\frac{{32}}{7}\nB) \\frac{{64}}{7}\nC) \\frac{{24}}{5}\nD) \\frac{{48}}{5}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "رأس سهمی y = k{x^۲} - ۴x - ۶ روی خط y = - ۴x - ۴ قرار دارد. عرض رأس سهمی کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۶",
+            "3": "۴-",
+            "4": "۸-"
+        },
+        "final_answer": 4,
+        "full_text": "The vertex of the parabola y = k{x^2} - 4x - 6 is located on the line y = - 4x - 4. What is the width of the vertex of a parabola?\n\nOptions:\nA) 2\nB) 6\nC) 4-\nD) 8-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "اگر A و B و C سه مجموعه ناتهی از مجموعه مرجع U باشند، مجموعه \\left( {(A - B)' - (B - C)} \\right) - C با کدام مجموعه برابر است؟\n",
+        "options": {
+            "1": "A' - (B \\cup C)",
+            "2": "B - (A \\cup C)",
+            "3": "C - (A \\cup B)",
+            "4": "(A' \\cup B') - C"
+        },
+        "final_answer": 1,
+        "full_text": "If A, B, and C are three infinite sets of the reference set U, then the set \\left( {(A - B)' - (B - C)} \\right) - C is equal to which set?\n\nOptions:\nA) A' - (B \\ cup C)\nB) B - (A \\ cup C)\nC) C - (A \\ cup B)\nD) (A' \\cup B') - C",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "کدام گزاره زیر، هم‌ارز منطقی گزاره \\left[ { \\sim p \\wedge ( \\sim q \\wedge r)} \\right] \\vee (q \\wedge r) \\vee (p \\wedge r) است؟\n",
+        "options": {
+            "1": "q",
+            "2": "r",
+            "3": "r \\vee p",
+            "4": "p \\vee q"
+        },
+        "final_answer": 2,
+        "full_text": "Which statement below is the logical equivalent of the statement \\left[ { \\sim p \\wedge ( \\sim q \\wedge r)} \\right] \\vee (q \\wedge r) \\vee (p \\wedge r)?\n\nOptions:\nA) q\nB) r\nC) r \\vee p\nD) p \\vee q",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "معادله‌های {x^۲} + ۶x + m = ۰ و {x^۲} + ۲x - ۳m = ۰ یک ریشه مشترک غیرصفر دارند. اختلاف ریشه‌های غیرمشترک کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۷"
+        },
+        "final_answer": 3,
+        "full_text": "The equations {x^2} + 6x + m = 0 and {x^2} + 2x - 3m = 0 have a non-zero common root. What is the difference between non-common roots?\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 7",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "نمودار تابع y = \\frac{۲}{{{x^۲} - ۳x + ۲}}، به ازای چند مقدار صحیح بین دو خط افقی y = ۰ و y = - ۲ واقع می‌شود؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۳",
+            "3": "۴",
+            "4": "صفر"
+        },
+        "final_answer": 4,
+        "full_text": "The graph of the function y = \\frac{2}{{{x^2} - 3x + 2}}, for how many integer values ​​is located between two horizontal lines y = 0 and y = - 2?\n\nOptions:\nA) 1\nB) 3\nC) 4\nD) Zero",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "نقاط A(۰,۱) و B(۴, - ۲) دو رأس مجاور مربع ABCD هستند. طول مختصات نقطه D در ربع سوم، کدام است؟\n",
+        "options": {
+            "1": "۱-",
+            "2": "۲-",
+            "3": "۳-",
+            "4": "۴-"
+        },
+        "final_answer": 3,
+        "full_text": "Points A(0,1) and B(4,-2) are two adjacent vertices of square ABCD. What is the length of the coordinates of point D in the third quadrant?\n\nOptions:\nA) 1-\nB) 2-\nC) 3-\nD) 4-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "توابع f(x) = \\log (۲x - ۵) و g(x) = x + \\sqrt {۲x - ۴} را در نظر بگیرید. اگر نمودار y = {g^{ - ۱}}o{f^{ - ۱}}(x) محور yها را در \\alpha قطع کند، مقدار \\alpha کدام است؟\n",
+        "options": {
+            "1": "۴ - \\sqrt ۲",
+            "2": "۴ - \\sqrt ۳",
+            "3": "۴ + \\sqrt ۲",
+            "4": "۴ + \\sqrt ۳"
+        },
+        "final_answer": 2,
+        "full_text": "Consider the functions f(x) = \\log (2x - 5) and g(x) = x + \\sqrt {2x - 4}. If the graph of y = {g^{ - 1}}o{f^{ - 1}}(x) intersects the y axis at \\alpha, what is the value of \\alpha?\n\nOptions:\nA) 4 - \\sqrt 2\nB) 4 - \\sqrt 3\nC) 4 + \\sqrt 2\nD) 4 + \\sqrt 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "نمودار f(x) = ۲ + {۲^{h - ax}} نمودار تابع g(x) = - {x^۲} - ۳x + ۸ را در نقطه‌ای به طول ۱ قطع می‌کند. اگر {f^{ - ۱}}(۱۰) = - ۱ باشد، مقدار ۲b - a کدام است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۲",
+            "3": "۳-",
+            "4": "۲-"
+        },
+        "final_answer": 3,
+        "full_text": "The graph of f(x) = 2 + {2^{h - ax}} intersects the graph of the function g(x) = - {x^2} - 3x + 8 at a point of length 1. If {f^{-1}}(10) = -1, what is the value of 2b - a?\n\nOptions:\nA) 3\nB) 2\nC) 3-\nD) 2-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "معادله \\frac{۱}{{x + ۲}} - \\frac{{{x^۲} - ۹x - ۲}}{{{x^۳} + ۸}} = \\frac{{۶x}}{{{x^۲} - ۲x + ۴}} دارای چند جواب مثبت است؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 4,
+        "full_text": "The equation \\frac{1}{{x + 2}} - \\frac{{{x^2} - 9x - 2}}{{{x^3} + 8}} = \\frac{{6x}}{{ How many positive answers does {x^2} - 2x + 4}} have?\n\nOptions:\nA) Zero\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "در شکل زیر، مقدار \\cos \\alpha چقدر است؟\n",
+        "options": {
+            "1": "\\frac{{\\sqrt ۳ }}{۲}",
+            "2": "\\frac{{\\sqrt ۲ }}{۲}",
+            "3": "- \\frac{{\\sqrt ۳ }}{{۱۰}}",
+            "4": "- \\frac{{\\sqrt ۲ }}{{۱۰}}"
+        },
+        "final_answer": 2,
+        "full_text": "In the figure below, what is the value of \\cos \\alpha?\n\nOptions:\nA) \\frac{{\\sqrt 3 }}{2}\nB) \\frac{{\\sqrt 2 }}{2}\nC) - \\frac{{\\sqrt 3 }}{{10}}\nD) - \\frac{{\\sqrt 2 }}{{10}}",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "شکل زیر، قسمتی از نمودار y = a + b\\cos (cx - \\frac{\\pi }{۳}) را نشان می‌دهد. مقدار b(c - a) کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۶"
+        },
+        "final_answer": 3,
+        "full_text": "The figure below shows a part of the graph of y = a + b\\cos (cx - \\frac{\\pi }{3}). What is the value of b(c - a)?\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 6",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "مجموع جواب‌های معادله مثلثاتی \\cos (\\frac{{۱۷\\pi }}{۸} + x)\\cos (\\frac{{۳\\pi }}{۸} - x) = {\\cos ^۲}(\\frac{\\pi }{۳}) در بازه [ - \\frac{\\pi }{۲},\\frac{\\pi }{۲}] کدام است؟\n",
+        "options": {
+            "1": "\\frac{\\pi }{۲}",
+            "2": "\\frac{\\pi }{۳}",
+            "3": "\\frac{{۲\\pi }}{۳}",
+            "4": "\\frac{\\pi }{۴}"
+        },
+        "final_answer": 4,
+        "full_text": "The sum of the solutions of the trigonometric equation \\cos (\\frac{{17\\pi }}{8} + x)\\cos (\\frac{{3\\pi }}{8} - x) = {\\cos ^2}(\\frac {\\pi }{3}) in the interval [ - \\frac{\\pi }{2},\\frac{\\pi }{2}] which one?\n\nOptions:\nA) \\frac{\\pi }{2}\nB) \\frac{\\pi }{3}\nC) \\frac{{2\\pi }}{3}\nD) \\frac{\\pi }{4}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "اگر f(x) = \\left| {\\frac{۱}{۲}x - ۱} \\right| و شکل زیر نمودار تابع g(x) باشد، معادله g(f(g(x + ۲))) = ۰ چند ریشه دارد؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 2,
+        "full_text": "If f(x) = \\left| {\\frac{1}{2}x - 1} \\right| And the figure below is the graph of the function g(x), how many roots does the equation g(f(g(x + 2))) = 0 have?\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "شکل زیر، نمودار تابع {f^{ - ۱}} را نشان می‌دهد. اگر \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{f^{ - ۱}}(x)}}{{f(x)}} = \\pi باشد، مقدار m کدام است؟\n",
+        "options": {
+            "1": "- \\sqrt \\pi",
+            "2": "- \\frac{۱}{{\\sqrt \\pi }}",
+            "3": "- \\frac{۱}{\\pi }",
+            "4": "- \\pi \\sqrt \\pi"
+        },
+        "final_answer": 1,
+        "full_text": "The figure below shows the graph of the function {f^{-1}}. If \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{f^{ - 1}}(x)}}{{f(x)}} = \\pi, what is the value of m Is?\n\nOptions:\nA) - \\sqrt \\pi\nB) - \\frac{1}{{\\sqrt \\pi }}\nC) - \\frac{1}{\\pi }\nD) - \\pi \\sqrt \\pi",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "اگر تابع f(x) = \\left\\{ \\begin{gathered}  \\left| {x - [x]} \\right|\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, + [x] \\hfill \\\\  \\left| {x - [x - a]} \\right|\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - [x] \\hfill \\\\ \\end{gathered} \\right. در \\mathbb{R} پیوسته باشد، مجموعه مقادیر [a] شامل چند عضو است؟ (a \\gt - ۱)\n",
+        "options": {
+            "1": "صفر",
+            "2": "۲",
+            "3": "۱",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "If the function f(x) = \\left\\{ \\begin{gathered} \\left| {x - [x]} \\right|\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, + [x] \\hfill \\\\ \\left| {x - [x - a]} \\right|\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - [x] \\hfill \\\\ \\end{gathered} \\ right is continuous in \\mathbb{R}, how many members does the set of values ​​[a] contain? (a \\gt - 1)\n\nOptions:\nA) Zero\nB) 2\nC) 1\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "تابع f(x) = \\frac{x}{{۱ - x|x|}} چند نقطه بحرانی دارد؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۱",
+            "3": "۲",
+            "4": "۳"
+        },
+        "final_answer": 2,
+        "full_text": "How many critical points does the function f(x) = \\frac{x}{{1 - x|x|}} have?\n\nOptions:\nA) Zero\nB) 1\nC) 2\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "به ازای کدام مقدار a، اختلاف شیب نیم‌خط‌های مماس چپ و راست بر منحنی تابع f(x) = |۴x - ۳|\\sqrt {ax}، در نقطه x = \\frac{۳}{۴} برابر ۲\\sqrt ۶ می‌شود؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۸",
+            "3": "\\frac{۱}{۲}",
+            "4": "\\frac{۱}{۸}"
+        },
+        "final_answer": 3,
+        "full_text": "For which value of a, the slope difference of the left and right tangent half-lines on the curve of the function f(x) = |4x - 3|\\sqrt {ax}, at the point x = \\frac{3}{4} is equal to 2\\sqrt 6 ?\n\nOptions:\nA) 2\nB) 8\nC) \\frac{1}{2}\nD) \\frac{1}{8}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "نمودار تابع f(x) = ({m^۲} - ۱){x^۲} + (۲ - m)x + ۵ محور xها را در \\alpha و \\beta قطع می‌کند. اگر مجموع \\alpha و \\beta بیشترین مقدار باشد، m کدام است؟\n",
+        "options": {
+            "1": "۲ + \\sqrt ۵",
+            "2": "۲ + \\sqrt ۳",
+            "3": "۲ - \\sqrt ۵",
+            "4": "۲ - \\sqrt ۳"
+        },
+        "final_answer": 4,
+        "full_text": "The graph of the function f(x) = ({m^2} - 1){x^2} + (2 - m)x + 5 intersects the x-axis in \\alpha and \\beta. If the sum of \\alpha and \\beta is the largest value, what is m?\n\nOptions:\nA) 2 + \\sqrt 5\nB) 2 + \\sqrt 3\nC) 2 - \\sqrt 5\nD) 2 - \\sqrt 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "۵ نفر قرار است در یک جلسه سخنرانی کنند. در چند حالت، دو نفر خاص پشت سر هم سخنرانی می‌کنند؟\n",
+        "options": {
+            "1": "۲۴",
+            "2": "۴۸",
+            "3": "۷۲",
+            "4": "۹۶"
+        },
+        "final_answer": 2,
+        "full_text": "5 people are going to give a speech in a meeting. In how many cases do two particular people give speeches in a row?\n\nOptions:\nA) 24\nB) 48\nC) 72\nD) 96",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "در پرتاب همزمان دو تاس، اعداد روشده m و n هستند. با کدام احتمال، معادله {x^۲} - mx + n = ۰ دارای دو ریشه حقیقی و متمایز است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۳}",
+            "2": "\\frac{۱}{۴}",
+            "3": "\\frac{۵}{۶}",
+            "4": "\\frac{۴}{۹}"
+        },
+        "final_answer": 3,
+        "full_text": "In simultaneous throwing of two dice, the resulting numbers are m and n. With what probability, the equation {x^2} - mx + n = 0 has two real and distinct roots?\n\nOptions:\nA) \\frac{1}{3}\nB) \\frac{1}{4}\nC) \\frac{5}{6}\nD) \\frac{4}{9}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "پیشامدهای ناسازگار A و B از فضای نمونه‌ای S هستند. اگر P(A) = \\frac{۱}{۶} و p(B) = \\frac{۱}{۴} باشد، مقدار P(B'|A') کدام است؟\n",
+        "options": {
+            "1": "۰/۷",
+            "2": "۰/۵",
+            "3": "۰/۵۵",
+            "4": "۰/۷۵"
+        },
+        "final_answer": 1,
+        "full_text": "The incompatible events A and B are from the sample space S. If P(A) = \\frac{1}{6} and p(B) = \\frac{1}{4}, what is the value of P(B'|A')?\n\nOptions:\nA) 0.7\nB) 0.5\nC) 0.55\nD) 0.75",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "در یک دسته از اعداد، چهار عدد فرد یک رقمی در اختیار داریم. دوتای آن‌ها را با کوچک‌ترین عدد زوج بعد از خود و دوتای دیگر را با بزرگ‌ترین عدد زوج قبل از خود جایگزین می‌کنیم به‌طوری که اعداد در دسته دوم (دسته جدید) تک رقمی و غیرتکراری باشند. نسبت ضریب تغییرات دسته اول به دسته دوم کدام است؟\n",
+        "options": {
+            "1": "۰/۲\\sqrt ۵",
+            "2": "۰/۴\\sqrt ۱۰",
+            "3": "\\sqrt ۲",
+            "4": "۱/۲۵"
+        },
+        "final_answer": 3,
+        "full_text": "In a set of numbers, we have four odd one-digit numbers. We replace two of them with the smallest even number after it and the other two with the largest even number before it, so that the numbers in the second category (new category) are single-digit and non-repeating. What is the ratio of the coefficient of variation of the first category to the second category?\n\nOptions:\nA) 0.2\\sqrt 5\nB) 0.4\\sqrt 10\nC) \\sqrt 2\nD) 1/25",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "سه کیسه یکسان، هر کدام شامل ۱۰ گوی در اختیار داریم. کیسه اول دارای گوی‌های سبز، کیسه دوم دارای گوی‌های قرمز و کیسه سوم دارای ۲ گوی قرمز و ۸ گوی سبز است. کیسه‌ای به تصادف انتخاب کرده، یک گوی خارج می‌کنیم و می‌بینیم که قرمز است. با کدام احتمال همه گوی‌های آن کیسه قرمز است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۳}",
+            "2": "\\frac{۲}{۳}",
+            "3": "\\frac{۱}{۶}",
+            "4": "\\frac{۵}{۶}"
+        },
+        "final_answer": 4,
+        "full_text": "We have three identical bags, each containing 10 balls. The first bag has green balls, the second bag has red balls and the third bag has 2 red balls and 8 green balls. We pick a bag at random, take out a ball and see that it is red. What is the probability that all balls in that bag are red?\n\nOptions:\nA) \\frac{1}{3}\nB) \\frac{2}{3}\nC) \\frac{1}{6}\nD) \\frac{5}{6}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "در شکل زیر، اگر \\frac{{AC}}{{CG}} = \\frac{{DE}}{{EF}} = ۴ باشد، اندازه FG کدام است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۱/۲۵",
+            "3": "۱/۵",
+            "4": "۱/۷۵"
+        },
+        "final_answer": 2,
+        "full_text": "In the figure below, if \\frac{{AC}}{{CG}} = \\frac{{DE}}{{EF}} = 4, what is the size of FG?\n\nOptions:\nA) 1\nB) 1/25\nC) 1/5\nD) 1/75",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "اگر اندازه اضلاع قائمه مثلث ABC، ۵ و ۱۰ باشد، مساحت ناحیه هاشور‌خورده، کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۲۵}}{۹}\\pi",
+            "2": "\\frac{{۱۶}}{۹}\\pi",
+            "3": "\\frac{{۹}}{۴}\\pi",
+            "4": "\\frac{{۵}}{۴}\\pi"
+        },
+        "final_answer": 1,
+        "full_text": "If the right sides of triangle ABC are 5 and 10, what is the area of ​​the hatched area?\n\nOptions:\nA) \\frac{{25}}{9}\\pi\nB) \\frac{{16}}{9}\\pi\nC) \\frac{{9}}{4}\\pi\nD) \\frac{{5}}{4}\\pi",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "در یک n ضلعی، با کم شدن یک ضلع، ۱۶ قطر از تعداد قطرهای آن کم می‌شود. اگر دو ضلع کم شود، چند قطر از تعداد قطرها کم می‌شود؟\n",
+        "options": {
+            "1": "۳۰",
+            "2": "۳۱",
+            "3": "۳۲",
+            "4": "۳۳"
+        },
+        "final_answer": 2,
+        "full_text": "In an n-gon, when one side is reduced, 16 diameters are reduced from the number of its diameters. If two sides are subtracted, how many diagonals are subtracted from the number of diagonals?\n\nOptions:\nA) 30\nB) 31\nC) 32\nD) 33",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "در فضا، دو خط {\\ell _۱} و {\\ell _۲} موازی هستند. اگر خط d خط {\\ell _۱} را در یک نقطه قطع کند، کدام مورد در خصوص وضعیت خط d و {\\ell _۲} همواره درست است؟\n",
+        "options": {
+            "1": "متنافرند.",
+            "2": "موازی‌اند.",
+            "3": "غیرمتقاطع‌اند.",
+            "4": "غیرموازی‌اند."
+        },
+        "final_answer": 4,
+        "full_text": "In space, two lines {\\ell _1} and {\\ell _2} are parallel. If line d intersects line {\\ell _1} at a point, which statement is always true about the state of line d and {\\ell _2}?\n\nOptions:\nA) They hate.\nB) are parallel.\nC) are non-intersecting.\nD) are non-parallel.",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "یک دایره به شعاع ۲، داخل ذوزنقه متساوی‌الساقینی محاط شده است. اگر یکی از زوایای ذوزنقه ۶۰ درجه باشد، مساحت این ذوزنقه کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۱۲}}{{\\sqrt ۳ }}",
+            "2": "\\frac{{۱۶}}{{\\sqrt ۳ }}",
+            "3": "\\frac{{۲۴}}{{\\sqrt ۳ }}",
+            "4": "\\frac{{۳۲}}{{\\sqrt ۳ }}"
+        },
+        "final_answer": 4,
+        "full_text": "A circle with a radius of 2 is enclosed in an isosceles trapezoid. If one of the angles of a trapezoid is 60 degrees, what is the area of ​​this trapezoid?\n\nOptions:\nA) \\frac{{12}}{{\\sqrt 3 }}\nB) \\frac{{16}}{{\\sqrt 3 }}\nC) \\frac{{24}}{{\\sqrt 3 }}\nD) \\frac{{32}}{{\\sqrt 3 }}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در شکل زیر، نیمسازهای زاویه‌های B و C در مثلث ABC رسم شده‌اند. اگر چهارضلعی داخل دایره محاطی باشد، زاویه A چند درجه است؟\n",
+        "options": {
+            "1": "۹۰",
+            "2": "۷۵",
+            "3": "۶۰",
+            "4": "۴۵"
+        },
+        "final_answer": 3,
+        "full_text": "In the figure below, the bisectors of angles B and C are drawn in triangle ABC. If the quadrilateral is inside the circle, how many degrees is angle A?\n\nOptions:\nA) 90\nB) 75\nC) 60\nD) 45",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "دو دایره با شعاع یکسان در نقاط (۱,۴) و (۳,۲) همدیگر را قطع می‌کنند. اگر فاصله بین مراکز دو دایره، دو برابر فاصله بین نقاط تقاطع باشد، فاصله بین نقاط برخورد یکی از دایره‌ها با محور xها کدام است؟\n",
+        "options": {
+            "1": "۸",
+            "2": "۶",
+            "3": "۲\\sqrt ۲",
+            "4": "۴\\sqrt ۲"
+        },
+        "final_answer": 2,
+        "full_text": "Two circles with the same radius intersect at points (1,4) and (3,2). If the distance between the centers of two circles is twice the distance between the intersection points, what is the distance between the intersection points of one of the circles with the x-axis?\n\nOptions:\nA) 8\nB) 6\nC) 2\\sqrt 2\nD) 4\\sqrt 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "اندازه تصویر قائم بردار (۲, - a,۳) بر امتداد بردار (۱,۰,a)، برابر \\frac{۵}{{\\sqrt ۲ }} است. اختلاف مقادیر a کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۷",
+            "3": "\\frac{۳}{۲}",
+            "4": "\\frac{۱۰}{۷}"
+        },
+        "final_answer": 4,
+        "full_text": "The size of the vertical image of the vector (2, - a, 3) along the vector (1, 0, a) is equal to \\frac{5}{{\\sqrt 2 }}. What is the difference in the values ​​of a?\n\nOptions:\nA) 2\nB) 7\nC) \\frac{3}{2}\nD) \\frac{10}{7}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "از کانون سهمی {y^۲} - x - ۴y + ۲ = ۰ خطی عمود بر محور تقارن آن رسم می‌شود تا سهمی را در نقاط A و B قطع کند. مساحت مثلثی با رئوس A و B و رأس سهمی، چقدر است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۳}",
+            "2": "\\frac{۱}{۴}",
+            "3": "\\frac{۱}{۸}",
+            "4": "\\frac{۱}{۱۲}"
+        },
+        "final_answer": 3,
+        "full_text": "From the center of the parabola {y^2} - x - 4y + 2 = 0, a line perpendicular to its axis of symmetry is drawn to intersect the parabola at points A and B. What is the area of ​​a triangle with vertices A and B and a parabola vertex?\n\nOptions:\nA) \\frac{1}{3}\nB) \\frac{1}{4}\nC) \\frac{1}{8}\nD) \\frac{1}{12}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "اگر A = \\left[ {\\begin{array}{*{۲۰}{c}}  ۱ \\\\  { - ۱} \\\\  ۰ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۱ \\\\  ۱ \\\\  { - ۲} \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۰ \\\\  ۱ \\\\  { - ۱} \\end{array}} \\right] و B = \\left[ {\\begin{array}{*{۲۰}{c}}  ۱ \\\\  ۱ \\\\  x \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  x \\\\  ۱ \\\\  ۱ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - ۱} \\\\  x \\\\  { - ۱} \\end{array}} \\right] و C = \\left[ {\\begin{array}{*{۲۰}{c}}  ۲ \\\\  ۱ \\\\  ۰ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۱ \\\\  ۰ \\\\  { - ۱} \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۰ \\\\  ۱ \\\\  ۰ \\end{array}} \\right] و D = ABC باشد، به ازای کدام مقدار x، مجموع درایه‌های قطر اصلی و فرعی ماتریس D برابر هستند؟\n",
+        "options": {
+            "1": "۴-",
+            "2": "۳-",
+            "3": "۵",
+            "4": "۶"
+        },
+        "final_answer": 1,
+        "full_text": "If A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ { - 1} \\\\ 0 \\end{array}\\,\\,\\,\\,\\begin{array}{ *{20}{c}} 1 \\\\ 1 \\\\ { - 2} \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 0 \\\\ 1 \\ \\ { - 1} \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 1 \\\\ x \\end{array}\\,\\ ,\\,\\,\\begin{array}{*{20}{c}} x \\\\ 1 \\\\ 1 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{ c}} { - 1} \\\\ x \\\\ { - 1} \\end{array}} \\right] and C = \\left[ {\\begin{array}{*{20}{c}} 2 \\\\ 1 \\\\ 0 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 1 \\\\ 0 \\\\ { - 1} \\end{array}\\,\\,\\ ,\\,\\begin{array}{*{20}{c}} 0 \\\\ 1 \\\\ 0 \\end{array}} \\right] and D = ABC, for which value of x, the sum of the dimensions of the main diameter and Sub-matrix D are equal?\n\nOptions:\nA) 4-\nB) 3-\nC) 5\nD) 6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "اگر A = \\left[ {\\begin{array}{*{۲۰}{c}}  ۱ \\\\  ۰ \\\\  ۳ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - ۱} \\\\  ۲ \\\\  { - ۲} \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۲ \\\\  { - ۳} \\\\  ۴ \\end{array}} \\right] باشد، مقدار \\left| {\\left| A \\right|A} \\right| کدام است؟\n",
+        "options": {
+            "1": "۱-",
+            "2": "۱",
+            "3": "۱۶-",
+            "4": "۱۶"
+        },
+        "final_answer": 2,
+        "full_text": "If A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 0 \\\\ 3 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20 }{c}} { - 1} \\\\ 2 \\\\ { - 2} \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 2 \\\\ { - 3} \\\\ 4 \\end{array}} \\right], the value \\left| {\\left| A \\right|A} \\right| Which?\n\nOptions:\nA) 1-\nB) 1\nC) 16-\nD) 16",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "باقی‌مانده تقسیم عدد ({۲۴^{۲۳}} - {۲۱^{۲۲}}) \\times ۹ بر عدد ۵۶ چقدر است؟\n",
+        "options": {
+            "1": "۷",
+            "2": "۵",
+            "3": "۳",
+            "4": "۱"
+        },
+        "final_answer": 3,
+        "full_text": "What is the remainder of dividing the number ({24^{23}} - {21^{22}}) \\times 9 by the number 56?\n\nOptions:\nA) 7\nB) 5\nC) 3\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "معادله سیاله ۱۷x + ۱۸y = ۹۸۷ در مجموعه اعداد طبیعی، چند دسته جواب دارد؟\n",
+        "options": {
+            "1": "۶",
+            "2": "۵",
+            "3": "۴",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "How many answers does the fluid equation 17x + 18y = 987 have in the set of natural numbers?\n\nOptions:\nA) 6\nB) 5\nC) 4\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "شکل زیر، گراف G را نشان می‌دهد. مقدار \\gamma (G) کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 2,
+        "full_text": "The figure below shows the graph of G. What is the value of \\gamma (G)?\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "هر زیرمجموعه n عضوی از مجموعهٔ ، حداقل دو عضو دارد که مجموع آن‌ها ۴۷ است. اگر حداقل مقدار n برابر ۲۰ باشد، بیشترین مقدار m کدام است؟\n",
+        "options": {
+            "1": "۳۲",
+            "2": "۳۶",
+            "3": "۴۰",
+            "4": "۴۲"
+        },
+        "final_answer": 4,
+        "full_text": "Each subset of n members of the set has at least two members, the total of which is 47. If the minimum value of n is equal to 20, what is the maximum value of m?\n\nOptions:\nA) 32\nB) 36\nC) 40\nD) 42",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "اگر در گراف ساده G، \\left| {V(G)} \\right| = ۱۸ و \\Delta (G) = ۸ و \\delta (G) = ۳ باشند، اختلاف بیشترین و کمترین مقدار ممکن برای اندازه گراف G کدام است؟\n",
+        "options": {
+            "1": "۴۰",
+            "2": "۳۸",
+            "3": "۳۹",
+            "4": "۳۷"
+        },
+        "final_answer": 3,
+        "full_text": "If in the simple graph G, \\left| {V(G)} \\right| = 18 and \\Delta (G) = 8 and \\delta (G) = 3, what is the maximum and minimum possible difference for the size of the graph G?\n\nOptions:\nA) 40\nB) 38\nC) 39\nD) 37",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "day",
+            "question_number": "40"
+        }
+    }
+}

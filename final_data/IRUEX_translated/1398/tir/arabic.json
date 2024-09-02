@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "(إنّما ولیُّکم اللهُ و رسوله و الّذین آمنوا ....):\n",
+        "options": {
+            "1": "ولیّ شما فقط الله است و رسول او و کسانی که ایمان آورده‌اند ...",
+            "2": "همانا ولی شما خداوند است و پیامبرش و هر کس ایمان بیاورد ...",
+            "3": "سَرور شما بدون شک الله است و پیامبر و آنکه ایمان آورده است ...",
+            "4": "بدرستی که خداوند سَرور شما است و رسول او و کسی که ایمان آورده است ..."
+        },
+        "final_answer": 1,
+        "full_text": "(Indeed, your guardian is Allah, His Messenger, and those who believe...):\n\nOptions:\nA) Your protector is only Allah and His Messenger and those who believe...\nB) Verily, your protector is God and His Messenger and whoever believes...\nC) Your Lord is without a doubt Allah, and the Prophet and the one who believed...\nD) It is true that God is your Lord and His Messenger and whoever believes...",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "«یَتراکم بخارُ الماء في السّماء و یتشکّل منه الغیمُ الّذي یُعدّ منشأ المطر!»:\n",
+        "options": {
+            "1": "بخار آب در آسمان متراکم می‌شود و از آن ابر تشکیل می‌گردد که منشأ باران بشمار می‌آید!",
+            "2": "این بخارهای متراکم آسمان هستند که ابر را تشکیل می‌دهند و همان منشأ باران بشمار می‌آیند!",
+            "3": "از بخارهای آبی که در آسمان متراکم شده است ابرها بوجود می‌آیند و آن یک منشأ برای باران است!",
+            "4": "بخار آب در آسمان متراکم می‌شود و سبب بوجود آمدن ابرها در آسمان می‌گردد که منشأ باران است!"
+        },
+        "final_answer": 1,
+        "full_text": "\"Let the vapor of water accumulate in the sky and form from it the cloud which is the source of the rain!\":\n\nOptions:\nA) Water vapor condenses in the sky and forms a cloud, which is the source of rain!\nB) These are dense vapors in the sky that form clouds and are the source of rain!\nC) Clouds form from water vapor that is condensed in the sky, and that is a source for rain!\nD) Water vapor condenses in the sky and causes clouds to form in the sky, which is the source of rain!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "«إنّها من أعجب الأسماک، تغذیتُها صَعبة علی الهواة لِأنّها تُحبّ أن تأکل صیدَها حیًّا!»:\n",
+        "options": {
+            "1": "آن از ماهی‌های عجیبی است که تغذیه‌اش برای علاقه‌مندان سخت است برای اینکه دوست دارد شکارِ زنده بخورد!",
+            "2": "او از شگفت‌ترین ماهیانی است که برای علاقمندان، غذا دادنش سخت است زیرا او خوردن زندهٔ شکار را دوست دارد!",
+            "3": "او از ماهیان شگفت‌آوری است که برای علاقمندان، تغذیه‌اش سخت دشوار است زیرا زنده خوردنِ صید را دوست دارد!",
+            "4": "آن از عجیب‌ترین ماهیهاست، غذا دادن به او برای علاقمندان دشوار است زیرا دوست دارد که صید خود را زنده بخورد!"
+        },
+        "final_answer": 4,
+        "full_text": "\"I am amazed by these fish, feeding them is difficult for amateurs because they love to think about the catches alive!\":\n\nOptions:\nA) It is a strange fish that is difficult to feed for hobbyists because it likes to eat live prey!\nB) He is one of the most amazing fish that is difficult for hobbyists to feed because he likes to eat live prey!\nC) He is one of the amazing fish that is very difficult for hobbyists to feed because he likes to eat the catch alive!\nD) It is one of the strangest fishes, it is difficult for hobbyists to feed it because it likes to eat its catch alive!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "«إنّ مِن أخلص النّاس مَن تَجري ینابیعُ الحکمة من قلبه علی لسانه!»:\n",
+        "options": {
+            "1": "از مردم با اخلاص‌تر کسی است که چشمه‌های حکمتی از قلب وی بر زبانش روانه شود!",
+            "2": "کسی که چشمه‌های حکمت از قلب او بر زبانش جاری می‌شود، از خالص‌ترین مردم است!",
+            "3": "از خالص‌ترین مردمان کسی است که چشمه‌های حکمت از قلب او بر زبان وی جاری شده باشد!",
+            "4": "کسی‌که چشمه‌های حکمت را از قلب خویش بر زبان روانه سازد، از با اخلاص‌ترین مردمان است!"
+        },
+        "final_answer": 2,
+        "full_text": "\"Indeed, I am the best of people, I am a trader, and my wisdom is transmitted from my heart to my tongue!\":\n\nOptions:\nA) The most sincere of people is the one whose springs of wisdom flow from his heart to his tongue!\nB) He who has the fountains of wisdom flowing from his heart to his tongue is one of the purest people!\nC) One of the purest people is one whose springs of wisdom have flowed from his heart to his tongue!\nD) He who speaks the springs of wisdom from his heart is one of the most sincere people!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "«لا تَستشر الکذّابَ، فإنّه کالسّراب یقرِّب علیک البعیدَ و یُبعد علیک القریبَ!»:\n",
+        "options": {
+            "1": "با شخص کذّاب مشورت مکن، زیرا او چون سراب است، دور را بر تو نزدیک می‌نمایاند و نزدیک را دور!",
+            "2": "دروغزن را مورد مشورت خویش قرار نده، چه او همچون سراب بعید را به تو نزدیک می‌نمایاند و قریب را دور!",
+            "3": "با شخص دروغگو مشورت نکن، چه او مانند سراب دور را به تو نزدیک می‌کند و نزدیک را از تو دور می‌سازد!",
+            "4": "کذّاب را مشاور خود قرار مده، زیرا او مانند سراب است که بعید را به تو قریب می‌کند و قریب را از تو بعید می‌سازد!"
+        },
+        "final_answer": 1,
+        "full_text": "\"Don't spread falsehood, because the liar will bring you closer to the distant and further away from the distant!\":\n\nOptions:\nA) Do not consult with a lying person, because he is a mirage, he makes the far appear near to you and the near appear far!\nB) Don't take the liar as your counsel, because he makes the improbable near you and the imminent far away like a mirage!\nC) Do not consult with a liar, because he brings the far away to you like a mirage and keeps the near away from you!\nD) Don't make Khadab your advisor, because he is like a mirage that makes the impossible near to you and makes the near impossible from you!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "«کنتُ اُفکِّر في نفسي هل یُمکن أن تکون قد خُلقت السّماءُ و الأرض و کلُّ ما فیهما من دون حکمة!»:\n",
+        "options": {
+            "1": "با خویش در اندیشه‌ام که آیا امکان دارد این آسمان و زمین و همه چیز که در آنهاست بی‌حکمت خلق شود!",
+            "2": "با خودم فکر می‌کنم که آیا ممکن است، آسمان و زمین و هر چه در آن هست بی‌حکمت خلق شده باشد!",
+            "3": "با خود می‌اندیشیدم، آیا امکان دارد که آسمان و زمین و هر آنچه در آنها است بدون حکمت خلق شده باشد!",
+            "4": "با خویشتن خود فکر می‌کردم آیا ممکن است این آسمان و این زمین و آنچه که در آن هست بدون حکمت خلق شود!"
+        },
+        "final_answer": 3,
+        "full_text": "\"Don't you think in my soul, is it possible that the creation of the heavens and the earth and all of us are equal to me without wisdom!\":\n\nOptions:\nA) I am thinking to myself, is it possible that this heaven and earth and everything in them were created without wisdom!\nB) I think to myself if it is possible that the heavens and the earth and everything in them were created without wisdom!\nC) I thought to myself, is it possible that the heavens and the earth and everything in them were created without wisdom!\nD) I thought to myself, is it possible for this sky and this earth and what is in it to be created without wisdom!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "«هناک کلماتٌ تَجري علی أقلام بعض الشّعراء لأوّل مرّة تَدلّ علی مَفاهیم جدیدةٍ لَم یکن یَعرفها الآخرون!»:\n",
+        "options": {
+            "1": "کلماتی وجود دارند که برای بار اوّل بر قلمهای بعضی از شاعران جاری می‌شوند در حالی که بر مفهوم جدیدی که دیگران آن‌ها را نمی‌شناسند، دلالت دارد!",
+            "2": "وجود دارد کلماتی که بعضی از شعرا برای اوّلین مرتبه بر قلمهای خود جاری می‌کنند که بر مفاهیمی جدید دلالت می‌کند که آن را دیگران نمی‌شناختند!",
+            "3": "آنجا، کلماتی است که بعضی شاعران اوّلین مرتبه، بر قلمهایشان جاری می‌کنند و بر مفهوم جدید که دیگران آن‌ها را نمی‌شناخته‌اند دلالت دارد!",
+            "4": "کلماتی هستند که بر قلمهای بعضی شعرا برای اوّلین بار جاری می‌شوند که بر مفاهیم جدیدی دلالت می‌کنند که دیگران، آن‌ها را نمی‌شناختند!"
+        },
+        "final_answer": 4,
+        "full_text": "\"These are the words used by some of the poets for the first time to demonstrate new concepts.\n\nOptions:\nA) There are words that appear on the pens of some poets for the first time, while it implies a new concept that others do not know!\nB) There are words that some poets use for the first time on their pens, which indicate new concepts that others did not know!\nC) There are words that some first-rate poets write on their pens and it indicates a new concept that others did not know!\nD) There are words that appear on the pens of some poets for the first time, which indicate new concepts that others did not know!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "عیّن الصّحیح:\n",
+        "options": {
+            "1": "لیتني رأیت جمیع الکتب: کاش همهٔ کتابها را ببینم!",
+            "2": "لعلّ الخیر قد نزل علینا: شاید خیر بر ما نازل شود!",
+            "3": "لیت الاِمتحان قد انتهی: کاش امتحان تمام شود!",
+            "4": "لعلّ الصّبر یُنقذنا: شاید پایداری نجاتمان دهد!"
+        },
+        "final_answer": 4,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) Litany of your opinion of Jami al-Katab: I wish I could see all the books!\nB) Lal al-khair Qod Nazl Alina: Maybe good will descend on us!\nC) final exam: I wish the exam would be over!\nD) Lal al-Saber will save us: Maybe persistence will save us!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "عیّن الصّحیح:\n",
+        "options": {
+            "1": "إنّما مَن لَم یلد و لم یولد، هو الله: کسی که نزاده و زاده نشده، فقط الله است!",
+            "2": "جاءَت الاُمُّ بالحبوب لفراخها الصّغیرة: مادر با دانه‌ها نزد جوجه‌های کوچک آمد!",
+            "3": "یُنفقون مِن أحسن ما یُحبّون أکثر من قبل: با کمال میل از نیکوترین چیزی که دوست می‌دارند، انفاق می‌کنند!",
+            "4": "عند ما یُلقي الخطیبُ محاضرةً یُنصت الحضّارُ له: وقتی سخنران سخنرانی می‌کرد حاضران با سکوت به او گوش می‌کردند!"
+        },
+        "final_answer": 1,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) Inma Man Lam Yald and Lam Yald, Ho Allah: The one who was not born and was not born, is only Allah!\nB) The mother came with seeds to the little chicks!\nC) Yunaffun min ahsan ma yohabfun aktar min qibal: They willingly spend from the best thing they love!\nD) In ​​our case, Yolqi al-Khatib is a lecturer, Yunsat al-Hazaru leh: when the speaker gave a speech, the audience listened to him in silence!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "«خفّاش تنها حیوان پستانداری است که قادر به پرواز می‌باشد!»:\n",
+        "options": {
+            "1": "الخفّاش الّذي حیوان لبون وحید و هو قادر علی الطّیران!",
+            "2": "الحیوان الوحید اللّبون لا یقدر علی الطّیران هو الخفّاش!",
+            "3": "الخفّاش هو الحیوان اللّبون الوحید الّذي یَقدر علی الطّیران!",
+            "4": "الحیوان اللّبون الوحید و هو قادر علی الطّیران لیس الخفّاش!"
+        },
+        "final_answer": 3,
+        "full_text": "\"The bat is the only mammal that can fly!\":\n\nOptions:\nA) Al-Fash Al-Dhi, the animal of Labun, Wahid, and He is capable of Ali Al-Tayran!\nB) Al-Hiyawan Al-Wahid Al-Labbaon La Yaqdar Ali Al-Tayran Ho Al-Khaffash!\nC) The bat is the animal of the Almighty God!\nD) Al-Hiyawan al-Lubun al-Wahid and he is capable of licks the bat!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "اِقرأ النّص التّالي ثمّ أجب عن الأسئلة (و ۶ سوال بعدی) بما یناسب النصّ:\nحینما نذهب إلی المناطق الحارّة قد نشاهد مناظر جذّابة من بعید، و بعد أن نقترب منها، نری أشجار النّخل الجمیلة. کما أنّ لهذه الشّجرة أهمیّة مادیّة کبیرة، حیث یُشکِّل نوع منها في بعض المناطق أساسًا لمعیشة الکثیر من السّکان، کما أنّه غذاء رئیسيّ في بعض المناطق الصحراویّة، و بعض أثمارها تُجفَّف و تُرسَل إلی مناطق اُخری!\nللنّجل أنواع مختلفة، حیث یُوجَد حوالي ۱۵۰۰ نوع یختلف مع بعضها؛ فمن أنواعه نخیل التّمر الّذي یُعتبر (= یُعدّ) من أهمَها، و نخیل الزّیت الّذي یُستعمل في صنع الصّابون و موادّ التجمیل!\nیبلغ ارتفاع النّخل ۲۷ مترًا و جذعه خشن جدًّا، لأنّه عبارة عن بقایا غصن النخل الّذي یسقط أو یُقطَع عند نموّ الشجرة الکثیر!\nعیّن الصّحیح:\n",
+        "options": {
+            "1": "یُجفَّف التّمر في المناطق الّتي یُرسل إلیها!",
+            "2": "نری النّخل جذّابًا من البعید و من القریب!",
+            "3": "إن کان التّمر أساسًا للمعیشة لا یُرسل إلی المناطق الاُخری!",
+            "4": "بعض ساکني المناطق الصحراویّة لا یستطیعون أن یأکللوا إلّا التّمر!"
+        },
+        "final_answer": 2,
+        "full_text": "Read the following text, then answer the questions (and 6 questions after me) as appropriate to the text:\nWhen we go to hot areas, we may see attractive views from afar, and after we get close to them, we see beautiful palm trees. This tree also has great material importance, as a type of it in some areas forms the basis of livelihood for many residents. It is also a staple food in some desert areas, and some of its fruits are dried and sent to other areas!\nThe tree has different types, as there are about 1,500 types that differ from each other. Among its types are the date palm, which is considered (= considered) one of the most important, and the oil palm, which is used in making soap and cosmetics!\nThe height of the palm tree is 27 meters and its trunk is very rough, because it is the remains of the palm branch that falls or is cut off when the tree grows a lot!\nAyn al-Sahih:\n\nOptions:\nA) Dates are dried in the areas to which they are sent!\nB) We see palm trees attractive from far and near!\nC) If dates are the basis of livelihood, they should not be sent to other regions!\nD) Some people living in desert areas can only eat dates!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "عیّن الصحیح عن شجرة النخل:\n",
+        "options": {
+            "1": "یبلغ ارتفاعها إلی سبعة و عشرین مترًا لکن غصونها أکثر طولًا و خشونةً!",
+            "2": "أنواعه متعدّدة تصل إلی ألف و خمسمائة ولکن أثمارها من نوع واحد!",
+            "3": "لا منطقة في الأرض إلّا و فیها التّمر یُعرف کمادّة غذائیّة!",
+            "4": "أهمّ أنواعها نخیل التّمر و نخیل الزّیت!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify the correct statement about the palm tree:\n\nOptions:\nA) Its height reaches twenty-seven meters, but its branches are longer and coarser!\nB) It has many types, reaching one thousand and five hundred, but its fruits are of one type!\nC) There is no region on earth where dates are not known as a food item!\nD) The most important types are date palm and oil palm!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "عیّن الخطأ: من فوائد النّخل أنّه ....\n",
+        "options": {
+            "1": "مناظره رائعة جدًّا في المناطق الحارّة الّتي لا نری فیها أشجارًا خضراء!",
+            "2": "مادّة غذائیّة مفیدة ینمو في المناطق الباردة و تعتبر ثمرته غذاءً رئیسیًّا!",
+            "3": "تُصنع من ثمرته موادّ تستعمل في زینة و تجمیل النّاس!",
+            "4": "تُستخدم ثمرته في الموادّ الّتي نحن بحاجة إلیها للنّظافة!"
+        },
+        "final_answer": 2,
+        "full_text": "Identify the error: One of the benefits of palm trees is that...\n\nOptions:\nA) Its views are very wonderful in hot areas where we do not see green trees!\nB) A useful nutritional substance that grows in cold regions and its fruit is considered a major food!\nC) Materials are made from its fruit that are used in people’s adornment and beautification!\nD) Its fruit is used in materials that we need for hygiene!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "عیّن الخطأ: جذع النّخل خشن جدًّا لأنّه ....\n",
+        "options": {
+            "1": "یفرق رأس الغصن و انتهاؤه فیُقطع رأسه فقط!",
+            "2": "عندما یجفّ الغصن لایسقط من الجذع إلّا رأسه!",
+            "3": "یَقطع الفلّاحون الغصن القدیم بعض الأحیان و یبقی أثره!",
+            "4": "النّخل هکذا في خلقته و هو ما بقي من جذوعٍ تسقط!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify the error: The palm trunk is very rough because...\n\nOptions:\nA) The head of the branch is separated and its ends are cut off, so only its head is cut off!\nB) When the branch dries up, only its head falls from the trunk!\nC) Farmers sometimes cut off the old branch and its traces remain!\nD) The palm tree is like this in its creation, and it is what remains of the fallen trunks!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "عیّن الصحیح في الإعراب و التحلیل الصرفي«نُشاهد»:\n",
+        "options": {
+            "1": "مزید ثلاثي (حروفه الأصلیة: ن ش هـ) - معلوم / مع فاعله جملةٌ فعلیةٌ",
+            "2": "مضارع - للمتکلّم مع الغیر - مزید ثلاثي / فعل و مع فاعله جملةٌ فعلیّة",
+            "3": "فعل مضارع - مزید ثلاثي (من وزن «فاعَل») - مجهول / فعلٌ و مفعوله «مناظر»",
+            "4": "للمتکلّم وحده - مزید ثلاثي (مصدره: مشاهدة، من وزن مفاعلة) / مع فاعله جملةٌ فعلیّة"
+        },
+        "final_answer": 2,
+        "full_text": "Specify the correct statement in parsing and morphological analysis: “We see”:\n\nOptions:\nA) Triple Mazid (original letters: nsh hah) - known / with its subject, a verbal sentence\nB) Present tense - for the person speaking to someone else - triple verb / verb and its subject is a verbal sentence\nC) Present tense verb - triple verb (from the form of “fa’il”) - unknown / verb and its object is “matching”\nD) For the speaker alone - triple zyd (source: witness, from the meter of interaction) / with its subject, a verbal sentence",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "عیّن الصحیح في الإعراب و التحلیل الصرفي «تُرسَل»:\n",
+        "options": {
+            "1": "فعل مضارع - للغائبة - معلوم / فعلٌ و جملته فعلیةٌ",
+            "2": "للمخاطب - مزید ثلاثي (مصدره علی وزن إفعال) / فعل و مع فاعله جملةٌ فعلیّةٌ",
+            "3": "للغائبة - مزید ثلاثي (ماضیه: «أرسل» علی وزن أفعل) - مجهول / فعل و الجملة فعلیّةٌ",
+            "4": "مضارع - للمخاطب - مزید ثلاثي (حروفه الأصلیة: ر س ل) - مجهول / فعل و فاعله محذوف، و الجملة فعلیّةٌ"
+        },
+        "final_answer": 3,
+        "full_text": "Specify the correct statement in parsing and morphological analysis: “to be sent”:\n\nOptions:\nA) Present tense verb - in the third person - known/verb and its sentence is verbal\nB) for the addressee - triple zyd (its source is on the verb form) / a verb and with its subject there is a verbal sentence\nC) for the absent person - triple zyd (past form: “sent” in the meter of “afal”) - anonymous/verb and the sentence is verbal.\nD) Present tense - for the addressee - triple verb (original letters: RS L) - unknown / verb with its subject deleted, and the sentence is verbal.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "عیّن الصحیح في الإعراب و التحلیل الصرفي «ارتفاع»:\n",
+        "options": {
+            "1": "مفرد مذکّر - مصدر (من وزن انفعال) / فاعل لفعل «یبلغ»",
+            "2": "اسم - مفرد مذکّر - مصدر (من وزن افتعال) / فاعل لفعل «یبلغ»",
+            "3": "مفرد مذکّر - فعله «ارتفع» علی وزن «انفعل» / مضاف، و المضاف إلیه «النخل»",
+            "4": "اسم - جمع مکسّر أو تکسیر - حروفه الأصلیة «ر ف ع» / مضاف و المضاف إلیه «النخل»"
+        },
+        "final_answer": 2,
+        "full_text": "Specify the correct word in parsing and morphological analysis: “height”:\n\nOptions:\nA) Masculine singular - infinitive (of emotional meter) / subject of the verb “to inform”\nB) Noun - masculine singular - infinitive (from the meter of the fabrication) / subject of the verb “to inform”\nC) Masculine singular - its verb “rised” is in the form of “affected” / added, and the genitive is “palm trees.”\nD) Noun - plural of broken or broken - its original letters are “ra f a” / added and the genitive is “palm trees”",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "عیّن الخطأ في ضبط حرکات الکلمات:\n",
+        "options": {
+            "1": "عَلَیکُم بِمکارِمِ الأخلاقِ فإنَّ رَبّي بَعَثني بِها!",
+            "2": "اللّهُمَّ انفَعْني بِما عَلَّمتَني و عَلِّمْني ما یَنفَعُني!",
+            "3": "کُنْ صادِقًا مَعَ نَفسِکَ و مَعَ الآخَرینَ في الحیاةِ!",
+            "4": "اِتَّصَلَ بِصَدیقهِ مُصَلَّح السَّیاراتِ لکي یُصلَّحَ سَیّارتَهُم!"
+        },
+        "final_answer": 4,
+        "full_text": "Identify the error in adjusting the movements of words:\n\nOptions:\nA) You must have good morals, for my Lord has sent me with them!\nB) Oh God, benefit me with what you have taught me and teach me what will benefit me!\nC) Be honest with yourself and with others in life!\nD) He called his friend, the car repairman, to fix their car!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "عیّن الصحیح للتوضیحات التالیة:\n",
+        "options": {
+            "1": "إن لم تُمطر السّماء فنُواجه ... = (الجافَّ)",
+            "2": "مکانُ جَعلِ الأقدام هو ... = (الوطأة)",
+            "3": "... هو الجزء الّذي نأکله من الفاکهة = (النّوی)",
+            "4": "... یقف في الشّارع لرعایة المرور = (الشرطة)"
+        },
+        "final_answer": 2,
+        "full_text": "Determine the correct statement for the following explanations:\n\nOptions:\nA) If it does not rain, we will face... = (dry)\nB) The place of placing the feet is... = (the foot)\nC)... is the part of the fruit that we eat = (the pits)\nD)... standing in the street to watch traffic = (police)",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "عیّن نوع الجمع یختلف عن الباقي:\n",
+        "options": {
+            "1": "رأیت هؤلاء المؤمنین في المسجد!",
+            "2": "علینا أن نرحم المساکین!",
+            "3": "شاهدت الطّلاب جالسین في الصفّ!",
+            "4": "اتّحاد المسلمین یسبّب تقدّمهم!"
+        },
+        "final_answer": 2,
+        "full_text": "Specify the type of plural that differs from the rest:\n\nOptions:\nA) I saw these believers in the mosque!\nB) We must have mercy on the poor!\nC) I saw the students sitting in class!\nD) The unity of Muslims causes their progress!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "عیّن ما لیس فیه اسم التفضیل:\n",
+        "options": {
+            "1": "أتقی النّاسِ من لا یخاف النّاسُ من لسانه!",
+            "2": "کان مِن بین أصدقائي مَن هو أنجح التلامیذ!",
+            "3": "أعلم أنّ مَن جَمع علمَ النّاس إلی علمه فهو علیمٌ!",
+            "4": "إنّ اللّون الأبیض أحسن لونٍ لألبسة الممرّضات!"
+        },
+        "final_answer": 3,
+        "full_text": "Specify what is not in the superlative noun:\n\nOptions:\nA) The most pious of people is he who is not afraid of his tongue!\nB) Among my friends was one of the most successful students!\nC) I know that whoever combines people’s knowledge with his own knowledge is knowledgeable!\nD) White is the best color for nurses’ uniforms!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "عیّن مضارعًا لیس معادلًا للالتزامی الفارسی:\n",
+        "options": {
+            "1": "اُمرنا بأن لا نغضبُ ، ولکنّنا نغضبُ، و هذا الأمر شائع بیننا!",
+            "2": "لعلّ الإنسان یعرف الحضارات مِن خلال الکتابات و التماثیل!",
+            "3": "کأنّ هذا الجبل أعلی من بقیّة الجبال، لیتنی أصعد إلی رأسه!",
+            "4": "لینتا نقرأ آراء عدّة کُتّاب حول هذا الموضوع لنأخذ نتیجة صحیحة!"
+        },
+        "final_answer": 1,
+        "full_text": "The present tense is not equivalent to the Persian obligatory:\n\nOptions:\nA) We were commanded not to get angry, but we do get angry, and this is common among us!\nB) Perhaps humans know civilizations through writings and statues!\nC) It is as if this mountain is higher than the rest of the mountains. I wish I could climb to its top!\nD) Linta, we read the opinions of several writers on this topic to come to a correct conclusion!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "عیّن الصحیح عن «لا» النافیة للجنس:\n",
+        "options": {
+            "1": "لا حیاءٌ و عفافٌ و أدبٌ إلّا لعقلٍ ثابت!",
+            "2": "لا العزّة إلّا لربّنا الرحیم الّذي له کلّ شيء!",
+            "3": "لا أتذکّر زمانَ ذهابنا إلی تلک الجولة العلمیّة!",
+            "4": "لا شعبَ من شعوب العالم إلّا و له طریقةٌ للعبادة!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify the correct statement about “no” that denies sex:\n\nOptions:\nA) There is no modesty, chastity, or etiquette except for a stable mind!\nB) Glory belongs only to our Lord, the Most Merciful, to whom everything belongs!\nC) I don’t remember when we went to that scientific tour!\nD) There is no people in the world that does not have a way of worship!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "عیّن المصدر لا یُبیّن نوع الفعل:\n",
+        "options": {
+            "1": "یا أصدقاء أوفوا بعهدکم وفاء جمیلًا!",
+            "2": "شجّعنا أصدقاءَنا في المسابقة تشجیعًا کثیرًا!",
+            "3": "إن کنت تلمیذًا عاقلًا فلا تُضیّع أوقاتک تضییعًا!",
+            "4": "إنّ العطّار یشمّ رائحة المسک شمًّا دقیقًا و یعرفه!"
+        },
+        "final_answer": 3,
+        "full_text": "The infinitive does not indicate the type of verb:\n\nOptions:\nA) O friends, fulfill your pledge beautifully!\nB) We gave our friends great encouragement in the competition!\nC) If you are a sensible student, do not waste your time!\nD) The perfumer smells the scent of musk accurately and knows it!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "عیّن ما فیه الحال:\n",
+        "options": {
+            "1": "جاء لنا مدعوّون کثیرون هم تَناولوا الطّعام في ساعة متأخّرة!",
+            "2": "جاء ضیوف کثیرون و جاء صاحبُ البیت و استقبلهم بحفاوة!",
+            "3": "جاء الضّیوف الکثیرون و هم یتکلّمون عن ذکریات الضّیافة!",
+            "4": "جاء لنا المدعوّون الکثیرون حین کُنّا نتکلّم مع أصدقائنا!"
+        },
+        "final_answer": 3,
+        "full_text": "Determine what the situation is:\n\nOptions:\nA) Many guests came to us and had dinner at a late hour!\nB) Many guests came and the owner of the house came and received them warmly!\nC) Many guests came and talked about the memories of hospitality!\nD) Many guests came to us while we were talking to our friends!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

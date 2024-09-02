@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "In free writing, you should not worry about spelling or punctuating correctly, about erasing mistakes, about organizing material, or ......... exact words.\n",
+        "options": {
+            "1": "finding",
+            "2": "how to find",
+            "3": "about finding",
+            "4": "the finding of"
+        },
+        "final_answer": 3,
+        "full_text": "In free writing, you should not worry about spelling or punctuating correctly, about erasing mistakes, about organizing material, or ......... exact words.\n\nOptions:\nA) finding\nB) how to find\nC) about finding\nD) the finding of",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "Gerald ......... forgot to lock the door the night our restaurant was robbed.\n",
+        "options": {
+            "1": "and I",
+            "2": "or myself",
+            "3": "and I themselves",
+            "4": "himself and myself"
+        },
+        "final_answer": 1,
+        "full_text": "Gerald ......... forgot to lock the door the night our restaurant was robbed.\n\nOptions:\nA) and I\nB) or myself\nC) and I themselves\nD) himself and myself",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "Rescue helicopters had searched the whole area for the missing hikers for five hours before they finally......... them in a remote area.\n",
+        "options": {
+            "1": "were found",
+            "2": "would find",
+            "3": "were finding",
+            "4": "found"
+        },
+        "final_answer": 4,
+        "full_text": "Rescue helicopters had searched the whole area for the missing hikers for five hours before they finally......... them in a remote area.\n\nOptions:\nA) were found\nB) would find\nC) were finding\nD) found",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "Mr. Thomason, the company president, is not a generous man. If I ......... the company president, I would for sure donate some money to charity\n",
+        "options": {
+            "1": "was",
+            "2": "were",
+            "3": "be",
+            "4": "would be"
+        },
+        "final_answer": 2,
+        "full_text": "Mr. Thomason, the company president, is not a generous man. If I ......... the company president, I would for sure donate some money to charity\n\nOptions:\nA) was\nB) were\nC) be\nD) would be",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "We are an old nation proud of our national ......... .\n",
+        "options": {
+            "1": "generation",
+            "2": "combination",
+            "3": "continent",
+            "4": "heritage"
+        },
+        "final_answer": 4,
+        "full_text": "We are an old nation proud of our national ......... .\n\nOptions:\nA) generation\nB) combination\nC) continent\nD) heritage",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "The children paid ......... attention when the teacher began explaining what would be on the next big exam.\n",
+        "options": {
+            "1": "particular",
+            "2": "popular",
+            "3": "willing",
+            "4": "amused"
+        },
+        "final_answer": 1,
+        "full_text": "The children paid ......... attention when the teacher began explaining what would be on the next big exam.\n\nOptions:\nA) particular\nB) popular\nC) willing\nD) amused",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "Having to pay out ......... for car repairs made a big hole in my savings.\n",
+        "options": {
+            "1": "safely",
+            "2": "absolutely",
+            "3": "carelessly",
+            "4": "unexpectedly"
+        },
+        "final_answer": 4,
+        "full_text": "Having to pay out ......... for car repairs made a big hole in my savings.\n\nOptions:\nA) safely\nB) absolutely\nC) carelessly\nD) unexpectedly",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "I think we should all respect nature and governments should do more to ......... environmental damage.\n",
+        "options": {
+            "1": "require",
+            "2": "prevent",
+            "3": "protect",
+            "4": "convert"
+        },
+        "final_answer": 2,
+        "full_text": "I think we should all respect nature and governments should do more to ......... environmental damage.\n\nOptions:\nA) require\nB) prevent\nC) protect\nD) convert",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "Henry likes to take long showers and ......... all the hot water before others get a chance to bathe.\n",
+        "options": {
+            "1": "fall down",
+            "2": "pass away",
+            "3": "use up",
+            "4": "turn off"
+        },
+        "final_answer": 3,
+        "full_text": "Henry likes to take long showers and ......... all the hot water before others get a chance to bathe.\n\nOptions:\nA) fall down\nB) pass away\nC) use up\nD) turn off",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "The man’s ......... speech made little sense to the people in the audience, so many left before he was half through.\n",
+        "options": {
+            "1": "ancient",
+            "2": "countless",
+            "3": "monolingual",
+            "4": "incomprehensible"
+        },
+        "final_answer": 4,
+        "full_text": "The man’s ......... speech made little sense to the people in the audience, so many left before he was half through.\n\nOptions:\nA) ancient\nB) countless\nC) monolingual\nD) incomprehensible",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "Kinetic learners are students who learn better when they are allowed to be ......... .\n",
+        "options": {
+            "1": "cheerful",
+            "2": "emotional",
+            "3": "active",
+            "4": "sociable"
+        },
+        "final_answer": 3,
+        "full_text": "Kinetic learners are students who learn better when they are allowed to be ......... .\n\nOptions:\nA) cheerful\nB) emotional\nC) active\nD) sociable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "No, no. You seem to not have gotten the ......... I have been trying to make; all I mean is that you should take better care of yourself.\n",
+        "options": {
+            "1": "point",
+            "2": "matter",
+            "3": "issue",
+            "4": "advice"
+        },
+        "final_answer": 1,
+        "full_text": "No, no. You seem to not have gotten the ......... I have been trying to make; all I mean is that you should take better care of yourself.\n\nOptions:\nA) point\nB) matter\nC) issue\nD) advice",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*)\n",
+        "options": {
+            "1": "this organ is developing",
+            "2": "this organ develops",
+            "3": "developing of this organ",
+            "4": "the development of this organ"
+        },
+        "final_answer": 4,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*)\n\nOptions:\nA) this organ is developing\nB) this organ develops\nC) developing of this organ\nD) the development of this organ",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "Cloze Test (**)\n",
+        "options": {
+            "1": "used",
+            "2": "we used",
+            "3": "were used",
+            "4": "have been used"
+        },
+        "final_answer": 3,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (**)\n\nOptions:\nA) used\nB) we used\nC) were used\nD) have been used",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "Cloze Test (***)\n",
+        "options": {
+            "1": "serve",
+            "2": "improve",
+            "3": "identify",
+            "4": "receive"
+        },
+        "final_answer": 1,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (***)\n\nOptions:\nA) serve\nB) improve\nC) identify\nD) receive",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "Cloze Test (****)\n",
+        "options": {
+            "1": "expanded",
+            "2": "replaced",
+            "3": "saved",
+            "4": "ranged"
+        },
+        "final_answer": 1,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (****)\n\nOptions:\nA) expanded\nB) replaced\nC) saved\nD) ranged",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "Cloze Test (*****)\n",
+        "options": {
+            "1": "skill",
+            "2": "care",
+            "3": "space",
+            "4": "addiction"
+        },
+        "final_answer": 2,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*****)\n\nOptions:\nA) skill\nB) care\nC) space\nD) addiction",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nWhat is the subject of the passage?\n",
+        "options": {
+            "1": "Differences in communication between humans and pigeons",
+            "2": "Importance of body movement in human communication",
+            "3": "Recognition of facial expressions",
+            "4": "Emotions that our face can show"
+        },
+        "final_answer": 3,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.What is the subject of the passage?\n\nOptions:\nA) Differences in communication between humans and pigeons\nB) Importance of body movement in human communication\nC) Recognition of facial expressions\nD) Emotions that our face can show",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "The passage suggests that the belief that animals may also be able to recognize facial expressions ......... .\n",
+        "options": {
+            "1": "proves that they understand what each facial expression means",
+            "2": "holds true in relation to trained, but not untrained, birds",
+            "3": "was supposed to be wrong",
+            "4": "is a long-held one"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nThe passage suggests that the belief that animals may also be able to recognize facial expressions ......... .\n\nOptions:\nA) proves that they understand what each facial expression means\nB) holds true in relation to trained, but not untrained, birds\nC) was supposed to be wrong\nD) is a long-held one",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "Which of the following describes the author’s attitude towards the idea that the ability to recognize facial expressions of emotion is inborn (paragraph 2)?\n",
+        "options": {
+            "1": "Uncertain",
+            "2": "Frightened",
+            "3": "Shocked",
+            "4": "Amused"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nWhich of the following describes the author’s attitude towards the idea that the ability to recognize facial expressions of emotion is inborn (paragraph 2)?\n\nOptions:\nA) Uncertain\nB) Frightened\nC) Shocked\nD) Amused",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "The phrase “that idea” in paragraph 2 refers to the idea ......... .\n",
+        "options": {
+            "1": "that pigeons can learn new things",
+            "2": "expressed by the psychologists mentioned in paragraph 2",
+            "3": "that recognizing facial expressions is important to human communication",
+            "4": "according to which to recognize facial expressions of emotion is not necessarily inborn"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nThe phrase “that idea” in paragraph 2 refers to the idea ......... .\n\nOptions:\nA) that pigeons can learn new things\nB) expressed by the psychologists mentioned in paragraph 2\nC) that recognizing facial expressions is important to human communication\nD) according to which to recognize facial expressions of emotion is not necessarily inborn",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nThe passage would most probably continue with a discussion of ......... .\n",
+        "options": {
+            "1": "the best airport design",
+            "2": "another approach to airport design",
+            "3": "the reasons why airport design is important",
+            "4": "the advantages and disadvantages of each airport design"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.The passage would most probably continue with a discussion of ......... .\n\nOptions:\nA) the best airport design\nB) another approach to airport design\nC) the reasons why airport design is important\nD) the advantages and disadvantages of each airport design",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "According to the passage, the linear plan is more appropriate for airports ......... .\n",
+        "options": {
+            "1": "with small planes",
+            "2": "that offer domestic flights",
+            "3": "the passengers of which prefer to board planes as quickly as they can",
+            "4": "that can provide service to a limited number of planes at the same time"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nAccording to the passage, the linear plan is more appropriate for airports ......... .\n\nOptions:\nA) with small planes\nB) that offer domestic flights\nC) the passengers of which prefer to board planes as quickly as they can\nD) that can provide service to a limited number of planes at the same time",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "Which of the following is defined in the passage?\n",
+        "options": {
+            "1": "scale (paragraph 1)",
+            "2": "terminals (paragraph 4)",
+            "3": "board (paragraph 2)",
+            "4": "passageways (paragraph 4)"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nWhich of the following is defined in the passage?\n\nOptions:\nA) scale (paragraph 1)\nB) terminals (paragraph 4)\nC) board (paragraph 2)\nD) passageways (paragraph 4)",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "In which of the designs described in the passage are buses used and the passengers must climb a flight of stairs to board the aircraft?\n",
+        "options": {
+            "1": "Linear",
+            "2": "Pier",
+            "3": "Satellite",
+            "4": "None"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nIn which of the designs described in the passage are buses used and the passengers must climb a flight of stairs to board the aircraft?\n\nOptions:\nA) Linear\nB) Pier\nC) Satellite\nD) None",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

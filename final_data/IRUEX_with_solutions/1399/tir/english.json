@@ -1,0 +1,477 @@
+{
+    "1": {
+        "question": "In free writing, you should not worry about spelling or punctuating correctly, about erasing mistakes, about organizing material, or ......... exact words.\n",
+        "options": {
+            "1": "finding",
+            "2": "how to find",
+            "3": "about finding",
+            "4": "the finding of"
+        },
+        "final_answer": 3,
+        "full_text": "In free writing, you should not worry about spelling or punctuating correctly, about erasing mistakes, about organizing material, or ......... exact words.\n\nOptions:\nA) finding\nB) how to find\nC) about finding\nD) the finding of",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "1"
+        },
+        "solution": "۱) و من\n۲) یا خودم\n۳) و من خودشان\n۴) خودش و خودم\nنکته: در این قسمت چون جرالد فاعل است، ضمیر بعد از آن نیز باید فاعلی بیاید، لذا گزینهٔ ۱ درست است.\n"
+    },
+    "2": {
+        "question": "Gerald ......... forgot to lock the door the night our restaurant was robbed.\n",
+        "options": {
+            "1": "and I",
+            "2": "or myself",
+            "3": "and I themselves",
+            "4": "himself and myself"
+        },
+        "final_answer": 1,
+        "full_text": "Gerald ......... forgot to lock the door the night our restaurant was robbed.\n\nOptions:\nA) and I\nB) or myself\nC) and I themselves\nD) himself and myself",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "2"
+        },
+        "solution": "ترجمه: هلی کوپترای نجات همه جا را پنج ساعت برای یافتن کوهنوردان گشتند تا بالاخره آن ها را در مکانی دورافتاده پیدا کردند.\n۱) پیدا شدند\n۲) پیدا می کردند\n۳) داشتند پیدا می کردند\n۴) پیدا کردند\nنکته: وقتی دو عملی غیرهم زمان رخ دهند که یکی ماضی بعید باشد و زودتر رخ داده باشد، آن یکی که دیرتر رخ داده، ماضی ساده خواهد بود،\nلذا گزینهٔ ۴ درست است.\n"
+    },
+    "3": {
+        "question": "Rescue helicopters had searched the whole area for the missing hikers for five hours before they finally......... them in a remote area.\n",
+        "options": {
+            "1": "were found",
+            "2": "would find",
+            "3": "were finding",
+            "4": "found"
+        },
+        "final_answer": 4,
+        "full_text": "Rescue helicopters had searched the whole area for the missing hikers for five hours before they finally......... them in a remote area.\n\nOptions:\nA) were found\nB) would find\nC) were finding\nD) found",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "3"
+        },
+        "solution": "ترجمه: آقای تامپسون، رئیس شرکت، انسان بخشنده ای نیست. من اگر رئیس شرکت بودم، مطمئناً بخشی از پول را به خیریه می بخشیدم.\nنکته: این تست شرطی نوع دوم است، به دلیل وجود فعل وجهی ،would در قسمت شرط (if clause) بایستی ماضی ساده بیاید و برای تمام\nفاعل ها از were استفاده می شود.\n"
+    },
+    "4": {
+        "question": "Mr. Thomason, the company president, is not a generous man. If I ......... the company president, I would for sure donate some money to charity\n",
+        "options": {
+            "1": "was",
+            "2": "were",
+            "3": "be",
+            "4": "would be"
+        },
+        "final_answer": 2,
+        "full_text": "Mr. Thomason, the company president, is not a generous man. If I ......... the company president, I would for sure donate some money to charity\n\nOptions:\nA) was\nB) were\nC) be\nD) would be",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "4"
+        },
+        "solution": "ترجمه: ما یک ملت کهن هستیم که به میراث خود افتخار می کنیم.\n۱) نسل، تولید\n۲) ترکیب\n۳) قاره\n۴) میراث\n----------\n"
+    },
+    "5": {
+        "question": "We are an old nation proud of our national ......... .\n",
+        "options": {
+            "1": "generation",
+            "2": "combination",
+            "3": "continent",
+            "4": "heritage"
+        },
+        "final_answer": 4,
+        "full_text": "We are an old nation proud of our national ......... .\n\nOptions:\nA) generation\nB) combination\nC) continent\nD) heritage",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "5"
+        },
+        "solution": "آزمون سراسری داخل کشور سال ۹۹ گروه آزمایشی علوم ریاضی-\nترجمه: بچه ها توجه ویژه ای کردند وقتی که معلم شروع به توضیح دادن کرد که در امتحان مهم بعدی چه چیزی خواهد بود.\n۱) ویژه، خاص\n"
+    },
+    "6": {
+        "question": "The children paid ......... attention when the teacher began explaining what would be on the next big exam.\n",
+        "options": {
+            "1": "particular",
+            "2": "popular",
+            "3": "willing",
+            "4": "amused"
+        },
+        "final_answer": 1,
+        "full_text": "The children paid ......... attention when the teacher began explaining what would be on the next big exam.\n\nOptions:\nA) particular\nB) popular\nC) willing\nD) amused",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "6"
+        },
+        "solution": "۴) سرگرم\n۳) مشتاق، مایل\n۲) محبوب\nترجمه: پرداخت غیرمنتظرهٔ هزینهٔ تعمیر اتومبیل به پس انداز من لطمه وارد کرد.\n۱) به طور امن\n"
+    },
+    "7": {
+        "question": "Having to pay out ......... for car repairs made a big hole in my savings.\n",
+        "options": {
+            "1": "safely",
+            "2": "absolutely",
+            "3": "carelessly",
+            "4": "unexpectedly"
+        },
+        "final_answer": 4,
+        "full_text": "Having to pay out ......... for car repairs made a big hole in my savings.\n\nOptions:\nA) safely\nB) absolutely\nC) carelessly\nD) unexpectedly",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "7"
+        },
+        "solution": "۲) مطلقاً، قطعاً\n۳) به طور بی توجه\n۴) به طور غیرمنتظره\nترجمه: به نظر من همه باید به طبیعت احترام بگذاریم و دولت ها باید کار بیشتری برای پیشگیری از خسارت محیطی انجام دهند.\n۱) نیاز داشتن\n"
+    },
+    "8": {
+        "question": "I think we should all respect nature and governments should do more to ......... environmental damage.\n",
+        "options": {
+            "1": "require",
+            "2": "prevent",
+            "3": "protect",
+            "4": "convert"
+        },
+        "final_answer": 2,
+        "full_text": "I think we should all respect nature and governments should do more to ......... environmental damage.\n\nOptions:\nA) require\nB) prevent\nC) protect\nD) convert",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "8"
+        },
+        "solution": "۲) پیشگیری کردن\n۳) محافظت کردن\n۴) تبدیل کردن\nترجمه: هنری دوست دارد که دوش های طولانی مدت بگیرد و از تمام آب گرم استفاده کند، قبل از اینکه بقیه شانسی برای حمام کردن داشته\nباشند.\n۱) افتادن، سقوط کردن\n"
+    },
+    "9": {
+        "question": "Henry likes to take long showers and ......... all the hot water before others get a chance to bathe.\n",
+        "options": {
+            "1": "fall down",
+            "2": "pass away",
+            "3": "use up",
+            "4": "turn off"
+        },
+        "final_answer": 3,
+        "full_text": "Henry likes to take long showers and ......... all the hot water before others get a chance to bathe.\n\nOptions:\nA) fall down\nB) pass away\nC) use up\nD) turn off",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "9"
+        },
+        "solution": "۲) فوت کردن\n۳) استفاده کردن\n۴) خاموش کردن\nترجمه: سخنرانی نامف هوم آن مرد برای حضار بی معنا بود و بسیاری میان صحبت های او مکان را ترک کردند.\n۱) قدیمی، باستانی\n"
+    },
+    "10": {
+        "question": "The man’s ......... speech made little sense to the people in the audience, so many left before he was half through.\n",
+        "options": {
+            "1": "ancient",
+            "2": "countless",
+            "3": "monolingual",
+            "4": "incomprehensible"
+        },
+        "final_answer": 4,
+        "full_text": "The man’s ......... speech made little sense to the people in the audience, so many left before he was half through.\n\nOptions:\nA) ancient\nB) countless\nC) monolingual\nD) incomprehensible",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "10"
+        },
+        "solution": "۲) بی شمار\n۳) تک زبانه\nترجمه: یادگیران حرکتی دانش آموزانی هستند که در صورت فعال بودن بهتر یاد می گیرند.\n۱) خوشحال\n"
+    },
+    "11": {
+        "question": "Kinetic learners are students who learn better when they are allowed to be ......... .\n",
+        "options": {
+            "1": "cheerful",
+            "2": "emotional",
+            "3": "active",
+            "4": "sociable"
+        },
+        "final_answer": 3,
+        "full_text": "Kinetic learners are students who learn better when they are allowed to be ......... .\n\nOptions:\nA) cheerful\nB) emotional\nC) active\nD) sociable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "11"
+        },
+        "solution": "۲) احساسی، هیجانی\n۳) فعال\nترجمه: نه، نه ظاهراً منظور بحث مرا نفهمیدی، منظورم این است که باید بیشتر مراقب خودت باشی.\n۱) نکته، منظور\nا ترجمهٔ :Cloze Test\n۲) موضوع\n۳) مسئله\n۴) غیرقابل درک، نامفهوم\n۴) اجتماعی\n۴) نصیحت\nچشم انسان خارق العاده ترین عضو طبیعت است و سطح زیادی از پیشرفت جامعهٔ بشری احتمالاً به توسعهٔ این عضو بستگی دارد. وقتی\nطبیعت برای اولین بار این ارگانیسم پیچیده و تطبیق پذیر را به وجود آورد، چشمان انسان عمدتاً جهت کار در فضای باز و زندگی استفاده\nمی شدند. با فشار و استرس زندگی در فضای بسته و نورهای غیرطبیعی، چشمان ما در معرض فشار زیادی قرار دارند. گاهی اوقات بیشتر از\nکمک طبیعت لازم می شود تا چشم ها را برای ایفای نقش شان در زندگی مدرن حفظ کنیم. همچنین این نیز درست است که ما طول عمر طبیعی\nرا تقریباً به دو برابر چیزی که در جوامع قدیمی و باستانی بودند، گسترش داده ایم. مشکلات بینایی با بالا رفتن سن افزایش می یابند و چشم ها با\nافزایش سن به مراقبتِ بیشتری نیاز دارند.\n"
+    },
+    "12": {
+        "question": "No, no. You seem to not have gotten the ......... I have been trying to make; all I mean is that you should take better care of yourself.\n",
+        "options": {
+            "1": "point",
+            "2": "matter",
+            "3": "issue",
+            "4": "advice"
+        },
+        "final_answer": 1,
+        "full_text": "No, no. You seem to not have gotten the ......... I have been trying to make; all I mean is that you should take better care of yourself.\n\nOptions:\nA) point\nB) matter\nC) issue\nD) advice",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "12"
+        },
+        "solution": "۱) این عضو در حال پیشرفت است.\n۳) توسعه دادن این عضو\nای عفو سشرفت مر عند\n۴) توسعهٔ این عضو\nنکته: در این تست ما به ترکیب اسمی نیاز داریم، چون قبل از جای خالی حرف اضافه آمده است. (مضاف و مضاف الیه)\n"
+    },
+    "13": {
+        "question": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*)\n",
+        "options": {
+            "1": "this organ is developing",
+            "2": "this organ develops",
+            "3": "developing of this organ",
+            "4": "the development of this organ"
+        },
+        "final_answer": 4,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*)\n\nOptions:\nA) this organ is developing\nB) this organ develops\nC) developing of this organ\nD) the development of this organ",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "13"
+        },
+        "solution": "۱) استفاده کرد\n۲) ما استفاده کردیم\n۳) استفاده شدند\n۴) استفاده شده اند\nنکته: این تست مجهول است، زیرا فعل use مفعول می خواهد و مفعول آن نیامده است و با توجه به اینکه عمل استفاده در گذشته صورت\nگرفته و تمام شده است، گزینهٔ ۳ پاسخ درست می باشد.\n"
+    },
+    "14": {
+        "question": "Cloze Test (**)\n",
+        "options": {
+            "1": "used",
+            "2": "we used",
+            "3": "were used",
+            "4": "have been used"
+        },
+        "final_answer": 3,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (**)\n\nOptions:\nA) used\nB) we used\nC) were used\nD) have been used",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "14"
+        },
+        "solution": "۱) خدمت کردن\n"
+    },
+    "15": {
+        "question": "Cloze Test (***)\n",
+        "options": {
+            "1": "serve",
+            "2": "improve",
+            "3": "identify",
+            "4": "receive"
+        },
+        "final_answer": 1,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (***)\n\nOptions:\nA) serve\nB) improve\nC) identify\nD) receive",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "15"
+        },
+        "solution": "۱) گسترش دادن\n۲) افزایش دادن، بهبود دادن\n۳) پس انداز کردن، نجات دادن، ذخیره کردن\n"
+    },
+    "16": {
+        "question": "Cloze Test (****)\n",
+        "options": {
+            "1": "expanded",
+            "2": "replaced",
+            "3": "saved",
+            "4": "ranged"
+        },
+        "final_answer": 1,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (****)\n\nOptions:\nA) expanded\nB) replaced\nC) saved\nD) ranged",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "16"
+        },
+        "solution": "۱) مهارت\n۲) مراقبت\n۳) شناسایی کردن\n۲) جایگزین کردن\n۴) مرتب و تنظیم کردن\n۳) فضا\n۴) دریافت کردن\n۴) اعتیاد\n----------\n۷ا ترجمهٔ درک مطلب ۱:\nآزمون سراسری داخل کشور سال ۱۹ گروه آزمایشی علوم ریاضی\nیک نوع پرنده به نام کبوتر آموزش دیده است که حالات چهرهٔ انسانی را تشخیص دهد و این امر باور قدیمی که طبق آن تنها انسان از\nسیستم های عصبی پیچیده برای انجام چنین کاری برخوردار است را تضعیف کرده است. در بعضی آزمایشات اخیر، به هشت کبوتر آموزش دیده\nتصاویر افرادی با حس خوشحالی، عصبانیت، تعجب و تنفر نشان داده شد. این پرندگان یاد گرفتند که تفاوت بین این حالات را تشخیص دهند.\nنه فقط این، بلکه آن ها قادر بودند تا این حالت چهره را در تصاویر افراد ناآشنا تشخیص دهند. دستاورد آن ها البته نشان نمی دهد که کبوترها\nمعنای این حالت چهره را می فهمند.\nبرخی روان شناسان معتقدند که به خاطر اهمیت حالت چهره در روابط انسانی، سیستم عصبی ویژهٔ قادر به تشخیص حالت دقیق چهره\nبه وجود آمد، اما کبوترها با این وجود خلاف این ایده را ثابت کردند. در حقیقت، توانایی تشخیص حالت های احساسی چهره لزوماً غیراکتسابی\nنیست، حتی در نوزادان انسان، اما ممکن است همان طور که کبوتران یاد می گیرند، آموخته شوند. در آزمایش هایی که چند سال پیش انجام شد،\nمشخص شد که کبوترها تصاویر اشیاء را درست مثل انسان ها در ذهن خود، به صورت استدلالی طبقه بندی می کنند.\n"
+    },
+    "17": {
+        "question": "Cloze Test (*****)\n",
+        "options": {
+            "1": "skill",
+            "2": "care",
+            "3": "space",
+            "4": "addiction"
+        },
+        "final_answer": 2,
+        "full_text": "Part B: Cloze TestDirections: Questions are related to the following passage. Read the passage and decide which choice (1), (2), (3), or (4) best fits each space. Then mark your answer sheet.The human eye is nature’s most fantastic organ, and the high degree of development of human society probably depends upon (*) ......... . When nature first developed this intricate and adaptable organism, human eyes (**) ......... mainly for outdoor work and living. With the stress of indoor life and unnatural lighting,much pressure is placed on eyes today. Sometimes more than nature’s assistance is needed to keep eyes in shape for the many uses they (***) ......... in modern life. It is also true that we have (****) ......... man’s normal lifespan to almost twice what it was in ancient societies. Visual problems also increase with age, and eyesusually need some corrective (*****) ......... as one grows older.\nCloze Test (*****)\n\nOptions:\nA) skill\nB) care\nC) space\nD) addiction",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "17"
+        },
+        "solution": "ترجمه: موضوع این متن چیست؟\n۱) تفاوت های ارتباطی بین انسان ها و کبوترها\n۳) شناخت حالت چهره\n"
+    },
+    "18": {
+        "question": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nWhat is the subject of the passage?\n",
+        "options": {
+            "1": "Differences in communication between humans and pigeons",
+            "2": "Importance of body movement in human communication",
+            "3": "Recognition of facial expressions",
+            "4": "Emotions that our face can show"
+        },
+        "final_answer": 3,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.What is the subject of the passage?\n\nOptions:\nA) Differences in communication between humans and pigeons\nB) Importance of body movement in human communication\nC) Recognition of facial expressions\nD) Emotions that our face can show",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "18"
+        },
+        "solution": "۲) اهمیت حرکت بدن در ارتباط انسانی\n۴) احساساتی که صورت ما می تواند نشان دهد.\nترجمه: متن نشان می دهد که باور اینکه حیوانات هم قادر به تشخیص حالت چهره هستند\n۱) ثابت می کند که آن ها می فهمند که هر حالت چهره چه معنایی دارد.\n۲) در ارتباط با پرندگان آموزش دیده، نه آموزش ندیده، صدق می کند.\n۳)غلط از آب درآمد. (اشتباه تصور می شد. )\n۴) یک باور قدیمی است.\n"
+    },
+    "19": {
+        "question": "The passage suggests that the belief that animals may also be able to recognize facial expressions ......... .\n",
+        "options": {
+            "1": "proves that they understand what each facial expression means",
+            "2": "holds true in relation to trained, but not untrained, birds",
+            "3": "was supposed to be wrong",
+            "4": "is a long-held one"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nThe passage suggests that the belief that animals may also be able to recognize facial expressions ......... .\n\nOptions:\nA) proves that they understand what each facial expression means\nB) holds true in relation to trained, but not untrained, birds\nC) was supposed to be wrong\nD) is a long-held one",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "19"
+        },
+        "solution": "ترجمه: کدام یک از گزینه ها نگرش نویسنده را به سمت این ایده که توانایی شناخت حالت چهره و احساسات ذاتی می باشد، توصیف می کند؟\n۱) نامطمئن\n۹۶ - پاسخ گزینه ۲\n۲) ترسیده\nترجمه: عبارت \"این ایده\" در پارگراف ۲ اشاره به این ایده دارد که .\n۱) کبوترها می توانند چیزهای جدید یاد بگیرند.\n۳) شناخت حالت چهره در رابطهٔ انسانی مهم است.\nترجمهٔ درک مطلب ۲:\n۳) شوک زده\n۴) سرگرم\n۲) صحبت روان شناسان در پاراگراف ۲ مطرح شده است.\n۴) شناخت حالت چهره و احساس لزوماً ذاتی نیست.\nبرای بیشتر فرودگاه های مدرن، مسئله اصلی طراحی مقیاس است، یعنی آن ها باید فضای کافی روی زمین برای حرکت جت های بزرگ\nبه وجود آورند و در همین حال باید راحتی و حرکت مسافران حین پرواز، خروج، ورود و انتقال از یک پرواز به پروازی دیگر را میسر سازند. بیشتر\nطرح های ترمینال های فرودگاهی از چهار رویکرد استفاده می کنند.\nدر طرح خطی، ساختمان ممکن است صاف یا منحنی باشد، مسافران سوار هواپیمایی می شوند که کنار ساختمان پارک شده است. این\nطرح برای فرودگاه های کوچک که نیاز به فراهم کردن فضای کمی برای پروازهای خود در یک زمان دارند، موثر واقع می شود.\nدر طرح ستونی، راهروهایی باریک یا ستون هایی از میان ساختمان رد می شوند. این طرح اجازه می دهد که خیلی از هواپیماها کنار\nساختمان پارک کنند. با این وجود، مسافت پیاده روی طولانی برای مسافران ایجاد می کند.\nدر طرح ماهواره ای، مسافران از طریق ترمینال های کوچک جدا از ترمینال اصلی سوار هواپیما می شوند. مسافران به وسیلهٔ قطارهای\nسفینه ای شکل به ماهواره ها می رسند و یا این کار از طریق راهروهای زیرزمینی مجهز به پله برقی انجام می شود.\n"
+    },
+    "20": {
+        "question": "Which of the following describes the author’s attitude towards the idea that the ability to recognize facial expressions of emotion is inborn (paragraph 2)?\n",
+        "options": {
+            "1": "Uncertain",
+            "2": "Frightened",
+            "3": "Shocked",
+            "4": "Amused"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nWhich of the following describes the author’s attitude towards the idea that the ability to recognize facial expressions of emotion is inborn (paragraph 2)?\n\nOptions:\nA) Uncertain\nB) Frightened\nC) Shocked\nD) Amused",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "20"
+        },
+        "solution": "ترجمه: این متن احتمالاً با .\n۱) بهترین طرح فرودگاهی\nادامه پیدا می کند.\n۳) دلایلی که چرا طرح فرودگاهی مهم است\n"
+    },
+    "21": {
+        "question": "The phrase “that idea” in paragraph 2 refers to the idea ......... .\n",
+        "options": {
+            "1": "that pigeons can learn new things",
+            "2": "expressed by the psychologists mentioned in paragraph 2",
+            "3": "that recognizing facial expressions is important to human communication",
+            "4": "according to which to recognize facial expressions of emotion is not necessarily inborn"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 1:A kind of bird known as pigeons have been taught to recognize human facial expressions, weakening longheld beliefs that only humans have the sophisticated nervous systems to perform such an act. In some recent experiments, eight trained pigeons were shown photographs of people displaying emotions of happiness, anger, surprise, and hatred. The birds learned to recognize the difference between these expressions. Not only that, but they were also able to correctly identify the same expressions on photographs of unfamiliar faces. Their achievement does not suggest, of course, that the pigeons had any idea what the human expressions meant.Some psychologists have theorized that because of the importance of facial expression to human communication, humans developed special nervous systems capable of recognizing subtle expressions. The pigeons cast doubt on that idea, however, In fact, the ability to recognize facial expressions of emotion is not necessarily inborn even in human babies, but may have to be learned in much the same way pigeons learn. In experiments conducted several years ago, it was found that pigeons organize images of things into the same logical categories that humans do.\nThe phrase “that idea” in paragraph 2 refers to the idea ......... .\n\nOptions:\nA) that pigeons can learn new things\nB) expressed by the psychologists mentioned in paragraph 2\nC) that recognizing facial expressions is important to human communication\nD) according to which to recognize facial expressions of emotion is not necessarily inborn",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "21"
+        },
+        "solution": "۲) رویکردی دیگر برای طرح فرودگاهی\n۴) معایب و محاسن هر طرح فرودگاهی\nترجمه: طبق متن طرح خطی بیشتر برای فرودگاه هایی مناسب است که .\n۱) هواپیماهای کوچک دارند.\n۲) پروازهای داخلی ارائه می دهند.\n۳) مسافران آن ترجیح می دهند که در سریع ترین زمانی که می توانند سوار هواپیما شوند.\n۴) درآن واحد می توانند خدماتی به تعداد محدودی از هواپیماها ارائه دهند.\n----------\n"
+    },
+    "22": {
+        "question": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nThe passage would most probably continue with a discussion of ......... .\n",
+        "options": {
+            "1": "the best airport design",
+            "2": "another approach to airport design",
+            "3": "the reasons why airport design is important",
+            "4": "the advantages and disadvantages of each airport design"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.The passage would most probably continue with a discussion of ......... .\n\nOptions:\nA) the best airport design\nB) another approach to airport design\nC) the reasons why airport design is important\nD) the advantages and disadvantages of each airport design",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "22"
+        },
+        "solution": "آزمون سراسری داخل کشور سال ۱۹ گروه آزمایشی علوم ریاضی\nترجمه: کدام یک از کلمات زیر در متن تعریف شده است؟\n۱) مقیاس (پاراگراف ۱)\n"
+    },
+    "23": {
+        "question": "According to the passage, the linear plan is more appropriate for airports ......... .\n",
+        "options": {
+            "1": "with small planes",
+            "2": "that offer domestic flights",
+            "3": "the passengers of which prefer to board planes as quickly as they can",
+            "4": "that can provide service to a limited number of planes at the same time"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nAccording to the passage, the linear plan is more appropriate for airports ......... .\n\nOptions:\nA) with small planes\nB) that offer domestic flights\nC) the passengers of which prefer to board planes as quickly as they can\nD) that can provide service to a limited number of planes at the same time",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "23"
+        },
+        "solution": "۲) ترمینال ها (پارگراف ۴)\n۳) سوار شدن (پاراگراف ۲)\n۴) راهروها (پاراگراف ۴)\nترجمه: در کدام یک از طرح ها در متن، اتوبوس ها استفاده می شوند و مسافران بایستی برای سوار شدن به هواپیما از تعدادی پله بالا روند؟\n۱) خطی\n۲) ستونی\n۳) ماهواره ای\n۴) هیچ کدام\nریاضیات\n"
+    },
+    "24": {
+        "question": "Which of the following is defined in the passage?\n",
+        "options": {
+            "1": "scale (paragraph 1)",
+            "2": "terminals (paragraph 4)",
+            "3": "board (paragraph 2)",
+            "4": "passageways (paragraph 4)"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nWhich of the following is defined in the passage?\n\nOptions:\nA) scale (paragraph 1)\nB) terminals (paragraph 4)\nC) board (paragraph 2)\nD) passageways (paragraph 4)",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "24"
+        },
+        "solution": "با توجه به نمودار ون شکل روبه رو، هریک از گزینه ها را بررسی می کنیم.\nگزینهٔ ۱) ۷ A = A (ף B - A' = B\nگزینهٔ ۲) ۷ A - B' = A0) B = A\nگزینهٔ ۳) ۷ @= A0B' = A-B\nگزینهٔ ۴) * A' = B- A+ ף B\nواضح است که نمودار ون برای گزینهٔ ۴ به صورت روبه رو است:\n"
+    },
+    "25": {
+        "question": "In which of the designs described in the passage are buses used and the passengers must climb a flight of stairs to board the aircraft?\n",
+        "options": {
+            "1": "Linear",
+            "2": "Pier",
+            "3": "Satellite",
+            "4": "None"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 2:For most modern airports, the major design problem is scale - how to allow enough space on the ground for maneuvering wide-body jets while permitting convenient and rapid movement of passengers departing, arriving, or transferring from one flight to another. Most designs for airport terminals take one of four approaches.In the linear plan, the building may be straight or curved. The passengers board aircraft parked next to theterminal. This plan works well for small airports that need to provide boarding areas for only a few aircraft at a time.In the pier plan, narrow corridors or piers extend from a central building. This plan allows many aircraft to park next to the building. However, it creates long walking distances for passengers.In the satellite plan, passengers board aircraft from small terminals that are separated from the main terminals. Passengers reach the satellites by way of shuttle trains or underground passageways that have moving sidewalks.\nIn which of the designs described in the passage are buses used and the passengers must climb a flight of stairs to board the aircraft?\n\nOptions:\nA) Linear\nB) Pier\nC) Satellite\nD) None",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "25"
+        },
+        "solution": "به کمک قوانین جبر مجموعه ها، عبارت را تا حد امکان ساده می کنیم:\n(A0 (B') U { (B'UC') 0 [ (B'UA)QB'] } = (A0} B') U [ (B'UC')0B'] = (A0B')UB' = B'\n"
+    }
+}

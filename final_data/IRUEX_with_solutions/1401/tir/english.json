@@ -1,0 +1,477 @@
+{
+    "1": {
+        "question": "After we had eaten lunch, we flew our kites. That was fantastic because we .................. the kites ourselves!\n",
+        "options": {
+            "1": "made",
+            "2": "had made",
+            "3": "were made",
+            "4": "were making"
+        },
+        "final_answer": 2,
+        "full_text": "After we had eaten lunch, we flew our kites. That was fantastic because we .................. the kites ourselves!\n\nOptions:\nA) made\nB) had made\nC) were made\nD) were making",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "1"
+        },
+        "solution": "اگر او تنها فرزند خانواده بود، ممکن بود اوضاع از خیلی جهات برای او متفاوت باشد.\nتوضیح: فاعل این جمله he است، پس گزینه های ۳ و ۴ که children (بچه ها) در آن ها به کار رفته است، نمی توانند درست باشند. در گزینهٔ ۱ نیز\nباید قبل از only کلمهٔ an یا the به کار برود تا در جمله درست باشد. در نتیجه پاسخ درست گزینهٔ ۲ است.\n"
+    },
+    "2": {
+        "question": "The students' final degrees will indude the work and projects ........ during the yeur.\n",
+        "options": {
+            "1": "done then",
+            "2": "which done",
+            "3": "that they do",
+            "4": "which they do them"
+        },
+        "final_answer": 3,
+        "full_text": "The students' final degrees will indude the work and projects ........ during the yeur.\n\nOptions:\nA) done then\nB) which done\nC) that they do\nD) which they do them",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "2"
+        },
+        "solution": "زنان ۶۰ تا ۶۸ سال که دوندهٔ ماراتن هستند به طور متوسط هر سال دو دقیقه سریع تر می دوند.\nتوضیح: در این جمله دو چیز با هم مقایسه شده اند (هر سال با سال قبل از خود) در نتیجه به صفت تفضیلی نیاز داریم، پس گزینه های ۲ و ۳ حذف\nمی شوند. در ضمن اگر گزینهٔ ۴ را در نقطه چین قرار دهیم، جمله بی معنی می شود. پس فقط گزینهٔ ۱ درست است. (یادآوری: عبارت each year\nبه معنی \"هر سال\" است. )\n"
+    },
+    "3": {
+        "question": "If he had been ................... In the family, things right have been different for him in so many ways.\n",
+        "options": {
+            "1": "only child",
+            "2": "the only child",
+            "3": "the only children",
+            "4": "an only children"
+        },
+        "final_answer": 2,
+        "full_text": "If he had been ................... In the family, things right have been different for him in so many ways.\n\nOptions:\nA) only child\nB) the only child\nC) the only children\nD) an only children",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "3"
+        },
+        "solution": "همهٔ ما می دانیم که وقتی دو نفر با یکدیگر همکاری می کنند، به ایده های بهتری می رسند.\n۱) تاسیس کردن\n"
+    },
+    "4": {
+        "question": "Women aged 60-68 running the marathon run on average two minutes .......... year.\n",
+        "options": {
+            "1": "faster each",
+            "2": "the fastest",
+            "3": "fastest of the",
+            "4": "faster than"
+        },
+        "final_answer": 1,
+        "full_text": "Women aged 60-68 running the marathon run on average two minutes .......... year.\n\nOptions:\nA) faster each\nB) the fastest\nC) fastest of the\nD) faster than",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "4"
+        },
+        "solution": "۲) بیرون دادن، ساطع کردن\n۳) اندازه گیری کردن\n۴) به ... رسیدن\nشما می توانید از این دستگاه برای اسکن تصویر و بازتولید آن روی صفحه به شکل الکترونیکی استفاده کنید.\n۱) رویداد\n"
+    },
+    "5": {
+        "question": "We all know that when two people cooperate with each other, they ........... better Ideas.\n",
+        "options": {
+            "1": "found",
+            "2": "give off",
+            "3": "measure",
+            "4": "come up with"
+        },
+        "final_answer": 4,
+        "full_text": "We all know that when two people cooperate with each other, they ........... better Ideas.\n\nOptions:\nA) found\nB) give off\nC) measure\nD) come up with",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "5"
+        },
+        "solution": "۲) دشت\n۳) شکل، قالب\n۴) منطقه، ناحیه\nاگر چیزی را می خواهید که هرگز نداشته اید، باید مایل باشید تا کاری را انجام دهید که هیچ وقت انجام نداده اید.\n۱) پایدار\n"
+    },
+    "6": {
+        "question": "You can use the device to scan the image and reproduce it on-screen in an electronie .......\n",
+        "options": {
+            "1": "event",
+            "2": "plain",
+            "3": "format",
+            "4": "region"
+        },
+        "final_answer": 3,
+        "full_text": "You can use the device to scan the image and reproduce it on-screen in an electronie .......\n\nOptions:\nA) event\nB) plain\nC) format\nD) region",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "6"
+        },
+        "solution": "۲) مایل، مشتاق\n۳) ارزشمند\nدر مناطق سردسیر، خانه ها باید دیوارهایی داشته باشند که گرمای خورشید را جذب می کند.\n۱) جذب کردن\n"
+    },
+    "7": {
+        "question": "If you want something you've never had, you must be ................. to do something you've never done.\n",
+        "options": {
+            "1": "stable",
+            "2": "willing",
+            "3": "valuable",
+            "4": "probable"
+        },
+        "final_answer": 2,
+        "full_text": "If you want something you've never had, you must be ................. to do something you've never done.\n\nOptions:\nA) stable\nB) willing\nC) valuable\nD) probable",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "7"
+        },
+        "solution": "۲) ممنوع کردن\n۳) بزرگ شدن\nاو خوش شانس بود که در خانواده ای برجسته که به خاطر مهربانی و سخاوت معروف بودند به دنیا آمد.\n۱) اجتماعی\n"
+    },
+    "8": {
+        "question": "In cold regions, houses need to have walls that will ................. the heat from the sun.\n",
+        "options": {
+            "1": "absorb",
+            "2": "forbid",
+            "3": "grow up",
+            "4": "stand for"
+        },
+        "final_answer": 1,
+        "full_text": "In cold regions, houses need to have walls that will ................. the heat from the sun.\n\nOptions:\nA) absorb\nB) forbid\nC) grow up\nD) stand for",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "8"
+        },
+        "solution": "۲) روان، سلیس\n۳) شاد، سرخوش\n۴) محتمل\n۴) مخففٍِ ... بودن\n۴) برجسته، متمایز\nبه گفتهٔ آلبر کامو، فیلسوف و نویسندهٔ فرانسوی، \"یک مرد بدون اخلاق یک حیوان وحشی آزاد در این دنیا است\".\n۱) دستگاه\n"
+    },
+    "9": {
+        "question": "She was fortunate to have been born into ........ family known for their kindness and generosity.\n",
+        "options": {
+            "1": "social",
+            "2": "fluent",
+            "3": "cheerful",
+            "4": "distinguished"
+        },
+        "final_answer": 4,
+        "full_text": "She was fortunate to have been born into ........ family known for their kindness and generosity.\n\nOptions:\nA) social\nB) fluent\nC) cheerful\nD) distinguished",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "9"
+        },
+        "solution": "۲) عادت ها\nاو در نوجوانی از ترس این که به او بخندند به ندرت حرفش را می زد.\n۱) به ندرت\n"
+    },
+    "10": {
+        "question": "According to French philosopher and enthor Albert Camus, \"A man without .................. is a wild animal free in this world\".\n",
+        "options": {
+            "1": "device",
+            "2": "habits",
+            "3": "ethics",
+            "4": "diversity"
+        },
+        "final_answer": 3,
+        "full_text": "According to French philosopher and enthor Albert Camus, \"A man without .................. is a wild animal free in this world\".\n\nOptions:\nA) device\nB) habits\nC) ethics\nD) diversity",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "10"
+        },
+        "solution": "۲) به آرامی\n۳) اخلاق، اصول اخلاقی\n۳) به طور معمول\nاو وقتی دید دختر کوچکش به سمت خیابان شلوغ دوید، تا حد مرگ ترسید.\n۱) صورت\n۲) خون\n۳) بیماری\n۴) تنوع\n۴) به طورقابل درک\n۴) مرگ\n----------\nا ترجمهٔ :Cloze Test\nمغز انسان بسیار مرموز است. سوالات زیادی در مورد مغز هنوز پاسخ داده نشده اند. مثلاً ما چرا باید بخوابیم یا چرا خواب می بینیم؟ در\nمورد مغز (موارد) بسیاری وجود دارد که ما نمی فهمیم. باور کنید یا نه، سابقاً مردم مغز را یک (مادهٔ) بی فایده برای پر کردن (جمجمه)\nمی دانستند. البته، ما می دانیم که مغز مرکز کنترل ما است. سطح مغز را قشر مغز می نامند. این (قسمت) آن بخش از مغز است که ما را باهوش\nمی کند و از چهار قسمت به نام لوب (lobe) تشکیل شده است. لوب جلویی جایی است که بیشتر احساس و تفکر ما اتفاق می افتد. لوب\nبالایی اطلاعاتی را پردازش می کند که از قسمت هایی از بدن مان مانند پوست و ماهیچه های ما می آید. لوب کناری نقش مهمی را در شنوایی،\nگفتار و حافظهٔ بلند مدت بازی می کند در حالی که لوب پشتی تصاویر به دست آمده از چشمان ما را پردازش می کند.\n۸۸ - پاسخ گزینه ا\nتوضیح: این جمله، مجهول است و فعل آن باید شامل شکلی از to be به همراه قسمت سوم فعل اصلی باشد، بنابراین گزینه های ۲ یا ۴ نادرست\nهستند. ساختارگزینهٔ ۳ نیز نادرست است زیرا not باید قبل از to be باشد.\n"
+    },
+    "11": {
+        "question": "As a teenager, she ...... spoke her mind out of fear of being laughed at.\n",
+        "options": {
+            "1": "rarely",
+            "2": "ealmly",
+            "3": "normally",
+            "4": "comprehensibly"
+        },
+        "final_answer": 1,
+        "full_text": "As a teenager, she ...... spoke her mind out of fear of being laughed at.\n\nOptions:\nA) rarely\nB) ealmly\nC) normally\nD) comprehensibly",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "11"
+        },
+        "solution": "توضیح: دقت کنید که a lot یک عبارت است که همیشه به همین صورت به کار می رود، پس فقط گزینهٔ ۲ درست است.\n"
+    },
+    "12": {
+        "question": "She was frightened to .................... when she saw her small daughter ren toward the busy street.\n",
+        "options": {
+            "1": "face",
+            "2": "blood",
+            "3": "illness",
+            "4": "death"
+        },
+        "final_answer": 4,
+        "full_text": "She was frightened to .................... when she saw her small daughter ren toward the busy street.\n\nOptions:\nA) face\nB) blood\nC) illness\nD) death",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "12"
+        },
+        "solution": "۱) واقعاً\n"
+    },
+    "13": {
+        "question": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (A):\n",
+        "options": {
+            "1": "not yet been answered",
+            "2": "yet not answered",
+            "3": "yet to be not answered",
+            "4": "not answered yet"
+        },
+        "final_answer": 1,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (A):\n\nOptions:\nA) not yet been answered\nB) yet not answered\nC) yet to be not answered\nD) not answered yet",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "13"
+        },
+        "solution": "۲) حیف شد\n۳) صادقانه بگویم\n۴) البته\nتوضیح: در این جمله به ضمیر موصولی نیاز داریم، در نتیجه گزینهٔ ۱ حذف می شود. از طرفی معمولاً قبل از ضمیرهای موصولی which و that یک\nاسم قرار می گیرد. در این جمله قبل از نقطه چین is قرار گرفته است، پس گزینه های ۲ و ۳ نیز نمی توانند درست باشند و پاسخ درست گزینهٔ ۴ است.\n"
+    },
+    "14": {
+        "question": "Cloze Test (B):\n",
+        "options": {
+            "1": " They are a ",
+            "2": " There is a ",
+            "3": " It's a pity ",
+            "4": " There are so "
+        },
+        "final_answer": 2,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (B):\n\nOptions:\nA) They are a \nB) There is a \nC) It's a pity \nD) There are so ",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "14"
+        },
+        "solution": "۱) نقش\nترجمهٔ درک مطلب ۱:\n۲) ارزش\n۳) ابزار\n۴ اثر\nگاهی اوقات انسان و حیوان با هم درگیر می شوند. این (امر) می تواند معیشت مردم و همچنین جان حیوانات را تهدید کند. در مرکز\nنامیبیا، کشاورزان با یوزپلنگ ها مشکل دارند. یوزپلنگ ها بچهٔ گاوها (گوساله) را شکار می کنند. در عوض، کشاورزان اغلب سعی می کنند این\nگربه های وحشی را بکشند تا از گله های خود محافظت کنند!\nآیا خوب نمی بود اگر می توانستیم شرایط را مطالعه کنیم و راه حلی پیدا کنیم که هم برای کشاورزان و هم برای یوزپلنگ ها مناسب باشد؟\nاین همان کاری است که ما با تحقیقات خود انجام دادیم. ما رفتار یوزیلنگ را دنبال کردیم. ما متوجه شدیم که یوزیلنگ ها از منطقهٔ خود\nبرای رفتن به دنبال گوساله ها جابه جا نمی شوند. ما فکر می کردیم که اگر کشاورزان گروه های گاو خود را به همراه گوساله ها در مناطق خاصی\nنگهداری کنند، و نه در مناطق دیگر، می توانند از حملات یوزپلنگ جلوگیری کنند. کشاورزان به توصیهٔ ما عمل کردند. آن ها سپس تعداد\nگوساله هایی را که قبل و بعد از این تغییرات توسط یوزیلنگ ها کشته شدند مقایسه کردند. خُب، آیا توصیهٔ ما جواب داد؟ بله! کشاورزان\nکاهش قابل توجهی در گوساله های کشته شده توسط یوزیلنگ مشاهده کردند. این (امر) می تواند مانع از دست دادن دام های ارزشمند\nکشاورزان شود و آن ها را از تلاش برای کشتن یوزیلنگ ها باز دارد.\nگشتن به دنبال راه حل های مبتنی بر رفتار حیوانات می تواند برای گونه های دیگر نیز کارساز باشد. آیا شما می توانید به یک درگیری بین\nانسان و حیات وحش در منطقهٔ خود فکر کنید؟ و آیا فکر می کنید این (درگیری ها) می توانند بدون آسیب یا کشته شدن حیوانات حل شوند؟\n"
+    },
+    "15": {
+        "question": "Cloze Test (C):\n",
+        "options": {
+            "1": " Really ",
+            "2": " It's a pity ",
+            "3": " To be honest ",
+            "4": " Of course "
+        },
+        "final_answer": 4,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (C):\nOptions:\nA) Really \nB) It's a pity \nC) To be honest \nD) Of course ",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "15"
+        },
+        "solution": "کلمهٔ \"cattle\" (گله) در پاراگراف نزدیکترین معنی را به \"herd\" (گله، رمه) دارد.\n۱) گله\n"
+    },
+    "16": {
+        "question": "Cloze Test (D):\n",
+        "options": {
+            "1": " the place ",
+            "2": " which ",
+            "3": " that all ",
+            "4": " where much "
+        },
+        "final_answer": 4,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (D):\n\nOptions:\nA) the place \nB) which \nC) that all \nD) where much ",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "16"
+        },
+        "solution": "۲) زندگی\nهدف مطالعه شرح داده شده در پاراگراف ۲ چه بود؟\n۱) کشف دلیل این که چرا کشاورزان یوزیلنگ ها را کشتند\n۳) مزرعه\n۲) یافتن راهی برای کمک به جلوگیری از کشته شدن گوساله ها و یوزپلنگ ها\n۳) درک این که چگونه باعث شویم یوزپلنگ ها منطقه ای را که در آن زندگی می کنند، تغییر دهند\n۴) محصولات (کشاورزی)\n۴) توضیح این که چرا هم کشاورزان و هم یوزپلنگ ها نمی توانستند یکدیگر را درک کنند و به یکدیگر احترام بگذارند\n"
+    },
+    "17": {
+        "question": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe word \"cattle\" in paragraph 1 is closest in meaning to.....\n",
+        "options": {
+            "1": "herd",
+            "2": "life",
+            "3": "farm",
+            "4": "crops"
+        },
+        "final_answer": 1,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe word \"cattle\" in paragraph 1 is closest in meaning to.....\n\nOptions:\nA) herd\nB) life\nC) farm\nD) crops",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "17"
+        },
+        "solution": "کشاورزان چگونه از حملات یوزیلنگ اجتناب کردند؟\nگزینهٔ ۱: آن ها گوساله ها را از گاوها جدا کردند.\nگزینهٔ ۲: آن ها به یوزپلنگ ها اجازه دادند تعداد کمی از گوساله ها را بکشند و بخورند.\nگزینهٔ ۳: آن ها توصیهٔ محققین را دنبال کردند.\nگزینهٔ ۴: آن ها خانه هایشان را به مکان هایی به دور از یوزپلنگ ها بردند.\n----------\n"
+    },
+    "18": {
+        "question": "What was the purpose of the study described in paragraph 2?\n",
+        "options": {
+            "1": "Discovering the reason why the farmers killed the cheetahs",
+            "2": "Finding a way to help prevent both calves and cheetahs from being killed",
+            "3": "Understanding how to make the cheetahs change the area where they lived",
+            "4": "Explaining why both farmers and cheetahe could not understand and respect each other"
+        },
+        "final_answer": 2,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nWhat was the purpose of the study described in paragraph 2?\n\nOptions:\nA) Discovering the reason why the farmers killed the cheetahs\nB) Finding a way to help prevent both calves and cheetahs from being killed\nC) Understanding how to make the cheetahs change the area where they lived\nD) Explaining why both farmers and cheetahe could not understand and respect each other",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "18"
+        },
+        "solution": "عملکرد پاراگراف آخر متن این است که ما را تشویق به یافتن راه حل هایی برای درگیری های انسان و حیات وحش کند تا حیوانات را به خطر\nنیندازد.\n۱) ما را وادار کند تا در مورد محیط زیست خود بدون نیاز به در نظر گرفتن حیوانات آن فکر کنیم\n۲) ما را تشویق به یافتن راه حل هایی برای درگیری های انسان و حیات وحش کند تا حیوانات را به خطر نیندازد\n۳) اشاره کند که ما نمی توانیم حیوانات را بدون مطالعهٔ رفتار آن ها با سایر گونه ها درک کنیم\n۴) پیشنهاد کند که مطالعات بیشتری در مورد نقشی که رفتار حیوانات در جامعه انسانی ایفا می کند مورد نیاز است\n\" ترجمهٔ درک مطلب ۲:\nدِیو فارو یک کانادایی است که به خاطر داشتن بهترین حافظه در کتاب رکوردهای جهانی گینس ظاهر شده است. دِیو وقتی دانش آموز\nبود، برخلاف کشمکش ها با موضوعاتی مانند خواندن و نوشتن، راه هایی برای بهبود حافظهٔ خود پیدا کرد تا بتواند در مدرسه خوب عمل کند.\nاو در سال ۲۰۰۸ با به خاطر سپردن ترتیب ۵۹ دسته کارت بازی در دو روز، رکورد جهانی را به نام خود ثبت کرد. مغز او چگونه همهٔ این\nاطلاعات را ذخیره می کرد؟ به گفتهٔ دِیو، مغز هر کسی می تواند این کار را انجام دهد، اما این کار به درک نحوهٔ عملکرد حافظه کمک می کند.\nحافظهٔ کوتاه مدت شما فقط می تواند اطلاعات را از ۱۵ ثانیه تا چند دقیقه نگه دارد. علاوه براین، حافظهٔ کوتاه مدت تنها می تواند حدود\nهفت چیز را در یک زمان نگه دارد. قهرمانان حافظه مانند دِیو باید لیست هایی طولانی از اطلاعات را در یک زمان در حافظهٔ کوتاه مدت خود\nنگه دارند. آن ها برای این کار به ترفندهای مختلفی تکیه می کنند.\nیک ترفند این است که به حرف اول هر کلمه ای که می خواهید حفظ کنید، نگاه کنید. سپس کلمه، عبارت یا جملهٔ خود را با استفاده از\nتمام آن حروف ایجاد کنید. این \"acronym\" نامیده می شود. به عنوان مثال، اگر می خواهید تمام رنگ های رنگین کمان را به خاطر بسپارید،\nسعی کنید نام Roy G. Biv. را به خاطر بسپارید. هر حرف در این نام خیالی با حرف اول یک رنگ مطابقت دارد.\n"
+    },
+    "19": {
+        "question": "Cloze Test (E):\n",
+        "options": {
+            "1": "role",
+            "2": "value",
+            "3": "tool",
+            "4": "effect"
+        },
+        "final_answer": 1,
+        "full_text": "The human brain is very mysterious. Many questions about the brain have.............. (A). For example, why do we need to sleep or why do we dream?................. (B) lot about the brain that we still do not understand. Believe it or not, people used to think of the brain as useless stuffing......... (C), we now know the brain is our control center. The surface of the brain is called the cerebral cortex. It is the part of the brain that makes us intelligent, and it consists of four parts called lobes. The front lobe is .............. (D) of our thinking and feeling happens. The top lobe processes information which is coming from parts of our bodies, such as our skin and muscles. The side lobe plays an important................. (E) in hearing, speech and long-term memories while the back lobe processes images from our eyes.\nCloze Test (E):\n\nOptions:\nA) role\nB) value\nC) tool\nD) effect",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "19"
+        },
+        "solution": "بر اساس پاراگراف ۱ دِیو فارو در مدرسه در خواندن و نوشتن مشکل داشت.\n۱) به این ایده رسید که کتاب رکوردهای جهانی گینس را بنویسد.\n۲) وقتی دانشجو بود رکورد جهانی بهترین حافظه را ثبت کرد.\n۳) در مدرسه در خواندن و نوشتن مشکل داشت.\n۴) باور دارد که مغزی منحصر به فرد دارد.\n"
+    },
+    "20": {
+        "question": "How did the farmers avoid cheetah attacks?\n",
+        "options": {
+            "1": "They separated calves from eows.",
+            "2": "They let cheetahs kill and eat a few of the calves.",
+            "3": "They followed the researchers' recommendation.",
+            "4": "They moved their houses to places far from cheetahs."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nHow did the farmers avoid cheetah attacks?\n\nOptions:\nA) They separated calves from eows.\nB) They let cheetahs kill and eat a few of the calves.\nC) They followed the researchers' recommendation.\nD) They moved their houses to places far from cheetahs.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "20"
+        },
+        "solution": "حافظهٔ کوتاه مدت می تواند تعداد محدودی از چیزها را برای مدت زمان محدود نگه دارد.\n۱) فقط داده ها را تا ۱۵ ثانیه نگه دارد\n۲) حجم عظیمی از اطلاعات را در یک زمان ذخیره کند\n۳) تعداد محدودی از چیزها را برای مدت زمان محدود نگه دارد\n۴) تنها هفت چیز را در یک زمان به حافظهٔ بلندمدت منتقل کند\n"
+    },
+    "21": {
+        "question": "The function of the last paragraph of the passage is to ...........\n",
+        "options": {
+            "1": "make us think about our environment without the need to consider its animals",
+            "2": "encourage us to find solutions for human-wildlife conflicts that do not endanger animals.",
+            "3": "point out that we cannot understand animals without studying their bchavior to other species.",
+            "4": "suggest that more studies are needed about the role that animal behavior plays in human society."
+        },
+        "final_answer": 2,
+        "full_text": "Passage 1:Sometimes humans and animals come into conflict with each other. This can threaten people's livelihoods and also threaten the animals' lives. In central Namibia, farmers have a problem with cheetahs. The cheetahs prey on the baby cows (calves). In tum, the farmers often try to kill the wild cats in order to protect their cattle!\nWouldn't it be great if we could study the situation and find a solution that suits both the farmers and the cheetahs? This is what we did with our research. We tracked the cheetah's behavior. We noticed that the cheetahs did not move their area to go after the calves. We thought that if the farmers kept their groups of cows with calves in certain areas, and not in others, they could avoid cheetah attacks. The farmers took our advice. They then compared the number of calves killed by cheetahs before and after these changes. So, did our advice work? Yes! The farmers observed a significant reduction in calves killed by cheetahs. This could prevent farmers from losing their valuable livestock and stop them from trying to kill the cheetahs.\nLooking for solutions based on animal behavior could work for other species too. Can you think of any human-wildlife conflicts in your area? And do you think they could be solved without the animals being harmed or killed?\nThe function of the last paragraph of the passage is to ...........\n\nOptions:\nA) make us think about our environment without the need to consider its animals\nB) encourage us to find solutions for human-wildlife conflicts that do not endanger animals.\nC) point out that we cannot understand animals without studying their bchavior to other species.\nD) suggest that more studies are needed about the role that animal behavior plays in human society.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "21"
+        },
+        "solution": "شی فرهنگی\nبر اساس (کلمهٔ) مخفف ذکر شده در پاراگراف ۳، کدام یک از کلمه های زیر در بین رنگ های رنگین کمان نیست؟\n۱) بنفش\n"
+    },
+    "22": {
+        "question": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nAccording to paragraph 1, Dave Farrow ...............\n",
+        "options": {
+            "1": "came up with the idea of writing the Guinness Book of World Records.",
+            "2": "set a world record for the greatest memory when he was a student.",
+            "3": "had difficulty with reading and writing at school.",
+            "4": "believes that he has a unique brain."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nAccording to paragraph 1, Dave Farrow ...............\n\nOptions:\nA) came up with the idea of writing the Guinness Book of World Records.\nB) set a world record for the greatest memory when he was a student.\nC) had difficulty with reading and writing at school.\nD) believes that he has a unique brain.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "22"
+        },
+        "solution": "۲) زرد\n۳) بنفش\n۴) نارنجی\nپاراگراف بعد از آخرین پاراگراف این متن احتمالاً در مورد ترفند دیگری برای نگهداری هم زمان بسیاری از چیزها در حافظهٔ کوتاه مدت است.\n۱) داستان شخصیت خیالی Roy G. Biv.\n۲) مهارت های مطالعه که به دِیو فارو کمک کرد حافظه اش را تمرین بدهد\n۳) دلایلی که چرا حافظهٔ کوتاه مدت به راحتی اطلاعات را دور می ریزد\n۴) ترفند دیگری برای نگهداری هم زمان بسیاری از چیزها در حافظهٔ کوتاه مدت\n----------\n"
+    },
+    "23": {
+        "question": "The short-term memory can........................\n",
+        "options": {
+            "1": "only hold data for up to 15 seconds.",
+            "2": "store huge amounts of information at one time.",
+            "3": "hold a limited number of things for a limited length of time.",
+            "4": "only transfer seven things to the long-term memory at one time."
+        },
+        "final_answer": 3,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nThe short-term memory can........................\n\nOptions:\nA) only hold data for up to 15 seconds.\nB) store huge amounts of information at one time.\nC) hold a limited number of things for a limited length of time.\nD) only transfer seven things to the long-term memory at one time.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "23"
+        },
+        "solution": "ریاضیات\nمی دانیم که جملهٔ عمومی یک دنبالهٔ هندسی با جملهٔ اول a، و قدرنسبت q به صورت '־ a = a، qn است و با توجه به اطلاعات مسئله، باید q\nرا عددی طبیعی و بزرگ تر از یک در نظر بگیریم. ابتدا فرض کنید ۱ = a، باشد، در این صورت برای اینکه هر پنج جملهٔ دنباله در بازهٔ اعداد\nطبیعی {۱۰۰ ،...,۱,۲} قرار بگیرد، باید داشته باشیم:\nan_an_sloo nas 0 - 9534 - 1953\n۴۴-۲۵۶\nحالا برای {۲,۳} = ، q تعداد a۱ های قابل قبول را، که ممکن است از یک بزرگ تر باشند، به دست می آوریم:\nپس در مجموع ۷ دنباله با شرایط خواسته شده وجود دارد.\n"
+    },
+    "24": {
+        "question": "Based on the acronym given in paragraph 3, which of the following words is NOT among the colors of a rainbow?\n",
+        "options": {
+            "1": "Purple",
+            "2": "Yellow",
+            "3": "Violet",
+            "4": "Orange"
+        },
+        "final_answer": 1,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nBased on the acronym given in paragraph 3, which of the following words is NOT among the colors of a rainbow?\n\nOptions:\nA) Purple\nB) Yellow\nC) Violet\nD) Orange",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "24"
+        },
+        "solution": "aislsan_lxn-- ۱۲۰۰۰ ۱۶\na=an=2xn--۲۲۴۰۰۰۰ ۳۲\n13 3281 ۳۰۶۰۰۰۰۰۴۸)\nq=ja_san_4x212480064\naisazanzxrn-l۵,۱۰۰۰۰۰۰۸۰\nai_sdan_oxn-ls,۱۲۰۰۰۹۶\nai_san_vxrn-ls,۱۴۰۰۰۰۰۱۱۲\nغقق ۱۱۲۱۰۰ꪪ\nغ ق ق ۶۲۱ ۲۲۳۸۱۲۰۶۰۰۰۱۶۲\nنکته: در سهمی ، y = ax۲ + bx+ c مختصات راس سهمی عبارت اند از:\nمی دانیم که کمترین مقدار سهمی y برابر با عرض راس سهمی است. با توجه به نکته، داریم:\n۸ = (-۱۲) ۲ - ۴m (۵m-۱) = ۱۴۴-۲۰m۲ + ۴m = ۴ (-۵m۲ + m+۳۶)\ny =-4=- (۵m۲+m+۳۶)_۵m۲-m-۶=۲> ۵m۲-m-۳۶=۲m = ۵m۲-۳m-۳۶=۰\nꪪ۲۵m۲ - ۱۵m-۱۸۰=۰ = (۵m-۱۵) (۵m + ۱۲) =\nاز آنجا که این سهمی دارای مقدار مینیمم است، ضریب x۲ یعنی m باید مثبت باشد، پس فقط ۳ = m قابل قبول است. در نتیجه:\ny = ۳x۲- ۱۲x+ ۱۴\n= x، =-؛ {۱۲} ^ محور تقارن سهمی\n"
+    },
+    "25": {
+        "question": "The paragraph following the last paragraph of this passage would most probably be about .......\n",
+        "options": {
+            "1": "the story of the fictional character Roy G. Biv.",
+            "2": "the study skills that helped Dave Farrow train his memory.",
+            "3": "reasons why the short-term memory easily throws information away.",
+            "4": "an other trick to hold many things in the short term memory at the same time."
+        },
+        "final_answer": 4,
+        "full_text": "Passage 2:Dave Farrow is a Canadian who appears in the Guinness Book of World Records for having the greatest memory. As a student, despite his struggles with subjects like reading and writing, Dave found ways to improve his memory in order to do well in school. In 2008, he set a world record by memorizing the order of 59 decks of playing cards in two days. How did his brain store all of this information? According to Dave, anybody's brain can do it, but it helps to understand how memory works.\nYour short-term memory can only hold information from 15 seconds to a few minutes. In addition, short-term memory can only hold about seven things at one time. Memory champions like Dave have to hold long lists of information in their short-term memory at one time. To do this, they rely on different tricks.\nOne trick is to look at the first letter of every word you want to memorize. Then, create your own word, phrase or sentence using all of those letters. This is called an acronym. For example, if you want to remember all the colors in a rainbow, try remembering the rame Roy G. Biv. Each letter in this fictional name matches the first letter of a color.\nThe paragraph following the last paragraph of this passage would most probably be about .......\n\nOptions:\nA) the story of the fictional character Roy G. Biv.\nB) the study skills that helped Dave Farrow train his memory.\nC) reasons why the short-term memory easily throws information away.\nD) an other trick to hold many things in the short term memory at the same time.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "25"
+        },
+        "solution": "= x۲\n۱) y (x+۲) = xy+۲ {۵} ^\nx x y = y x + ) = y = x + 2 = x = x = Y = x = 8\n۲) y (x+۲) = {۳} ^ x (y) ꪪ ۱y = ۱ (y۳ꪪ ۱۰y = ۱۲y-۳۶ ۲y=۳۶ y=۱۸\n۳) x-y= ۱۸-۸ = ۱۰\n----------\n۱۰۴ - پاسخ گزینه\nA'U ( (BA) [ (BUA)۸B] ) = A' U [ (B A) B] = A'U (AB) = (A'UA) 0 (A'UB) = A'UB\nجذب B\n(ARB (A-B\n۱۰۵ - پاسخ گزینه ۲\n(epvq q = - p v q = q 8 q 5 (Pv qp 8 qv q - q v (P v q\n(p 7 q ) 8 (- q 7 q 8 (- q 7 q ) V - P = (P v Q J A T = p v q\n۱۰۶ - پاسخ گزینه\nابتدا ریشه های معادله را به روش دلتا به دست می آوریم:\n627923792\n556242536424 (92)\n5647196427123471\n35255432418792\n282362212792\nastra a\n2 (37902794690)4679_a_h_at_a\n8 2 = (- 3 + 7 9 - 5) 2 = 9 + (92) 979251826792\n2 = 9 0 524679-\nبا توجه به داده های مستله، ۸۵ ۱۲۷۲ ۲ ۳ است، پس:\n9052385552390 - 8 5 = 5 = = 1\n67905127279725272578 59087 a = 1 ، 17\nبنابراین ۱ = a در هر دو معادله صدق می کند و جواب، گزینهٔ ۱ است.\n"
+    }
+}

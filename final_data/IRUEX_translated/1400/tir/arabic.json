@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "«أَرْسَلْنَا إِلَیٰ فِرْعَوْنَ رَسُولًا فَعَصَیٰ فِرْعَوْنُ الرَّسُولَ»:\n",
+        "options": {
+            "1": "پیامبر را که برای فرعون مبعوث کردیم، فرعون از او اطاعت نکرد.",
+            "2": "بسوی فرعون رسولی فرستادیم، پس فرعون از آن رسول نافرمانی کرد.",
+            "3": "رسولی به سوی فرعون گسیل داشتیم، ولی فرعون از رسول ما سرپیچی کرد.",
+            "4": "برای فرعون آن پیامبر را ارسال کردیم، پس فرعون بر آن پیامبر عصیان کرد."
+        },
+        "final_answer": 2,
+        "full_text": "\"We have sent Pharaoh's messenger, but Pharaoh's messenger has disobeyed\"\n\nOptions:\nA) The Prophet whom We sent to Pharaoh, Pharaoh did not obey him.\nB) We sent a messenger to Pharaoh, so Pharaoh disobeyed that messenger.\nC) We sent a messenger to Pharaoh, but Pharaoh disobeyed our messenger.\nD) We sent that prophet to Pharaoh, so Pharaoh disobeyed that prophet.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "«الصّدقُ کصحّة الإنسان، لایُمکن أن تُدرک قیمتُه إلّا عندما یُفقَد!»:\n",
+        "options": {
+            "1": "صدق همان سلامتی انسان است، فقط زمانی که از دست برود قدر آن دانسته می‌شود!",
+            "2": "صداقت مانند سلامتی انسان است، تا زمانی‌که از دست نرود امکان ندارد ارزش آن درک شود!",
+            "3": "راستی همان صحّت بدن انسان است، ارزشش درک نمی‌شود نگر آن‌گاه که آن را از دست بدهد!",
+            "4": "درستی همچون سلامت بدن انسان است، نمی‌توانی قدر آن را دریابی مگر زمانی که از دست برود!"
+        },
+        "final_answer": 2,
+        "full_text": "\"Honesty is the strength of man, it is impossible to understand the price unless it is lost!\":\n\nOptions:\nA) The truth is the health of a person, it is appreciated only when it is lost!\nB) Honesty is like human health, its value cannot be understood until it is lost!\nC) The truth is the health of the human body, its value is not understood until it is lost!\nD) Righteousness is like the health of the human body, you cannot appreciate it until it is lost!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "«إن ذهبنا من نفس الطّریق الّذی کنّا نذهب منه من قبل، وصلنا إلی ذلک المکان الّذی کُنّا نصل إلیه دائماً!»:\n",
+        "options": {
+            "1": "اگر از راهی برویم که همیشه می‌رفتیم،‌ به آن مکانی می‌رسیم که قبلاً رسیده‌ایم!",
+            "2": "اگر از راهی رفتیم که قبلاً رفته بودیم، به همان محلی که دائماً می‌رسیدیم رسیده‌ایم!",
+            "3": "اگر از همان راهی رفتیم که دائماً رفته بودیم، به آن محلّی که همیشه می‌رسیدیم، می‌رسیم!",
+            "4": "اگر از همان راهی برویم که از قبل می‌رفتیم، به همان مکانی می‌رسیم که همیشه می‌رسیدیم!"
+        },
+        "final_answer": 4,
+        "full_text": "\"If we go to this place, let us not go before it, let us reach this place, let us reach it constantly!\":\n\nOptions:\nA) If we go the way we've always gone, we'll get to the place we've already been!\nB) If we go back the same way we've gone before, we've arrived at the same place we've always been!\nC) If we go the same way we have always gone, we will reach the place we have always reached!\nD) If we go the same way we've been going before, we'll end up in the same place we've always been!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "«من یؤمن بأنّه سینجح فی طریقة، لاشکَ أنّه قد استطاع أن یُوصل نفسه إلی نصف الطّریق!»:\n",
+        "options": {
+            "1": "هرکس ایمان داشته باشد که او در راهش پیروز خواهد شد، شکّی نیست که خودش می‌تواند به نیمهٔ راه برسد!",
+            "2": "آن کس که ایمان داشت که در آینده در راه خود موفق خواهد شد، حتماً خود توانسته است به اواسط راه برسد!",
+            "3": "کسی که ایمان داشته باشد به این‌که در راهش موفق خواهد شد، بی‌شک توانسته است خود را به نیمهٔ راه برساند!",
+            "4": "هر آن‌کس که ایمان دارد به این‌که در مسیرش پیروز خواهد شد، قطعاً خواهد توانست که خود را به اواسط مسیر برساند!"
+        },
+        "final_answer": 3,
+        "full_text": "\"I believe that he is successful in the way, perhaps he is able to reach half the way!\":\n\nOptions:\nA) Whoever believes that he will win on his way, there is no doubt that he can reach the halfway point!\nB) The person who believed that he will succeed in his path in the future, must have reached the middle of the path!\nC) He who believes that he will succeed in his way, has undoubtedly been able to reach the halfway point!\nD) Whoever believes that he will win in his path, he will definitely be able to reach the middle of the path!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "«الاحتفاظ بالواحدة فصلٌ لاُمتنا المفکِّرة، ولکن الأعداءَ یُشجعون عملاءهُم أن یُفرّقونا!»:\n",
+        "options": {
+            "1": "حفظ وحدت، برتری برای امّت متفکر ماست، که دشمنانمان عوامل خود را به پراکنده ساختن ما تشویق می‌کنند!",
+            "2": "حفظ وحدت، برای امّت متفکر ما فضیلتی است، ولی دشمنان، مزدوان خود را تشویق می‌کنند که ما را پراکنده کنند!",
+            "3": "نگه داشتن وحدت امّت اندیشمندمان، فضیلتی است که دشمنان ما مزدوان را تشویق می‌کنند ما را پراکنده سازند!",
+            "4": "نگه داشتن وحدت برای امّت ما که اندیشمند است فضیلتی بشمار می‌آید، ولی دشمنان عوامل خود را تشویق به پراکنده شدن ما می‌کنند!"
+        },
+        "final_answer": 2,
+        "full_text": "\"Maintaining unity is a sad chapter of our thinking, but the enemies encourage their agents to divide us!\":\n\nOptions:\nA) Maintaining unity is an advantage for our thinking nation, that our enemies are encouraging their agents to scatter us!\nB) Maintaining unity is a virtue for our thinking nation, but the enemies encourage their mercenaries to disperse us!\nC) Keeping the unity of our intellectual community is a virtue that our enemies encourage the mercenaries to disperse us!\nD) Keeping unity is considered a virtue for our nation, which is a thinker, but the enemies encourage their agents to disperse us!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "«مَن یَری النّاس صِغارًا، کالّذی هو واقف علی قمّة الجبل، یراه النّاس صغیراً أیضًا»:\n",
+        "options": {
+            "1": "آن‌که مردم در نظرش کوچکند، مثل کسی است که بر قلّه‌ای از کوه ایستاده، او هم در نظر مردم کوچک می‌نماید!",
+            "2": "هرکس مردم را کوچک دید، همچون کسی است که بر قلّه‌ای در کوه ایستاده، مردم هم او را کوچک می‌بینند!",
+            "3": "کسی‌که مردم را کوچک می‌بیند، چون کسی است که بر قلّهٔ کوه ایستاده، مردم نیز او را کوچک می‌بینند!",
+            "4": "هر آن‌که مردم را کوچک انگاشت، همان کس است که روی قلّه کوه ایستاده، مردم هم او را کوچک می‌انگارند!"
+        },
+        "final_answer": 3,
+        "full_text": "\"I am the companion of the little people, the one standing on the top of the mountain, the companion of the little people too.\"\n\nOptions:\nA) He who thinks people are small is like a person standing on a mountain peak, he also looks small in people's eyes!\nB) Whoever sees people as small is like a person standing on a mountain peak, people see him as small too!\nC) He who sees people as small, because he is the one standing on the top of the mountain, people also see him as small!\nD) Whoever thinks people are small, he is the one who stands on the top of the mountain, people also think him small!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "«کان رجالُ هاتین القبیلتین یَنهبون أموالَ النّاس من طریق ذلک المضیق حتّی اُغلِق بسدِّ عظیم من الحدید و النحاس المذاب»:\n",
+        "options": {
+            "1": "مردان این دو قبیله اموال مردم را از راه آن تنگه به یغما می‌بردند تا این‌که با سدّ بزرگی از آهن و مس ذوب شده، بسته شد.",
+            "2": "مردان آن دو قبیله اموال مردمان را از طریق این تنگه غارت کردند تا این‌که بوسیلهٔ سدّ بزرگی از آهن و مس مذاب بسته شد.",
+            "3": "بزرگان این دو قبیله دارائی‌های مردم را از راه آن تنگه به یغما می‌برند تا این‌که با سدّی بزرگ از مس و آهن آب شده بسته شود.",
+            "4": "بزرگان آن دو قبیله دارائی‌های مردمان را از طریق آن تنگه غارت می‌کردند تا این‌که به وسیلهٔ سدّی بزرگ از مس و آهن آن را بستند."
+        },
+        "final_answer": 1,
+        "full_text": "\"Kan rijalu hatin qabiltin yanbon my wealth of people through this kind of al-Madiq until the closing of my huge barrier of al-Hadid and al-Nahas al-Mazab\":\n\nOptions:\nA) The men of these two tribes used to take people's property to Yaghma through that strait until it was closed with a big dam of melted iron and copper.\nB) The men of those two tribes looted the property of the people through this strait until it was closed by a big dam of molten iron and copper.\nC) The elders of these two tribes take people's wealth through that strait until it is closed with a big dam made of copper and molten iron.\nD) The elders of those two tribes looted people's wealth through that gorge until they closed it with a big dam of copper and iron.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "کان صدیقی ألف کتاباً توجَد فیه قصصَّ مفیدة: دوستم کتابی تألیف کرد. در آن داستان‌های مفیدی می‌یابی!",
+            "2": "للاعبی المباراة وقت محدّد یجب أداء أعمالهم فیه: بازیکنان مسابقه در وقت مشخص باید کارها را انجام دهند!",
+            "3": "اللّهم اِجعلنا ممّن یتوبون إلیک فتقبلهم: خدایا ما را از کسانی قرار بده که به سوی تو توبه می‌کنند و آن‌ها را می‌پذیری!",
+            "4": "إن لم یتعایش الناس بعضهم بعضاً فلاسبیل لتقدّم بلدهم: مردم باید با یکدیگر همزیستی مسالمت‌آمیز داشته باشند تا راهی برای پیشرفت کشورشان بیابند!"
+        },
+        "final_answer": 3,
+        "full_text": "Ain Sahih:\n\nOptions:\nA) Kan Siddiqi wrote a book called \"Alf Ketabah Tojad Fieh Qassesspa Mofida: Dostum\". You will find useful stories in it!\nB) The players of the match must do their work at the specified time: the players of the match must do the work at the specified time!\nC) O Allah, make us those who repent to You and accept them: O Allah, make us among those who repent to You and You accept them!\nD) I know that people should coexist peacefully with each other to find a way for their country to progress!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "عیّن الخطأ:\n",
+        "options": {
+            "1": "بالحلم عن السّفیه یکثرُ الأنصارُ: بردباری بر نادان یاران را زیاد می‌کند!",
+            "2": "سیأتی الغدُ بکثیر مِمّا لا تَعرفون: فردا بسیاری از آن‌چه را نمی‌دانید خواهد آورد!",
+            "3": "الله الّذی یَنصر المُجاهدین و هُم قلیلون: خدا کسی است که مجاهدان را با این‌که اندک‌اند یاری می‌کند!",
+            "4": "یوجَد النّفطُ تَحت طبقاتِ الأرض بعد مرور قرونٍ: نفت زیر طبقات زمین بعد از گذشتن قرن‌ها یافت می‌شود!"
+        },
+        "final_answer": 1,
+        "full_text": "The source of the error:\n\nOptions:\nA) Balham al-Safiyyah Yaksar al-Ansar: Tolerance of the ignorant increases the number of companions!\nB) Siyati al-Ghaddu bakthir memma la tarifun: Tomorrow will bring a lot of what you don't know!\nC) Allah is the one who helps the Mujahideen even though they are few!\nD) The discovery of oil under the layers of the earth after the passage of centuries: oil is found under the layers of the earth after the passage of centuries!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "«کشاورز را دیدم در حالی که محصول را جمع می‌کرد.» عیّن الصحیح:\n",
+        "options": {
+            "1": "شاهدتُ فلّاحًا و هو یجمع محصولَه.",
+            "2": "شاهدتُ فلّاحًا و هو یجمع المحصولَ.",
+            "3": "رأیتُ الفلّاح و هو یَجمع محصولا.",
+            "4": "رأیتُ الفلّاح و هو یَجمع المحصول."
+        },
+        "final_answer": 4,
+        "full_text": "\"I saw the farmer gathering the crops.\" Ain Sahih:\n\nOptions:\nA) You are a farmer and he gathers crops.\nB) You are the farmer's witness and he is the harvester.\nC) The vote of al-Fallah and Ho ya Yaya.\nD) Al-Fallah's vote and the harvest.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "اقرأ النّص التّالی ثمّ أجب عن الأسئله بما یناسب النص:\nالإنسان المثالیّ الّذی یَسعی للمجد هو الإنسان الّذی ینظر إلی العالَم کساحة لا یُری فیها إلّا الحرکة و النشاط، حیث إنّ الرخوة و السّکون یُساویان الموت! و کذلک إنّ کلُ من فی الوجود إذا أراد النّصرَ و الظّفر مُلزم بمواجهة العالَم کمجموعة فیها نزول و صعود لا حیلة منهما و لا یُمکن اختیار أحدِهما دون الآخر!\nفإنّ المصاعب الّتی تقع فی سبیل الطالب - علی سبیل المثال - هی الّتی تقع قلیلاً أو کثیرًا أو مشابهًا فی سبیل الآخرین. فمن کانت نفسُه مُتَّسِعةُ تقبل الحیاة بما فیها من دون ضجر، ولکن من کانت الحیاة أکبر منه و الّذی صغَّر شأنَ نفسه فالحیاة تتغلب علیه، فحیننذٍ یعیش هذا الإنسانُ مأیوسًا یلعن الآخرین بحُجّة أنّهم لم یکونوا فی سبیل قضاء حوائجه!\nعیّن الصحیح:\n",
+        "options": {
+            "1": "الحیاة تواجه أبناء البشر مواجهة متشابهة!",
+            "2": "مقدار المصاعب یتساوی فی جمیع أبناء البشر!",
+            "3": "الرّخوة و النّزول و الصّعود ممّا لا حیلة منها أبذًا!",
+            "4": "المأیوس یعیش و هو یفکّر فی قضاء حوائج الآخرین!"
+        },
+        "final_answer": 1,
+        "full_text": "Read the text below and then look at the questions as appropriate to the text:\nThe exemplary man who tries to glorify is the man who looks at the world and sees nothing in it except movement and activity الموت! And because everyone in existence who wants victory and defeat is obliged to face the world as a whole, descend and rise in it.\nفإنّ المصاعب الّتی تقع في سبیل الطالب - علی سبیل المثال - ی الّتی تقع قلیلاً أو كثيرًا أو مشابهًا في سبیل الآخرين. If you think your soul is greater than it and the smaller your soul accepts life, then Jesus will do this الإنسانُ مأيوسًا یلعن الآخرين بحُجّة أنّهم لم يكنوا في سبيل قضاء حواعجة!\nSahih Eye:\n\nOptions:\nA) Life faces human beings similar!\nB) The amount of trouble spread among all human beings!\nC) The ascension, the descent and the ascension are no trick from it!\nD) المأیوس یعیش و هو یفكّر فی قضاء حوائج الأخرين!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "عیّن الصحیح:\n",
+        "options": {
+            "1": "إنّ النّزول و الصعود من أسباب الإنسان المثالی للوصول إلی المجد!",
+            "2": "من کانت نفسه متّسعة فلا یری المصاعب إلّا فی طریقه فقط!",
+            "3": "لا مصاعب إلّا فی طریق الإنسان المأیوس!",
+            "4": "لا یشعر بالسّوء مَن یقبل الحیاة بما فیها!"
+        },
+        "final_answer": 4,
+        "full_text": "Determine the correct one:\n\nOptions:\nA) Descent and ascension are among the reasons for an ideal person to reach glory!\nB) Whoever has an expansive soul should only see difficulties in his path!\nC) There are no difficulties except in the path of a hopeless person!\nD) He who accepts life with what it contains does not feel bad!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "من هو الإنسان الّذی مرافقُه النّصرُ و الظّفر؟ عیّن الخطأ:\n",
+        "options": {
+            "1": "من تتغلّب الحیاة علیه!",
+            "2": "من لا یری الحیاة بوجه واحد فقط!",
+            "3": "من لا یفکّر فقط بوقوع ما یحبّه!",
+            "4": "من یری أنّ النشاط هو من السّنن الإلهیّة!"
+        },
+        "final_answer": 1,
+        "full_text": "Who is the person who is accompanied by victory and victory? Set the error:\n\nOptions:\nA) Who is overcome by life?\nB) Who does not see life with only one face!\nC) Who does not only think about what he loves happening!\nD) Who believes that activity is a divine law!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "عیّن ما هو الأنسب للعبارة التالیة:\n«إنّ المصاعب الّتی تقع سبیل الطّالب هی الّتی تقع فی سبیل الآخرین.»\n",
+        "options": {
+            "1": "النّجاح وقفٌ علی من لا ینام!",
+            "2": "لعلٌ العُسر یُصبح یُسرًا فی الغد!",
+            "3": "الدّهر یومان یوم لک و یوم علیک!",
+            "4": "الدّنیا محفوقة بالبلایا! (محفوقة: مستورة)"
+        },
+        "final_answer": 4,
+        "full_text": "Determine which of the following statements is most appropriate:\n“The difficulties that befall a student are the same as those that befall others.”\n\nOptions:\nA) Success depends on those who do not sleep!\nB) Perhaps hardship will become ease tomorrow!\nC) Eternity has two days: one day for you and one day against you!\nD) The world is full of calamities! (Mahfuqa: hidden)",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی: «کانت»:\n",
+        "options": {
+            "1": "فعل ماضٍ - للمفرد المؤنث الغائب / من الأفعال الناقصة، بمعنی «بود»",
+            "2": "فعل ماضٍ - للمفرد المؤنث / فعلٌ من الأفعال الناقصة، و الجملة جواب شرط",
+            "3": "ماضٍ - للمفرد - حروفه الأصلیة ثلاثة / فعل من الأفعال الناقصة، بمعنی «بود»",
+            "4": "ماضٍ - للمؤنث - له ثلاثة حروف أصلیة / من الأفعال الناقصة، و الجملة شرطیة"
+        },
+        "final_answer": 2,
+        "full_text": "Identify the error in parsing and morphological analysis: “It was”:\n\nOptions:\nA) Past tense verb - for the third person feminine singular / modal verbs, meaning “bud.”\nB) Past tense verb - for the feminine singular / a modal verb, and the sentence is a conditional answer\nC) Past - for the singular - its original letters are three / a modal verb, meaning “bud.”\nD) Past - feminine - has three original letters / modal verbs, and the sentence is conditional.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی: «صغَّر»:\n",
+        "options": {
+            "1": "ماضٍ - للمفرد الغائب - له حرف واحد زائد - معلوم / فعل و مفعوله «شأن»",
+            "2": "ماضٍ - للمفرد المذکر الغائب - مصدره علی وزن تفعیل - معلوم / فعلٌ و مع فاعله جملةٌ فعلیة",
+            "3": "فعل ماضٍ - له حرف زائد و مصدره «تصغیر» علی وزن تفعیل / فعل و فاعل، و الجملة فعلیةٌ",
+            "4": "فعل ماضٍ - له حرف واحد زائد، و مصدره علی وزن «تفعّل» / فعل و فاعل، و الجملةُ فعلیةٌ"
+        },
+        "final_answer": 4,
+        "full_text": "Identify the error in parsing and morphological analysis: “Saghr”:\n\nOptions:\nA) Past - for the third person singular - has one extra letter - known / verb and its object is “affair”\nB) Past - for the third person masculine singular - its source is in the form of activation - known / verb and with its subject is a verbal sentence\nC) A past tense verb - it has an extra letter and its source is “diminutive” in the form of activation / verb and subject, and the sentence is verbal.\nD) A past tense verb - it has one extra letter, and its source is in the form of “tafa’il” / verb and subject, and the sentence is verbal.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "عیّن الخطأ فی الإعراب و التحلیل الصرفی: «الطالب»:\n",
+        "options": {
+            "1": "مفرد مذکر - اسم فاعل (فعله: طَلَب) - معرّف بأل / مضاف‌إلیه للمضاف «سبیل»",
+            "2": "اسم - مفرد مذکر - اسم فاعل (فعله: طَلَب، و مصدره: مطالبة) / مضاف‌إلیه",
+            "3": "مفرد مذکر - اسم فاعل (فعله: «طلب» بدون حرف زائد) - معرّف بأل",
+            "4": "اسم - مفرد - اسم فاعل (من فعل «طلب» و اسم مفعوله: مطلوب)"
+        },
+        "final_answer": 2,
+        "full_text": "Identify the error in parsing and morphological analysis: “The Student”:\n\nOptions:\nA) Masculine singular - active participle (verb: asked) - defined by / added to for the genitive “sabil”\nB) Noun - masculine singular - active participle (verb: request, source: demand) / genitive\nC) Masculine singular - active participle (verb: “request” without an extra letter) - defined as\nD) Noun - singular - active participle (from the verb “request” and its direct object: wanted)",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "عیّن الخطأ فی ضبط حرکات الحروف:\n",
+        "options": {
+            "1": "العِلمُ نورٌ و ضیاء یَقذِفُهُ اللهُ فی قُلوبِ أولیائهِ.",
+            "2": "رُبَّ کِتاب تَجتَهدُ فی قِراءتِهِ، ثُمَّ لا تَحصُلُ عَلی فائدةٍ مِنهُ.",
+            "3": "عِندَما یَنقَطِعُ تَیّارُ الکَهرباء فی الَّیلِ، یَغرَقُ کُلُّ مَکانٍ فی الظَّلامِ.",
+            "4": "فی یَومِ مِنَ الأیّامِ جَماعةُ مِنَ المُسافرینِ واقَفینَ أمام المَسجِدِ."
+        },
+        "final_answer": 4,
+        "full_text": "Error in recording letter movements:\n\nOptions:\nA) The knowledge of Allah's light and light shines in the hearts of His saints.\nB) The Lord of the Book strives to read it, then you will not benefit from it.\nC) When they cut off the electricity in the river, they drown all the houses in the darkness.\nD) On the day of the day, there is congregation from the travelers and the Imam of the mosque.",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "عیّن الخطأ:\n",
+        "options": {
+            "1": "أسرّی: تحرَّک لیلاً (لاصباحًا)!",
+            "2": "المستنقع: مکان فیه میاه و رائحة میاهه کریهة!",
+            "3": "الغیم: نوع من السّحاب لاینزل منه إلّا المطر!",
+            "4": "الفریق: جماعة من النّاس الّذین لهم هدف واحد!"
+        },
+        "final_answer": 3,
+        "full_text": "Set the error:\n\nOptions:\nA) Asra: Move at night (not in the morning)!\nB) Swamp: A place containing water and an unpleasant smell from the water!\nC) Clouds: a type of cloud from which only rain falls!\nD) Team: A group of people who have one goal!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "عیّن الخطأ عن تعیین الساعة: الثانیة عشرة إلّا ربعًاک\n",
+        "options": {
+            "1": "۱۱/۴۵",
+            "2": "الحادیة عشرة و خمس و أربعون دقیقة",
+            "3": "۱۱ و ۳۰ دقیقه",
+            "4": "۱۲ إلا خمس‌عشرة دقیقة"
+        },
+        "final_answer": 3,
+        "full_text": "Specify the error in specifying the time: quarter past twelve\n\nOptions:\nA) 11/45\nB) Forty-five minutes past eleven\nC) 11 and 30 minutes\nD) 12 minutes to fifteen",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "عیّن ما فیه «اسم التفضیل» أکثر:\n",
+        "options": {
+            "1": "أعوذ من الشّرور بأحسن الخالقین!",
+            "2": "أشرف النّاس من یکون رؤوفًا للاُسرة!",
+            "3": "اُحبّ أوسط الاُمور لأنّها خیر الأعمال!",
+            "4": "أفظلکُم مَن هو ألین و ألطف للآخرین!"
+        },
+        "final_answer": 4,
+        "full_text": "Specify what contains more of the “name of preference”:\n\nOptions:\nA) I seek refuge from evil in the best of creators!\nB) The most honorable people are those who are kind to the family!\nC) I love the most mediocre things because they are the best deeds!\nD) The most virtuous of you is the one who is gentle and kind to others!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "عیّن ما فیه لام الأمر:\n",
+        "options": {
+            "1": "عند مشاهدة آثار قدرة الله لیخشع القلب!",
+            "2": "ساعِد أصدقاءک لیخرجوا من مشاکلهم بسهولة!",
+            "3": "یجب علی الإنسان کثیرٌ من المحاولات لیُصلح نفسه!",
+            "4": "ذهب صدیقی إلی متجر آخر لیشتری سروالا أرخص!"
+        },
+        "final_answer": 1,
+        "full_text": "Specify what is in it for the matter:\n\nOptions:\nA) When witnessing the effects of God’s power, the heart becomes humble!\nB) Help your friends get out of their problems easily!\nC) A person must make many attempts to reform himself!\nD) My friend went to another store to buy cheaper pants!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "عیّن «ما» شرطیّة:\n",
+        "options": {
+            "1": "ما تتعلّمه من العلوم المختلفة تُبعّدک عن الجهالة!",
+            "2": "ما نبتت الأشجار الخانقة فی بلدنا لأنّها أشجار اِستوائیّة!",
+            "3": "ما وجدتَ فی ذلک الکتاب الّذی أثّر فی نفسک بعد قرائته!",
+            "4": "ما من صابر یصبر علی المشاکل إلّا و هو یحصل علی النّجاح!"
+        },
+        "final_answer": 1,
+        "full_text": "Define “what” as a conditional:\n\nOptions:\nA) What you learn from the various sciences keeps you away from ignorance!\nB) Stifling trees do not grow in our country because they are tropical trees!\nC) What did you find in that book that affected you after reading it?\nD) No one who is patient with problems will achieve success!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "عیّن ما لیس فیه المفعول المطلق:\n",
+        "options": {
+            "1": "إن أکرمت الکریم إکراماً بالغاً تشاهد نتیجته!",
+            "2": "أدّب المؤمن نفسه قبل تعلیم غیره تأدیباً جمیلاً!",
+            "3": "کان عشّ بعض الطّیور بعیداً کثیراً عن المفترسین!",
+            "4": "رغب المسافرون أن یسکنوا فی ذلک المکان رغبةٌ کثیرةٌ!"
+        },
+        "final_answer": 3,
+        "full_text": "Specify what is not the absolute object:\n\nOptions:\nA) If you honor the Generous One with great respect, you will see the result!\nB) The believer disciplines himself before teaching others beautiful discipline!\nC) Some birds’ nest was far away from predators!\nD) The travelers wanted to live in that place very much!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "عیّن ما فیه «نون الوقایة»:\n",
+        "options": {
+            "1": "إنّ البلبل یُغنّی حتّی إذا کان فی القفس!",
+            "2": "سینفعنی غدًا کلُّ ما أتعلّم الیوم!",
+            "3": "لا تَحزنی إنّ الله یساعدکِ فی هذه المسألة!",
+            "4": "هذا الرّجل یبنی بیته فی حدیقة خارج المدینة!"
+        },
+        "final_answer": 2,
+        "full_text": "What is in it “Nun al-Waqayah”:\n\nOptions:\nA) إنّ البلبل یُغنّی حتّی إذا كان فی القفس!\nB) Sinfa'ni ghda all what you learn today!\nC) Don't worry, Allah will help you in this matter!\nD) This man is a son of a bitch in a garden outside the city!",
+        "metadata": {
+            "image": false,
+            "course": "arabic",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

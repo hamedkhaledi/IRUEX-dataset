@@ -1,0 +1,902 @@
+{
+    "1": {
+        "question": "دنباله‌های هندسی با قدر نسبت طبیعی و بزرگ‌تر از یک که شامل ۵ جمله هستند را در نظر بگیرید. چه تعداد از این نوع دنباله‌ها می‌توان یافت که جملات آن عضو مجموعه \\left\\{ {۱,۲,...,۱۰۰} \\right\\} باشد؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۴",
+            "3": "۶",
+            "4": "۷"
+        },
+        "final_answer": 4,
+        "full_text": "Consider geometric sequences with natural ratio greater than one that contain 5 terms. How many such sequences can be found whose sentences are members of the set \\left\\{ {1,2,...,100} \\right\\}?\n\nOptions:\nA) 3\nB) 4\nC) 6\nD) 7",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "کمترین‌ مقدار تابع y = m{x^۲} - ۱۲x + ۵m - ۱ برابر ۲ است. محور تقارن سهمی، کدام است؟\n",
+        "options": {
+            "1": "x=۲",
+            "2": "x = ۲/۵",
+            "3": "x=۳",
+            "4": "x = ۳/۵"
+        },
+        "final_answer": 1,
+        "full_text": "The minimum value of the function y = m{x^2} - 12x + 5m - 1 is equal to 2. What is the axis of parabolic symmetry?\n\nOptions:\nA) x=2\nB) x = 2.5\nC) x=3\nD) x = 3.5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "مجموعه‌های A و B و C و D را در نظر بگیرید. تعداد اعضای C، دو واحد بیشتر از A و تعداد اعضای D، سه واحد کمتر از B است. اگر تعداد اعضای مجموعه C \\times B، ۲۵% بیشتر از تعداد اعضای مجموعه A \\times B، ۱/۵ برابر تعداد اعضای مجموعه A \\times B باشد، اختلاف تعداد اعضای مجموعه‌های A و ‌B چقدر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۵",
+            "3": "۷",
+            "4": "۱۰"
+        },
+        "final_answer": 4,
+        "full_text": "Consider sets A, B, C, and D. The number of members of C is two units more than A and the number of members of D is three units less than B. If the number of members of set C \\times B is 25% more than the number of members of set A \\times B, 1/5 times the number of members of set A \\times B, what is the difference in the number of members of sets A and B?\n\nOptions:\nA) 2\nB) 5\nC) 7\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "اگر A و B دو مجموعه ناتهی از مجموعه مرجع U باشند، مجموعه A' \\cup \\left( {(B \\cap A) \\cap [(B \\cup A) \\cap B]} \\right) با کدام مجموعه برابر است؟\n",
+        "options": {
+            "1": "(A - B)'",
+            "2": "B-A",
+            "3": "B",
+            "4": "\\emptyset"
+        },
+        "final_answer": 1,
+        "full_text": "If A and B are two infinite sets of the reference set U, which set A' \\cup \\left( {(B \\cap A) \\cap [(B \\cup A) \\cap B]} \\right) is equal to ?\n\nOptions:\nA) (A - B)'\nB) B-A\nC) B\nD) \\emptyset",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "کدام گزاره زیر، هم‌ارز منطقی گزاره \\left( { \\sim p \\vee q} \\right) \\Leftrightarrow q است؟\n",
+        "options": {
+            "1": "p",
+            "2": "p \\vee q",
+            "3": "q",
+            "4": "\\sim p \\Leftrightarrow q"
+        },
+        "final_answer": 2,
+        "full_text": "Which statement below is the logical equivalent of the statement \\left( { \\sim p \\vee q} \\right) \\Leftrightarrow q?\n\nOptions:\nA) p\nB) p \\vee q\nC) q\nD) \\sim p \\Leftrightarrow q",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "\\alpha و \\beta ریشه‌های معادله {x^۲} + ۶x + a = ۰ هستند. اگر \\alpha \\lt \\beta \\lt ۰ و ۳{\\alpha ^۲} + ۲{\\beta ^۲} = ۱۲\\sqrt ۲ + ۸۵ باشد، مقدار a چقدر است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "\\frac{{۱۳}}{۴}",
+            "3": "\\frac{{۲۱}}{۵}",
+            "4": "۲"
+        },
+        "final_answer": 1,
+        "full_text": "\\alpha and \\beta are the roots of the equation {x^2} + 6x + a = 0. If \\alpha \\lt \\beta \\lt 0 and 3{\\alpha ^2} + 2{\\beta ^2} = 12\\sqrt 2 + 85, what is the value of a?\n\nOptions:\nA) 1\nB) \\frac{{13}}{4}\nC) \\frac{{21}}{5}\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "اگر \\frac{۱}{{{a^۳} + ۱}} + \\frac{۱}{{{a^۳} - ۱}} = ۲ باشد، حاصل {\\left( {\\frac{۱}{{{a^۳} - \\sqrt {{a^۳}} + ۱}} + \\frac{۱}{{{a^۳} + \\sqrt {{a^۳}} + ۱}}} \\right)^{۱۴۰۱}} چقدر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۲-",
+            "3": "۱",
+            "4": "۱-"
+        },
+        "final_answer": 3,
+        "full_text": "If \\frac{1}{{{a^3} + 1}} + \\frac{1}{{{a^3} - 1}} = 2, the result {\\left( {\\frac{1}{ {{a^3} - \\sqrt {{a^3}} + 1}} + \\frac{1}{{{a^3} + \\sqrt {{a^3}} + 1}}} \\right )^{1401}} how much is it?\n\nOptions:\nA) 2\nB) 2-\nC) 1\nD) 1-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "تابع در یک بازه نزولی است. ضابطه وارون تابع در این بازه، کدام است؟\n",
+        "options": {
+            "1": "- \\sqrt {{x^۳}} \\,,\\,x \\leqslant ۰",
+            "2": "- \\sqrt[۳]{x}\\,,\\,x \\leqslant ۰",
+            "3": "- \\sqrt {{x^۳}} \\,,\\,x \\geqslant ۰",
+            "4": "- \\sqrt[۳]{x}\\,,\\,x \\geqslant ۰"
+        },
+        "final_answer": 4,
+        "full_text": "The function is in a descending interval. What is the inverse rule of the function in this interval?\n\nOptions:\nA) - \\sqrt {{x^3}} \\,,\\,x \\leqslant 0\nB) - \\sqrt[3]{x}\\,,\\,x \\leqslant 0\nC) - \\sqrt {{x^3}} \\,,\\,x \\geqslant 0\nD) - \\sqrt[3]{x}\\,,\\,x \\geqslant 0",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "فاصله نقطه A روی خط x + y = a از دو نقطه B( - ۳,۲) و C( - ۱\\,,\\,۴) به‌ترتیب برابر \\sqrt {۲۹} و ۵ است. مقدار a چقدر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "\\frac{۱}{۲}",
+            "3": "- \\frac{۱}{۲}",
+            "4": "۲-"
+        },
+        "final_answer": 1,
+        "full_text": "The distance of point A on the line x + y = a from two points B(-3,2) and C(-1\\,,\\,4) is equal to \\sqrt {29} and 5, respectively. What is the value of a?\n\nOptions:\nA) 2\nB) \\frac{1}{2}\nC) - \\frac{1}{2}\nD) 2-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "اگر f(x) = \\frac{{\\sqrt ۲ x}}{{۳x - \\sqrt ۲ }} باشد، حاصل fofof(\\sqrt ۲ ) کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{{\\sqrt ۲ }}",
+            "2": "\\sqrt ۲",
+            "3": "۲",
+            "4": "\\frac{۱}{۲}"
+        },
+        "final_answer": 1,
+        "full_text": "If f(x) = \\frac{{\\sqrt 2 x}}{{3x - \\sqrt 2 }}, what is the result of fofof(\\sqrt 2 )?\n\nOptions:\nA) \\frac{1}{{\\sqrt 2 }}\nB) \\sqrt 2\nC) 2\nD) \\frac{1}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "فرض کنید {۵^x} = ۱۰ است. اگر {۲^{f(x)}} = ۲۰ باشد، ضابطه f کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۲x + ۱}}{{x + ۱}}",
+            "2": "\\frac{{x - ۱}}{{۲x - ۱}}",
+            "3": "\\frac{{۲x - ۱}}{{x - ۱}}",
+            "4": "\\frac{{x + ۱}}{{۲x + ۱}}"
+        },
+        "final_answer": 3,
+        "full_text": "Suppose {5^x} = 10. If {2^{f(x)}} = 20, what is the rule of f?\n\nOptions:\nA) \\frac{{2x + 1}}{{x + 1}}\nB) \\frac{{x - 1}}{{2x - 1}}\nC) \\frac{{2x - 1}}{{x - 1}}\nD) \\frac{{x + 1}}{{2x + 1}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "اندازه زاویه A در مثلث ABC، ۴۵ درجه بیشتر از اندازه زاویه B است، حاصل ۲\\cos A\\sin B - \\sin C کدام است؟\n",
+        "options": {
+            "1": "\\frac{{\\sqrt ۲ }}{۲}",
+            "2": "- \\frac{{\\sqrt ۲ }}{۲}",
+            "3": "\\frac{{\\sqrt ۳ }}{۲}",
+            "4": "- \\frac{{\\sqrt ۳ }}{۲}"
+        },
+        "final_answer": 2,
+        "full_text": "The size of angle A in triangle ABC is 45 degrees more than the size of angle B, what is the result of 2\\cos A\\sin B - \\sin C?\n\nOptions:\nA) \\frac{{\\sqrt 2 }}{2}\nB) - \\frac{{\\sqrt 2 }}{2}\nC) \\frac{{\\sqrt 3 }}{2}\nD) - \\frac{{\\sqrt 3 }}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "",
+        "options": {
+            "1": " \\frac{۱}{{۱۶}} ",
+            "2": " ۱ ",
+            "3": " \\frac{۱}{{۴\\pi }} ",
+            "4": " \\pi "
+        },
+        "final_answer": 1,
+        "full_text": "Options:\nA) \\frac{۱}{{۱۶}} \nB) ۱ \nC) \\frac{۱}{{۴\\pi }} \nD) \\pi",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "مجموع جواب‌های معادله مثلثاتی \\sin x + \\sqrt ۳ \\cos x = \\sqrt ۲ در بازه \\left[ { - \\pi \\,,\\,۲\\pi } \\right] کدام است؟\n",
+        "options": {
+            "1": "\\frac{\\pi }{۳}",
+            "2": "\\frac{{۷\\pi }}{۳}",
+            "3": "\\frac{{۹\\pi }}{۴}",
+            "4": "\\frac{{۱۱\\pi }}{۶}"
+        },
+        "final_answer": 3,
+        "full_text": "What is the sum of the solutions of the trigonometric equation \\sin x + \\sqrt 3 \\cos x = \\sqrt 2 in the interval \\left[ { - \\pi \\,,\\,2\\pi } \\right]?\n\nOptions:\nA) \\frac{\\pi }{3}\nB) \\frac{{7\\pi }}{3}\nC) \\frac{{9\\pi }}{4}\nD) \\frac{{11\\pi }}{6}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "حاصل \\mathop {\\lim }\\limits_{x \\to - ۱} \\frac{{\\sqrt {۲x + ۳} - \\sqrt {۳x + ۴} }}{{۱ + \\sqrt[۳]{x}}} کدام است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "\\frac{۱}{۲}",
+            "3": "۲-",
+            "4": "- \\frac{۳}{۲}"
+        },
+        "final_answer": 4,
+        "full_text": "The result \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{\\sqrt {2x + 3} - \\sqrt {3x + 4}}}{{1 + \\sqrt[3]{x}} } Which?\n\nOptions:\nA) 3\nB) \\frac{1}{2}\nC) 2-\nD) - \\frac{3}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "تابع f(x) = \\left\\{ \\begin{gathered}  |x| + \\,[ - x]\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,|{x^۳}|\\, \\lt {x^۲} \\hfill \\\\  ۱ + \\cos \\pi x\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,|{x^۳}|\\, = {x^۲} \\hfill \\\\  [{x^۲}] - [x]\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,|{x^۳}|\\, \\gt \\,{x^۲} \\hfill \\\\ \\end{gathered} \\right. در چند نقطه ناپیوسته است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "بی‌شمار",
+            "4": "در همه نقاط پیوسته است."
+        },
+        "final_answer": 3,
+        "full_text": "The function f(x) = \\left\\{ \\begin{gathered} |x| + \\,[ - x]\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\ ,\\,|{x^3}|\\, \\lt {x^2} \\hfill \\\\ 1 + \\cos \\pi x\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,|{x^3}|\\, = {x^2} \\hfill \\\\ [{x ^2}] - [x]\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\,\\,\\,|{x^3}|\\, \\gt \\,{x^2} \\hfill \\\\ \\end{gathered} \\right. At how many points is it discontinuous?\n\nOptions:\nA) 2\nB) 3\nC) Countless\nD) is continuous at all points.",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "چندجمله‌ای p(x) = {x^{۳n + ۱}} + ۲{x^{۳n}} + {x^۶} + ۳{x^۵} + ۱۶a، به ازای هر عدد طبیعی n بر x+۲ بخش‌پذیر است. برای n=۱، باقی‌مانده تقسیم p(x) بر {x^۲} + ۲x - ۳ کدام است؟\n",
+        "options": {
+            "1": "- ۱۵x + ۲۴",
+            "2": "- ۱۵x + ۱۴",
+            "3": "- ۵x + ۳۴",
+            "4": "- ۵x + ۴۴"
+        },
+        "final_answer": 4,
+        "full_text": "Polynomial p(x) = {x^{3n + 1}} + 2{x^{3n}} + {x^6} + 3{x^5} + 16a, for every natural number n times x+2 It is divisible. For n=1, what is the remainder of dividing p(x) by {x^2} + 2x - 3?\n\nOptions:\nA) - 15x + 24\nB) - 15x + 14\nC) - 5x + 34\nD) - 5x + 44",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "اعداد طبیعی طوری دسته‌بندی شده‌اند که تعداد عضوهای هر دسته (بجز دسته اول و دوم)، برابر بزرگ‌ترین عضو دسته قبل است؛ یعنی \\left\\{ ۱ \\right\\},\\left\\{ {۲,۳} \\right\\},\\left\\{ {۴,۵,۶} \\right\\},\\left\\{ {۷,۸,۹,۱۰,۱۱,۱۲} \\right\\},.... میانگین عضوهای اول و آخر دسته سیزدهم، کدام است؟\n",
+        "options": {
+            "1": "۲۳۰۴/۵",
+            "2": "۳۰۷۲/۵",
+            "3": "۴۶۰۸/۵",
+            "4": "۶۱۴۴/۵"
+        },
+        "final_answer": 3,
+        "full_text": "Natural numbers are categorized in such a way that the number of members of each category (except the first and second category) is equal to the largest member of the previous category; That is, \\left\\{ 1 \\right\\},\\left\\{ {2,3} \\right\\},\\left\\{ {4,5,6} \\right\\},\\left\\{ {7,8, 9,10,11,12} \\right\\},.... What is the average of the first and last members of the 13th group?\n\nOptions:\nA) 2304/5\nB) 5/3072\nC) 4608/5\nD) 6144/5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "تابع f(x) = \\frac{{\\left| {ax + ۱} \\right| + ۲x}}{{\\left| x \\right| + b}} دارای دو مجانب افقی و دو مجانب قائم است. اگر هر ریشه مخرج با یکی از حدهای تابع در بی‌نهایت برابر باشد، حاصل \\mathop {\\lim }\\limits_{x \\to {۱^ + }} f(x) کدام است؟\n",
+        "options": {
+            "1": "۳-",
+            "2": "۱",
+            "3": "- \\frac{۱}{۲}",
+            "4": "\\frac{۱}{۴}"
+        },
+        "final_answer": 1,
+        "full_text": "The function f(x) = \\frac{{\\left| {ax + 1} \\right| + 2x}}{{\\left| x \\right| + b}} has two horizontal asymptotes and two vertical asymptotes. If every root of the denominator is equal to one of the limits of the function at infinity, what is the result of \\mathop {\\lim }\\limits_{x \\to {1^ + }} f(x)?\n\nOptions:\nA) 3-\nB) 1\nC) - \\frac{1}{2}\nD) \\frac{1}{4}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "در نقطه تلاقی منحنی‌های f(x) = \\sin x + \\frac{۱}{۲}\\cos x و g(x) = \\frac{۳}{۲}\\sin x در بازه \\left[ {۰,\\pi } \\right] خط مماسی بر منحنی f(x) رسم می‌شود. این خط، محور xها را در نقطه‌ای با کدام طول قطع می‌کند؟\n",
+        "options": {
+            "1": "\\frac{\\pi }{۴} - ۱",
+            "2": "\\frac{\\pi }{۴} - ۳",
+            "3": "\\frac{\\pi }{۴} + \\frac{۱}{۸}",
+            "4": "\\frac{\\pi }{۴} + \\frac{۳}{۸}"
+        },
+        "final_answer": 2,
+        "full_text": "At the point of intersection of the curves f(x) = \\sin x + \\frac{1}{2}\\cos x and g(x) = \\frac{3}{2}\\sin x in the interval \\left[ {0,\\ pi } \\right] A tangent line is drawn to the f(x) curve. This line intersects the x-axis at a point with which length?\n\nOptions:\nA) \\frac{\\pi }{4} - 1\nB) \\frac{\\pi }{4} - 3\nC) \\frac{\\pi }{4} + \\frac{1}{8}\nD) \\frac{\\pi }{4} + \\frac{3}{8}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "تابع f مشتق‌پذیر و با دورهٔ تناوب ۵ است. اگر f'( - ۱) = \\frac{۳}{۲} و g(x) = f(x + ۱) + f(۳x + ۱۰) باشد، حاصل g'( - ۲) کدام است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "\\frac{۷}{۲}",
+            "3": "۶",
+            "4": "\\frac{۱۳}{۲}"
+        },
+        "final_answer": 3,
+        "full_text": "The function f is differentiable and has a period of 5. If f'(-1) = \\frac{3}{2} and g(x) = f(x + 1) + f(3x + 10), what is the result of g'(-2)?\n\nOptions:\nA) 3\nB) \\frac{7}{2}\nC) 6\nD) \\frac{13}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "اگر f(x) = (x - ۴)\\sqrt[۳]{{x + ۳}} باشد، حاصل \\mathop {\\lim }\\limits_{h \\to ۰} \\frac{{{f^۲}(۵ - h) - ۳f(۵ - h) + ۲}}{{h(۵ - h)}} کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۱۳}}{{۳۰}}",
+            "2": "- \\frac{۵}{{۱۲}}",
+            "3": "\\frac{{۵}}{{۶}}",
+            "4": "- \\frac{۱۳}{{۱۵}}"
+        },
+        "final_answer": 2,
+        "full_text": "If f(x) = (x - 4)\\sqrt[3]{{x + 3}}, the result \\mathop {\\lim }\\limits_{h \\to 0} \\frac{{{f^2}( What is 5 - h) - 3f(5 - h) + 2}}{{h(5 - h)}}?\n\nOptions:\nA) \\frac{{13}}{{30}}\nB) - \\frac{5}{{12}}\nC) \\frac{{5}}{{6}}\nD) - \\frac{13}{{15}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "نقطهٔ A( - ۱,۱) اکسترمم نسبی تابع y = {x^۲}\\left| x \\right| + ۳a{x^۲} + b است. مقدار \\frac{b}{a} کدام است؟\n",
+        "options": {
+            "1": "۳-",
+            "2": "- \\frac{۱}{۳}",
+            "3": "۳",
+            "4": "\\frac{۱}{۳}"
+        },
+        "final_answer": 1,
+        "full_text": "Point A(-1,1) is the relative extremum of the function y = {x^2}\\left| x \\right| + 3a{x^2} + b is What is the value of \\frac{b}{a}?\n\nOptions:\nA) 3-\nB) - \\frac{1}{3}\nC) 3\nD) \\frac{1}{3}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "محل تلاقی مجانب‌های تابع هموگرافیک y = \\frac{{ax + ۳}}{{(a + ۱)x + (a - ۱)}}، نقطه مینیمم تابع y = \\frac{۳}{۲}{x^۲} + x + \\frac{۵}{۶} است. نمودار این تابع هموگرافیک، محور xها را در نقطه‌ای با کدام طول قطع می‌کند؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۳-",
+            "3": "\\frac{۳}{۲}",
+            "4": "- \\frac{۳}{۲}"
+        },
+        "final_answer": 4,
+        "full_text": "The intersection of the asymptotes of the homographic function y = \\frac{{ax + 3}}{{(a + 1)x + (a - 1)}}, the minimum point of the function y = \\frac{3}{2}{x^2 } + x + is \\frac{5}{6}. The graph of this homographic function intersects the x-axis at a point with which length?\n\nOptions:\nA) 3\nB) 3-\nC) \\frac{3}{2}\nD) - \\frac{3}{2}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "چند عدد طبیعی پنج رقمی با ارقام غیرتکراری می‌توان نوشت که ارقام آن یک در میان زوج و فرد باشند؟\n",
+        "options": {
+            "1": "۱۸۴۰",
+            "2": "۱۹۲۰",
+            "3": "۲۱۶۰",
+            "4": "۲۴۰۰۰"
+        },
+        "final_answer": 3,
+        "full_text": "How many five-digit natural numbers can be written with non-repeating digits whose digits are one between even and odd?\n\nOptions:\nA) 1840\nB) 1920\nC) 2160\nD) 24000",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "در یک تجربه تصادفی، S = \\left\\{ {x,y,z} \\right\\} یک فضای نمونه‌ای است. اگر p(x) و p(y) و p(z) یک دنباله هندسی با قدر نسبت کمتر از واحد، تشکیل دهند و واسطه هندسی آن‌ها \\frac{۱}{۵} باشد، کمترین مقدار احتمال یک پیشامد ساده در S، چقدر است؟\n",
+        "options": {
+            "1": "\\frac{{۲ - \\sqrt ۲ }}{۵}",
+            "2": "\\frac{{۲ - \\sqrt ۳ }}{۵}",
+            "3": "\\frac{{۲ - \\sqrt ۳ }}{۱۰}",
+            "4": "\\frac{{۲ - \\sqrt ۲ }}{۱۰}"
+        },
+        "final_answer": 2,
+        "full_text": "In a random experiment, S = \\left\\{ {x,y,z} \\right\\} is a sample space. If p(x), p(y) and p(z) form a geometric sequence with a ratio less than unity, and their geometric mean is \\frac{1}{5}, the smallest probability value of a simple event in S, How much is?\n\nOptions:\nA) \\frac{{2 - \\sqrt 2 }}{5}\nB) \\frac{{2 - \\sqrt 3 }}{5}\nC) \\frac{{2 - \\sqrt 3 }}{10}\nD) \\frac{{2 - \\sqrt 2 }}{10}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "در یک کیسه ۱۶ گوی به شماره‌های ۱ تا ۱۶ وجود دارد. دو گوی به طور متوالی و بدون جایگذاری، به تصادف انتخاب می‌کنیم. اگر بدانیم شماره گوی دوم از شماره گوی اول کمتر است، با کدام احتمال شماره گوی اول ۱۶ است؟\n",
+        "options": {
+            "1": "\\frac{۱}{{۱۶}}",
+            "2": "\\frac{۱}{{۱۲}}",
+            "3": "\\frac{۱}{{۸}}",
+            "4": "\\frac{۱}{{۴}}"
+        },
+        "final_answer": 3,
+        "full_text": "There are 16 balls numbered 1 to 16 in a bag. We randomly select two spheres consecutively without placement. If we know that the number of the second ball is less than the number of the first ball, with what probability is the number of the first ball 16?\n\nOptions:\nA) \\frac{1}{{16}}\nB) \\frac{1}{{12}}\nC) \\frac{1}{{8}}\nD) \\frac{1}{{4}}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "برای برآورد میانگین درآمد افراد یک جامعه از دو نمونه تصادفی استفاده کرده‌ایم. اندازه نمونه دوم را طوری انتخاب می‌کنیم که انحراف معیار برآورد میانگین با نمونه دوم، \\frac{۲}{۳} برابر مقدار محاسبه شده با نمونه اول باشد. اندازه نمونه دوم، چند برابر نمونه اول است؟\n",
+        "options": {
+            "1": "۱/۵",
+            "2": "۲/۲۵",
+            "3": "۲/۷۵",
+            "4": "۳/۵"
+        },
+        "final_answer": 2,
+        "full_text": "We have used two random samples to estimate the average income of people in a society. We choose the size of the second sample so that the standard deviation of the average estimate with the second sample is \\frac{2}{3} equal to the value calculated with the first sample. How many times the size of the second sample is the first sample?\n\nOptions:\nA) 1/5\nB) 2/25\nC) 2.75\nD) 3.5",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "میانگین شش داده آماری، عددی طبیعی است و توان دوم انحراف از میانگین این داده‌ها، به‌صورت ۹,{a^۲},۰,۹,{b^۲},۱ است. اگر واریانس این داده‌ها برابر ۴ باشد، مقدار ab کدام است؟ (a,b \\in Z)\n",
+        "options": {
+            "1": "۴-",
+            "2": "۴",
+            "3": "۲",
+            "4": "۲-"
+        },
+        "final_answer": 4,
+        "full_text": "The average of six statistical data is a natural number, and the second power of the deviation from the average of these data is 0.9, {a^2}, 0.9, and {b^2}, 1. If the variance of these data is equal to 4, what is the value of ab? (a,b \\in Z)\n\nOptions:\nA) 4-\nB) 4\nC) 2\nD) 2-",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در مثلث متساوی‌الساقین ABC، نقطهٔ M وسط ساق AB و عمودمنصف آن، ساق AC را در نقطه N قطع می‌کند. اگر \\mathop {NBC}\\limits^ \\wedge  = {۵۴^ \\circ } باشد، اندازه زاویه \\mathop {MNB}\\limits^ \\wedge چند درجه است؟\n",
+        "options": {
+            "1": "۴۸",
+            "2": "۵۶",
+            "3": "۶۶",
+            "4": "۷۸"
+        },
+        "final_answer": 3,
+        "full_text": "In the isosceles triangle ABC, the point M is the middle of the leg AB and its bisector intersects the leg AC at the point N. If \\mathop {NBC}\\limits^ \\wedge = {54^ \\circ }, how many degrees is the angle of \\mathop {MNB}\\limits^ \\wedge?\n\nOptions:\nA) 48\nB) 56\nC) 66\nD) 78",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "در یک مثلث قائم‌الزاویه، اندازه دو پاره‌خطی که ارتفاع وارد بر وتر، بر روی وتر ایجاد می‌کند ۲/۵ و ۱۴/۴ سانتی‌متر است. طول ارتفاع وارد بر وتر، چند سانتی‌متر است؟\n",
+        "options": {
+            "1": "۴/۸",
+            "2": "۶",
+            "3": "۷/۲",
+            "4": "۸"
+        },
+        "final_answer": 2,
+        "full_text": "In a right triangle, the size of the two line segments that the height of the chord creates on the chord is 2.5 and 14.4 cm. How many centimeters is the height of the chord?\n\nOptions:\nA) 4/8\nB) 6\nC) 2/7\nD) 8",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "در شش‌ضلعی منتظم زیر، مساحت ناحیه هاشور خورده چند سانتی‌متر مربع است؟\n",
+        "options": {
+            "1": "۳\\sqrt ۳",
+            "2": "۲\\sqrt ۳",
+            "3": "۳",
+            "4": "۲"
+        },
+        "final_answer": 1,
+        "full_text": "In the following regular hexagon, the area of ​​the hatched area is how many square centimeters?\n\nOptions:\nA) 3\\sqrt 3\nB) 2\\sqrt 3\nC) 3\nD) 2",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "در شکل زیر، AB||EF و اندازه کمان‌های AE = {۱۵^ \\circ } و EC = {۸۰^ \\circ } و FD = {۱۰۰^ \\circ } است. اگر \\mathop {BME}\\limits^ \\wedge  = {۲۰^ \\circ } باشد، اندازه زاویه \\mathop {ABD}\\limits^ \\wedge چند درجه است؟\n",
+        "options": {
+            "1": "۷۱/۲۵",
+            "2": "۷۴",
+            "3": "۷۵",
+            "4": "۷۸/۷۵"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, AB||EF and the size of arcs AE = {15^ \\circ } and EC = {80^ \\circ } and FD = {100^ \\circ }. If \\mathop {BME}\\limits^ \\wedge = {20^ \\circ }, how many degrees is the angle \\mathop {ABD}\\limits^ \\wedge?\n\nOptions:\nA) 25/71\nB) 74\nC) 75\nD) 78/75",
+        "metadata": {
+            "image": true,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "یک متساوی‌الساقین با طول قاعده‌های a و ۶ واحد، بر دایره‌ای به مساحت ۱۵\\pi محیط است. مقدار a کدام است؟\n",
+        "options": {
+            "1": "\\frac{{۲۵}}{۳}",
+            "2": "۸",
+            "3": "\\frac{{۳۲}}{۳}",
+            "4": "۱۰"
+        },
+        "final_answer": 4,
+        "full_text": "An isosceles with base length a and 6 units is on a circle with an area of ​​\\pi 15. What is the value of a?\n\nOptions:\nA) \\frac{{25}}{3}\nB) 8\nC) \\frac{{32}}{3}\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "طول خط‌المرکزین دو دایره مماس درونی ۳/۵ سانتی‌متر و مساحت ناحیه محدود بین آن‌ها ۲۱\\pi سانتی‌متر مربع است. شعاع دایره کوچک‌تر، چند سانتی‌متر است؟\n",
+        "options": {
+            "1": "۱/۲۵",
+            "2": "۱/۷۵",
+            "3": "۲/۲۵",
+            "4": "۲/۷۵"
+        },
+        "final_answer": 1,
+        "full_text": "The length of the centroids of the two inner tangent circles is 3.5 cm and the area of ​​the limited area between them is 21\\pi square cm. How many centimeters is the radius of the smaller circle?\n\nOptions:\nA) 1/25\nB) 1/75\nC) 2/25\nD) 2/75",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "در مربع ABCD، نقطه (۵ , ۳) رأس B و طول رأس‌های C و D به‌ترتیب ۵/۵ و ۳ است. اگر بازتاب نقطهٔ D نسبت به محور xها بر خودش منطبق شود، فاصله بازتاب نقطهٔ C نسبت به قطر BD از مبدأ مختصات چقدر است؟\n",
+        "options": {
+            "1": "۲/۵",
+            "2": "\\sqrt {۶/۵}",
+            "3": "\\sqrt {۶}",
+            "4": "۲"
+        },
+        "final_answer": 2,
+        "full_text": "In the square ABCD, the point (5, 3) is the vertex B and the length of the vertices C and D is 5.5 and 3, respectively. If the reflection of point D coincides with itself with respect to the x-axis, what is the distance of the reflection of point C with respect to diameter BD from the coordinate origin?\n\nOptions:\nA) 2.5\nB) \\sqrt {6/5}\nC) \\sqrt {6}\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "نیمساز داخلی زاویه A در مثلث ABC، ضلع مقابل را به پاره‌خط‌های ۳/۵ و ۲/۵ واحدی تقسیم کرده است. اگر اندازه زاویه C برابر ۶۰ درجه باشد، ضلع کوچک‌تر مثلث چند واحد است؟\n",
+        "options": {
+            "1": "۳/۷۵",
+            "2": "۴/۲۵",
+            "3": "۴/۷۵",
+            "4": "۵/۲۵"
+        },
+        "final_answer": 1,
+        "full_text": "The internal bisector of angle A in triangle ABC divides the opposite side into line segments of 3.5 and 2.5 units. If the size of angle C is 60 degrees, how many units is the smaller side of the triangle?\n\nOptions:\nA) 3/75\nB) 4/25\nC) 75/4\nD) 5/25",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "اگر A = \\left[ {\\begin{array}{*{۲۰}{c}}  x \\\\  ۰ \\\\  y \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - ۱} \\\\  ۰ \\\\  z \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - x} \\\\  ۴ \\\\  z \\end{array}} \\right] ، B = \\left[ {\\begin{array}{*{۲۰}{c}}  {۲z} \\\\  {۲z} \\\\  ۰ \\end{array}\\,\\,\\,\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  {\\frac{۱}{۲}} \\\\  ۰ \\\\  {\\frac{۱}{۲}} \\end{array}\\,\\,\\,\\,\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۲ \\\\  { - ۴y} \\\\  ۰ \\end{array}} \\right] و ماتریس AB به ازای y \\in Z ماتریس اسکالر باشد، مقدار xy کدام است؟\n",
+        "options": {
+            "1": "۱-",
+            "2": "۲-",
+            "3": "۱",
+            "4": "۲"
+        },
+        "final_answer": 2,
+        "full_text": "If A = \\left[ {\\begin{array}{*{20}{c}} x \\\\ 0 \\\\ y \\end{array}\\,\\,\\,\\,\\begin{array}{*{20 }{c}} { - 1} \\\\ 0 \\\\ z \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} { - x} \\\\ 4 \\ \\ z \\end{array}} \\right], B = \\left[ {\\begin{array}{*{20}{c}} {2z} \\\\ {2z} \\\\ 0 \\end{array}\\, \\,\\,\\,\\,\\,\\,\\begin{array}{*{20}{c}} {\\frac{1}{2}} \\\\ 0 \\\\ {\\frac{1}{2} } \\end{array}\\,\\,\\,\\,\\,\\,\\,\\,\\begin{array}{*{20}{c}} 2 \\\\ { - 4y} \\\\ 0 \\end{array }} \\right] and the matrix AB for y \\in Z is a scalar matrix, what is the value of xy?\n\nOptions:\nA) 1-\nB) 2-\nC) 1\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "اگر A = \\left[ {\\begin{array}{*{۲۰}{c}}  ۱ \\\\  ۴ \\\\  ۲ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - ۱} \\\\  ۱ \\\\  ۱ \\end{array}\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  { - ۳} \\\\  ۲ \\\\  ۳ \\end{array}} \\right] و ماتریس X در رابطه ماتریسی \\left[ {\\begin{array}{*{۲۰}{c}}  \\begin{gathered}  ۲\\left| A \\right| \\hfill \\\\  \\hfill \\\\ \\end{gathered} \\\\  ۱ \\end{array}\\,\\,\\,\\,\\,\\,\\begin{array}{*{۲۰}{c}}  {\\left| A \\right|} \\\\  {\\frac{۲}{{\\left| A \\right|}}} \\end{array}} \\right]X = \\left[ {\\begin{array}{*{۲۰}{c}}  ۳ \\\\  { - ۲} \\end{array}\\,\\,\\,\\begin{array}{*{۲۰}{c}}  ۰ \\\\  ۱ \\end{array}} \\right] صدق کند، کوچک‌ترین درایه قطر اصلی ماتریس X کدام است؟\n",
+        "options": {
+            "1": "۱۵-",
+            "2": "۳-",
+            "3": "۶",
+            "4": "۸"
+        },
+        "final_answer": 3,
+        "full_text": "If A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 4 \\\\ 2 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20 }{c}} { - 1} \\\\ 1 \\\\ 1 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} { - 3} \\\\ 2 \\ \\ 3 \\end{array}} \\right] and the X matrix in the matrix relationship \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2\\left| A \\right| \\hfill \\\\ \\hfill \\\\ \\end{gathered} \\\\ 1 \\end{array}\\,\\,\\,\\,\\,\\,\\begin{array}{*{20}{c}} {\\left | A \\right|} \\\\ {\\frac{2}{{\\left| A \\right|}}} \\end{array}} \\right]X = \\left[ {\\begin{array}{*{20}{c}} 3 \\\\ { - 2} \\end{array}\\, \\,\\,\\begin{array}{*{20}{c}} 0 \\\\ 1 \\end{array}} \\right], what is the smallest domain of the main diameter of matrix X?\n\nOptions:\nA) 15-\nB) 3-\nC) 6\nD) 8",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "به ازای هر m، معادله (m - ۲)x + (m + ۱)y = ۶، معادله قطری از دایره C است. اگر نقطه A\\left( { - ۱,۱} \\right) روی دایره C باشد، محیط دایره C کدام است؟\n",
+        "options": {
+            "1": "۲\\sqrt ۲ \\pi",
+            "2": "۲\\pi",
+            "3": "۳\\pi",
+            "4": "۲\\sqrt ۳ \\pi"
+        },
+        "final_answer": 1,
+        "full_text": "For each m, the equation (m - 2)x + (m + 1)y = 6 is the diagonal equation of circle C. If point A\\left( { - 1,1} \\right) is on circle C, what is the circumference of circle C?\n\nOptions:\nA) 2\\sqrt 2\\pi\nB) 2\\pi\nC) 3\\pi\nD) 2\\sqrt 3\\pi",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "40"
+        }
+    },
+    "41": {
+        "question": "در سهمی ۲{y^۲} - ۲ay + ۸x + b = ۰ نقطهٔ \\left( { - ۱\\,,\\,۱} \\right) رأس سهمی است. مقدار \\frac{a}{b} چقدر است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۳}",
+            "2": "\\frac{۱}{۵}",
+            "3": "- \\frac{۱}{۵}",
+            "4": "- \\frac{۱}{۳}"
+        },
+        "final_answer": 2,
+        "full_text": "In the parabola 2{y^2} - 2ay + 8x + b = 0, the point \\left( { - 1\\,,\\,1} \\right) is the vertex of the parabola. What is the value of \\frac{a}{b}?\n\nOptions:\nA) \\frac{1}{3}\nB) \\frac{1}{5}\nC) - \\frac{1}{5}\nD) - \\frac{1}{3}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "41"
+        }
+    },
+    "42": {
+        "question": "سه بردار \\vec a = (۱,۱,۰) و \\vec b = ( - ۱,۲,۰) و \\vec c غیر واقع در یک صفحه و \\vec h = (x,y,۴) بردار ارتفاع متواز‌ی‌السطوح حاصل از این سه بردار است. اگر \\vec a.\\vec c = ۱ و \\vec b.\\vec c = ۵ باشد، اندازه بردار \\vec c کدام است؟\n",
+        "options": {
+            "1": "۵",
+            "2": "۴",
+            "3": "\\sqrt {۱۹}",
+            "4": "\\sqrt {۲۱}"
+        },
+        "final_answer": 4,
+        "full_text": "Three vectors \\vec a = (1,1,0) and \\vec b = (-1,2,0) and \\vec c are not located in a plane and \\vec h = (x,y,4) is the height vector of parallel planes It is the result of these three vectors. If \\vec a.\\vec c = 1 and \\vec b.\\vec c = 5, what is the size of the vector \\vec c?\n\nOptions:\nA) 5\nB) 4\nC) \\sqrt {19}\nD) \\sqrt {21}",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "42"
+        }
+    },
+    "43": {
+        "question": "دو بردار که اندازه یکی دو برابر دیگری است، باهم زاویه ۶۰ درجه می‌سازند، زاویه بین بردار بزرگ‌تر و تفاضل دو بردار، چند درجه است؟\n",
+        "options": {
+            "1": "۳۰",
+            "2": "۴۵",
+            "3": "۶۰",
+            "4": "۱۲۰"
+        },
+        "final_answer": 1,
+        "full_text": "Two vectors, one of which is twice the size of the other, form an angle of 60 degrees. What is the angle between the larger vector and the difference between the two vectors?\n\nOptions:\nA) 30\nB) 45\nC) 60\nD) 120",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "43"
+        }
+    },
+    "44": {
+        "question": "نقاط (a,b) روی منحنی y = \\frac{{۳x - ۱}}{{x + ۲}} قرار دارند. اگر a,b \\in \\mathbb{Z} باشند، چند نقطه با این ویژگی روی این منحنی قرار دارند؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "Points (a,b) are located on the curve y = \\frac{{3x - 1}}{{x + 2}}. If a,b \\in \\mathbb{Z}, how many points with this property are on this curve?\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "44"
+        }
+    },
+    "45": {
+        "question": "دو عدد {a^۲} - ۱ و ۱۴a + ۶، رقم یکان برابری دارند. رقم یکان {a^۲} + a کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۷",
+            "4": "۸"
+        },
+        "final_answer": 1,
+        "full_text": "Two numbers {a^2} - 1 and 14a + 6 have the same digit. What is the digit of {a^2} + a?\n\nOptions:\nA) 2\nB) 3\nC) 7\nD) 8",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "45"
+        }
+    },
+    "46": {
+        "question": "اگر x و y هر دو عدد طبیعی باشند، معادله سیاله خطی ۱۲x + ۱۱y = ۷۵۹ چند جواب دارد؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۴",
+            "3": "۵",
+            "4": "۶"
+        },
+        "final_answer": 3,
+        "full_text": "If both x and y are natural numbers, how many solutions does the linear fluid equation 12x + 11y = 759 have?\n\nOptions:\nA) 3\nB) 4\nC) 5\nD) 6",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "46"
+        }
+    },
+    "47": {
+        "question": "",
+        "options": {
+            "1": " ۵ ",
+            "2": " ۶ ",
+            "3": " ۷ ",
+            "4": " ۸ "
+        },
+        "final_answer": 2,
+        "full_text": "Options:\nA) ۵ \nB) ۶ \nC) ۷ \nD) ۸",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "47"
+        }
+    },
+    "48": {
+        "question": "درجه رأس‌‌های یک گراف ساده و همبند به صورت اعداد ۵,۴,۴,۳,a,b,c هستند. اگر تعداد یال‌های این گراف ۱/۵ برابر (a + b + c) باشد، چند حالت مختلف برای مجموعه \\left\\{ {a,b,c} \\right\\} وجود دارد؟\n",
+        "options": {
+            "1": "۴",
+            "2": "۵",
+            "3": "۳",
+            "4": "۲"
+        },
+        "final_answer": 1,
+        "full_text": "The degrees of the vertices of a simple and connected graph are the numbers 5, 4, 4, 3, a, b, c. If the number of edges in this graph is 1/5 times (a + b + c), how many different states are there for the set \\left\\{ {a,b,c} \\right\\}?\n\nOptions:\nA) 4\nB) 5\nC) 3\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "48"
+        }
+    },
+    "49": {
+        "question": "چند عدد طبیعی کوچک‌تر از ۶۰۰۰ با مجموع ارقام ۸ وجود دارد؟\n",
+        "options": {
+            "1": "۱۵۵",
+            "2": "۱۶۵",
+            "3": "۱۶۴",
+            "4": "۱۵۸"
+        },
+        "final_answer": 1,
+        "full_text": "How many natural numbers smaller than 6000 with a sum of 8 digits are there?\n\nOptions:\nA) 155\nB) 165\nC) 164\nD) 158",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "49"
+        }
+    },
+    "50": {
+        "question": "حداقل چند زیرمجموعه از مجموعه \\left\\{ {۱,۲,۳,...,۷} \\right\\} انتخاب شود تا مطمئن شویم دو زیرمجموعه با اشتراک تهی در آن‌ها وجود دارد؟\n",
+        "options": {
+            "1": "۶۵",
+            "2": "۶۴",
+            "3": "۴۵",
+            "4": "۴۶"
+        },
+        "final_answer": 1,
+        "full_text": "At least how many subsets should be selected from the set \\left\\{ {1,2,3,...,7} \\right\\} to make sure that there are two subsets with zero membership in them?\n\nOptions:\nA) 65\nB) 64\nC) 45\nD) 46",
+        "metadata": {
+            "image": false,
+            "course": "math",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "50"
+        }
+    }
+}

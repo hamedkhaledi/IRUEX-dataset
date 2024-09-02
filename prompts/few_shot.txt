@@ -1,0 +1,29 @@
+The given question is in multiple-choice format with options A, B, C, and D. After solving,
+conclude the answer by clearly stating and returning only the correct option in the last line,
+enclosed in parentheses, and following the 'The correct option is (Option-Letter)' format. Here is some
+examples
+
+Example1:
+Question:
+{QUESTION1&OPTIONS1}
+Solution:
+{SULOTION1}
+The correct option is ({CORRECT_OPTION1})
+
+Example2:
+Question:
+{QUESTION2&OPTIONS2}
+Solution:
+{SULOTION2}
+The correct option is ({CORRECT_OPTION2})
+
+Example3:
+Question:
+{QUESTION3&OPTIONS3}
+Solution:
+{SULOTION3}
+The correct option is ({CORRECT_OPTION3})
+
+Question:
+{GOLD_QUESTION}
+Solution:

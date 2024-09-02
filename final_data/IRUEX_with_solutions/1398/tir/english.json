@@ -1,0 +1,477 @@
+{
+    "1": {
+        "question": "After breaking his leg in the skiing accident, ........... to cut short his vacation and go back home.\n",
+        "options": {
+            "1": "forccd",
+            "2": "he forccd",
+            "3": "that forccd",
+            "4": "he was forccd"
+        },
+        "final_answer": 4,
+        "full_text": "After breaking his leg in the skiing accident, ........... to cut short his vacation and go back home.\n\nOptions:\nA) forccd\nB) he forccd\nC) that forccd\nD) he was forccd",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "1"
+        },
+        "solution": "ترجمه: صادقانه من نظری ندارم که این تابستان دوست دارم تعطیلات را در کجا بگذرانم.\nتوضیح: در این سوال مصدر نیاز است چون می خواهیم به یک هدف اشاره کنیم؛ لذا گزینهٔ ۳ درست است.\n"
+    },
+    "2": {
+        "question": "I ............ to save the man if I knew how to swim.\n",
+        "options": {
+            "1": "tried",
+            "2": "will try",
+            "3": "would try",
+            "4": "had tried"
+        },
+        "final_answer": 3,
+        "full_text": "I ............ to save the man if I knew how to swim.\n\nOptions:\nA) tried\nB) will try\nC) would try\nD) had tried",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "2"
+        },
+        "solution": "ترجمه: من در حیرتم (نمی دانم) که بدون کمک مهربانانهٔ شما در این کشور غریب چه کار خواهم کرد.\n۱) فرض کردن\n"
+    },
+    "3": {
+        "question": "The boss would get mad if you leave early again, so ........... ask for his permission first.\n",
+        "options": {
+            "1": "you should",
+            "2": "you might",
+            "3": "would you",
+            "4": "you are going to"
+        },
+        "final_answer": 1,
+        "full_text": "The boss would get mad if you leave early again, so ........... ask for his permission first.\n\nOptions:\nA) you should\nB) you might\nC) would you\nD) you are going to",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "3"
+        },
+        "solution": "۲) تعجب کردن، در حیرت بودن ۳) ترجیح دادن\nترجمه: او مطلقاً غیرقابل فهم بود هنگامی که به زبانی صحبت می کرد که با آن من اصلاً آشنا نبودم.\n۱) مغرور، مفتخر\n"
+    },
+    "4": {
+        "question": "............., I have no idea where I would like to vacation this summer.\n",
+        "options": {
+            "1": "I am honest",
+            "2": "Be honest",
+            "3": "To be honest",
+            "4": "Honest I am"
+        },
+        "final_answer": 3,
+        "full_text": "............., I have no idea where I would like to vacation this summer.\n\nOptions:\nA) I am honest\nB) Be honest\nC) To be honest\nD) Honest I am",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "4"
+        },
+        "solution": "۲۲) ماهر\n۳) تک زبانه\n۴) متنفر بودن\n۴) غیرقابل فهم\nترجمه: تحصیلاتی که بالاتر از دبیرستان ارائه می شود، به خصوص در یک دانشگاه یا دانشکده از لحاظ فنی تحصیلات عالیه (دانشگاهی) نامیده\nمی شود.\n۱) بالاتر، عالیه، دانشگاهی\n"
+    },
+    "5": {
+        "question": "I .............. what I would be doing now in this strange country without your kind help.\n",
+        "options": {
+            "1": "suppose",
+            "2": "wonder",
+            "3": "prefer",
+            "4": "hate"
+        },
+        "final_answer": 2,
+        "full_text": "I .............. what I would be doing now in this strange country without your kind help.\n\nOptions:\nA) suppose\nB) wonder\nC) prefer\nD) hate",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "5"
+        },
+        "solution": "۲) خلّاق\n۳) پیشرفته\n۴) متوسط، میانی\nترجمه: ما سفر اردویی خود را لغو کردیم چون هواشناسی اعلام کرد که احتمال باران شدید بسیار بالا است.\n۱) تنوع\n"
+    },
+    "6": {
+        "question": "He was absolutely ............, as he was speaking in a language with which I was anything but familiar.\n",
+        "options": {
+            "1": "proud",
+            "2": "skillful",
+            "3": "monolingual",
+            "4": "incomprehensible"
+        },
+        "final_answer": 4,
+        "full_text": "He was absolutely ............, as he was speaking in a language with which I was anything but familiar.\n\nOptions:\nA) proud\nB) skillful\nC) monolingual\nD) incomprehensible",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "6"
+        },
+        "solution": "۲) قدرت، توان\n۳) آغاز\n۴) احتمال\nترجمه: جین (Jane) در یادگیری زبان ها ماهر نبود، بنابراین متعجب شدم وقتی فهمیدم که او واقعاً سه زبان خارجی را بسیار روان صحبت\nمی کند.\n۱) به طور گسترده\n"
+    },
+    "7": {
+        "question": "The education offered beyond high school, especially at a college or university, is technically known as .............. education.\n",
+        "options": {
+            "1": "higher",
+            "2": "ereative",
+            "3": "advanccd",
+            "4": "intermediate"
+        },
+        "final_answer": 1,
+        "full_text": "The education offered beyond high school, especially at a college or university, is technically known as .............. education.\n\nOptions:\nA) higher\nB) ereative\nC) advanccd\nD) intermediate",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "7"
+        },
+        "solution": "۲) در واقع، در حقیقت\n۳) امیدوارانه\n۴) لزوماً\nترجمه: من بیشتر طرفدار آدم هایی هستم که برای سلامتی بیشتر از پول ارزش قائلند، من اعتقاد دارم سلامتی و شادی رابطهٔ مستقیم دارند.\n۱) آویزان کردن\n"
+    },
+    "8": {
+        "question": "We cancelled our camping trip because the weatherman said the ............. of heavy rain was very high.\n",
+        "options": {
+            "1": "variety",
+            "2": "strength",
+            "3": "beginning",
+            "4": "likelihood"
+        },
+        "final_answer": 4,
+        "full_text": "We cancelled our camping trip because the weatherman said the ............. of heavy rain was very high.\n\nOptions:\nA) variety\nB) strength\nC) beginning\nD) likelihood",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "8"
+        },
+        "solution": "ترجمه:\n۲) ترک کردن\n: A تو چگونه تیم (Tim) را تشخیصِ می دهی؟\n: B او گفت که یک لباس قرمز بر تن دارد، مگه نه؟\n۱) شناسایی کردن، تشخیص دادن ۲) یاد انداختن\n"
+    },
+    "9": {
+        "question": "Janc was not that good at learning languages, so I was surprised to learn she could .............. speak three foreign languages very fluently.\n",
+        "options": {
+            "1": "widely",
+            "2": "actually",
+            "3": "hopefully",
+            "4": "necessarily"
+        },
+        "final_answer": 2,
+        "full_text": "Janc was not that good at learning languages, so I was surprised to learn she could .............. speak three foreign languages very fluently.\n\nOptions:\nA) widely\nB) actually\nC) hopefully\nD) necessarily",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "9"
+        },
+        "solution": "۳) ارزش قائل شدن\n۳) کشف کردن\n۴) شناسایی کردن\n۴) انتظار داشتن\nترجمه: جولی همیشه می گوید که به مدرسه اهدا خواهد کرد و او هرگز این کار را نمی کند، بنابراین من شک دارم که او امسال هم این کار را\nانجام دهد.\n۱) به عمل کار براید به سخندانی نیست.\n) پای خود را اندازهٔ گلیمت دراز کن.\nا ترجمهٔ :Cloze Test\n۲) از تو حرکت، از خدا برکت.\n۴) جوجه را آخر پاییز می شمارند.\nدر بسیاری از شرکت ها، شاید بهترین راه برای انجام دادن پروژه های جدید مشخص، قرار دادن گروهی از افراد در کنار هم و تشکیل تیم\nاست. داشتن تیمی که به یک پروژه حمله ور می شود مزایای بسیار یا نکات مثبتی ارائه می کند. ابتدا گروهی از افراد، دارای طیف وسیع تری از\nدانش، تخصص و مهارت نسبت به اعضایِ گروه واحد دیگر هستند. همچنین به علت تعداد افراد درگیر و منابع بیشتری که موجود است، یک\nگروه می تواند در پاسخ به پروژه ای که باید به اتمام برسانند، سریع تر کار کنند و می توانند راه حل های مبتکرانه تری برای مشکلات و مسائل ارائه\nکنند.\n"
+    },
+    "10": {
+        "question": "I am more on the side of people who ........... health above money; I believe health and happiness have a direet relationship.\n",
+        "options": {
+            "1": "hang",
+            "2": "leave",
+            "3": "value",
+            "4": "identify"
+        },
+        "final_answer": 3,
+        "full_text": "I am more on the side of people who ........... health above money; I believe health and happiness have a direet relationship.\n\nOptions:\nA) hang\nB) leave\nC) value\nD) identify",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "10"
+        },
+        "solution": "توضیح: در این سوال نیاز به دو عمل موازی داریم که با and امکان پذیر است.\n"
+    },
+    "11": {
+        "question": "A: How would you ........... Tim?\nB: He said he'd have on a red shirt, didn't he?\n",
+        "options": {
+            "1": "recognize",
+            "2": "remind",
+            "3": "discover",
+            "4": "expect"
+        },
+        "final_answer": 1,
+        "full_text": "A: How would you ........... Tim?\nB: He said he'd have on a red shirt, didn't he?\n\nOptions:\nA) recognize\nB) remind\nC) discover\nD) expect",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "11"
+        },
+        "solution": "توضیح: فعل offer یک فعل متعدی است که در این سوال مفعول آن آمده است؛ لذا سوال معلوم است و چون فاعل جمله Gerund (اسم\nمصدر است) فعل باید مفرد باشد.\n----------\n"
+    },
+    "12": {
+        "question": "Julie always says she'll donate to the school, and she never does, so I doubt she will this year. ..........., after all.\n",
+        "options": {
+            "1": "Actions spcak louder than words",
+            "2": "Cut your coat according to your cloth",
+            "3": "God helps those who help themselves",
+            "4": "Don't count your chickens before they hatch"
+        },
+        "final_answer": 1,
+        "full_text": "Julie always says she'll donate to the school, and she never does, so I doubt she will this year. ..........., after all.\n\nOptions:\nA) Actions spcak louder than words\nB) Cut your coat according to your cloth\nC) God helps those who help themselves\nD) Don't count your chickens before they hatch",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "12"
+        },
+        "solution": "توضیح: طیف گسترده تر wider range ترکیب بسایر معروف است.\n۱) مورد\n"
+    },
+    "13": {
+        "question": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (*)\n",
+        "options": {
+            "1": "that a tcam is formed",
+            "2": "and so forming a team",
+            "3": "but forms a team",
+            "4": "and form a team"
+        },
+        "final_answer": 4,
+        "full_text": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (*)\n\nOptions:\nA) that a tcam is formed\nB) and so forming a team\nC) but forms a team\nD) and form a team",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "13"
+        },
+        "solution": "۱) بخش\n"
+    },
+    "14": {
+        "question": "Cloze Test (**)\n",
+        "options": {
+            "1": "offers",
+            "2": "to offer",
+            "3": "which offers",
+            "4": "is offered by"
+        },
+        "final_answer": 1,
+        "full_text": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (**)\n\nOptions:\nA) offers\nB) to offer\nC) which offers\nD) is offered by",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "14"
+        },
+        "solution": "۲) طیف، گسترده، میزان\n۲) ماموریت، عملیات\n۳) ابزار\n| | ۴) عملکرد |\n| ۳) عضو | ۴) مسئولیت |\nتوضیح: در این سوال بحث ضمایر موصولی است (جمله واره های صفتی) . گزینهٔ ۱ اشتباه است چون موصول ندارد. گزینهٔ ۴ نیز اشتباه است چون\nبعد از which نباید they بیاید و بهترین پاسخ، گزینهٔ ۳ می باشد.\nترجمهٔ درک مطلب ۱:\nبافت فرهنگی همچنین می تواند در امید به زندگی برای زنان و مردان تاثیرگذار باشد (امید به زندگی طول موردانتظار از زندگی یک فرد است) .\nبرای مثال، زنان معمولاً کمتر از مردان سیگار می کشند که ثابت شده موجب مشکلات زیادی برای سلامتی می شود و عمر را کوتاه می کند.\nعامل دیگری که بر زندگی زنان تاثیر می گذارد، فقدان استرس است. استرس در کوتاه کردن عمر شهرت دارد. تا همین اواخر، زنانی که کار\nمی کردند در موقعیت های استرسی کمتر و دارای مسئولیت کمتر بودند. در خانه، کارهای خانه زنان را در شکل فیزیکی بهتری نسبت به مردان\nنگه می دارد. این شرایط فیزیکی عموماً بهتر کماکان عامل دیگری در طول عمر بیشتر زنان است.\nاین عوامل فرهنگی نقش مهمی برای زنانی که اکنون در حال پیر شدن هستند، دارند، اما عادات اجتماعی زنان در حال تغییر است. زنان\nجوان بیشتر از زنانی که عادت به سیگار کشیدن دارند، سیگار می کشند. زنان بیشتری اکنون مشغول کارند و دارای موقعیت های مسئولیتی\nبیشتری هستند. این تغییرات می تواند به این معنا باشد که بافت فرهنگی دیگر به زنان در زندگی کردن به طور سالم تر کمک نخواهد کرد. اگرچه\nزنان به دلیل سایر عوامل کماکان عمر بیشتری نسبت به مردان دارند.\n"
+    },
+    "15": {
+        "question": "Cloze Test (***)\n",
+        "options": {
+            "1": "item",
+            "2": "range",
+            "3": "means",
+            "4": "function"
+        },
+        "final_answer": 2,
+        "full_text": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (***)\n\nOptions:\nA) item\nB) range\nC) means\nD) function",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "15"
+        },
+        "solution": "ترجمه: موضوع پاراگراف بعد عواملی به جز عوامل فرهنگی در رابطه با طول عمر بیشتر زنان نسبت به مردان است.\n"
+    },
+    "16": {
+        "question": "Cloze Test (****)\n",
+        "options": {
+            "1": "section",
+            "2": "mission",
+            "3": "member",
+            "4": "responsibility"
+        },
+        "final_answer": 3,
+        "full_text": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (****)\n\nOptions:\nA) section\nB) mission\nC) member\nD) responsibility",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "16"
+        },
+        "solution": "ترجمه: از متن فهمیده می شود که نویسنده سیگار کشیدن را یک عادت مرتبط با فرهنگ می داند.\n"
+    },
+    "17": {
+        "question": "Cloze Test (*****)\n",
+        "options": {
+            "1": "are available",
+            "2": "than they are available",
+            "3": "that are available",
+            "4": "which they are available"
+        },
+        "final_answer": 3,
+        "full_text": "Part B: Cloze Test\nIn many companies, perhaps the best way to do certain new projects is to put a group of people together (*) ............ Having a team of people attack a project (**) ............. several advantages or positive points. First of all, a group of people has a wider (***) ........... of knowlcdgc, expertise, and skills than any single group (****) ............ is likely to have. Also, because of the numbers of people involved and the greater rcsourccs (*****) ............, a group can work more quickly in rcsponsc to the project they are to get done and can present highly creative solutions to problems and issues.\nCloze Test (*****)\n\nOptions:\nA) are available\nB) than they are available\nC) that are available\nD) which they are available",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "17"
+        },
+        "solution": "ترجمه: از متن می توان فهمید که مردان می توانند شرایط فیزیکی خود را از طریق خانه داری بهبود بخشند.\n"
+    },
+    "18": {
+        "question": "Reading Comprehension\nPASSAGE 1:\nThe cultural context can also influence life expectancy for men and women. (Life expectancy is the expected length of a person's life.) For example, women generally smoke cigarettes less than men, which has been proven to cause many health problems and to shorten lives.\nAnother factor that has influenced the lives of women is the lack of stress. Stress is well known to shorten lives. Until recently, women who worked were usually in less responsible, less stressful positions. At home, housework tends to keep women in better physical condition than men. This generally better physical condition is yet another factor in women's longer lives.\nThese cultural factors have played an important part for the women who are now getting old. But the social habits of women are changing. Young women are smoking more than women used to. More women are working now and holding more responsible positions. These changes may mean that the cultural context will no longer help women live healthier lives. However, women will continue to live longer than men because of certain other factors.\nThe passage would most probably continuc with a discussion of .......... .\n",
+        "options": {
+            "1": "why women are no longer willing to stay home and do housework",
+            "2": "the reasons behind the change in different countries' culture around the world",
+            "3": "factors other than cultural factors in relation to women's living longer than men",
+            "4": "how a healthy lifestyle is important for both men and women in today's ever-changing world"
+        },
+        "final_answer": 3,
+        "full_text": "Reading Comprehension\nPASSAGE 1:\nThe cultural context can also influence life expectancy for men and women. (Life expectancy is the expected length of a person's life.) For example, women generally smoke cigarettes less than men, which has been proven to cause many health problems and to shorten lives.\nAnother factor that has influenced the lives of women is the lack of stress. Stress is well known to shorten lives. Until recently, women who worked were usually in less responsible, less stressful positions. At home, housework tends to keep women in better physical condition than men. This generally better physical condition is yet another factor in women's longer lives.\nThese cultural factors have played an important part for the women who are now getting old. But the social habits of women are changing. Young women are smoking more than women used to. More women are working now and holding more responsible positions. These changes may mean that the cultural context will no longer help women live healthier lives. However, women will continue to live longer than men because of certain other factors.\nThe passage would most probably continuc with a discussion of .......... .\n\nOptions:\nA) why women are no longer willing to stay home and do housework\nB) the reasons behind the change in different countries' culture around the world\nC) factors other than cultural factors in relation to women's living longer than men\nD) how a healthy lifestyle is important for both men and women in today's ever-changing world",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "18"
+        },
+        "solution": "ترجمه: کدام گزینه درست است؟ تفاوت در میزان امید به زندگی میان زنان و مردان به احتمال بسیار کمتر می شود.\nا ترجمهٔ درک مطلب ۲:\nبه نظر می رسد که مزایا یا نقاط مثبت خوانندگان کتاب های الکترونیکی یقیناً بیشتر از معایب آن است. آن ها وسایل سبک و متحرکی\nهستند که می توانند همه جا حمل شوند. داشتن این وسیله در روز تعطیل به ما اجازه می دهد تا صدها رمان را با خود ببریم بدون اینکه مجبور\nشویم برای اضافه بار در هواپیما پول بپردازیم. طبیعت الکترونیکی کتاب های الکترونیکی به ما بیش از یک کپی چاپ شده از یک کتاب ارائه\nمی کند. به ما اجازه می دهد در تاریکی مطالعه کنیم (در صورت قطع برق در دسترس هستند) . ما می توانیم لغات ناآشنا را در یک فرهنگنامه\nدرون ساخته با تنها یک کلیک جست وجو کنیم. می توانیم یادداشت برداریم و هرگز فراموش نمی کنیم که کدام صفحه را مطالعه می کردیم.\nخوانندگان کتاب الکترونیکی آنِ را به خاطر ما می آورند. اگر بینایی ما کاهش یابد، می توانیم حروف را بزرگ تر کنیم. می توانیم Jane Eyre را\nهنگامی که بخواهیم دوباره بخوانیم و این کتاب هرگز بدتر به نظر نمی رسد و حتی اگر سلیقهٔ ما در کتاب متعارف نباشد، هیچ کس نیازی نیست\nبداند، چون دیگران چیزی که ما می خوانیم را نمی بینند، نه تنها آن، اغلب کتاب های الکترونیکی ارزان تر از نسخه های چاپی آن است و بسیاری\nاز کتاب های قدیمی تر می توانند به صورت رایگان دانلود شوند.\nبنابراین چرا تنها یک نفر از سه نفر ما کتاب الکترونیک می خواند؟ پاسخ باید این باشد که چیز ویژه ای در رابطه با ظاهر، احساس و حتی\nشاید بوی کتاب های چاپی است. کتاب های حقیقی اشیایی هستند که دارای گذشته هستند و حضور فیزیکی آن ها ما را با خاطرات شیرین\nاحاطه می کند.\n"
+    },
+    "19": {
+        "question": "It can be understood from the passage that the author considers cigarette smoking to ........... .\n",
+        "options": {
+            "1": "become more common among women than it is now among men",
+            "2": "have a relationship with the amount of stress in people's lives",
+            "3": "be more harmful to women than to men",
+            "4": "be a culturc-rclatcd habit"
+        },
+        "final_answer": 4,
+        "full_text": "Reading Comprehension\nPASSAGE 1:\nThe cultural context can also influence life expectancy for men and women. (Life expectancy is the expected length of a person's life.) For example, women generally smoke cigarettes less than men, which has been proven to cause many health problems and to shorten lives.\nAnother factor that has influenced the lives of women is the lack of stress. Stress is well known to shorten lives. Until recently, women who worked were usually in less responsible, less stressful positions. At home, housework tends to keep women in better physical condition than men. This generally better physical condition is yet another factor in women's longer lives.\nThese cultural factors have played an important part for the women who are now getting old. But the social habits of women are changing. Young women are smoking more than women used to. More women are working now and holding more responsible positions. These changes may mean that the cultural context will no longer help women live healthier lives. However, women will continue to live longer than men because of certain other factors.\nIt can be understood from the passage that the author considers cigarette smoking to ........... .\n\nOptions:\nA) become more common among women than it is now among men\nB) have a relationship with the amount of stress in people's lives\nC) be more harmful to women than to men\nD) be a culturc-rclatcd habit",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "19"
+        },
+        "solution": "ترجمه: به نظر می رسد که نویسنده باور دارد که کتاب های چاپ شده در درسترس هستند و باقی می مانند.\n"
+    },
+    "20": {
+        "question": "It can be understood from the passage that men can improve their physical condition by ............ .\n",
+        "options": {
+            "1": "doing housework",
+            "2": "giving their jobs to women",
+            "3": "working jobs with more responsibility",
+            "4": "taking better care of their health problems"
+        },
+        "final_answer": 1,
+        "full_text": "Reading Comprehension\nPASSAGE 1:\nThe cultural context can also influence life expectancy for men and women. (Life expectancy is the expected length of a person's life.) For example, women generally smoke cigarettes less than men, which has been proven to cause many health problems and to shorten lives.\nAnother factor that has influenced the lives of women is the lack of stress. Stress is well known to shorten lives. Until recently, women who worked were usually in less responsible, less stressful positions. At home, housework tends to keep women in better physical condition than men. This generally better physical condition is yet another factor in women's longer lives.\nThese cultural factors have played an important part for the women who are now getting old. But the social habits of women are changing. Young women are smoking more than women used to. More women are working now and holding more responsible positions. These changes may mean that the cultural context will no longer help women live healthier lives. However, women will continue to live longer than men because of certain other factors.\nIt can be understood from the passage that men can improve their physical condition by ............ .\n\nOptions:\nA) doing housework\nB) giving their jobs to women\nC) working jobs with more responsibility\nD) taking better care of their health problems",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "20"
+        },
+        "solution": "ترجمه: پاراگراف ۲ عمدتاً به مزایای کتاب های الکترونیکی اشاره می کند.\n"
+    },
+    "21": {
+        "question": "Which of the following statements is TRUE, according to the passage?\n",
+        "options": {
+            "1": "Women in the past did not smoke because it was considered a socially negative habit.",
+            "2": "The difference in life expectancy between men and women is very likely to become smaller.",
+            "3": "Women's health problems and those of men are similar in terms of both their causes and effects.",
+            "4": "If women realize their health problems are because of their new social roles, they would renew their past habits."
+        },
+        "final_answer": 2,
+        "full_text": "Reading Comprehension\nPASSAGE 1:\nThe cultural context can also influence life expectancy for men and women. (Life expectancy is the expected length of a person's life.) For example, women generally smoke cigarettes less than men, which has been proven to cause many health problems and to shorten lives.\nAnother factor that has influenced the lives of women is the lack of stress. Stress is well known to shorten lives. Until recently, women who worked were usually in less responsible, less stressful positions. At home, housework tends to keep women in better physical condition than men. This generally better physical condition is yet another factor in women's longer lives.\nThese cultural factors have played an important part for the women who are now getting old. But the social habits of women are changing. Young women are smoking more than women used to. More women are working now and holding more responsible positions. These changes may mean that the cultural context will no longer help women live healthier lives. However, women will continue to live longer than men because of certain other factors.\nWhich of the following statements is TRUE, according to the passage?\n\nOptions:\nA) Women in the past did not smoke because it was considered a socially negative habit.\nB) The difference in life expectancy between men and women is very likely to become smaller.\nC) Women's health problems and those of men are similar in terms of both their causes and effects.\nD) If women realize their health problems are because of their new social roles, they would renew their past habits.",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "21"
+        },
+        "solution": "ترجمه: نام Jane Eyre در پاراگراف ۲ به احتمال زیاد عنوان یک کتاب است.\n"
+    },
+    "22": {
+        "question": "PASSAGE 2:\nThe advantages or positive points of e-readers certainly seem to be more than the disadvantages. They are light and mobile devices that can be taken anywhere. Taking onc gadget on holiday allows us to take hundreds of novels with us without having to pay for extra luggage on the plane.\nThe clcctronic naturc of c-rcaders gives us so much more than a print copy of a book can do. It lest us read in the dark (handy in case of a power cut). We can look up unfamiliar words in the in-built dictionary with just one click, we can make notes, and we never forget what page we were on: the e-reader remembers that for us. If our eyesight declines, we can make the letters bigger. We can re-read Jane Eyre as often as we like and the book will never look any worse for it. And even if our taste in books is unusual, nobody need know: others can't see what we are reading. Not only that, most e-books are cheaper than their print versions, and many older books can be downloaded for free.\nSo why have only one in three of us read an e-book? The answer must be that there is something spccial about the look, the feel, and maybe even the smell of printed books. 'Real' books are objects that have a past and their physical presence surrounds us with happy memories.\nThe author seems to believe that .............. .\n",
+        "options": {
+            "1": "printed books are here to stay",
+            "2": "everyone will soon be using e-books only",
+            "3": "the digital world has totally changed the publishing industry",
+            "4": "e-books are difficult to use because they require the use of some extra digital devices"
+        },
+        "final_answer": 1,
+        "full_text": "PASSAGE 2:\nThe advantages or positive points of e-readers certainly seem to be more than the disadvantages. They are light and mobile devices that can be taken anywhere. Taking onc gadget on holiday allows us to take hundreds of novels with us without having to pay for extra luggage on the plane.\nThe clcctronic naturc of c-rcaders gives us so much more than a print copy of a book can do. It lest us read in the dark (handy in case of a power cut). We can look up unfamiliar words in the in-built dictionary with just one click, we can make notes, and we never forget what page we were on: the e-reader remembers that for us. If our eyesight declines, we can make the letters bigger. We can re-read Jane Eyre as often as we like and the book will never look any worse for it. And even if our taste in books is unusual, nobody need know: others can't see what we are reading. Not only that, most e-books are cheaper than their print versions, and many older books can be downloaded for free.\nSo why have only one in three of us read an e-book? The answer must be that there is something spccial about the look, the feel, and maybe even the smell of printed books. 'Real' books are objects that have a past and their physical presence surrounds us with happy memories.\nThe author seems to believe that .............. .\n\nOptions:\nA) printed books are here to stay\nB) everyone will soon be using e-books only\nC) the digital world has totally changed the publishing industry\nD) e-books are difficult to use because they require the use of some extra digital devices",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "22"
+        },
+        "solution": "ترجمه: کلمهٔ \"که\" در پاراگراف ۲ به صفحه ای که می خوانیم اشاره می کند.\n----------\nریاضیات\n"
+    },
+    "23": {
+        "question": "What does paragraph 2 mainly discuss?\n",
+        "options": {
+            "1": "The way e-books have changed people's reading habits",
+            "2": "The reason why e-books are more fun to read",
+            "3": "The effects of e-books on human health",
+            "4": "The advantages of e-books"
+        },
+        "final_answer": 4,
+        "full_text": "PASSAGE 2:\nThe advantages or positive points of e-readers certainly seem to be more than the disadvantages. They are light and mobile devices that can be taken anywhere. Taking onc gadget on holiday allows us to take hundreds of novels with us without having to pay for extra luggage on the plane.\nThe clcctronic naturc of c-rcaders gives us so much more than a print copy of a book can do. It lest us read in the dark (handy in case of a power cut). We can look up unfamiliar words in the in-built dictionary with just one click, we can make notes, and we never forget what page we were on: the e-reader remembers that for us. If our eyesight declines, we can make the letters bigger. We can re-read Jane Eyre as often as we like and the book will never look any worse for it. And even if our taste in books is unusual, nobody need know: others can't see what we are reading. Not only that, most e-books are cheaper than their print versions, and many older books can be downloaded for free.\nSo why have only one in three of us read an e-book? The answer must be that there is something spccial about the look, the feel, and maybe even the smell of printed books. 'Real' books are objects that have a past and their physical presence surrounds us with happy memories.\nWhat does paragraph 2 mainly discuss?\n\nOptions:\nA) The way e-books have changed people's reading habits\nB) The reason why e-books are more fun to read\nC) The effects of e-books on human health\nD) The advantages of e-books",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "23"
+        },
+        "solution": "راه حل اول:\nنکتهٔ ۱: n (A -B) = n (A)-n (AB) \"تعداد اعضایی که فقط به مجموعهٔ A تعلق دارند. \"\nنکتهٔ ۲: n (AUB) = n (A) + n (B) - n (A0B\nنکتهٔ ۳: n (A' ) B' = n (U)-n (AUB) \"تعداد اعضایی که به هیچ یک از مجموعه های A و B تعلق ندارند. \"\nاگر مجموعهٔ A را گروه ورزش و مجموعهٔ B را گروه روزنامه دیواری در نظر بگیریم، با توجه به نکتهٔ ۱ و اطلاعات مسئله داریم:\nn (U) = ۳۹ ، n (A)=۱۶ ، n (B) = ۱۲ ، n (A-B)=۹\nn (A0B)=۷ כ ۹=۱۶-n (AB) כ : (n (A - B) = n (A)-n (A0B) نکتهٔ ۱\nاینک با توجه به نکتهٔ ۲، داریم:\nn (AUB) = n (A) + n (B) - n (A0B) = ۱۶+۱۲-۷=۲۱\nو در نهایت با توجه به نکتهٔ ۳، خواهیم داشت:\nn (A' (B') = n (U)-n (AUB) = ۳۹-۲۱ = ۱۸\nراه حل دوم:\nنکته: نمودار ونِ روبه رو را همواره به خاطر داشته باشید:\nB' ף A'\nبا توجه به نکته و به کمک اطلاعات مسئله، نمودار ون را تشکیل می دهیم:\nگروه روزنامه دیواری: B\nگروه ورزش: A\nهمانگونه که مشاهده می کنید، تعداد اعضایی که عضو هیچ یک از دو گروه ورزش و روزنامه دیواری نیستند، ۱۸ تا است.\n"
+    },
+    "24": {
+        "question": "The name \"Jane Eyre\" in paragraph 2 is most probably ............. .\n",
+        "options": {
+            "1": "an author's name",
+            "2": "a book title",
+            "3": "an e-reader brand",
+            "4": "a text that is difficult to understand"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:\nThe advantages or positive points of e-readers certainly seem to be more than the disadvantages. They are light and mobile devices that can be taken anywhere. Taking onc gadget on holiday allows us to take hundreds of novels with us without having to pay for extra luggage on the plane.\nThe clcctronic naturc of c-rcaders gives us so much more than a print copy of a book can do. It lest us read in the dark (handy in case of a power cut). We can look up unfamiliar words in the in-built dictionary with just one click, we can make notes, and we never forget what page we were on: the e-reader remembers that for us. If our eyesight declines, we can make the letters bigger. We can re-read Jane Eyre as often as we like and the book will never look any worse for it. And even if our taste in books is unusual, nobody need know: others can't see what we are reading. Not only that, most e-books are cheaper than their print versions, and many older books can be downloaded for free.\nSo why have only one in three of us read an e-book? The answer must be that there is something spccial about the look, the feel, and maybe even the smell of printed books. 'Real' books are objects that have a past and their physical presence surrounds us with happy memories.\nThe name \"Jane Eyre\" in paragraph 2 is most probably ............. .\n\nOptions:\nA) an author's name\nB) a book title\nC) an e-reader brand\nD) a text that is difficult to understand",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "24"
+        },
+        "solution": "نکتهٔا a = an\nنکتهٔ ۲:\nنکتهٔ ۳:\nmn = m+n\nبا توجه به نکات، ابتدا مقدار A را به دست می آوریم:\n22222222222224\nاینک با جای گذاری مقدار A در رابطهٔ ۳ ، (۲A) خواهیم داشت:\n----------\n"
+    },
+    "25": {
+        "question": "What does the word \"that\" in paragraph 2 refer to?\n",
+        "options": {
+            "1": "making notes",
+            "2": "the page we were reading",
+            "3": "the reading act",
+            "4": "the meaning of unknown words"
+        },
+        "final_answer": 2,
+        "full_text": "PASSAGE 2:\nThe advantages or positive points of e-readers certainly seem to be more than the disadvantages. They are light and mobile devices that can be taken anywhere. Taking onc gadget on holiday allows us to take hundreds of novels with us without having to pay for extra luggage on the plane.\nThe clcctronic naturc of c-rcaders gives us so much more than a print copy of a book can do. It lest us read in the dark (handy in case of a power cut). We can look up unfamiliar words in the in-built dictionary with just one click, we can make notes, and we never forget what page we were on: the e-reader remembers that for us. If our eyesight declines, we can make the letters bigger. We can re-read Jane Eyre as often as we like and the book will never look any worse for it. And even if our taste in books is unusual, nobody need know: others can't see what we are reading. Not only that, most e-books are cheaper than their print versions, and many older books can be downloaded for free.\nSo why have only one in three of us read an e-book? The answer must be that there is something spccial about the look, the feel, and maybe even the smell of printed books. 'Real' books are objects that have a past and their physical presence surrounds us with happy memories.\nWhat does the word \"that\" in paragraph 2 refer to?\n\nOptions:\nA) making notes\nB) the page we were reading\nC) the reading act\nD) the meaning of unknown words",
+        "metadata": {
+            "image": false,
+            "course": "english",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "25"
+        },
+        "solution": "نکتهٔ ۱: معادلهٔ درجه دوم ۰= ax۲ + bx + c دو ریشهٔ حقیقی متمایز دارد اگر و فقط اگر ۰< b۲ - ۴ac\nنکتهٔ ۲: در تعیین علامت سه جمله ای درجه دوم P (x) = ax۲ + bx+ c در حالتی که دو ریشهٔ حقیقی متمایز دارد، به صورت زیر عمل می کنیم:\nP (x) =۰ = ax۲+bx+c=۰\nX۱ٌٔ\nموافق علامت a مخالف علامت a موافق علامت x۲} - P (x) a ث = {x) ریشه ها ꪪ\nنکتهٔ ۳: ریشه های معادلهٔ درجه دوم ۰= ax۲ + bx+ c در حالت ۰<۸ برابر است با:\n۰؛ ۸=b۲-۴ac\nنکتهٔ ۴: با تقسیم طرفین نامعادله در عددی منفی، جهت نامعادله، عوض می شود.\nدر معادلهٔ ۰=۲- (۲m -۱)x۲ +۶x+ m با توجه به نکتهٔ ۱، داریم:\n۳۶-۸m۲+۲۰m-۸>۰ ב ۰< (۲+۳۶-۴ (۲m۲-۵m ב ۰< (۲-۳۶-۴ (۲m-۱) (m ב ۰< b۲-۴ac\nꪪ -۸m۲+۲۰m+۲۸>۰ ۲m۲-۵m-<\nاینک برای یافتن جواب نامعادله، با توجه به نکتهٔ ۲، عبارت را تعیین علامت می کنیم:\nm= ۵۷۲۵+۵۶ ر ꪪ نکته ۳ٔ ۰=۷-۲m۲-۵m\natrioti\nm =-۱\n۲m۲-\nو از آنجایی که می خواهیم عبارت کوچکتر از صفر باشد، پس باید ۳/۵ = ^ {۷} > -۱<m باشد و گزینهٔ ۳ پاسخ است.\nتذکر: این سوال، دو ایراد اساسی دارد: اول اینکه باید ذکر می شد معادله دارای دو ریشهٔ حقیقی \"متمایز\" است، زیرا بدون بیانِ لفظ \"متمایز\"،\nپ نباید در\nجوابِ درستِ تست ۳/۵ > -۱< m است و دوم اینکه معادله به ازای = m تبدیل به یک معادلهٔ درجه اول می شود و قطعاً\nجواب موجود باشد، حال آنکه در بازهٔ (۱,۳/۵-) قرار دارد. بنابراین در مجموع، تست به نوعی \"غلط\" است.\n"
+    }
+}

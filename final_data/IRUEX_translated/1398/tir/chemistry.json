@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "کدام موارد از مطالب زیر، درست‌اند؟\nآ) معمولاً، هر چه واکنش‌پذیری فلزی بیشتر باشد، استخراج آن، دشوارتر است.\nب) واکنش‌پذیری هر عنصر، به معنای تمایل اتم آن به انجام واکنش شیمیایی است.\nپ) در واکنش:FeO(s) باNa(s)، واکنش‌پذیری فراورده‌ها از واکنش‌دهنده‌ها بیشتر است.\nت) در واکنش:N{{a}_{۲}}O(s) باC(s)، واکنش‌پذیری واکنش‌دهنده‌ها از فراورده‌ها بیشتر است.\n",
+        "options": {
+            "1": "آ، پ، ت",
+            "2": "ب، پ، ت",
+            "3": "آ، ب",
+            "4": "ب، ت"
+        },
+        "final_answer": 3,
+        "full_text": "Which of the following are true?\na) Generally, the more reactive a metal is, the more difficult it is to extract it.\nb) The reactivity of each element means the tendency of its atom to perform a chemical reaction.\nc) In the reaction: FeO(s) with Na(s), the reactivity of the products is higher than that of the reactants.\nt) In the reaction: N{{a}_{2}}O(s) with C(s), the reactivity of the reactants is higher than the products.\n\nOptions:\nA) A, P, T\nB) b, p, t\nC) A, B\nD) b, t",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "در دورهٔ سوم جدول دوره‌ای، شمار عنصرهای فلز و نافلز به‌ترتیب از راست به چپ، کدام است؟ (با صرف‌نظر از گازهای نجیب)\n",
+        "options": {
+            "1": "۳، ۴",
+            "2": "۳، ۳",
+            "3": "۴، ۴",
+            "4": "۴، ۳"
+        },
+        "final_answer": 2,
+        "full_text": "In the third period of the periodic table, what is the number of metal and non-metal elements from right to left? (excluding noble gases)\n\nOptions:\nA) 3, 4\nB) 3, 3\nC) 4, 4\nD) 4, 3",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "روند کلی واکنش‌پذیری چهار عنصر نخست از سمت چپ دورهٔ دوم جدول دوره‌ای (تناوبی) در برابر اکسیژن در دمای اتاق، به‌ترتیبِ شمارهٔ گروه آن‌ها، کدام است؟\n",
+        "options": {
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "4": " "
+        },
+        "final_answer": 4,
+        "full_text": "What is the general trend of the reactivity of the first four elements from the left side of the second period of the periodic table against oxygen at room temperature, according to their group number?\n\nOptions:\nA)\nb)\nc)\nd)",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "آرایش الکترونی لایهٔ آخر اتم کدام عنصر، مشابه با آرایش الکترونی لایهٔ ظرفیت اتم{}_{۱۹}K است؟\n",
+        "options": {
+            "1": "{}_{۲۹}A",
+            "2": "{}_{۲۱}D",
+            "3": "{}_{۲۷}X",
+            "4": "{}_{۳۱}Z"
+        },
+        "final_answer": 1,
+        "full_text": "The electron arrangement of the last layer of the atom of which element is similar to the electron arrangement of the valence layer of the atom{}_{19}K?\n\nOptions:\nA) {}_{29}A\nB) {}_{21}D\nC) {}_{27}X\nD) {}_{31}Z",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "عنصر فرضیX دارای دو ایزوتوپ سبک و سنگین با جرم‌های۱۴amu و۱۶amu و جرم اتمی میانگین۱۴/۲amu است. نسبت شمار اتم‌های ایزوتوپ سنگین به سبک، در آن کدام است؟\n",
+        "options": {
+            "1": "\\frac{۱}{۸}",
+            "2": "\\frac{۱}{۹}",
+            "3": "\\frac{۱}{۱۰}",
+            "4": "\\frac{۱}{۱۱}"
+        },
+        "final_answer": 2,
+        "full_text": "The hypothetical element X has two light and heavy isotopes with masses of 14amu and 16amu and an average atomic mass of 2.14amu. What is the ratio of heavy to light isotope atoms in it?\n\nOptions:\nA) \\frac{1}{8}\nB) \\frac{1}{9}\nC) \\frac{1}{10}\nD) \\frac{1}{11}",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "مجموع ضریب‌های استوکیومتری مواد در معادلهٔ واکنش:N{{a}_{۲}}{{O}_{۲}}(s)+{{H}_{۲}}O(l)\\to NaOH(aq)+{{O}_{۲}}(g)، پس از موازنه، کدام است؟\n",
+        "options": {
+            "1": "۸",
+            "2": "۹",
+            "3": "۱۰",
+            "4": "۱۱"
+        },
+        "final_answer": 2,
+        "full_text": "The sum of the stoichiometric coefficients of the substances in the reaction equation: N{{a}_{2}}{{O}_{2}}(s)+{{H}_{2}}O(l)\\to NaOH(aq) +{{O}_{2}}(g), after balancing, what is it?\n\nOptions:\nA) 8\nB) 9\nC) 10\nD) 11",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "اگر از واکنش ۵ گرم ازLiAI{{H}_{۴}}(s) ناخالص با آب، طبق معادلهٔ زیر،۱۱/۲L گاز در شرایطSTP تولید شود، درصد خلوص LiAI{{H}_{۴}}(s)، کدام است؟(Al=۲۷,Li=۷,H=۱:g.mo{{l}^{-۱}})\nLiAI{{H}_{۴}}(s)+{{H}_{۲}}O(l)\\to LiOH(aq)+Al{{(OH)}_{۳}}(s)+{{H}_{۲}}(g) معادله موازنه شود\n",
+        "options": {
+            "1": "۸۰",
+            "2": "۸۵",
+            "3": "۹۰",
+            "4": "۹۵"
+        },
+        "final_answer": 4,
+        "full_text": "If the reaction of 5 grams of impure LiAI{{H}_{4}}(s) with water, according to the following equation, 2.11 L of gas is produced at STP conditions, the purity percentage of LiAI{{H}_{4}}(s) , which is it? (Al=27, Li=7, H=1:g.mo{{l}^{-1}})\nLiAI{{H}_{4}}(s)+{{H}_{2}}O(l)\\to LiOH(aq)+Al{{(OH)}_{3}}(s)+ {{H}_{2}}(g) to balance the equation\n\nOptions:\nA) 80\nB) 85\nC) 90\nD) 95",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "۲۰ گرم از یک نمونه سنگ معدن آهن در ۱۰۰ میلی‌لیتر از محلول اسیدی انداخته شده است تا یون‌هایF{{e}^{۳+}} آن به‌صورت محلول درآیند. اگر با افزودن مقدار زیادیNaOH(s) به این محلول، ۵/۳۵ گرم از رسوب آهن(III) هیدروکسید به‌دست آید، درصد جرمی آهن در این نمونه سنگ معدن، کدام است؟ (معادلهٔ واکنش‌ها موازنه شود.Fe=۵۶,O=۱۶,H=۱:g.mo{{l}^{-۱}})\nF{{e}_{۲}}{{O}_{۳}}(s)+HCl(aq)\\to FeC{{l}_{۳}}(aq)+{{H}_{۲}}O(l)\nFeC{{l}_{۳}}(aq)+NaOH(aq)\\to Fe{{(OH)}_{۳}}(s)+NaCl(aq)\n",
+        "options": {
+            "1": "۴",
+            "2": "۸",
+            "3": "۱۰",
+            "4": "۱۴"
+        },
+        "final_answer": 4,
+        "full_text": "20 grams of an iron ore sample has been dropped in 100 ml of acidic solution to dissolve its F{{e}^{3+}} ions. If by adding a large amount of NaOH(s) to this solution, 35.5 grams of iron(III) hydroxide precipitate is obtained, what is the mass percentage of iron in this ore sample? (The reaction equation should be balanced. Fe=56, O=16, H=1:g.mo{{l}^{-1}})\nF{{e}_{2}}{{O}_{3}}(s)+HCl(aq)\\to FeC{{l}_{3}}(aq)+{{H}_{2) }}O(l)\nFeC{{l}_{3}}(aq)+NaOH(aq)\\to Fe{{(OH)}_{3}}(s)+NaCl(aq)\n\nOptions:\nA) 4\nB) 8\nC) 10\nD) 14",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "درختان با جذبC{{O}_{۲}}(g)، می‌توانند آن را به قند گلوکز({{C}_{۶}}{{H}_{۱۲}}{{O}_{۶}}) تبدیل کنند. اگر یک درخت، سالانه۶۶kg گازC{{O}_{۲}} جذب کند، چند کیلوگرم از این قند در آن ساخته می‌شود؟\n(O=۱۶,C=۱۲,H=۱:g.mo{{l}^{-۱}};C{{O}_{۲}}(g)+{{H}_{۲}}O(l)\\to {{C}_{۶}}{{H}_{۱۲}}{{O}_{۶}}(aq)+{{O}_{۲}}(g) معادله موازنه شود\n",
+        "options": {
+            "1": "۴۵",
+            "2": "۲۵",
+            "3": "۱۸",
+            "4": "۲۱"
+        },
+        "final_answer": 1,
+        "full_text": "By absorbing C{{O}_{2}}(g), trees can convert it into glucose ({{C}_{6}}{{H}_{12}}{{O}_{6}} ) to convert If a tree absorbs 66 kg of C{{O}_{2}} gas annually, how many kilograms of this sugar will be made in it?\n(O=16,C=12,H=1:g.mo{{l}^{-1}};C{{O}_{2}}(g)+{{H}_{2}} O(l)\\to {{C}_{6}}{{H}_{12}}{{O}_{6}}(aq)+{{O}_{2}}(g) Eq. be balanced\n\nOptions:\nA) 45\nB) 25\nC) 18\nD) 21",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "چند مورد از مطالب زیر، درست‌اند؟\n* گاز آرگون، سومین گاز فراوان در هوا کره است.\n* انبیق، وسیلهٔ تقطیر مواد بود که توسط جابر بن حیان نوآوری شده بود.\n* برخی از جانداران ذره‌بینی، نیتروژن هوا را برای مصرف گیاهان در خاک، تثبیت می‌کنند.\n* نسبت گازهای سازندهٔ هوا کره از ۲۰۰ میلیون سال پیش تاکنون، به‌تقریب ثابت مانده است.\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "How many of the following are true?\nArgon gas is the third most abundant gas in Korean air.\n* Anbiq was a means of distilling substances that was invented by Jaber bin Hayyan.\n* Some microscopic organisms fix nitrogen from the air for use by plants in the soil.\n* The proportion of air-forming gases in Korea has remained almost constant since 200 million years ago.\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "با توجه به شکل زیر، چند مورد از مطالب زیر دربارهٔ نمکMX درست است؟\n* در نقطهٔB، محلول این نمک، حالت سیرشده دارد.\n* نقطهٔA، انحلال‌پذیری این نمک را در دمای{{۰}^{{}^\\circ }}C نشان می‌دهد.\n* در نقطهٔD، حلال می‌تواند مقدار دیگری از این نمک را در خود حل کند.\n* در نقطهٔC، حلال توانسته است مقدار بیشتر از حد سیر شدن از این نمک را در خود حل کند.\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "According to the figure below, how many of the following statements about MX salt are true?\n* At point B, the solution of this salt is saturated.\n* Point A shows the solubility of this salt at {{0}^{{}^\\circ }}C.\n* At point D, the solvent can dissolve another amount of this salt.\n* At point C, the solvent has been able to dissolve more than the saturation limit of this salt.\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "کدام فرایند به خاصیت گذرندگی (اسمز)، مربوط نیست؟\n",
+        "options": {
+            "1": "پلاسیده شدن خیار تازه در آب شور",
+            "2": "متورم شدن زردآلوی خشک در آب درون لیوان",
+            "3": "ته‌نشین شدن گل و لای در دریاچه‌ها",
+            "4": "نگهداری طولانی مدت گوشت و ماهی در نمک"
+        },
+        "final_answer": 3,
+        "full_text": "Which process is not related to permeability (osmosis)?\n\nOptions:\nA) Placing fresh cucumber in salt water\nB) Swelling of dried apricots in water in a glass\nC) sedimentation of mud in lakes\nD) long-term storage of meat and fish in salt",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "محلول ۲۳ درصد جرمی اتانول در آب، به‌تقریب چند مولار است؟\n(d محلول=۰/۹g.m{{L}^{-۱}};O-۱۶,C=۱۲,H=۱:g.mo{{l}^{-۱}})\n",
+        "options": {
+            "1": "۳/۵",
+            "2": "۴/۵",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 2,
+        "full_text": "A solution of 23 mass percent ethanol in water is approximately how much molar?\n(d solution=0.9g.m{{L}^{-1}};O-16,C=12,H=1:g.mo{{l}^{-1}})\n\nOptions:\nA) 3.5\nB) 4.5\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "چند میلی‌لیتر از یک محلول ۳۶/۵ درصد جرمی هیدروکلریک اسید، با چگالی۱/۲g.m{{L}^{-۱}} باید به ۱۰ لیتر آب اضافه شود تا غلظت یون کلرید به تقریب برابر۱۰۹/۵ppm شود؟\n(d محلول=۱g.m{{L}^{-۱}},H=۱,Cl=۳۵/۵g.mo{{l}^{-۱}})\n",
+        "options": {
+            "1": "۰/۵۲",
+            "2": "۱/۰۸",
+            "3": "۲/۵۷",
+            "4": "۵/۲"
+        },
+        "final_answer": 3,
+        "full_text": "How many milliliters of a solution of 36.5% by mass of hydrochloric acid, with a density of 1.2g.m{{L}^{-1}} should be added to 10 liters of water so that the chloride ion concentration is approximately equal to 5.109ppm?\n(d solution=1g.m{{L}^{-1}}, H=1, Cl=35/5g.mo{{l}^{-1}})\n\nOptions:\nA) 0.52\nB) 1/08\nC) 2/57\nD) 5.2",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "کدام مورد، درست است؟\n",
+        "options": {
+            "1": "راه‌های گوناگون دیگری برای تأمین انرژی بدن به‌جز گوارش غذا (چربی‌ها و قندها) وجود دارد.",
+            "2": "مصرف پتاسیم برای پیشگیری و ترمیم پوکی استخوان، بسیار مفید است.",
+            "3": "تبدیل ماده به انرژی، تنها منبع حیات‌بخش انرژی در زمین است.",
+            "4": "سرانهٔ مصرف مواد غذایی در کشورهای مختلف، یکسان است."
+        },
+        "final_answer": 3,
+        "full_text": "Which one is correct?\n\nOptions:\nA) There are various other ways to supply the body with energy except digesting food (fats and sugars).\nB) Potassium intake is very useful for preventing and repairing osteoporosis.\nC) The conversion of matter into energy is the only life-giving source of energy on earth.\nD) The per capita food consumption in different countries is the same.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "با توجه به واکنش:{{N}_{۲}}{{H}_{۴}}(g)+{{H}_{۲}}(g)\\to ۲N{{H}_{۳}}(g)+۱۸۳kJ، کدام مورد درست است؟\n",
+        "options": {
+            "1": "سطح انرژی فراورده از واکنش‌دهنده‌ها پایین‌تر است.",
+            "2": "با تولید هر مول آمونیاک،۱۸۳kJ انرژی تولید می‌شود.",
+            "3": "واکنش گرماگیر است و با انجام آن در یک ظرف، دمای آن پایین می‌آید.",
+            "4": "با انجام واکنش در دمای ثابت، انرژی باید از محیط به سامانه جریان یابد."
+        },
+        "final_answer": 1,
+        "full_text": "According to the reaction: {{N}_{2}}{{H}_{4}}(g)+{{H}_{2}}(g)\\to 2N{{H}_{3} }(g)+183 kJ, which one is correct?\n\nOptions:\nA) The energy level produced by the reactants is lower.\nB) By producing each mole of ammonia, 183 kJ of energy is produced.\nC) The reaction is endothermic and by doing it in a container, its temperature decreases.\nD) By performing the reaction at a constant temperature, energy must flow from the environment to the system.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "با توجه به داده‌های جدول زیر،\\Delta H واکنش:CO(g)+۲{{H}_{۲}}(g)\\to C{{H}_{۳}}OH(g)، چند کیلوژول است؟\n",
+        "options": {
+            "1": "۲۱۰-",
+            "2": "۱۸۰-",
+            "3": "۱۱۰-",
+            "4": "۸۰-"
+        },
+        "final_answer": 3,
+        "full_text": "According to the data in the table below, \\Delta H of the reaction:CO(g)+2{{H}_{2}}(g)\\to C{{H}_{3}}OH(g) is how many kilojoules ?\n\nOptions:\nA) 210-\nB) 180-\nC) 110-\nD) 80-",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "فسفر سفید برخلاف هیدروژن در هوا و در دمای اتاق به‌طور خودبه‌خودی آتش می‌گیرد. بنابراین، در آزمایشگاه، آن را زیر آب نگهداری می‌کنند. نقش آب در این فرایند، کدام است؟\n",
+        "options": {
+            "1": "کاتالیزگر",
+            "2": "بازدارنده",
+            "3": "کاهش‌دهندهٔ{{E}_{a}}",
+            "4": "افزایش‌دهندهٔ{{E}_{a}}"
+        },
+        "final_answer": 2,
+        "full_text": "Unlike hydrogen, white phosphorus ignites spontaneously in air at room temperature. Therefore, in the laboratory, it is kept under water. What is the role of water in this process?\n\nOptions:\nA) catalyst\nB) Inhibitor\nC) reducing {{E}_{a}}\nD) Increasing {{E}_{a}}",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "با توجه به شکل زیر، اگر انرژی پیوندهایN=O وN\\equiv N وN=O به‌ترتیب برابر ۶۰۷، ۹۴۴ و ۴۹۶ کیلوژول بر مول باشد، جمع جبری\\Delta H و{{E}_{a}} در واکنش (رفت) نشان داده شده، چند کیلوژول است؟\n",
+        "options": {
+            "1": "۱۵۵+",
+            "2": "۱۸۷+",
+            "3": "۴۲۱+",
+            "4": "۶۰۷+"
+        },
+        "final_answer": 1,
+        "full_text": "According to the figure below, if the bond energy of N=O, N\\equiv N, and N=O is equal to 607, 944, and 496 kJ/mol, respectively, the algebraic sum of \\Delta H and {{E}_{a}} in the reaction How many kilojoules is shown?\n\nOptions:\nA) 155+\nB) 187+\nC) 421+\nD) 607+",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "در واکنش: (معادله موازنه شود.)P{{I}_{۳}}(s)+{{H}_{۲}}O(l)\\to {{H}_{۳}}P{{O}_{۴}}(aq)+HI(aq)، اگر مقدار آغازینP{{I}_{۳}}(s) برابر ۲۰/۶ گرم درون یک لیتر آب بوده و پس از دو دقیقه به ۴/۱۲ گرم برسد، سرعت متوسط مصرف این ماده، به‌تقریب به چند مول بر ثانیه و غلظتHI(aq) به چند مول بر لیتر می‌رسد؟ (P=۳۱,I=۱۲۷:g.mo{{l}^{-۱}}؛ از تغییر حجم صرف‌نظر شود.)\n",
+        "options": {
+            "1": "۳/۳\\times {{۱۰}^{-۴}}، ۰/۱۲",
+            "2": "۳/۳\\times {{۱۰}^{-۴}}، ۰/۰۸",
+            "3": "۶/۶۷\\times {{۱۰}^{-۴}}، ۰/۱۲",
+            "4": "۶/۶۷\\times {{۱۰}^{-۴}}، ۰/۰۸"
+        },
+        "final_answer": 1,
+        "full_text": "In the reaction: (The equation should be balanced.)P{{I}_{3}}(s)+{{H}_{2}}O(l)\\to {{H}_{3}}P{{ O}_{4}}(aq)+HI(aq), if the initial value of P{{I}_{3}}(s) is equal to 20.6 grams in one liter of water and after two minutes it is 12.4 gram, the average rate of consumption of this substance is approximately how many moles per second and the HI(aq) concentration reaches how many moles per liter? (P=31, I=127:g.mo{{l}^{-1}}; ignore volume change.)\n\nOptions:\nA) 3/3\\times {{10}^{-4}}, 0.12\nB) 3/3\\times {{10}^{-4}}, 0.08\nC) 6/67\\times {{10}^{-4}}, 0/12\nD) 6/67\\times {{10}^{-4}}, 0/08",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "نسبت شمار اتم‌های هیدروژن به شمار اتم‌های کربن، در کدام دو ترکیب، یکسان است؟\n",
+        "options": {
+            "1": "بوتان، اتن",
+            "2": "بنزن، نفتالن",
+            "3": "اتین، هیدروژن سیانید",
+            "4": "بنزن، سیکلوهگزان"
+        },
+        "final_answer": 3,
+        "full_text": "The ratio of the number of hydrogen atoms to the number of carbon atoms is the same in which two compounds?\n\nOptions:\nA) Bhutan, Athens\nB) benzene, naphthalene\nC) ethene, hydrogen cyanide\nD) benzene, cyclohexane",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "کدام مطلب، نادرست است؟\n",
+        "options": {
+            "1": "پلیمرها، دارای مولکول‌هایی با زنجیره‌های بلند و جرم مولکولی زیاد هستند.",
+            "2": "پلی‌اتن، جامد سفید رنگی است که با گرما دادن اتن در فشار بالا، تشکیل می‌شود.",
+            "3": "در مولکول پلی‌اتن، هر اتم کربن با چهار اتم دیگر (کربن و هیدروژن) پیوند کووالانسی یگانه دارد.",
+            "4": "در همهٔ پلیمرهای طبیعی و مصنوعی، مونومرها باید پیوندهای دو گانهٔ کربن - کربن داشته باشند."
+        },
+        "final_answer": 4,
+        "full_text": "Which article is incorrect?\n\nOptions:\nA) Polymers have molecules with long chains and high molecular weight.\nB) Polyethene is a white solid that is formed by heating ethene under high pressure.\nC) In the polyethene molecule, each carbon atom has a single covalent bond with four other atoms (carbon and hydrogen).\nD) In ​​all natural and synthetic polymers, monomers must have carbon-carbon double bonds.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "کدام مطلب، دربارهٔ فرمیک اسید، درست است؟\n",
+        "options": {
+            "1": "پر کاربردترین کربوکسیلیک اسید، است.",
+            "2": "با آب، پیوند هیدروژنی، تشکیل می‌دهد.",
+            "3": "در ساختار آن، پنج جفت الکترون ناپیوندی وجود دارد.",
+            "4": "به‌صورت مصنوعی تهیه می‌شود و در طبیعت یافت نمی‌شود."
+        },
+        "final_answer": 2,
+        "full_text": "Which statement about formic acid is correct?\n\nOptions:\nA) is the most widely used carboxylic acid.\nB) forms a hydrogen bond with water.\nC) In its structure, there are five pairs of non-bonding electrons.\nD) It is prepared artificially and is not found in nature.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "با توجه به ساختار لاکتیک اسید، پلیمر به‌دست آمده از آن، گروه عاملی مشابه کدام پلیمر، خواهد داشت؟\n",
+        "options": {
+            "1": "کولار",
+            "2": "سلولز",
+            "3": "پلی‌اتن",
+            "4": "پلی‌اتن ترفتالات"
+        },
+        "final_answer": 4,
+        "full_text": "According to the structure of lactic acid, the polymer obtained from it will have a functional group similar to which polymer?\n\nOptions:\nA) Kevlar\nB) Cellulose\nC) polyethylene\nD) polyethylene terephthalate",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "از اکسایش کدام ترکیب می‌توان ترفتالیک اسید تهیه کرد؟\n",
+        "options": {
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "4": " "
+        },
+        "final_answer": 1,
+        "full_text": "Terephthalic acid can be prepared from the oxidation of which compound?\n\nOptions:\nA)\nb)\nc)\nd)",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "در یک آزمایش، ۱۰ مول از یک دی‌آمین با ۱۰ مول از یک دی‌اسید آلی واکنش کامل داده و به پلی آمید تبدیل شده‌اند. مقدار آب تشکیل شده، چند مول است؟\nآب + پلی‌آمید\\to دی‌آمین + دی‌اسید\n",
+        "options": {
+            "1": "۱۰",
+            "2": "۲۰",
+            "3": "۳۰",
+            "4": "۴۰"
+        },
+        "final_answer": 2,
+        "full_text": "In an experiment, 10 moles of a diamine reacted completely with 10 moles of an organic diacid and turned into polyamide. How many moles of water is formed?\nWater + polyamide\\to diamine + diacid\n\nOptions:\nA) 10\nB) 20\nC) 30\nD) 40",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "برای افزایش قدرت پاک‌کنندگی شوینده‌ها، افزودن کدام ماده، بهتر است؟\n",
+        "options": {
+            "1": "منیزیم کلرید",
+            "2": "کلسیم هیدروکسید",
+            "3": "سدیم هیدروژن کربنات",
+            "4": "آلومینیم هیدروکسید"
+        },
+        "final_answer": 3,
+        "full_text": "To increase the cleaning power of detergents, which substance is better to add?\n\nOptions:\nA) magnesium chloride\nB) calcium hydroxide\nC) sodium hydrogen carbonate\nD) aluminum hydroxide",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "کدام مورد دربارهٔ کربونیل سولفید و گوگرد تری‌اکسید، درست است؟\n",
+        "options": {
+            "1": "شکل هندسی مشابه و به‌صورت خطی دارند.",
+            "2": "در هر دو، اتم مرکزی دارای بار جزیی(\\delta +) است.",
+            "3": "هر دو، گشتاور دو قطبی بزرگتر از صفر دارند.",
+            "4": "عدد اکسایش اتم مرکزی در هر دو، یکسان است."
+        },
+        "final_answer": 2,
+        "full_text": "Which of the following is true about carbonyl sulfide and sulfur trioxide?\n\nOptions:\nA) They have the same geometric shape and in a linear form.\nB) In both, the central atom has a partial charge (\\delta +).\nC) Both have a dipole moment greater than zero.\nD) The oxidation number of the central atom is the same in both.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "در گرافن، هر اتم کربن به چند اتم کربن دیگر متصل است و نوع پیوندهای میان آن‌ها به نوع پیوندهای میان اتم‌های کربن در کدام ترکیب، شبیه‌تر است؟\n",
+        "options": {
+            "1": "۳، بنزن",
+            "2": "۴، بنزن",
+            "3": "۳، سیکلوهگزان",
+            "4": "۴، سیکلوهگزان"
+        },
+        "final_answer": 1,
+        "full_text": "In graphene, each carbon atom is connected to several other carbon atoms, and the type of bonds between them is more similar to the type of bonds between carbon atoms in which compound?\n\nOptions:\nA) 3, benzene\nB) 4, benzene\nC) 3, cyclohexane\nD) 4, cyclohexane",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "در ظرف ۲ لیتری در بسته‌ای، ۱ مول گاز آمونیاک، ۲ مول گاز هیدروژن و ۲ مول گاز نیتروژن، در دمای معین، به حالت تعادل قرار دارند. ثابت این تعادل برابر{{L}^{۲}}.mo{{l}^{-۲}} .......... است و با اندکی پایین آوردن دمای سامانهٔ واکنش، ثابت تعادل ............. و واکنش در جهت ............. جابه‌جا می‌شود.({{N}_{۲}}(g)+۳{{H}_{۲}}(g)\\rightleftharpoons ۲N{{H}_{۳}}(g),\\Delta H\\lt ۰)\n",
+        "options": {
+            "1": "۰/۲۵، بزرگتر می‌شود، رفت",
+            "2": "۰/۱۶، ثابت می‌ماند، رفت",
+            "3": "۰/۲۵، کوچکتر می‌شود، برگشت",
+            "4": "۰/۱۶، ثابت می‌ماند، برگشت"
+        },
+        "final_answer": 1,
+        "full_text": "In a closed container of 2 liters, 1 mole of ammonia gas, 2 moles of hydrogen gas and 2 moles of nitrogen gas are in equilibrium at a certain temperature. The constant of this equilibrium is equal to {{L}^{2}}.mo{{l}^{-2}} .......... and by slightly lowering the temperature of the reaction system, the equilibrium constant... .......... and the reaction moves in the direction of ............. ({{N}_{2}}(g)+3{{H}_ {2}}(g)\\rightleftharpoons 2N{{H}_{3}}(g),\\Delta H\\lt 0)\n\nOptions:\nA) 0.25, getting bigger, gone\nB) 0.16, remains constant, gone\nC) 0.25, gets smaller, back\nD) 0.16, remains constant, back",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "با توجه به فرایند زنگ زدن آهن در هوای مرطوب، نقش‌های آب در این واکنش، کدام‌اند؟\n",
+        "options": {
+            "1": "اکسنده، حلال",
+            "2": "کاهنده، حلال",
+            "3": "الکترولیت، واکنش‌دهنده",
+            "4": "الکترولیت، اکسنده"
+        },
+        "final_answer": 3,
+        "full_text": "According to the rusting process of iron in humid air, what are the roles of water in this reaction?\n\nOptions:\nA) oxidant, solvent\nB) reducing, solvent\nC) electrolyte, reactant\nD) electrolyte, oxidizer",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "نیروی الکتروموتوری({{E}^{{}^\\circ }}) واکنش:M(s)+۲A{{g}^{+}}(aq)\\to {{M}^{۲+}}(aq)+۲Ag(s)، برابر ۱/۵۶+ ولت و{{E}^{{}^\\circ }} الکترود نقره برابر ۰/۸۰+ ولت است.{{E}^{{}^\\circ }} الکترود فلزM، برابر .......... ولت است و کاتیونA{{g}^{+}}(aq)، ............ از کاتیون{{M}^{۲+}}(aq) است.\n",
+        "options": {
+            "1": "۰/۴-، کاهنده‌تر",
+            "2": "۰/۴+، اکسنده‌تر",
+            "3": "۰/۷۶-، کاهنده‌تر",
+            "4": "۰/۷۶-، اکسنده‌تر"
+        },
+        "final_answer": 4,
+        "full_text": "Electromotive force ({{E}^{{}^\\circ }}) reaction: M(s)+2A{{g}^{+}}(aq)\\to {{M}^{2+}}( aq)+2Ag(s), is equal to +1.56 V and {{E}^{{}^\\circ }} of the silver electrode is equal to +0.80 V. {{E}^{{}^\\circ } } the metal electrode M is equal to .......... volts and the cation A{{g}^{+}}(aq), ............ of the cation {{M} is ^{2+}}(aq).\n\nOptions:\nA) -0.4, more reducing\nB) 0.4+, more oxidizing\nC) -0.76, more reducing\nD) -0.76, more oxidizing",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "کدام شکل، نشان‌دهندهٔ الکترود استاندارد برای نیم سلول مس است؟ (دما ثابت و برابر{{۲۵}^{{}^\\circ }}C است.)\n",
+        "options": {
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "4": " "
+        },
+        "final_answer": 1,
+        "full_text": "Which figure represents the standard electrode for a copper half cell? (The temperature is constant and equal to {{25}^{{}^\\circ }}C.)\n\nOptions:\nA)\nb)\nc)\nd)",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "اگر در محلول ۰/۱ مولار یک اسید ضعیف، غلظت یون هیدرونیوم برابر۴\\times {{۱۰}^{-۳}} مول بر لیتر باشد، درصد یونش اسید وpH محلول، به‌تقریب کدام است؟(\\log ۴\\approx ۰/۶)\n",
+        "options": {
+            "1": "۱/۲، ۲/۴",
+            "2": "۱/۲، ۲/۶",
+            "3": "۴، ۲/۴",
+            "4": "۴، ۲/۶"
+        },
+        "final_answer": 3,
+        "full_text": "If in a 0.1 M solution of a weak acid, the hydronium ion concentration is equal to 4\\times {{10}^{-3}} mol/liter, what is the acid ionization percentage and pH of the solution approximately? (\\log 4\\approx 0/ 6)\n\nOptions:\nA) 1/2, 2/4\nB) 1/2, 2/6\nC) 4, 2/4\nD) 4, 2.6",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "به۲۰۰mL آب سخت(d=۱g.m{{L}^{-۱}}) که دارای یون‌هایC{{a}^{۲+}} با غلظت۲۰۰۰ppm است، ۴/۷۲ گرم از صابون با جرم مولی۲۳۶g.mo{{l}^{-۱}} اضافه شده است. با فرض کامل بودن واکنش صابون با یون کلسیم، چند درصد از آن، به‌صورت رسوب، درآمده است؟(Ca=۴۰,Na=۲۳:g.mo{{l}^{-۱}})\n(RCOONa(aq)+CaC{{l}_{۲}}(aq)\\to {{(RCOO)}_{۲}}Ca(s)+NaCl(aq)\n",
+        "options": {
+            "1": "۱۰",
+            "2": "۲۰",
+            "3": "۵۰",
+            "4": "۱۰۰"
+        },
+        "final_answer": 4,
+        "full_text": "To 200 mL of hard water (d=1g.m{{L}^{-1}}) which has C{{a}^{2+}} ions with a concentration of 2000ppm, 72.4 grams of soap with a molar mass of 236g.mo l}^{-1}} has been added. Assuming that the reaction of soap with calcium ion is complete, how many percent of it has been precipitated? (Ca=40, Na=23:g.mo{{l}^{-1}})\n(RCOONa(aq)+CaC{{l}_{2}}(aq)\\to {{(RCOO)}_{2}}Ca(s)+NaCl(aq)\n\nOptions:\nA) 10\nB) 20\nC) 50\nD) 100",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "35"
+        }
+    }
+}

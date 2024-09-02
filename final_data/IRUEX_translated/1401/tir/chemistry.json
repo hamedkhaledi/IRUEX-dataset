@@ -1,0 +1,542 @@
+{
+    "1": {
+        "question": "ساختار مولکولی کدام ترکیب، فاقد پیوند سه‌گانه است؟\n",
+        "options": {
+            "1": "{O_۲}",
+            "2": "CO",
+            "3": "HCN",
+            "4": "{N_۲}"
+        },
+        "final_answer": 1,
+        "full_text": "Which compound's molecular structure does not have a triple bond?\n\nOptions:\nA) {O_2}\nB) CO\nC) HCN\nD) {N_2}",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "کدام موارد از مطالب زیر، درست‌اند؟\nالف) بور، براساس مدل اتمی خود توانست طیف نشری خطی عنصرها را توجیه کند.\nب) هر نوار رنگی در طیف نشری خطی عنصرها، نوری با انرژی و طول موج معیّن است.\nج) بور، با بررسی دقیق طیف نشری خطی اتم هیدروژن، مدلی برای اتم عنصرها ارائه داد.\nد) دانشمندان برای توجیه چگونگی نشر نور از اتم عنصرها،‌ ساختار لایه‌ای را برای آن‌ها پیشنهاد کردند.\n",
+        "options": {
+            "1": "الف ، ب",
+            "2": "الف ، ج",
+            "3": "ب ، د",
+            "4": "ج ، د"
+        },
+        "final_answer": 3,
+        "full_text": "Which of the following are true?\nA) Bohr, based on his atomic model, was able to justify the linear emission spectrum of elements.\nb) Each color band in the linear emission spectrum of elements is light with a certain energy and wavelength.\nc) Bohr, by carefully examining the linear emission spectrum of the hydrogen atom, provided a model for the atoms of the elements.\nd) Scientists proposed a layered structure to explain how light is emitted from the atoms of the elements.\n\nOptions:\nA) A, B\nB) A, C\nC) b, d\nD) c, d",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "اتم عنصر A دارای ۸ الکترون با l = ۰ و شمار الکترون‌های ظرفیتی آن با شمار الکترون‌های ظرفیتی اتم _{۳۱}Ga برابر است. عنصر A با کدام عنصر در جدول تناوبی هم‌گروه است؟\n",
+        "options": {
+            "1": "_{۴۷}Ag",
+            "2": "_{۱۳}Al",
+            "3": "_{۴۲}Mo",
+            "4": "_{۳۹}Y"
+        },
+        "final_answer": 4,
+        "full_text": "The atom of element A has 8 electrons with l = 0 and the number of valence electrons is equal to the number of valence electrons of Ga atom _{31}. Element A is in the same group as which element in the periodic table?\n\nOptions:\nA) _{47}Ag\nB) _{13} Al\nC) _{42}Mo\nD) _{39}Y",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "فردی هنگام ورزش، در هر دقیقه ۲۲ کیلوژول انرژی مصرف می‌کند. با توجه به داده‌های جدول زیر، برای تأمین انرژی یک ساعت ورزش، اگر به جای مناسب‌ترین مادهٔ غذایی، از نامناسب‌ترین مادهٔ غذایی استفاده کند، نسبت مقدار مصرفی مادهٔ غذایی نامناسب لازم، به مادهٔ مناسب، کدام است؟\n",
+        "options": {
+            "1": "۶/۵",
+            "2": "۶",
+            "3": "۵",
+            "4": "۴/۵"
+        },
+        "final_answer": 3,
+        "full_text": "When exercising, a person consumes 22 kilojoules of energy per minute. According to the data in the table below, to provide energy for one hour of exercise, if he uses the most unsuitable food item instead of the most suitable food item, what is the ratio of the consumption amount of the inappropriate food item to the appropriate item?\n\nOptions:\nA) 6.5\nB) 6\nC) 5\nD) 4.5",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "چند مورد از مطالب زیر، درست است؟\n- عنصر _{۲۸}Z، یک فلز واسطه از گروه ۱۰ و دورهٔ چهارم جدول تناوبی است.\n- در اتم عنصرها، زیرلایه‌های دارای n+۱ کوچک‌تر، پایدارترند و زودتر الکترون می‌گیرند.\n- اگر دو نافلز، یک ترکیب ناقطبی با فرمول عمومی A{D_۲} تشکیل دهند، عنصر A در گروه ۱۴ جدول تناوبی جای دارد.\n- در مدل اتمی جدید، الکترون‌ها در فضایی بسیار کوچک نسبت به هستهٔ اتم و در لایه‌های پیرامون آن، در نظر گرفته می‌شوند.\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 2,
+        "full_text": "How many of the following are true?\n- The element _{28}Z is an intermediary metal from group 10 and the fourth period of the periodic table.\n- In the atom of elements, the substrates with n+1 are smaller, more stable and get electrons sooner.\n- If two nonmetals form a nonpolar compound with the general formula A{D_2}, element A is in group 14 of the periodic table.\n- In the new atomic model, electrons are considered in a very small space compared to the nucleus of the atom and in the layers around it.\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "در ۱۰ گرم آلومینیم سولفید، به‌تقریب، چند یون وجود دارد و نسبت جرم گوگرد به جرم آلومینیم در آن، کدام است؟ (Al = ۲۷\\,,\\,S = ۳۲:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "\\frac{{۱۶}}{۹}\\,,\\,۲ \\times {۱۰^{۲۳}}",
+            "2": "\\frac{{۳۲}}{{۲۷}}\\,,\\,۲ \\times {۱۰^{۲۳}}",
+            "3": "\\frac{{۱۶}}{۹}\\,,\\,۴ \\times {۱۰^{۲۲}}",
+            "4": "\\frac{{۳۲}}{{۲۷}}\\,,\\,۴ \\times {۱۰^{۲۲}}"
+        },
+        "final_answer": 1,
+        "full_text": "Approximately how many ions are there in 10 grams of aluminum sulfide, and what is the ratio of the mass of sulfur to the mass of aluminum in it? (Al = 27\\,,\\,S = 32:g.mo{l^{ - 1}})\n\nOptions:\nA) \\frac{{16}}{9}\\,,\\,2 \\times {10^{23}}\nB) \\frac{{32}}{{27}}\\,,\\,2 \\times {10^{23}}\nC) \\frac{{16}}{9}\\,,\\,4 \\times {10^{22}}\nD) \\frac{{32}}{{27}}\\,,\\,4 \\times {10^{22}}",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "اگر ۰/۱۵ مول از کاتیون یک فلز دو ظرفیتی در واکنش کامل با آنیون فسفات، ترکیبی به جرم ۱۳/۱ گرم تشکیل دهد، این کاتیون به کدام فلز مربوط است؟\n(O = ۱۶\\,,\\,Mg = ۲۴\\,,\\,P = ۳۱\\,,\\,Ca = ۴۰\\,,\\,Fe = ۵۶\\,,\\,Zn = ۶۵:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "Ca",
+            "2": "Fe",
+            "3": "Zn",
+            "4": "Mg"
+        },
+        "final_answer": 4,
+        "full_text": "If 0.15 mol of the cation of a divalent metal in a complete reaction with phosphate anion forms a compound with a mass of 1.3 grams, which metal does this cation belong to?\n(O = 16\\,,\\, Mg = 24\\,,\\, P = 31\\,,\\, Ca = 40\\,,\\, Fe = 56\\,,\\, Zn = 65:g.mo{l ^{ - 1}})\n\nOptions:\nA) Ca\nB) Fe\nC) Zn\nD) Mg",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "چند مورد از مطالب زیر، درست است؟\n- اشتراک گذاشتن الکترون، یک ویژگی مشترک نافلزها است.\n- به طور معمول، فلزها، واکنش‌پذیری زیاد و نافلزها، واکنش‌پذیری کمی دارند.\n- در یک گروه جدول تناوبی، فلز با جرم اتمی کمتر، خاصیت فلزی بیشتری دارد.\n- به‌طور معمول، عناصر جامد دستهٔ p در جدول تناوبی، شکننده‌اند و سطح صیقلی ندارند.\n- عنصرهایی که شمار الکترون‌های دو زیرلایه‌ٔ آخر آن‌ها برابر است، در یک گروه جدول تناوبی جای می‌گیرند.\n",
+        "options": {
+            "1": "۵",
+            "2": "۴",
+            "3": "۳",
+            "4": "۲"
+        },
+        "final_answer": 4,
+        "full_text": "How many of the following are true?\n- Electron sharing is a common feature of nonmetals.\n- Normally, metals are highly reactive and non-metals are less reactive.\n- In a periodic table group, the metal with lower atomic mass has more metallic properties.\n- Normally, the solid elements of the p group in the periodic table are brittle and do not have a polished surface.\nElements that have the same number of electrons in the last two sublayers are placed in a group of the periodic table.\n\nOptions:\nA) 5\nB) 4\nC) 3\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "غلظت یون‌های کلسیم و منیزیم ({X^{۲ + }}) در یک نمونه آب سخت به‌ترتیب ۰/۰۰۲۵ مولار و ۲۶۴ppm است. اگر ۲۷ گرم صابون جامد با جرم مولی ۳۰۰g.mo{l^{ - ۱}} به ۲/۵ لیتر از این نمونهٔ آب اضافه شود، چند درصد از صابون خاصیت پاک‌کنندگی خود را از دست می‌دهد و با توجه به اینکه نرم‌کننده‌های آب سخت، این یون‌ها را با یون N{a^ + }(aq) مبادله می‌کنند، به تقریب چند گرم N{a^ + }(aq) در این فرایند لازم است؟ (جرم هر میلی‌لیتر از این نمونهٔ آب، یک گرم در نظر گرفته شود، Na = ۲۳\\,,\\,Mg = ۲۴g.mo{l^{ - ۱}})\nRCOONa + XC{l_۲} \\to {(RCOO)_۲}X + NaCl (معادلهٔ واکنش موازنه شود)\n",
+        "options": {
+            "1": "۷۵ ، ۰/۷۸",
+            "2": "۷۵ ، ۱/۵۵",
+            "3": "۲۵ ، ۱/۵۵",
+            "4": "۲۵ ، ۰/۷۸"
+        },
+        "final_answer": 2,
+        "full_text": "The concentration of calcium and magnesium ions ({X^{2 + }}) in a hard water sample is 0.0025 M and 264 ppm, respectively. If 27 grams of solid soap with a molar mass of 300g.mo{l^{-1}} is added to 2.5 liters of this water sample, how many percent of the soap will lose its cleaning properties and considering that hard water softeners , they exchange these ions with N{a^ + }(aq) ions, approximately how many grams of N{a^ + }(aq) are needed in this process? (The mass of each milliliter of this water sample is considered to be one gram, Na = 23\\,,\\, Mg = 24g.mo{l^{ - 1}})\nRCOONa + XC{l_2} \\to {(RCOO)_2}X + NaCl (balance the reaction equation)\n\nOptions:\nA) 75, 0.78\nB) 75, 1/55\nC) 25, 1/55\nD) 25, 0.78",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "تفاوت جرم ۸۹/۶ لیتر از سومین عضو خانوادهٔ آلکین و همین حجم از سومین عضو خانوادهٔ آلکان که هر دو گاز و در شرایط STPاند، با جرم کدام هیدروکربن برابر است؟ (H = ۱\\,,\\,C = ۱۲:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "اتان",
+            "2": "اتین",
+            "3": "دومین عضو خانوادهٔ آلکن",
+            "4": "دومین عضو خانوادهٔ آلکین"
+        },
+        "final_answer": 4,
+        "full_text": "The mass difference of 6.89 liters of the third member of the alkyne family and the same volume of the third member of the alkane family, both of which are gases at STP, is equal to the mass of which hydrocarbon? (H = 1\\,,\\,C = 12:g.mo{l^{ - 1}})\n\nOptions:\nA) ethane\nB) Etienne\nC) the second member of the alkene family\nD) the second member of the alkyne family",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "نمودار تقریبی تغییرات شعاع اتمی (r) چند عنصر اصلی جدول تناوبی با عدد اتمی (Z) به‌صورت زیر است. کدام مورد دربارهٔ آن‌ها درست است؟ (برای گازهای نجیب، شعاع اتمی تعریف نمی‌شود.)\n",
+        "options": {
+            "1": "D و E از گروه هالوژن‌ها جای دارند.",
+            "2": "A و C در گروه فلزهای قلیایی جای دارند.",
+            "3": "B و D در یک دورهٔ جدول تناوبی جای دارند.",
+            "4": "A و ‌B در یک گروه جدول تناوبی جای دارند."
+        },
+        "final_answer": 2,
+        "full_text": "The approximate diagram of changes in atomic radius (r) of some main elements of the periodic table with atomic number (Z) is as follows. Which of the following is true about them? (For noble gases, the atomic radius is not defined.)\n\nOptions:\nA) D and E belong to the group of halogens.\nB) A and C belong to the group of alkali metals.\nC) B and D are in the same period of the periodic table.\nD) A and B are in the same group of the periodic table.",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "اگر مخلوطی از اکسیدهای منیزیم و کلسیم، به‌ترتیب با خلوص ۸۰ و ۶۰ درصد جرمی، با ۸۸ گرم گاز کربن‌دی‌اکسید واکنش دهد و ۴۰ درصد از حجم گاز، صرف واکنش با منیزیم اکسید شده باشد، درصد جرمی مجموع فراورده‌های واکنش در جامد برجای مانده، کدام است؟ (ناخالصی با گاز واکنش نمی‌دهد، واکنش‌های اکسید فلزها کامل و فراوردهٔ آن‌ها، کربنات فلزها است، C = ۱۲\\,,\\,O = ۱۶\\,,\\,Mg = ۲۴\\,,\\,Ca = ۴۰:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "۵۶",
+            "2": "۶۵",
+            "3": "۷۸",
+            "4": "۸۷"
+        },
+        "final_answer": 3,
+        "full_text": "If a mixture of magnesium and calcium oxides, with a purity of 80 and 60% by mass, respectively, reacts with 88 grams of carbon dioxide gas and 40% of the gas volume is used for the reaction with magnesium, what is the mass percentage of the total reaction products in the remaining solid? Is? (The impurity does not react with gas, metal oxide reactions are complete and their product is metal carbonate, C = 12\\,,\\,O = 16\\,,\\,Mg = 24\\,,\\,Ca = 40:g.mo {l^{ - 1}})\n\nOptions:\nA) 56\nB) 65\nC) 78\nD) 87",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "با توجه به واکنش گرماشیمیایی زیر، چند مورد از مطالب زیر، درست است؟ (H = ۱\\,,\\,C = ۱۲\\,,\\,Cl = ۲۵/۵:g.mo{l^{ - ۱}})\n{C_۲}{H_۴}(g) + C{l_۲}(g) \\to C{H_۲}ClC{H_۲}Cl(g)\\,,\\,\\Delta H = - ۱۷۸kJ\n- در مجاورت کاتالیزگر آهن (III) کلرید جامد، انجام می‌پذیرد.\n- فراوردهٔ این واکنش، ترکیبی سیر شده با نام ۲ ، ۱- دی کلرواتن است.\n- برای تشکیل ۲۴/۷۵ گرم فراورده، ۰/۲۵ مول گاز کلر مصرف می‌شود.\n- برای آزاد شدن ۸/۹ کیلوژول گرما، در مجموع ۴/۹۵ گرم از واکنش‌دهنده‌ها مصرف می‌شود.\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 2,
+        "full_text": "Regarding the following thermochemical reaction, how many of the following are true? (H = 1\\,,\\, C = 12\\,,\\, Cl = 25/5:g.mo{l^{ - 1}})\n{C_2}{H_4}(g) + C{l_2}(g) \\to C{H_2}ClC{H_2}Cl(g)\\,,\\,\\Delta H = - 178kJ\n- It is done in the vicinity of solid iron (III) chloride catalyst.\n- The product of this reaction is a saturated compound called 2,1-dichloroethene.\n- To form 75.24 grams of product, 0.25 mol of chlorine gas is consumed.\n- To release 9.8 kilojoules of heat, a total of 95.4 grams of reactants are consumed.\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "برای سوختن کامل ۶/۴ گرم نفتالن، چند لیتر گاز اکسیژن در شرایط STP، لازم است. این مقدار اکسیژن، از تجزیهٔ چند گرم محلول ۵۰ درصد جرمی هیدروژن پراکسید (با فراورده‌های آب و اکسیژن) به دست می‌آید؟ (گزینه‌ها را از راست به چپ بخوانید، H = ۱\\,,\\,C = ۱۲\\,,\\,O = ۱۶:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "۱۳/۴۴ ، ۸۱/۶",
+            "2": "۱۳/۴۴ ، ۶۲/۴",
+            "3": "۱۶/۸۶ ، ۸۱/۶",
+            "4": "۱۶/۸۶ ، ۶۲/۴"
+        },
+        "final_answer": 1,
+        "full_text": "For the complete burning of 6.4 grams of naphthalene, several liters of oxygen gas at STP conditions are required. This amount of oxygen is obtained from the decomposition of how many grams of a 50 mass percent solution of hydrogen peroxide (with water and oxygen products)? (Read options from right to left, H = 1\\,,\\,C = 12\\,,\\,O = 16:g.mo{l^{ - 1}})\n\nOptions:\nA) 44/13, 6/81\nB) 44/13, 4/62\nC) 16/86, 81/6\nD) 16/86, 62/4",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "با توجه به فرمول ساختاری ترکیب داده شده، چند مورد از مطالب زیر درست است؟ (H = ۱\\,,\\,C = ۱۲\\,,\\,O = ۱۶:g.mo{l^{ - ۱}})\n- انحلال‌پذیری آن در آب، بیشتر از انحلال‌پذیری آن در بنزن است.\n- شمار اتم‌های کربن در آن، دو برابر شمار گروه‌های هیدروکسیل است.\n- ترکیبی سیرشده با دو حلقهٔ شش اتمی است که با یک اتم اکسیژن بهم متصل‌اند.\n- اگر به جای گروه‌های عاملی الکلی در آن، گروه‌های متیل قرار بگیرد، جرم مولی آن، ۱۶ واحد کاهش می‌یابد.\n",
+        "options": {
+            "1": "یک",
+            "2": "دو",
+            "3": "سه",
+            "4": "چهار"
+        },
+        "final_answer": 2,
+        "full_text": "According to the structural formula of the given compound, how many of the following statements are correct? (H = 1\\,,\\,C = 12\\,,\\,O = 16:g.mo{l^{ - 1}})\nIts solubility in water is higher than its solubility in benzene.\n- The number of carbon atoms in it is twice the number of hydroxyl groups.\n- It is a saturated compound with two six-atom rings connected by one oxygen atom.\n- If methyl groups are placed in it instead of alcohol functional groups, its molar mass will decrease by 16 units.\n\nOptions:\nA) One\nB) Two\nC) Three\nD) four",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "با توجه به واکنش‌های زیر:\n{H_۲}(g) + C{l_۲}(g)\\xrightarrow{{{H_۲}O(l)}}۲HCl(aq)\\,,\\,\\Delta H = - ۱۸۴/۶kJ\n{H_۲}(g)\\xrightarrow{{{H_۲}O(l)}}۲{H^ + }(aq)\\,,\\,\\Delta H = ۰\nHCl(aq) \\to {H^ + }(aq) + C{l^ - }(aq)\\,,\\,\\Delta H = - ۷۵/۲kJ\nبر پایهٔ قانون هس، تبدیل C{l^ - }(aq) به \\frac{۱}{۲}C{l_۲}(g)، گرماده است یا گرماگیر و \\Delta H آن برابر چند کیلوژول است؟\n",
+        "options": {
+            "1": "گرماده ، ۱۷۶/۵-",
+            "2": "گرماده ، ۱۶۷/۵-",
+            "3": "گرماگیر ، ۱۷۶/۵+",
+            "4": "گرماگیر ، ۱۶۷/۵+"
+        },
+        "final_answer": 4,
+        "full_text": "According to the following reactions:\n{H_2}(g) + C{l_2}(g)\\xrightarrow{{{H_2}O(l)}}2HCl(aq)\\,,\\,\\Delta H = - 184/6kJ\n{H_2}(g)\\xrightarrow{{{H_2}O(l)}}2{H^ + }(aq)\\,,\\,\\Delta H = 0\nHCl(aq) \\to {H^ + }(aq) + C{l^ - }(aq)\\,,\\,\\Delta H = - 2.75kJ\nBased on Hess's law, the conversion of C{l^ - }(aq) to \\frac{1}{2}C{l_2}(g) is exothermic or endothermic and its \\Delta H is equal to how many kilojoules?\n\nOptions:\nA) Garmadeh, 5/176\nB) Garmadeh, 5/167\nC) Heat sink, 176.5+\nD) Heat sink, 167.5+",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "با توجه به ساختار مولکول کافئین که در شکل زیر نشان داده شده است، چند مورد از مطالب زیر، دربارهٔ آن درست است؟ (H = ۱\\,,\\,C = ۱۲\\,,\\,N = ۱۴\\,,\\,O = ۱۶:g.mo{l^{ - ۱}})\n- جرم ۰/۲مول از آن، برابر ۳۹/۲ گرم است.\n- دارای سه گروه آمیدی و سه گروه آمینی است.\n- تفاوت شمار پیوندهای C-H، با شمار پیوندهای C-N، در مولکول آن، برابر ۲ است.\n- نسبت شمار جفت الکترون‌های پیوندی به شمار جفت الکترون‌های ناپیوندی در آن، برابر ۳/۷۵ است.\n",
+        "options": {
+            "1": "یک",
+            "2": "دو",
+            "3": "سه",
+            "4": "چهار"
+        },
+        "final_answer": 3,
+        "full_text": "According to the structure of the caffeine molecule shown in the figure below, how many of the following are true about it? (H = 1\\,,\\,C = 12\\,,\\,N = 14\\,,\\,O = 16:g.mo{l^{ - 1}})\n- The mass of 0.2 mol of it is equal to 2.39 grams.\n- It has three amide groups and three amino groups.\n- The difference between the number of C-H bonds and the number of C-N bonds in its molecule is equal to 2.\n- The ratio of the number of bonded electron pairs to the number of non-bonded electron pairs in it is equal to 75.3.\n\nOptions:\nA) One\nB) Two\nC) Three\nD) four",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "در یک واکنش، در ۴ دقیقهٔ آغازی، تغییر غلظت مادهٔ A، برابر با ۰/۲ مول بر لیتر و تغییر غلظت مادهٔ D برابر با ۰/۱۷ مول بر لیتر است. اگر سرعت متوسط تغییر غلظت مادهٔ X به سرعت واکنش در این بازهٔ زمانی، نزدیک‌ترین باشد، به‌ترتیب از راست به چپ، بزرگ‌ترین و کوچک‌ترین ضرایب استوکیومتری در معادلهٔ واکنش، به کدام مواد مربوط می‌شود؟\n",
+        "options": {
+            "1": "X\\,,\\,A",
+            "2": "A\\,,\\,X",
+            "3": "X\\,,\\,D",
+            "4": "D\\,,\\,A"
+        },
+        "final_answer": 1,
+        "full_text": "In a reaction, in the first 4 minutes, the change in the concentration of substance A is equal to 0.2 mol/liter and the change in the concentration of substance D is equal to 0.17 mol/liter. If the average rate of change of the concentration of substance X is the closest to the rate of reaction in this time period, from right to left, the largest and smallest stoichiometric coefficients in the reaction equation are related to which substances?\n\nOptions:\nA) X\\,,\\,A\nB) A\\,,\\,X\nC) X\\,,\\,D\nD) D\\,,\\,A",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "چند مورد از مطالب زیر، نادرست است؟\n- در ساختار بسپارها، اتم کربن با پیوند دوگانه می‌تواند وجود داشته باشد.\n- برای شرکت در واکنش بسپارش، شرط لازم، وجود پیوند دوگانه در ساختار تک‌پار است.\n- واحدهای سازندهٔ الیاف پنبه، به کمک پیوند یگانهٔ کربن - کربن به یکدیگر متصل شده‌اند.\n- در واکنش بسپارش، بر مبنای استفاده از شمار معیّنی از مونومرها، یک فراوردهٔ معین تشکیل می‌شود.\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 2,
+        "full_text": "How many of the following are incorrect?\n- Carbon atoms with double bonds can exist in the structure of the resins.\n- In order to participate in the chemical reaction, a necessary condition is the existence of a double bond in the single bond structure.\n- The cotton fiber constituent units are connected to each other by means of a single carbon-carbon bond.\n- Based on the use of a certain number of monomers, a certain product is formed in the basar reaction.\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "برپایهٔ واکنش موازنه شدهٔ زیر:\nHOOC{(C{H_۲})_۴}COOH + {H_۲}N{(C{H_۲})_۶}N{H_۲} \\to {H_۲}O + ...\nمولکول فراوردهٔ آلی حاصل از چند اتم تشکیل شده و به ازای مصرف ۲۹/۲ گرم اسید، چند گرم از این فرآورده تشکیل می‌شود؟ (H = ۱\\,,\\,C = ۱۲\\,,\\,N = ۱۴\\,,\\,O = ۱۶:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "۳۸ ، ۴۵/۲",
+            "2": "۳۸ ، ۴۸/۸",
+            "3": "۴۱ ، ۴۵/۲",
+            "4": "۴۱ ، ۴۸/۸"
+        },
+        "final_answer": 4,
+        "full_text": "Based on the following balanced reaction:\nHOOC{(C{H_2})_4}COOH + {H_2}N{(C{H_2})_6}N{H_2} \\to {H_2}O + ...\nHow many atoms does the molecule of the organic product consist of, and how many grams of this product are formed for consuming 2.29 grams of acid? (H = 1\\,,\\,C = 12\\,,\\,N = 14\\,,\\,O = 16:g.mo{l^{ - 1}})\n\nOptions:\nA) 38, 2/45\nB) 38, 48/8\nC) 41, 2/45\nD) 41, 48/8",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "دربارهٔ یک پاک‌کنندهٔ غیرصابونی، چند مورد از مطالب زیر، درست است؟\n(H = ۱\\,,\\,C = ۱۲\\,,\\,O = ۱۶\\,,\\,Na = ۲۳\\,,\\,S = ۳۲:g.mo{l^{ - ۱}})\n- همهٔ اتم‌های آن، با پیوند کووالانسی به یکدیگر متصل‌اند.\n- در صنعت، با واکنش‌های پیچیده‌ای، از مواد پتروشیمیایی تولید می‌شود.\n- عدد اکسایش اتم گوگرد در آن، با عدد اکسایش اتم گوگرد در هیدروژن سولفید، برابر است.\n- به صورت سنّتی در شهر مراغه تولید می‌شود و به دلیل خاصیت بازی، برای موهای چرب مناسب است.\n- اگر گروه آلکیل متصل به حلقهٔ بنزنی در آن، دارای ۱۰ اتم کربن باشد، جرم مولی آن برابر ۳۲۲ گرم خواهد بود.\n",
+        "options": {
+            "1": "۲",
+            "2": "۳",
+            "3": "۴",
+            "4": "۵"
+        },
+        "final_answer": 1,
+        "full_text": "About a non-soap cleanser, how many of the following are true?\n(H = 1\\,,\\,C = 12\\,,\\,O = 16\\,,\\,Na = 23\\,,\\,S = 32:g.mo{l^{ - 1}})\n- All its atoms are connected to each other by covalent bonds.\n- In industry, it is produced from petrochemical materials with complex reactions.\n- The oxidation number of the sulfur atom in it is equal to the oxidation number of the sulfur atom in hydrogen sulfide.\n- It is traditionally produced in the city of Maragheh and is suitable for oily hair due to its playfulness.\n- If the alkyl group attached to the benzene ring has 10 carbon atoms, its molar mass will be 322 grams.\n\nOptions:\nA) 2\nB) 3\nC) 4\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "با توجه به شکل زیر، چند مورد از مطالب زیر درست است؟\n- اتم A با گرفتن یک الکترون، به آرایش گاز نجیب می‌رسد.\n- B اتم یک عنصر اکسندهٔ قوی است و واکنش‌پذیری بالایی دارد.\n- تبدیل اتم A به یون پایدار آن، به‌صورت: A + {e^ - } \\to {A^ - }، انجام می‌شود.\n- در واکنش A با B، به ازای انتقال دو مول الکترون، یک مول فراورده تشکیل می‌شود.\n",
+        "options": {
+            "1": "یک",
+            "2": "دو",
+            "3": "سه",
+            "4": "چهار"
+        },
+        "final_answer": 3,
+        "full_text": "According to the figure below, how many of the following are true?\n- Atom A by taking an electron, reaches the composition of noble gas.\n- B atom is a strong oxidizing element and has high reactivity.\n- The conversion of atom A into its stable ion is done as: A + {e^ - } \\to {A^ - }.\n- In the reaction of A with B, one mole of product is formed for two moles of electrons transferred.\n\nOptions:\nA) One\nB) Two\nC) Three\nD) four",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "در دمای اتاق، ۲۵۰ میلی‌لیتر محلول باریم هیدروکسید، دارای ۴۲۷/۵ میلی‌گرم از آن است. pH این محصول کدام است و ۱۵۰ میلی‌لیتر از آن در واکنش کامل با فسفریک اسید، چند میلی‌گرم فراوردهٔ نامحلول در آب تشکیل می‌دهد؟ (H = ۱\\,,\\,O = ۱۶\\,,\\,P = ۳۱\\,,\\,Ba = ۱۳۷:g.mo{l^{ - ۱}})\nBa{(OH)_۲}(aq) + {H_۲}P{O_۲}(aq) \\to B{a_۳}{(P{O_۴})_۲}(s) + {H_۲}O(l) (معادلهٔ واکنش موازنه شود)\n",
+        "options": {
+            "1": "۱۲ ، ۳۰۰/۵",
+            "2": "۱۲/۳ ، ۳۰۰/۵",
+            "3": "۱۲ ، ۲۰۰/۵",
+            "4": "۱۲/۳ ، ۲۰۰/۵"
+        },
+        "final_answer": 2,
+        "full_text": "At room temperature, 250 ml of barium hydroxide solution contains 5.427 mg of it. What is the pH of this product and how many milligrams of water-insoluble product will be formed in 150 ml of it in complete reaction with phosphoric acid? (H = 1\\,,\\,O = 16\\,,\\,P = 31\\,,\\,Ba = 137:g.mo{l^{ - 1}})\nBa{(OH)_2}(aq) + {H_2}P{O_2}(aq) \\to B{a_3}{(P{O_4})_2}(s) + {H_2}O(l) (reaction equation be balanced)\n\nOptions:\nA) 5.300, 12\nB) 3/12, 5/300\nC) 12, 200.5\nD) 3/12, 5/200",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "محلول کدام‌ ترکیب‌های زیر، کاغذ pH را به رنگ آبی درمی‌آورد و در میان این ترکیب‌های انتخاب شده (با غلظت و دمای یکسان)، کدام ترکیب، رسانایی الکتریکی نزدیک به رسانایی الکتریکی محلول پتاسیم کلرید دارد؟\nالف) جوهر نمک\nب) متیل آمین\nج) اتانول\nد) سود سوزآور\n",
+        "options": {
+            "1": "الف، ج - الف",
+            "2": "الف، ج - ج",
+            "3": "ب، د - ب",
+            "4": "ب، د - د"
+        },
+        "final_answer": 4,
+        "full_text": "The solution of which of the following compounds turns the pH paper blue, and among these selected compounds (with the same concentration and temperature), which compound has an electrical conductivity close to the electrical conductivity of potassium chloride solution?\nA) The essence of salt\nB) Methylamine\nc) Ethanol\nd) Caustic soda\n\nOptions:\nA) A, C - A\nB) A, C - C\nC) b, d - b\nD) b, d - d",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "دربارهٔ واکنش: a{P_۴}(a) + bHN{O_۳}(aq) + c{H_۲}O(l) \\to ۱۲{H_۳}P{O_۴}(aq) + NO(g)، پس از موازنهٔ کامل معادلهٔ آن، چند مورد از مطالب زیر درست است؟\n- نسبت c به b، برابر ۰/۴ است.\n- یک آنیون چند اتمی در آن، نقش اکسنده را دارد.\n- عدد اکسایش اتم اکسیژن در آن، تغییر نکرده است.\n- ضریب استوکیومتری یکی از واکنش‌دهنده‌ها با ضریب استوکیومتری یکی از فراورده‌ها برابر است.\n- تفاوت تغییر عدد اکسایش هر گونهٔ اکسنده با کاهنده، برابر با ضریب استوکیومتری یکی از واکنش‌دهنده‌ها است.\n",
+        "options": {
+            "1": "دو",
+            "2": "سه",
+            "3": "چهار",
+            "4": "پنج"
+        },
+        "final_answer": 3,
+        "full_text": "About the reaction: a{P_4}(a) + bHN{O_3}(aq) + c{H_2}O(l) \\to 12{H_3}P{O_4}(aq) + NO(g), after complete equilibrium Its equation, how many of the following contents are correct?\n- The ratio of c to b is equal to 0.4.\n- A polyatomic anion in it plays the role of an oxidant.\n- The oxidation number of the oxygen atom in it has not changed.\n- The stoichiometric coefficient of one of the reactants is equal to the stoichiometric coefficient of one of the products.\n- The difference between the change in the oxidation number of any oxidizing agent and reducing agent is equal to the stoichiometric coefficient of one of the reactants.\n\nOptions:\nA) Two\nB) Three\nC) four\nD) five",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "انرژی فعال‌سازی و آنتالپی واکنش: ۲NO(g) \\to {N_۲}(g) + {O_۲}(g)، در نبود کاتالیزگر به ترتیب برابر ۳۸۱ و ۱۸۱- کیلوژول است. اگر با استفاده از مبدل کاتالیستی در اگزوز خودرو، انرژی فعال‌سازی واکنش به ۲۸۰ کیلوژول کاهش یابد، کدام مطلب دربارهٔ آن درست است؟\n",
+        "options": {
+            "1": "با استفاده از کاتالیزگر، آنتالپی واکنش و محتوای انرژی فراورده‌ها، به تقریب ۲۵ درصد کاهش می‌یابد.",
+            "2": "در نبود کاتالیزگر و با استفاده از کاتالیزگر، محتوای انرژی واکنش دهنده، بیشتر از محتوای انرژی فراورده‌ها است.",
+            "3": "هم در این واکنش، فراورده‌ها از واکنش‌دهنده پایدارترند و استفاده از کاتالیزگر، سبب می‌شود گرمای بیشتری به محیط منتقل شود.",
+            "4": "با استفاده از کاتالیزگر، سرعت خروج اکسیژن از اگزوز افزایش می‌یابد، زیرا پایداری واکنش دهنده برای تبدیل به فراورده‌ها کاهش می‌یابد."
+        },
+        "final_answer": 2,
+        "full_text": "The activation energy and reaction enthalpy: 2NO(g) \\to {N_2}(g) + {O_2}(g), in the absence of a catalyst, are equal to 381 and -181 kJ, respectively. If the activation energy of the reaction is reduced to 280 kJ by using a catalytic converter in the car exhaust, which statement is true about it?\n\nOptions:\nA) By using a catalyst, the reaction enthalpy and the energy content of the products are reduced to approximately 25%.\nB) In the absence of a catalyst and with the use of a catalyst, the energy content of the reactant is greater than the energy content of the products.\nC) In this reaction, the products are more stable than the reactants, and the use of a catalyst causes more heat to be transferred to the environment.\nD) With the use of a catalyst, the rate of oxygen removal from the exhaust is increased, because the stability of the reactants for conversion to products is reduced.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "دربارهٔ سلول الکتروشیمیایی «آلومینیم - منگنز» که منجر به تولید انرژی می‌شود. چند مورد از مطالب زیر درست است؟\n{E^ \\circ }(A{l^{۳ + }}/Al) = - ۱/۶۶V\\,,\\,{E^ \\circ }(M{n^{۲ + }}/Mn) = - ۱/۱۸V\n- در معامله موازنه شدهٔ واکنش آن، در مجموع ۶ الکترون مبادله می‌شود.\n- شیب تغییرات غلظت یون‌های آلومینیم و منگنز، ضمن انجام واکنش، قرینهٔ یکدیگر است.\n- ضمن واکنش الکترون‌ها از آند به کاتد در مدار بیرونی حرکت می‌کنند و از جرم تیغهٔ قطب مثبت کاسته می‌شود.\n- محلول‌های منگنز (II) سولفات و آلومینیم سولفات، می‌توانند به‌ترتیب در انجام نیم‌واکنش‌های کاتدی و آندی شرکت کنند.\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 3,
+        "full_text": "About the \"aluminum-manganese\" electrochemical cell that leads to energy production. How many of the following are true?\n{E^ \\circ }(A{l^{3 + }}/Al) = - 1/66V\\,,\\,{E^ \\circ }(M{n^{2 + }}/Mn) = - 1/18V\n- In the balanced exchange of its reaction, a total of 6 electrons are exchanged.\n- The slope of changes in the concentration of aluminum and manganese ions, while performing the reaction, is similar to each other.\n- During the reaction, the electrons move from the anode to the cathode in the external circuit and the mass of the positive pole blade is reduced.\n- Manganese (II) sulfate and aluminum sulfate solutions can participate in cathodic and anodic half-reactions, respectively.\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "مفاهیم شیمیایی رایج مانند «مادهٔ مولکولی»، «مادهٔ کووالانسی»، «جامد یونی» و «پیوند هیدروژنی» را به‌ترتیب از راست به چپ، برای کدام مواد می‌توان به‌کار برد؟\n",
+        "options": {
+            "1": "C{O_۲} ، Si{O_۲} ، NaN{O_۳} ، HF",
+            "2": "{F_۲} ، (الماس {s_۶})C ، HCN ، {H_۲}O",
+            "3": "{F_۲} ، S{O_۴} ، PC{l_۳} ، {C_۶}{H_{۱۴}}",
+            "4": "C{O_۲} ، (گرافیت {s_۶})C ، NaCl ، {C_۶}{H_۶}"
+        },
+        "final_answer": 1,
+        "full_text": "Common chemical concepts such as \"molecular substance\", \"covalent substance\", \"ionic solid\" and \"hydrogen bond\" can be used for which substances, in order from right to left?\n\nOptions:\nA) C{O_2}, Si{O_2}, NaN{O_3}, HF\nB) {F_2}, (diamond {s_6})C, HCN, {H_2}O\nC) {F_2}, S{O_4}, PC{l_3}, {C_6}{H_{14}}\nD) C{O_2}, (graphite {s_6})C, NaCl, {C_6}{H_6}",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "اگر در یک ظرف ۵ لیتری در بسته در دمای معیّن، ۴ مول گاز هیدروژن و ۳ مول گاز نیتروژن را مطابق فرایند هابر مخلوط و گرم کنیم و در حالت تعادل، ۲ مول گاز نیتروژن در مخلوط تعادلی وجود داشته باشد، ثابت تعادل این واکنش کدام است؟\n",
+        "options": {
+            "1": "۵۰",
+            "2": "۱۰۰",
+            "3": "۸۰/۷۵",
+            "4": "۴۰/۲۵"
+        },
+        "final_answer": 1,
+        "full_text": "If we mix and heat 4 moles of hydrogen gas and 3 moles of nitrogen gas according to Haber's process in a closed container of 5 liters at a certain temperature, and in the equilibrium state, there are 2 moles of nitrogen gas in the equilibrium mixture, what is the equilibrium constant of this reaction? Is?\n\nOptions:\nA) 50\nB) 100\nC) 80/75\nD) 25/40",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "چند مورد از مطالب زیر، درست است؟\n- ۷۳/۵ درصد جرم مولکول پارازایلن را کربن تشکیل می‌دهد.\n- شمار اتم‌های کربن مولکول پارازایلن و مولکول استیرن، برابرند.\n- اتاتوییک اسید را می‌توان طی یک واکنش مناسب، به‌طور مستقیم از این به دست آورد.\n- متانول را می‌توان با کاتالیزگر و در دمای مناسب، از واکنش گاز {H_۲} با گاز CO به دست آورد.\n- مونومرهای سازندهٔ پلیمری با فرمول ساختاری عکس زیر، یک الکل دو عاملی و یک اسید دو عاملی‌اند.\n",
+        "options": {
+            "1": "پنج",
+            "2": "چهار",
+            "3": "سه",
+            "4": "دو"
+        },
+        "final_answer": 3,
+        "full_text": "How many of the following are true?\n- 73.5% of the mass of the paraxylene molecule is made up of carbon.\n- The number of carbon atoms in paraxylene molecule and styrene molecule are equal.\nEtatoic acid can be directly obtained from this through a suitable reaction.\nMethanol can be obtained from the reaction of {H_2} gas with CO gas with a catalyst and at the right temperature.\n- The monomers that make up the polymer with the structural formula shown below are a bifunctional alcohol and a bifunctional acid.\n\nOptions:\nA) Five\nB) four\nC) Three\nD) Two",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1401",
+            "month": "tir",
+            "question_number": "30"
+        }
+    }
+}

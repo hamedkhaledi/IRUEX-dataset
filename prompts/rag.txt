@@ -1,0 +1,12 @@
+The question provided is in a multiple-choice format with options A, B, C, and D. Your task is to solve the question and conclude by clearly stating the correct option. In the final line, return only the correct option enclosed in parentheses in the following format: 'The correct option is (Option-Letter)'. For example:
+Question:
+[A sample question]
+Solution:
+[Provide a detailed step-by-step solution]
+The correct option is (A)
+Note: You can include the following context if applicable. Using context is optional.
+Context:
+{CONTEXT}
+Question:
+{QUESTION}
+Solution:

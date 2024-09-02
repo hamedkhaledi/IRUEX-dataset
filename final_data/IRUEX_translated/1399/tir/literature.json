@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "کدام گزینه می‌تواند معنای مناسبی برای تعداد بیشتری از واژه‌های زیر باشد؟«بدسگال، عنود، تیمار، دلّاک، دوده، خیره، بردمیدن»\n",
+        "options": {
+            "1": "بداندیش، اندیشه، برگردانیدن، متحیّر",
+            "2": "دشمن و بدخواه، خدمت، خاندان، خروشیدن",
+            "3": "بدبختی، غمخواری، طایفه، برگردانیدن",
+            "4": "بدخواه، مهیب، کیسه‌ کش حمام، سرگشته"
+        },
+        "final_answer": 2,
+        "full_text": "Which option can be a suitable meaning for more of the following words?\n\nOptions:\nA) thinking, thinking, returning, wondering\nB) Enemy and ill-wisher, service, family, roaring\nC) Misery, sorrow, family, return\nD) malevolent, formidable, bathroom bag, confused",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "در کدام گزینه تعداد واژه‌هایی که «غلط» معنی شده، کمتر است؟\n",
+        "options": {
+            "1": "(برّ: خشک)، (باره: حصار)، (ویله: رها)، (نژند: اندوهگین)",
+            "2": "(ایدون: این‌ جا)، (اشباه: همانند)، (وظیفه: معاش)، (وبال: بار گناه)",
+            "3": "(پایمردی: استقامت)، (انگاره: طرح)، (ادبار: نگون‌ بخت)، (موالات: دوستی)",
+            "4": "(بیغوله: کنج)، (پدرام: آراستن)، (التهاب: زبانه و شعلهٔ آتش)، (آستانه: آغاز)"
+        },
+        "final_answer": 4,
+        "full_text": "In which option is the number of words that mean \"wrong\" less?\n\nOptions:\nA) (barre: dry), (bare: fence), (villa: leave), (nejand: sad)\nB) (Idon: here), (mistake: the same), (duty: income), (wabal: burden of sin)\nC) (steadfastness: perseverance), (image: design), (adbar: unlucky), (mowalat: friendship)\nD) (Beghouleh: corner), (pedram: adorning), (inflammation: tongue and flame), (threshold: beginning)",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "با توجّه به واژه‌های زیر، در کدام موارد معنی بعضی واژه‌ها نادرست است؟\nالف) (وجه: وجود) (پوییدن: تلاش) (محب: یار) / ب) (متقاعد: هم‌عقیده) (تاک: رز) (تقصیر: کوتاه) / ج) (انبان: خیک) (حریف: مبارز) (درهم: مسکوک طلا) / د) (سامان: امکان) (سرپَر زدن: توقف کوتاه) (منّت: نیکویی)\n",
+        "options": {
+            "1": "الف، ج",
+            "2": "الف، د",
+            "3": "ب، ج",
+            "4": "ب، د"
+        },
+        "final_answer": 3,
+        "full_text": "According to the following words, in which cases the meaning of some words is incorrect?\nA) (Face: Existence) (Powiden: Effort) (Lover: Friend) / B) (Convinced: Agreed) (Vine: Rose) (Fault: Short) / C) (Anban: Khaik) (Rival: Fighter) (Dham : Muskok gold) / d) (Equipment: possibility) (covering: short stop) (Ment: goodness)\n\nOptions:\nA) A, C\nB) A, D\nC) b, c\nD) b, d",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "در متن زیر، چند «غلط املایی» یافت می‌شود؟«غافلی ضعیف که بر خواری کشیدن خو دارد و به هیچ تأویل منظور و محترم و متاع و مکرّم نگردد که در معرض حسد و عداوت افتد، ببایددانست که عاقل همیشه محروم است و محسود و من از این طبقه نیستم و نه آزی قالب است که خیانت کنم.»\n",
+        "options": {
+            "1": "یک",
+            "2": "دو",
+            "3": "سه",
+            "4": "چهار"
+        },
+        "final_answer": 2,
+        "full_text": "How many \"spelling mistakes\" can be found in the following text? \"A weak fool who is inclined to be humiliated and is not meant to be respected, enjoyed or honored in any interpretation, who is subject to envy and enmity, should know that the wise is always deprived and envious and envious. I am not from this class, and it is not acceptable for me to betray.\"\n\nOptions:\nA) One\nB) Two\nC) Three\nD) four",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "در متن زیر، چند غلط املایی وجود دارد؟«با آن‌ که به چنین واقعهٔ هایل و مصیبت عام از وطن به قربت افتاده است و از مسرّت به ملالت و از کثرت به قلّت و از جمعیّت به تفرقت،نگویم از عزّت به مذلّت که عزّت فقر هرگز روی زلّت نبیند. امید به عنایت بی‌ علّت و عاطفت حضرت جلّت، این کتاب در حضرت سلطنتمنظور باشد نه مهجور.»\n",
+        "options": {
+            "1": "دو",
+            "2": "سه",
+            "3": "چهار",
+            "4": "پنج"
+        },
+        "final_answer": 1,
+        "full_text": "How many spelling mistakes are there in the following text? Poverty should never be seen as a shame. Hoping for the causeless care and affection of Hazrat Jalat, this book will be used in Hazrat Sultanate and not abandoned.\n\nOptions:\nA) Two\nB) Three\nC) four\nD) five",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "در کدام بیت غلط املایی یافت می‌شود؟\n",
+        "options": {
+            "1": "چون درآمد علّتی اندر قضا / تیغ را دیدم نهان کردن سزا",
+            "2": "صلتش بزم خوان هشت بهشت / صولتش رزم هفت‌ خوان ملوک",
+            "3": "شب همه شب انتظار صبح رویی می‌رود / کان صباحت نیست این صبح جهان‌ افروز را",
+            "4": "نادان که از قضای خدا می‌کند حذر / غافل که رو به تیر قضا جلوه می‌کند"
+        },
+        "final_answer": 1,
+        "full_text": "In which verse is the misspelling found?\n\nOptions:\nA) because I saw the causal income of the sentence / the blade, hiding the sentence\nB) Solatsh Bazam-Khuan Hasht Behesht / Solatsh Razm Haft-Khuan Maluk\nC) Every night, one waits for the morning\nD) Ignorant who is wary of God's judgment / heedless who shows himself facing the arrow of judgment",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "ابیات زیر، به‌ ترتیب، سرودهٔ چه کسانی هستند؟\nالف) تا زَبَر خاکی ای درخت تنومند / مگسل از این آب و خاک ریشهٔ پیوند\nب) زور داری چون نداری علم کار / لاف آن نتوان به آسانی زدن\n",
+        "options": {
+            "1": "ابن حسام خوسفی، سنایی",
+            "2": "عطّار نیشابوری، خواجوی کرمانی",
+            "3": "ادیب‌ الممالک فراهانی، مجد خوافی",
+            "4": "ابن حسام خوسفی، جلال‌ الدین محمّد مولوی"
+        },
+        "final_answer": 3,
+        "full_text": "Who are the following verses, respectively?\nA) Up to the soil texture of a stout tree / fly from this water and soil root graft\nb) You have power because you don't know how to do it / you can't brag about it easily\n\nOptions:\nA) Ibn Hossam Khosfi, Sana'i\nB) Attar Nishabouri, Khajovi Kermani\nC) Adib al-Mamalek Farahani, Majd Khafi\nD) Ibn Hossam Khosfi, Jalaluddin Mohammad Molavi",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "تعداد تشبیهات کدام بیت بیشتر است؟\n",
+        "options": {
+            "1": "واله و شیداست دائم همچو بلبل در قفس / طوطی طبعم ز عشق شکر و بادام دوست",
+            "2": "بمال بر لب خونخوار حرص، خاک قناعت / وگرنه تشنگی افزاست آب شور تمنّا",
+            "3": "چون سنگ سرمه، خاکش پیرایهٔ نظرهاست / چشمی که یک نظر دید آن چشم سرمه‌سا را",
+            "4": "به هر شورش مده چون موج از کف دامن دریا / که باشد عقد گوهر خوشه‌ای از خرمن دریا"
+        },
+        "final_answer": 4,
+        "full_text": "Which bit has the most similes?\n\nOptions:\nA) It's a constant passion like a nightingale in a cage / my parrot loves sugar and almonds\nB) Smear on the bloodthirsty lips of greed, the soil of contentment / otherwise the thirst increases with the salty water of desire.\nC) Because the stone is a ruby, its soil is a mixture of opinions\nD) to every riot like a wave from the bottom of the sea / which is the marriage of a gem of a cluster of sea threshing",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "در کدام بیت همهٔ آرایه‌های «تشبیه، استعاره، جناس» به کار رفته است؟\n",
+        "options": {
+            "1": "حافظ در این کمند سرِ سرکشان بسی است / سودای کج مَپز، که نباشد مجال تو",
+            "2": "در چین زلفش ای دل مسکین چگونه‌ای؟ کآشفته گفت باد صبا شرح حال تو",
+            "3": "صحن سرای دیده بشستم، ولی چه سود؟ / کاین گوشه، نیست در خور خیل خیال تو",
+            "4": "چون پیاله، دلم از توبه که کردم، بشکست / همچو لاله، جگرم بی می و خم‌ خانه بسوخت"
+        },
+        "final_answer": 3,
+        "full_text": "In which verse are all the arrays of \"simile, metaphor, pun\" used?\n\nOptions:\nA) Hafez is enough in this noose of the head of the rebellious / Soda Kej Mapez, so that you don't have time\nB) How are you in China, you poor soul? Kaashfete said, Good morning, your biography\nC) I saw Sahn Sarai, but what's the use? / Kain Gushe, it is not according to your imagination\nD) Like a cup, my heart has broken because of my repentance / Like a tulip, my liver is fruitless and my house has burned.",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "آرایه‌های مقابلِ ابیّات در همهٔ گزینه‌ها تماماً درست است؛ به‌ جز:\n",
+        "options": {
+            "1": "نازنین‌ تر می‌شوی هر روز از روز دگر / ناز چندانی که می‌ریزد ز سر تا پای تو (حسن تعلیل، واج‌ آرایی)",
+            "2": "باغبان همچو نسیمم ز در خویش مران / کآب گلزار تو از اشک چو گلنار من است (ایهام، کنایه)",
+            "3": "در غبار خاطر مجنون حصاری گشته است / دیدهٔ آهو ز شرم نرگس شهلای تو (استعاره، تشبیه)",
+            "4": "پرده‌های دیده‌اش پیراهن یوسف شود / هر که یک شب را به روز آورد در سودای تو (تلمیح، ایهام تناسب)"
+        },
+        "final_answer": 1,
+        "full_text": "The opposite arrays of verses in all options are completely correct; Except:\n\nOptions:\nA) You become more beautiful every day / So much love that falls from your head to your feet (Hasan Taalil, phonetics)\nB) The gardener is like the breeze in my heart / Your flower garden is like my tears (Iham, sarcasm)\nC) A fence has been erected in the dust of a madman's heart / The deer saw the shame of your narcissus Shahla (metaphor, simile)\nD) His seen curtains become Yusuf's shirt / whoever brings a night to your day",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "آرایه‌های «تشبیه، استعاره، حس‌ آمیزی و ایهام تناسب» به‌ ترتیب، در کدام ابیات آمده است؟\nالف) چون شبنم است بستر و بالین من ز گل / در خارزار از نظر پاک‌ بین خویش\nب) نالهٔ نی راست صد تنگ شکر در آستین / بندبندش گر پر از شکّر نباشد گو مباش\nج) چرا از دست می‌رفتم چرا بیمار می‌بودم؟ / اگر می‌بود بر بالین من سیب زنخدانش\nد) کجا تاب نگاه گرم دارد سایه پروردی / که گردد آفتابی چهره از گلگشت مهتابش\n",
+        "options": {
+            "1": "ب، الف، د، ج",
+            "2": "ب، د، ج، الف",
+            "3": "ج، الف، ب، د",
+            "4": "ج، الف، د، ب"
+        },
+        "final_answer": 4,
+        "full_text": "In which verses are the arrays of \"simile, metaphor, sense and proportionality\" respectively?\nA) Because dew is my bed and bed like a flower / in a thorny place, from my pure point of view\nb) The wail of the right reed has a hundred tons of sugar in its sleeve / if its strap is not full of sugar, don't listen\nc) Why was I missing, why was I sick? / If there was an apple on my bed\nd) Where the sun has a warm look, the shade of the sun grows / where the face becomes sunny from the moonlight\n\nOptions:\nA) b, a, d, c\nB) b, d, c, a\nC) c, a, b, d\nD) C, A, D, B",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "با توجّه به مصراع‌های زیر، اجزای کدام مصراع‌ها از «نهاد + فعل» تشکیل شده است؟\nالف) بسیار فرق باشداز اندیشه تا وصول       ب) دلیل صدق نباشد نظر به لاله و سنبل\nج) سعدی از این پس نه عاقل است نه هشیار    د) ز سر به در نرود هم‌چنان امید وصال\nهـ) دی به چمن برگذشت سرو سخنگوی من\n",
+        "options": {
+            "1": "الف، ب، د",
+            "2": "الف، د، هـ",
+            "3": "ب، ج، هـ",
+            "4": "ب، د، هـ"
+        },
+        "final_answer": 2,
+        "full_text": "According to the following stanzas, which stanzas are composed of \"entity + verb\"?\na) There is a lot of difference from thought to realization b) The reason is not true, looking at tulips and hyacinths\nc) From now on, Saadi is neither wise nor sober d) Do not go to the door as Omid Vasal\ne) The day my spokesman passed away\n\nOptions:\nA) A, B, D\nB) A, D, E\nC) b, c, e\nD) b, d, e",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "در کدام گروه‌ واژه، رابطهٔ معنایی واژه‌ها، با سایر گروه‌ها، متفاوت است؟\n",
+        "options": {
+            "1": "آسمان و ماه ـ دریا و ماهی ـ شعر و قصیده",
+            "2": "تفوّق و برتری ـ عقده و گره ـ صواب و صالح",
+            "3": "حیوان و چنگال ـ آشپزخانه و چاقو ـ رمضان و تشنگی",
+            "4": "خانواده و همسر ـ مدرسه و تخته‌ سیاه ـ پادگان و سرباز"
+        },
+        "final_answer": 2,
+        "full_text": "In which group of words, the semantic relationship of words is different from other groups?\n\nOptions:\nA) The sky and the moon - the sea and the fish - poetry and odes\nB) Supremacy and supremacy - complex and knot - correct and valid\nC) Animal and fork - kitchen and knife - Ramadan and thirst\nD) family and wife - school and blackboard - barracks and soldiers",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "بیشترین «صفت مرکّب» در کدام بیت یافت می‌شود؟\n",
+        "options": {
+            "1": "دوست‌ کُش بیگانه‌ پرور دیرجوش و زودرنج / سست‌ پیمان سخت‌ دل مشکل‌ پسند آسان‌ گسل",
+            "2": "لفظ آتش‌ بار او یأس‌آور و امیدسوز / نرگس بیمار او دردافکن و درمان‌ گسل",
+            "3": "غمزه‌اش در دلبری یغماگر و مردم‌ فریب / طرّه‌اش در کافری تقواکش و ایمان‌ گسل",
+            "4": "لعل گوهربیز او گاه سخن مرجان‌ فروش / مژهٔ خون‌ ریز او وقت غضب شریان‌ گسل"
+        },
+        "final_answer": 1,
+        "full_text": "In which verse is the most \"compound adjective\" found?\n\nOptions:\nA) Friend-killer, xenophobic, slow-tempered and quick-tempered\nB) His fire-laden words are despairing and hopeful / his sick narcissus is a sprinkler and cure for mistakes\nC) His gloom in the kindness of the prey and the deceived people / His anger in the unbelief of his piety and faith\nD) Lal Gohrabiz, sometimes his speech is selling Marjan / his bloody eyelash when he is angry is a fault",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "در کدام ابیات «صفت مضافٌ‌ الیه» وجود دارد؟\nالف) غنیمت‌ دان در این عالم وصال سبز خطّان را / که باغ خلد این ریحان جان‌ پرور نمی‌دارد\nب) مگر دیده است چشمِ خوش‌ نگاه آن سمن‌ بر را؟ / زمین خانه بردوشان عمارت برنمی‌دارد\nج) نپیچد سر ز زخم گاز شمع ما سیه‌ روزان / گل این باغ شبنم از لطافت برنمی‌دارد\nد) دل خود را به صدامیّد کردم چاک از این غافل / که بار شانه آن زلف معنبر برنمی‌دارد\nهـ) عرق رخسار آن خورشید طلعت برنمی‌دارد / که چشم از پشت پا نرگس ز خجلت برنمی‌دارد\n",
+        "options": {
+            "1": "الف، ب، هـ",
+            "2": "الف، ج، د",
+            "3": "ب، ج، د",
+            "4": "ب، ج، هـ"
+        },
+        "final_answer": 4,
+        "full_text": "In which verses is there \"additional attribute\"?\nA) The treasurer in this world does not support the green path / that the garden of Khald does not support this life-giving basil.\nb) Has he seen the good looking eyes of that man? / The land of their house does not take a mansion\nc) Don't turn your head from the gas wound of our candle in the darkness / The flower of this garden does not take away the dew from its tenderness.\nd) I poured out my heart to Sadamid, oblivious to this / that Zalf Manbar does not carry the burden on his shoulder.\ne) The sweat on the face of that sun does not take away the glory / the eye from the back of the narcissus does not take away your shame\n\nOptions:\nA) A, B, E\nB) A, C, D\nC) b, c, d\nD) b, c, e",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "با توجّه به ابیاتِ زیر، کدام مورد «غلط» است؟\n«با لعل لبت شراب را مستی نیست / با قد تو سرو را به‌ جز پستی نیست\nما را دهن تو نیست می‌پندارد / با آن‌که به یک ذرّه در او هستی نیست»\n",
+        "options": {
+            "1": "«مستی، پستی و هستی» همگی مسند هستند.",
+            "2": "در ابیات «وابستهٔ وابسته» و یک ترکیب وصفی وجود دارد.",
+            "3": "«را» هم در معنای حرف اضافه و هم در معنای حرف نشانه آمده است.",
+            "4": "اجزای تشکیل‌ دهندهٔ یکی از جمله‌ها «نهاد + مفعول + مسند + فعل» است."
+        },
+        "final_answer": 1,
+        "full_text": "According to the following verses, which item is \"wrong\"?\n\"You are not drunk with wine with your lips / With your height, you are nothing but lowly\nHe thinks that we are not your mouth / even though you are not even an iota in him\"\n\nOptions:\nA) \"Drunkenness, meanness and existence\" are all nouns.\nB) In the verses, there is a \"dependent dependent\" and a descriptive compound.\nC) \"Ra\" is used both as a preposition and as a sign.\nD) The constituent parts of one sentence are \"entity + object + predicate + verb\".",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "مفهوم کدام بیت در مقابل آن «غلط» آمده است؟\n",
+        "options": {
+            "1": "تا صورتت نکو بود افعال زشت کردی / پس فعل را نکو کن اکنون که زشت گشتی (دریافتن باقی‌ ماندهٔ عمر)",
+            "2": "باده‌ نوشی که در او روی و ریایی نبود / بهتر از زهدفروشی که در او روی و ریاست (مذمّت تزویر)",
+            "3": "گرچه فرهادم به تلخی جان برآید باک نیست / بس حکایت‌های شیرین باز می‌ماند ز من (توصیه به داستان‌ پردازی)",
+            "4": "از جان طمع بریدن آسان بود ولیکن / از دوستان جانی مشکل توانی بریدن (تأثیر عشق)"
+        },
+        "final_answer": 3,
+        "full_text": "The concept of which verse is \"wrong\" in front of it?\n\nOptions:\nA) Until your face was ugly, you did ugly deeds / so do ugly deeds now that you have become ugly (getting the remainder of life)\nB) Alcoholism in which there was no hypocrisy / better than asceticism in which there was no hypocrisy (reprehensible)\nC) Even if Farhad becomes bitter, he is not afraid / only sweet stories remain from me (recommendation to tell stories)\nD) It was easy to cut off the life of greed, but it was difficult to cut off the life of friends (effect of love).",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "مفهومِ کدام بیت با سایر ابیات، متفاوت است؟\n",
+        "options": {
+            "1": "گر به دیدن شوی از دست‌ درازی قانع / می‌توان از گل ناچیده چه گل‌ها چیدن",
+            "2": "هر که گردید ز عبرت به تماشا قانع / به کف پوچ شد از گوهر دریا قانع",
+            "3": "زود عاجز شود از دیدن یوسف چشمی / که بر دیدار نگردد چو زلیخا قانع",
+            "4": "منم به گوشهٔ چشمی ز آشنا قانع / به خاک پای قناعت ز توتیا قانع"
+        },
+        "final_answer": 2,
+        "full_text": "Which verse's meaning is different from other verses?\n\nOptions:\nA) If you are satisfied with the sight of a long hand / how many flowers can be picked from a small flower\nB) Whoever was satisfied with the lesson of the spectacle / was satisfied with the empty bottom of the gem of the sea\nC) He will soon be unable to see Yusuf Cheshmi / that he will not visit Cho Zulikha Qane\nD) I am satisfied with the corner of my eye from Ashna Qane / to the soil of my contentment with Totia Qane",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "مفهوم کدام بیت با بقیه متفاوت است؟\n",
+        "options": {
+            "1": "شکفته لالهٔ نعمان به‌ سان خوبْ رخساران / به مشک‌ اندر زده دل‌ها به خون‌ اندر زده سرها",
+            "2": "وقت است از شکوفه چمن سیم‌ تن شود / هر خار خشک یوسف گل پیرهن شود",
+            "3": "سنبل او می‌خرامد دست بر دوش بهار / تا کند در وقت فرصت حلقه در گوش بهار",
+            "4": "شده است چون رخ لیلی و سینهٔ مجنون / ز جوش لاله و گل دامن بیابان‌ها"
+        },
+        "final_answer": 3,
+        "full_text": "The meaning of which bit is different from the others?\n\nOptions:\nA) Noman's tulip bloomed with beautiful faces / Hearts are covered with musk and heads are covered with blood\nB) It's time to turn the grass into a wire / every dry thorn becomes Yusuf's flower\nC) He buys the hyacinth with his hand on spring's shoulder / to slow down at the time of the ring in spring's ear\nD) It has become like the face of a lily and the chest of a madman",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "همهٔ ابیات با بیتِ زیر قرابت مفهومی دارد؛ به‌ جز:\n«سخن گفته دگر باز نیاید به دهن / اوّل اندیشه کند مرد که عاقل باشد»\n",
+        "options": {
+            "1": "سخن چون برابر شود با خرد / روان سراینده رامش برد",
+            "2": "سخن گر چو گوهر برآرد فروغ / چو ناباور افتد نماید دروغ",
+            "3": "بدان کز زبان است مردم به رنج / چو رنجش نخواهی سخن را بسنج",
+            "4": "سخن پیش فرهنگیان سخته گوی / به هر کس نوازنده و تازه‌ روی"
+        },
+        "final_answer": 2,
+        "full_text": "All the verses have a conceptual affinity with the verse below; Except:\n\"Do not let the words spoken come back to the mouth / Let a man think first to be wise\"\n\nOptions:\nA) When the speech is equal to the wisdom/psyche of the poet, it will be taken away\nB) A speaker who is a gem falls on the flour of Forough / who is unbelieving and lies\nC) Know that language is a language, people should measure their words by their pain / You don't want to be hurt\nD) It's hard to speak before the cultured people / to anyone who is a musician and a novice",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "مفهوم کدام بیت با بیتِ زیر، هم‌ خوانی دارد؟\n«وصلت آن کس یافت کز خود شد فنا / هر که فانی شد ز خود مردانه‌ای است»\n",
+        "options": {
+            "1": "بیا گر خواهیم دیدن که دور از روی خوب تو / بقای خویش چندانی نمی‌بینم نمی‌بینم",
+            "2": "بی‌فنا ره نتوان برد به سر منزل دوست / هستی ناقص من موجب حرمان من است",
+            "3": "ما چو قدر وصلت ای جان و جهان نشناختیم / لاجرم در بوتهٔ هجران تو بگداختیم",
+            "4": "مکن از ظلمت پر وحشت فقر و فنا دهشت / نظر چون خضر بر سرچشمهٔ آب بقا بگشا"
+        },
+        "final_answer": 2,
+        "full_text": "The meaning of which bit is consistent with the following bit?\n\"The connection of the one who found that he became mortal / Whoever became mortal is manly by himself\"\n\nOptions:\nA) Let's see that I don't see much away from your good face / I don't see much of my survival\nB) I can't be taken to my friend's house forever / my incomplete existence is the cause of my deprivation\nC) We didn't know how much the connection between life and the world is / we inevitably lost you in the bush of Hijran\nD) Don't be afraid of the darkness full of fear of poverty and annihilation",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "مفهومِ کدام بیت با سایر ابیات، تفاوت دارد؟\n",
+        "options": {
+            "1": "تخم راز عشق را در خاک‌ کردن مشکل است / چون شرر از سنگ بیرون می‌جهد اسرار عشق",
+            "2": "که را زهره است راز عشق را در دل نگه دارد؟ / صدف را سینه‌ چاک آرد به ساحل گوهر عاشق",
+            "3": "از خاک اهل عشق نظر خیره می‌شود / از ابر پردگی نشود آفتاب عشق",
+            "4": "به هر بی‌پرده‌ای اظهار نتوان کرد راز خود / دل شب‌ها بود گنجینهٔ اسرار عاشق را"
+        },
+        "final_answer": 4,
+        "full_text": "Which verse's meaning is different from other verses?\n\nOptions:\nA) It is difficult to put the seed of the secret of love in the soil / because the wicked jumps out of the stone, the secrets of love\nB) Who is Venus to keep the secret of love in the heart? / Chuck the oyster to the shore of the lover's gem\nC) From the soil of the people of love, the gaze shines / The sun of love does not cover the clouds\nD) You can't tell anyone your secret",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "مفهومِ کدام بیت با بیتِ زیر، یکسان است؟\n«دعای صبح و آه شب کلید گنج مقصود است / بدین راه و روش می‌رو که با دلدار پیوندی»\n",
+        "options": {
+            "1": "شاها به سوی خصمت تیر دعا فکندم / از کردگار خواهم تأثیر این دعا را",
+            "2": "فروغی از دعای پادشه فارغ نباید شد / دعا کن کز لب روح‌ الامین آمین شود پیدا",
+            "3": "به هر قفلی کلید صبح‌ خیزان راست می‌آید / مشو دل‌های شب زنهار از دست دعا غافل",
+            "4": "به جان خواجه و حق قدیم و عهد درست / که مونس دم صبحم دعای دولت توست"
+        },
+        "final_answer": 3,
+        "full_text": "Which bit's meaning is the same as the following bit?\n\"Morning prayers and sighs at night are the keys to the treasure of Maqsood\n\nOptions:\nA) Shaha, I shot a prayer towards your enemy / I ask God to make this prayer effective\nB) Foroughi should not be left out of the king's prayer / Pray that Amen will be found on the lips of the Spirit of God\nC) Every lock comes with a key in the morning / Do not forget the hearts of women in the night without praying.\nD) To the life of Khwaja and the old right and the right covenant / that I pray for your government at the end of my morning",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "مفهومِ همهٔ ابیات یکسان است؛ به‌ جز:\n",
+        "options": {
+            "1": "بر چهرهٔ وصفش چه محل زیور تقریر / دریاب که حاجت به بیان نیست عیان را",
+            "2": "در روی تو گفتم سخنی چند بگویم / رو بازگشادی و در نطق ببستی",
+            "3": "هیچ نقّاشت نمی‌بیند که نقشی برکند / وان که دید از حیرتش کلک از بنان افکنده‌ای",
+            "4": "صورت یوسف نادیده صفت می‌کردند / با میان آمد و بی‌ عقل و زبان گردیدم"
+        },
+        "final_answer": 1,
+        "full_text": "The meaning of all verses is the same; Except:\n\nOptions:\nA) On the face of his description, what is the place of the ornament of the description / finder that does not need to be expressed\nB) I said something to you / you opened it and closed it in speech\nC) He doesn't see any painting that he can take a picture of.\nD) Youssef's face was described as \"unsightly\".",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "مفهومِ حدیث «حاسبوا قبل ان تُحاسبوا» از کدام بیت، دریافت می‌شود؟\n",
+        "options": {
+            "1": "در زمانِ خط، مدار چشم او بر مردمی است / گردن عامل بود باریک در پای حساب",
+            "2": "زان خلایق که درآیند به دیوان حساب / مثل سلمان عجب ار ز آن‌ چه درآید به حساب",
+            "3": "صبح پیری نیست گر صبح قیامت، از چه کرد / پیش چشم من ز عینک نصب، میزان حساب",
+            "4": "سنگ کم در پلّهٔ میزان خجالت می‌کشد / خودحساب آسوده است از پرسش روز حساب"
+        },
+        "final_answer": 4,
+        "full_text": "From which verse is the concept of the hadith \"Hasabwa Qabl an Tohasabwa\" obtained?\n\nOptions:\nA) At the time of the line, his eyes are focused on the people / the operator's neck was narrow at the bottom of the calculation\nB) People who come to the accounting court / like Salman, I wonder what is counted\nC) The morning of old age is not the morning of doomsday\nD) The little stone is embarrassed on the step of the scale / self-calculation is relieved from the question of the day of reckoning",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1399",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "question": "در کدام گزینه، معنی مقابل همهٔ واژه‌ها، درست است؟\n",
+        "options": {
+            "1": "(وَیله: ناله) (هژیر: هوشیار) (همّت: کوشش)",
+            "2": "(تقریر: بیان) (اشباه: سایه‌ها) (مبتنی: ساخته)",
+            "3": "(شوخ: آلودگی) (کام: زبان) (استرحام: رحم کردن به کسی)",
+            "4": "(عرش: سایبان) (تقریظ: فهرست کتاب) (وَقب: بالای کمر)"
+        },
+        "final_answer": 1,
+        "full_text": "In which option, the opposite meaning of all the words is correct?\n\nOptions:\nA.\nB) (declaration: statement) (false: shadows) (contextual: fabricated)\nC) (joke: pollution) (palate: language) (ashtrah: showing mercy to someone)\nD) (throne: canopy) (specification: book list) (waqb: above the waist)",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "تمام معانی مقابل کدام واژه‌ها، درست است؟\nالف) مقرون: پیوسته، قرینه         ب) مؤکّد: تأکید شده، استوار\nج) متّفق: موافق، همگرا           د) تمکّن: توانگر، ثروت\nهـ) محجوب: پنهان، مستور\n",
+        "options": {
+            "1": "الف، هـ",
+            "2": "ب، د",
+            "3": "ب، هـ",
+            "4": "ج، ب"
+        },
+        "final_answer": 3,
+        "full_text": "All the opposite meanings of which words are correct?\na) Muqrun: continuous, similar b) Emphasized: emphasized, firm\nc) Mustafaq: agree, converging d) Takan: wealthy, wealth\ne) Mahjub: hidden, concealed\n\nOptions:\nA) A, E\nB) b, d\nC) b, e\nD) c, b",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "«صاحب جمال، پسندیده، برتر، رواق» به‌ترتیب، معانی کدام واژه‌هاست؟\n",
+        "options": {
+            "1": "وسیم، قداست، فراسو، طَبَق",
+            "2": "قسیم، صواب، ماورا، طاق",
+            "3": "جسیم، صواب، فایق، محراب",
+            "4": "نسیم، صفوت، ماسوا، بخش قوسی هر چیز"
+        },
+        "final_answer": 2,
+        "full_text": "What are the meanings of \"Saheb Jamal, Pandideh, Superior, Roaq\" respectively?\n\nOptions:\nA) Wasim, Qadast, Farasu, Tabaq\nB) Qassim, Sawab, Maura, Taq\nC) Jasim, Sawab, Faiq, Mihrab\nD) Nasim, safout, maswa, arc part of everything",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "در میان گروه واژه‌های داده شده، چند غلط املایی یافت می‌شود؟\n«رجز خوانی و مفاخره، مرتعش و لرزنده، هشم و خدمتکار، آذرم و حیا، کاذیه و جاکاغذی، غرس و نشاندن، نمط و طریقه، غرفه و بالاخانه، طیلسان و ردا، زماد و مرهم، چریق آفتاب، زی‌حیات و جاندار»\n",
+        "options": {
+            "1": "چهار",
+            "2": "پنج",
+            "3": "شش",
+            "4": "هفت"
+        },
+        "final_answer": 3,
+        "full_text": "Among the given group of words, how many spelling mistakes are found?\n\"Rejoicing and boasting, shaking and shivering, hashem and maidservant, azaram and hiya, kadiye and jakaghadzi, planting and planting, style and method, pavilion and loft, tailsan and robe, zamad and marham, chirig aftab, life and life\"\n\nOptions:\nA) Four\nB) five\nC) Six\nD) Seven",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "در کدام گزینه، هر دو بیت، غلط املایی دارد؟\nالف) سحر چشمان تو باطل نکند چشم آویز / مست چندان که بپوشند نباشد مسطور\nب) کسی کاو طریق تواضع رود / کند بر صریر شرف سلطنت\nج) چو نیکی کند با تو بر خویشتن / همی خواند از تو ثناهای خود\nد) بزد نعره‌ای پهلوان دلیر / به سوی نریمان چو ارغند شیر\n",
+        "options": {
+            "1": "الف - ب",
+            "2": "الف - د",
+            "3": "ب - ج",
+            "4": "ج - د"
+        },
+        "final_answer": 1,
+        "full_text": "In which option, both bits are misspelled?\nA) Don't invalidate the charm of your eyes, don't be too drunk to wear them\nb) Someone who seeks the path of humility / slows down the path of the honor of royalty\nc) Who does good with you on himself / he sings his praises from you\nd) The blaring goat of the brave warrior / to Nariman Cho Arghand Shir\n\nOptions:\nA) A - B\nB) A - D\nC) b - c\nD) c - d",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "در کدام عبارت، غلط املایی وجود دارد؟\n",
+        "options": {
+            "1": "ساغری چند شراب خورده بود و سورت مستی استیلا یافت.",
+            "2": "اقوال پسندیده، مدروس گشته و حرص غالب و قناعت مغلوب.",
+            "3": "اگر خردمندی به قلعه پناه گیرد و ثقت افزاید، البته به عیبی منسوب نگردد.",
+            "4": "در چنین ورطه‌ای اگر نه تصرّفات ولایت شیخ دستگیر او شود، خوف ذوال ایمان باشد."
+        },
+        "final_answer": 4,
+        "full_text": "Which sentence has a spelling mistake?\n\nOptions:\nA) Sagri had drunk some wine and got drunk.\nB) The words are pleasing, learned, and prevailing greed and defeating contentment.\nC) If a wise man takes refuge in the castle and increases his confidence, of course, it should not be attributed to any fault.\nD) In ​​such a predicament, if he is arrested not because of the actions of the sheikh's authority, then fear is the source of faith.",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "هر یک از آثار زیر، به‌ترتیب، از چه کسی است؟\n«سانتاماریا، در حیاط کوچک پاییز در زندان، تیرانا، دری به خانهٔ خورشید»\n",
+        "options": {
+            "1": "محمد بهمن بیگی، سیّد حسن حسینی، مهرداد اوستا، م. سرشک",
+            "2": "سیّد مهدی شجاعی، اخوان ثالث، محمدرضا رحمانی، سلمان هراتی",
+            "3": "باستانی پاریزی، سهراب سپهری، شفیعی کدکنی، سلمان هراتی",
+            "4": "احمد عربلو، م. امید، سیاوش کسرایی، قیصر امین‌پور"
+        },
+        "final_answer": 2,
+        "full_text": "Who is each of the following works, respectively?\n\"Santa Maria, in the small autumn courtyard in the prison, Tirana, door to the house of the sun\"\n\nOptions:\nA) Mohammad Bahman Beigi, Seyed Hasan Hosseini, Mehrdad Avesta, M. Redhead\nB) Seyyed Mehdi Shujaei, Akhwan Tahalit, Mohammad Reza Rahmani, Salman Herati\nC) Bastani Parisi, Sohrab Sepehri, Shafiei Kodkani, Salman Herati\nD) Ahmed Arablo, m. Omid, Siavash Kasraei, Qaiser Aminpour",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "در کدام تشبیه وجه شبه ذکر نشده است؟\n",
+        "options": {
+            "1": "چون مار زخم‌خورده دل افتد به پیچ و تاب / هر گه که یاد طرّهٔ پیچان کند تو را",
+            "2": "چون رخ من شده است رنگ زمین / چون دَم من شده است طبع زمان",
+            "3": "جهان چون نی هزاران ناله دارد / که یک نی دید از شکرستانی؟",
+            "4": "در وفای عشق تو مشهور خوبانم چو شمع / شب‌نشین کوی سربازان و رندانم چو شمع"
+        },
+        "final_answer": 2,
+        "full_text": "In which simile is the pseudo aspect not mentioned?\n\nOptions:\nA) Like a wounded snake, the heart falls into a twist / anything that reminds you of a twist\nB) Because my face has become the color of the earth / Because my tail has become the nature of time\nC) The world has thousands of moans like a straw / Who saw a straw from Shakrestani?\nD) In ​​faithfulness to your love, I am famous, I am a candle / the night of the soldiers, and I am running",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "آرایه‌های بیتِ زیر، کدام است؟\n«جای خنده است سخن گفتن شیرین پیشت / که آب شیرین چو بخندی برود از شکرت»\n",
+        "options": {
+            "1": "استعاره، مجاز، کنایه، تلمیح",
+            "2": "تشبیه، ایهام، مجاز، حسن تعلیل",
+            "3": "استعاره، ایهام تناسب، تلمیح، تناقض",
+            "4": "تشبیه، ایهام، استعاره، ایهام تناسب"
+        },
+        "final_answer": 4,
+        "full_text": "What are the following bit arrays?\n\"It is a laughing matter to speak sweetly to you / so that the sweet water of your laughter goes away from your happiness\"\n\nOptions:\nA) Metaphor, permission, allusion, allusion\nB) simile, iham, permissible, hasan ta'leel\nC) Metaphor, analogy, allusion, contradiction\nD) simile, simile, metaphor, simile",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "بیتِ زیر «فاقد» کدام آرایه‌های ادبی است؟\n«شود از مُهر خموشی دل خامش گویا / جوش می در جگر خم ز سر بسته بود»\n",
+        "options": {
+            "1": "ایهام، حس‌آمیزی",
+            "2": "استعاره، تناقض",
+            "3": "تشبیه، مراعات نظیر",
+            "4": "مجاز، اسلوب معادله"
+        },
+        "final_answer": 1,
+        "full_text": "Which literary arrays is the following verse \"lacking\"?\n\"It is clear from the seal of the silence of his raw heart / a boil was closed in the liver of a bent head\"\n\nOptions:\nA) Iham, sensuality\nB) metaphor, paradox\nC) Analogy, following the example\nD) allowed, equation style",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "ترتیبِ آرایه‌های «استعاره، تشبیه، پارادوکس و حسن تعلیل» در ابیات زیر کدام است؟\nالف) دلم به پیش تو می‌خواست جان فرستادن / ولی کبوتر جان را نبود قوّت بال\nب) ز میوه گر چه در این بوستان سبکباریم / همان چو سرو به آزادگی گرفتاریم\nج) مگر ای زلف ز حال دلم آگه شده‌ای / که پراکنده و شوریده و سرگردانی\nد) خواهم اندر پایش افتادن چو گوی / ور به چوگانم زند هیچش مگوی\n",
+        "options": {
+            "1": "الف، ب، د، ج",
+            "2": "الف، د، ب، ج",
+            "3": "ج، د، ب، الف",
+            "4": "د، ب، الف، ج"
+        },
+        "final_answer": 2,
+        "full_text": "What is the order of the arrays of \"metaphor, simile, paradox and good explanation\" in the following verses?\nA) My heart wanted to send my life to you / but the dove did not have the strength to take my life\nb) Although we bear fruit in this garden, we are bound to be free like a cedar\nc) Are you not aware of my situation / that you are scattered and agitated and wandering?\nd) I want him to fall under his feet, what do you say?\n\nOptions:\nA) A, B, D, C\nB) A, D, B, C\nC) c, d, b, a\nD) d, b, a, c",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "در کدام بیت، حذف فعل وجود ندارد؟\n",
+        "options": {
+            "1": "گر بر وجود عاشق صادق نهند تیغ / گوید بکش که مال سبیل است و جان فدا",
+            "2": "تو چه ارمغانی آری که به دوستان فرستی / چه از این به ارمغانی که تو خویشتن بیایی",
+            "3": "گوش بر ناله بلبل کن و بلبل بگذار / تا نگوید سخن از سعدی شیرازی به",
+            "4": "هرگز آن دل بنمیرد که تو جانش باشی / نیکبخت آن که تو در هر دو جهانش باشی"
+        },
+        "final_answer": 3,
+        "full_text": "In which verse, there is no verb deletion?\n\nOptions:\nA) If they put a blade on the existence of a sincere lover / say kill it because it belongs to the mustache and sacrifice your life\nB) What a gift you send to your friends / what a gift you bring yourself\nC) Listen to the cry of the nightingale and leave the nightingale / so that it does not speak. By Saadi Shirazi\nD) The heart that you are in its life will never die / It is lucky that you are in both worlds",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "معنی واژهٔ ردیف در کدام بیت با سایر ابیات، تفاوت دارد؟\n",
+        "options": {
+            "1": "از دل سنگین لیلی کعبهٔ جان ساختند / از غبار خاطر مجنون بیابان ساختند",
+            "2": "خضر را زخم نمایان گشت عمر جاودان / تیغ سیراب تو را روزی که عریان ساختند",
+            "3": "از هوسناکان حذر کن کاین گروه بی‌ادب / مصر را بر یوسف بی‌جرم زندان ساختند",
+            "4": "می‌توان دامان بوی گل گرفت از دست باد / وای بر جمعی که وقت خود پریشان ساختند"
+        },
+        "final_answer": 1,
+        "full_text": "The meaning of the word row in which verse is different from other verses?\n\nOptions:\nA) They built a Kaaba of life from the heavy heart of Lili / They built a desert from the dust of an insane mind\nB) Khizr was exposed to the wound of eternal life / the day they made you naked\nC) Beware of the greedy Cain, a rude group / Egypt made a prison for the innocent Yusuf\nD) One can smell the smell of flowers from the hand of the wind / Woe to the people who disturbed their time",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "نقش واژه‌های مشخص شده در بیت زیر، به‌ترتیب، کدام است؟\n«راز همه کرد افشا، ننموده رخ زیبا / هم پرده درش بنگر هم پرده نشینش بین»\n",
+        "options": {
+            "1": "قید، نهاد، مضاف‌الیه، مسند",
+            "2": "بدل، مفعول، مضاف‌الیه، مسند",
+            "3": "مضاف‌الیه، مسند، مفعول، مسند",
+            "4": "مضاف‌الیه، مفعول، مفعول، نهاد"
+        },
+        "final_answer": 3,
+        "full_text": "What is the role of the specified words in the verse below, respectively?\n\"He revealed everyone's secret, but he did not show a beautiful face / Look at the curtain at the door and look at the curtain\"\n\nOptions:\nA) adverb, entity, auxiliary, predicate\nB) Badal, object, auxiliary, predicate\nC) auxiliary, object, object, object\nD) Subjunctive, object, object, subject",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "در همهٔ ابیات، مضاف‌الیه، وجود دارد، به‌جز:\n",
+        "options": {
+            "1": "خواهی که سرافراز شوی همچو زلف یار / در پای پار سرکش خورشید چهره اُفت",
+            "2": "هر کس که دید قامت آن سر و سیم تن / ای بس که خاک پای صنوبر به دیده رُفت",
+            "3": "شد مدّتی که دیدهٔ اختر شمار من / یک شب ز عشق نرگس پرخواب او نخفت",
+            "4": "مرید جذبهٔ بی‌اختیار منصورم / که سِرّ عشق تو را در میان میدان گفت"
+        },
+        "final_answer": 1,
+        "full_text": "In all the verses, there is a suffix, except:\n\nOptions:\nA) Do you want to be proud like Zelf Yar / At the feet of the rebellious sun, your face fell\nB) Anyone who saw the height of that head and body / It is enough that the soil at the feet of the fir was seen\nC) It's been a long time since he saw my star / He didn't sleep for one night because of the love of his sleepy narcissus\nD) The disciple of my involuntary attraction / who told the secret of your love in the middle of the field",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "مفهوم «ان» در کدام واژه‌ها به‌ترتیب: «نشانهٔ جمع، صفت فاعلی، نسبت، پسوند زمان» است؟\n",
+        "options": {
+            "1": "روندگان، سخن‌سرایان، گیلان، خزان",
+            "2": "مردان، کیان، سپندان، سپیده‌دمان",
+            "3": "سخنگویان، گرگان، کوهان، بامدادان",
+            "4": "نیاکان، خرامان، بابکان، نوبهاران"
+        },
+        "final_answer": 4,
+        "full_text": "In which words is the meaning of \"en\" respectively: \"plural sign, active adjective, relative, tense suffix\"?\n\nOptions:\nA) Rondeng, Sohnsarayan, Gilan, Khazan\nB) Mardan, Kian, Sepandan, Sepidehdaman\nC) Speakers, Gorgan, Kohan, Bamdadan\nD) Niyakan, Khoraman, Babakan, Noubaharan",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "مفهوم کلی کدام ابیات یکسان است؟\nالف) نه هر آن غنچه که بشکفت گل سرخ شود / نه هر آن شاخه که بر رُست صنوبر گردد\nب) هنگام زراعت آنچه کشتستی {کِشته‌ای} / آنت برسد به موسم خرمن\nج) هر که آزار روا داشت شد آزرده / هر که چَه کند در افتاد به چاه اندر\nد) عمل گر دهی مرد منعم‌شناس / که مفلس ندارد ز سلطان هراس\n",
+        "options": {
+            "1": "الف، ب",
+            "2": "الف، د",
+            "3": "ب، ج",
+            "4": "ج، د"
+        },
+        "final_answer": 3,
+        "full_text": "Which verses have the same general meaning?\nA) Not every bud that blooms becomes a rose / not every branch that grows on a fir tree\nb) When you sow what you have planted, it will reach the harvest season\nc) Whoever was wronged was wronged / whoever did wrong fell into the ender's well\nd) The performance of a wise man / who is not bankrupt, because of Sultan Haras\n\nOptions:\nA) A, B\nB) A, D\nC) b, c\nD) c, d",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "متنِ زیر با همهٔ ابیات قرابت مفهومی دارد؛ به‌جز:\n«عامل شهری به خلیفه نبشت که دیوار شهر، خراب شده است، آن را عمارت باید کردن. جواب نبشت که شهر را از عدل، دیوار کن؛ که حاجت نیست به گل و خشت و سنگ و گچ.»\n",
+        "options": {
+            "1": "چو خشنود داری جهان را به داد / توانگر بمانی و از داد شاد",
+            "2": "همه داد کن تو به گیتی درون / که از داد هرگز نشد کس نگون",
+            "3": "به داد و دهش کوش و نیکی سگال / ولی را بپرور عدو را بمال",
+            "4": "اگر دادگر چند بی‌کس بود / ورا راستی پاسبان بس بود"
+        },
+        "final_answer": 4,
+        "full_text": "The following text has a conceptual affinity with all the verses; Except:\n\"The governor of the city did not tell the caliph that the city wall was damaged, it should be turned into a mansion. The answer was not to wall the city with justice; that there is no need for mud, clay, stone and plaster.\n\nOptions:\nA) Because you are pleased with the world / Stay rich and happy with it\nB) Shout out to Gitti Daron, don't tell anyone\nC) Raise the enemy with hard work and good deeds\nD) If the judge was alone, the policeman would be enough",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "مفهوم بیتِ زیر از کدام بیت، دریافت می‌شود؟\n«از سر تعمیر دل بگذرد که معماران عشق / روز اول، رنگ این ویرانه، ویران ساختند»\n",
+        "options": {
+            "1": "عافیت می‌طلبی رو سر خودگیر که عشق / قهرمانی است که از دار بوَد چوگانش",
+            "2": "دل خواست تا برآید با عشق و برنیامد / مردانه رفته باشی با عشق اگر برآیی",
+            "3": "نه مرد عشق او بودی دلا گفتیم و نشنیدی / طریق عشق ورزیدی و حال خویشتن دیدی",
+            "4": "خانه از پای بست ویران است / خواجه در بند نقش ایوان است"
+        },
+        "final_answer": 1,
+        "full_text": "The concept of the following bit is received from which bit?\n\"Let the repair of the heart pass, that the architects of love / on the first day, the color of this ruin, destroyed\"\n\nOptions:\nA) You are asking for forgiveness on the head of self-governing who is love / a hero whose polo was from Dhar\nB) The heart wanted to come out with love and it didn't come back / You have gone manfully with love if you come out\nC) No, you were the man of her love\nD) The house is completely destroyed / The eunuch is in the role of Ivan",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "کدام بیت، «فاقد» مفهومِ بیتِ زیر است؟\n«یک بار هم ای عشق من از عقل میندیش / بگذار که دل حل بکند مسئله‌ها را»\n",
+        "options": {
+            "1": "در کارگاه عشق است تدبیر عقل بیکار / طوفان نمی‌کند گوش تعلیم ناخدا را",
+            "2": "عقل گوید که از عالم وحدت مگذر / که بسی دوست نما دشمنِ بدخواه بود",
+            "3": "نقد جان بر سر سودای جنون باخته‌ایم / ایمن از وسوسهٔ عقل زیان کار شدیم",
+            "4": "به زور عقل گذشتن ز خود میسّر نیست / مگر بلند شود دست و تازیانهٔ عشق"
+        },
+        "final_answer": 2,
+        "full_text": "Which verse \"lacks\" the meaning of the verse below?\n\"For once, my love, think of reason / Let the heart solve the problems\"\n\nOptions:\nA) In the workshop of love, the wisdom of the mind is idle / the storm does not listen to the captain's teaching\nB) Intellect says that he passed away from the world of unity / that he was too much of a friend to be a malicious enemy\nC) Criticism We have lost our lives because of the madness of madness / We have been safe from the temptation of reason\nD) It is not possible to overcome oneself by force of reason / unless the hand and whip of love is raised",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "مفاهیم «غبطه خوردن بر عاشق، پذیرفتن سختی عشق، فراغت به واسطهٔ عشق، توکّل» به‌ترتیب، از کدام ابیات دریافت می‌شود؟\nالف) این که از لغزش مستانه نمی‌اندیشد / می‌توان یافت که دل تکیه به جایی دارد\nب) سمندر سالم از آتش بر آید / به اهل عشق باشد مهربان درد\nج) ای که با زلف و رخ یارگذاری شب و روز / فرصتت باد که خوش صبحی و شامی داری\nد) بند همه غم‌های جهان بر دل من بود / در بند تو افتادم و از جمله برستم\n",
+        "options": {
+            "1": "د، ج، الف، ب",
+            "2": "د، ب، ج، الف",
+            "3": "ج، ب، د، الف",
+            "4": "ج، د، الف، ب"
+        },
+        "final_answer": 3,
+        "full_text": "The concepts of \"being jealous of a lover, accepting the difficulty of love, leisure through love, trust\" are received from which verses, respectively?\nA) The fact that he does not think about drunken slips / it can be found that his heart is leaning on somewhere\nb) May the salamander come out of the fire safe / be kind to the people of love\nc) O you who are blessed by the night and the day / may you have a good morning and evening\nd) All the sorrows of the world were on my heart / I fell in your trap and I was cut off\n\nOptions:\nA) D, C, A, B\nB) d, b, c, a\nC) c, b, d, a\nD) C, D, A, B",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "بیتِ زیر، با کدام بیت قرابت مفهومی دارد؟\n«پیش از من و تو بسیار بودند و نقش بستند / دیوار زندگی را زین‌گونه یادگاران»\n",
+        "options": {
+            "1": "بسیار در دل آمد از اندیشه‌ها و رفت / نقشی که آن نمی‌رود از دل نشان توست",
+            "2": "کرد تصویر تو را صورتگر چین آرزو / بست چندین صورت و صورت نسبت این آرزو",
+            "3": "نقّاش ازل نقش بدیعت چو بساخت / از ساختن نقش دگر وا پرداخت",
+            "4": "این جهان آینه و هستی ما نقش و نگار / نقش در آینه آخر چه قدر خواهد ماند؟"
+        },
+        "final_answer": 4,
+        "full_text": "The verse below has a conceptual affinity with which verse?\n\"There were many before you and me and they made a mark / the wall of life is like a saddle of memories\"\n\nOptions:\nA) A lot of thoughts came to my heart and went away / The role that does not go away is a sign of your heart\nB) The picture of you is the shaper of the desire / closed several faces and faces of this desire\nC) The painter Azal made a novel pattern / stopped making other patterns\nD) How long will this mirror world and our existence remain in the final mirror?",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "همه ابیات با بیتِ زیر قرابت مفهومی دارد؛ به‌جز:\n«با اهل فنا دارد هر کس سر یک رنگی / باید که به رنگ شمع از رفتن سر خندد»\n",
+        "options": {
+            "1": "جان که نه عشقش بود آن بازی است / عشق نه بازی است که جان بازی است",
+            "2": "اگر از کمند عشقت بروم کجا گریزم / که خلاص بی‌تو بند است و حیات بی‌تو زندان",
+            "3": "مثال عاشق و معشوق شمع و پروانه است / سر هلاک نداری مگرد پیرامون",
+            "4": "مردن اندر کوی عشق از زندگانی خوش‌تر است / تا نمیری دست مهرش کوته از دامن مکن"
+        },
+        "final_answer": 2,
+        "full_text": "All verses have a conceptual affinity with the verse below; Except:\n\"With the people of death, everyone's head is the same color / He should laugh at the loss of his head like the color of a candle\"\n\nOptions:\nA) Life that was not love is a game / Love is not a game, life is a game\nB) If I go from the noose of your love, where can I escape / which without you is a prison and life without you is a prison\nC) An example of a lover and the beloved is a candle and a butterfly / You are not doomed unless you are around\nD) Dying in love is better than life",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "ویژگی حماسه در کدام بیت، با سایر ابیات متفاوت است؟\n",
+        "options": {
+            "1": "چرا رزم جُستی ز اسفندیار / که او هست رویین‌تن و نامدار",
+            "2": "چو ده ساله شد در زمین کس نبود / که یارست با وی نبرد آزمود",
+            "3": "بر او {ضحاک} سال بگذشت مانا هزار / به فرجام کار آمدش خواستار",
+            "4": "فرستاد موبد بدان‌ها سوار / شتر خواست از دشت جهرم هزار"
+        },
+        "final_answer": 4,
+        "full_text": "Which verse of the epic is different from other verses?\n\nOptions:\nA) Why Razm Josti Z Esfandiar / who is senior and famous\nB) When he was ten years old, there was no one on earth / who tried to fight with him\nC) A thousand years have passed for him (Zahak)\nD) He sent Mobed to ride / He asked for a camel from the plain of Jahorm Hazar",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "در همهٔ ابیات به عدم تعلق و وابستگی سفارش شده است؛ به‌جز:\n",
+        "options": {
+            "1": "گر بو بری زان روشنی آتش به خواب اندر زنی / کز شب روی و بندگی زهره حریف ماه شد",
+            "2": "تن را بدیدی جان نگر، گوهر بدیدی کان نگر / این نادره ایمان نگر، که ایمان در او گمراه شد",
+            "3": "خود را بیفشان چون شجر، از برگ خشک و برگ تر / بی‌رنگ نیک و رنگ بد توحید و یک تویی بود",
+            "4": "یک سو رو از گرداب تن، پیش از دم غرقه شدن / زیرا بقا و خرّمی زان سوی شش سویی بود"
+        },
+        "final_answer": 2,
+        "full_text": "In all the verses, it is ordered not to belong and depend; Except:\n\nOptions:\nA) The bright scent of the fire made the woman fall asleep / Venus turned against the Moon at night\nB) You see the body as a life-seeker, you see a gem as a person-seeker\nC) Spread yourself like a tree, from dry leaves and fresh leaves\nD) One side of the whirlpool of body, before drowning",
+        "metadata": {
+            "image": false,
+            "course": "literature",
+            "year": "1398",
+            "month": "tir",
+            "question_number": "25"
+        }
+    }
+}

@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "در یک ظرف در بسته، مخلوطی شامل ۱/۸ مول متانول و اتانول با اکسیژن به‌طور کامل سوزانده می‌شوند. اگر حجم گاز C{O_۲} تشکیل شده از سوختن متانول، ۰/۴ حجم گاز C{O_۲} تشکیل شده از سوختن اتانول باشد، درصد جرمی متانول در مخلوط آغازین واکنش، به‌تقریب کدام بوده است و در شرایط STP، چند لیتر گاز در ظرف واکنش وجود خواهد داشت؟\n(H = ۱\\,,\\,C = ۱۲\\,,\\,O = ۱۶:g.mo{l^{ - ۱}})\n",
+        "options": {
+            "1": "۳۵/۷ و ۶۲/۷۲",
+            "2": "۶۴/۳ و ۶۲/۷۲",
+            "3": "۳۵/۷ و ۱۶۵/۷۶",
+            "4": "۶۴/۳ و ۱۶۵/۷۶"
+        },
+        "final_answer": 1,
+        "full_text": "In a closed container, a mixture containing 1.8 moles of methanol and ethanol is completely burned with oxygen. If the volume of C{O_2} gas formed by burning methanol is 0.4 of the volume of C{O_2} gas formed by burning ethanol, what was the mass percentage of methanol in the initial mixture of the reaction, and in STP conditions, how many liters of gas in Will there be a reaction vessel?\n(H = 1\\,,\\,C = 12\\,,\\,O = 16:g.mo{l^{ - 1}})\n\nOptions:\nA) 7/35 and 72/62\nB) 3/64 and 72/62\nC) 7/35 and 76/165\nD) 3/64 and 76/165",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "کدام مورد، نادرست است؟\n",
+        "options": {
+            "1": "در ساختار لوویس مولکول COC{I_۲}، نسبت شمار الکترون‌های ناپیوندی به شمار الکترون‌های پیوندی برابر ۲ است.",
+            "2": "آرایش الکترون - نقطه‌ای اتم همهٔ عنصرهای یک گروه جدول تناوبی، مشابه است.",
+            "3": "ساختار لوویس مولکول‌های گوگرد دی‌اکسید و کربن دی‌سولفید، متفاوت است.",
+            "4": "شمار جفت الکترون‌های پیوندی در یون‌های NO_۲^ - و C{N^ - }، برابر است."
+        },
+        "final_answer": 2,
+        "full_text": "Which item is incorrect?\n\nOptions:\nA) In the Lewis structure of the COC {I_2} molecule, the ratio of the number of unbonded electrons to the number of bonded electrons is equal to 2.\nB) Electron-point arrangement of the atom of all the elements of a periodic table group is similar.\nC) The Lewis structure of sulfur dioxide and carbon disulfide molecules is different.\nD) The number of bonding electron pairs in NO_2^- and C{N^-} ions is equal.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "انحلال‌پذیری یک نمک در دماهای ۷۰ و ۱۰ درجهٔ سلسیوس به‌ترتیب برابر ۲۵ و ۳۵ گرم در ۱۰۰ گرم آب است. اگر ۲۵۰ گرم محلول سیر شده از این نمک با غلظت ۲ مولار موجود باشد، با تغییر دمای این محلول به میزان ۱۵ درجهٔ سلسیوس، به‌تقریب، چند درصد از نمک رسوب خواهد کرد؟ (چگالی محلول برابر با چگالی آب و جرم مولی نمک، برابر ۱۰۰ گرم و معادلهٔ انحلا‌‌ل‌پذیری آن، خطی درنظر گرفته شود.)\n",
+        "options": {
+            "1": "۱۵",
+            "2": "۳۰",
+            "3": "۱۷/۸",
+            "4": "۸/۹"
+        },
+        "final_answer": 4,
+        "full_text": "The solubility of a salt at 70 and 10 degrees Celsius is 25 and 35 grams per 100 grams of water, respectively. If there is 250 grams of a saturated solution of this salt with a concentration of 2 M, when the temperature of this solution changes by 15 degrees Celsius, approximately, what percentage of the salt will precipitate? (The density of the solution is equal to the density of water and the molar mass of salt is equal to 100 grams and its solubility equation is considered linear.)\n\nOptions:\nA) 15\nB) 30\nC) 17/8\nD) 8/9",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "شکل زیر، تغییر انحلال‌پذیری سه گاز NO، {N_۲} و {O_۲} را با تغییر فشار گاز، در دمای ثابت، نشان می‌دهد. اگر در فشار \\frac{{\\alpha + b}}{۲} اتمسفر، مقدار عددی غلظت مولی گاز NO، به‌تقریب، برابر مقدار عددی انحلال‌پذیری گاز {N_۲} در فشار ۴/۵ اتمسفر باشد، انحلال‌پذیری گاز {O_۲} در فشار \\alpha + b اتمسفر کدام است؟ (O = ۱۶:g.mo{l^{ - ۱}} ، N = ۱۴)\n",
+        "options": {
+            "1": "۰/۰۴۰",
+            "2": "۰/۰۳۵",
+            "3": "۰/۰۳۰",
+            "4": "۰/۰۲۳"
+        },
+        "final_answer": 1,
+        "full_text": "The figure below shows the change in solubility of three gases NO, {N_2} and {O_2} with the change of gas pressure at constant temperature. If at a pressure of \\frac{{\\alpha + b}}{2} atmosphere, the numerical value of the molar concentration of NO gas is approximately equal to the numerical value of the solubility of {N_2} gas at a pressure of 4.5 atmospheres, the solubility of {O_2} gas at the pressure \\alpha + b What is the atmosphere? (O = 16:g.mo{l^{ - 1}}, N = 14)\n\nOptions:\nA) 0.040\nB) 0.035\nC) 0.030\nD) 0.023",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "کدام مورد نادرست است؟\n",
+        "options": {
+            "1": "با استفاده از روش اسمز معکوس، می‌توان شیر را تغلیظ کرد.",
+            "2": "فرایند اسمز، خودبه‌خودی و فرایند معکوس آن، غیرخودبه‌خودی است.",
+            "3": "در فرایند اسمز، در نهایت، غلظت حل شونده در دو محیط جدا شده با غشای نیمه‌تراوا، برابر می‌شود.",
+            "4": "کیفیت آب می‌تواند بر مدت‌زمان استفادهٔ مؤثر از غشای نیمه‌تراوا برای شیرین‌سازی آب دریا در فرایند اسمز معکوس، ثأثیر بگذارد."
+        },
+        "final_answer": 3,
+        "full_text": "Which item is incorrect?\n\nOptions:\nA) Milk can be thickened using reverse osmosis.\nB) The process of osmosis is spontaneous and its reverse process is non-spontaneous.\nC) In the process of osmosis, finally, the concentration of the solute in two environments separated by a semi-permeable membrane is equal.\nD) Water quality can affect the duration of effective use of semi-permeable membrane for desalination of sea water in reverse osmosis process.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "کدام موارد زیر درست است؟الف) واکنش‌پذیری فلز تیتانیم، کمتر از واکنش‌پذیری فلز مس است.ب) ویژگی‌های فیزیکی هگزان و ۱- هگزن، یکی از راه‌های تشخیص این دو هیدروکربن از یکدیگر است.ج) واکنش‌های تولید صنعتی هر دو فلز آهن و مس از سنگ معدن آن‌ها، اثرات مخرب بر محیط زیست دارد.د) واکنش‌پذیری عنصر اصلی سازندهٔ سلول‌های خورشیدی، کمتر از واکنش‌پذیری نافلز(های) هم‌گروه آن در جدول تناوبی است.\n",
+        "options": {
+            "1": "«الف» و «ب»",
+            "2": "«الف» و «ج»",
+            "3": "«ب» و «د»",
+            "4": "«ج» و «د»"
+        },
+        "final_answer": 4,
+        "full_text": "Which of the following is correct? a) The reactivity of titanium metal is less than the reactivity of copper metal. b) The physical characteristics of hexane and 1-hexane are one of the ways to distinguish these two hydrocarbons from each other. Copper from their ore has destructive effects on the environment. d) The reactivity of the main element that makes up solar cells is lower than the reactivity of non-metal(s) of its group in the periodic table.\n\nOptions:\nA) \"A\" and \"B\"\nB) \"A\" and \"C\"\nC) \"b\" and \"d\"\nD) \"c\" and \"d\"",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "مجموع ضرایب استوکیومتری مواد در معادلهٔ واکنش زیر، پس از موازنه کدام است و اگر در این واکنش، ۶۸ گرم CaHP{O_۴} تشکیل شده باشد، چند گرم NaHC{O_۳} با خلوص ۹۶ درصد مصرف شده است؟ (ناخالصی در واکنش شرکت نمی‌کند، Ca = ۴۰:g.mo{l^{ - ۱}} ، Na = ۲۳ ، O = ۱۶ ، C = ۱۲ H = ۱)\nCa{({H_۲}P{O_۴})_۲}(s) + NaHC{O_۳}(s) \\toCaHP{O_۴}(s) + N{a_۲}HP{O_۴}(s) + C{O_۲}(g) + {H_۲}O(g)\n",
+        "options": {
+            "1": "۹ و ۸۰/۶۴",
+            "2": "۱۱ و ۸۰/۶۴",
+            "3": "۹ و ۸۷/۵۰",
+            "4": "۱۱ و ۸۷/۵۰"
+        },
+        "final_answer": 3,
+        "full_text": "What is the sum of the stoichiometric coefficients of the substances in the following reaction equation, after balancing, and if 68 grams of CaHP{O_4} were formed in this reaction, how many grams of NaHC{O_3} with a purity of 96% were used? (The impurity does not participate in the reaction, Ca = 40:g.mo{l^{ - 1}}, Na = 23, O = 16, C = 12 H = 1)\nCa{({H_2}P{O_4})_2}(s) + NaHC{O_3}(s) \\toCaHP{O_4}(s) + N{a_2}HP{O_4}(s) + C{O_2}( g) + {H_2}O(g)\n\nOptions:\nA) 9 and 80/64\nB) 11 and 80/64\nC) 9 and 87/50\nD) 11 and 87/50",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "دربارهٔ عنصرهای جدول تناوبی، چند مورد از موارد زیر درست است؟- در هر یک از ۴ دورهٔ اول جدول، دستِ‌کم دو عنصر نافلز وجود دارد.- در دوره‌ای که تنها نافلز مایع جای دارد، شبه‌فلزی وجود دارد که عناصر قبل از آن، همگی فلزند.- در سه دورهٔ اول جدول، در مجموع ۸ عنصر گازی وجود دارد که ۶ عنصر آن، متعلق به دستهٔ p است.- اگر عنصر با عدد اتمی x، یک گاز با واکنش‌پذیری بالا باشد، عنصر با عدد اتمی x + ۹ نیز می‌تواند دارای همین ویژگی باشد.\n",
+        "options": {
+            "1": "۴",
+            "2": "۳",
+            "3": "۲",
+            "4": "۱"
+        },
+        "final_answer": 1,
+        "full_text": "About the elements of the periodic table, how many of the following are true?- In each of the first 4 periods of the table, there are at least two nonmetal elements. metal.- In the first three periods of the table, there are a total of 8 gaseous elements, 6 of which belong to the p category.- If the element with atomic number x is a gas with high reactivity, then the element with atomic number x + 9 is also It can have the same feature.\n\nOptions:\nA) 4\nB) 3\nC) 2\nD) 1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "غلظت یک نمونه محلول نمک MN{O_۳} برابر ۱۷۰ppm است. اگر شمار مول‌های نمک در ۳۰۰ گرم محلول آن، به‌تقریب، برابر ۶ \\times {۱۰^{ - ۴}} باشد، فلز M کدام است؟ (O = ۱۶:g.mo{l^{ - ۱}} ، N = ۱۴)\n",
+        "options": {
+            "1": "{}^۷Li",
+            "2": "{}^{۲۳}Na",
+            "3": "{}^{۳۹}K",
+            "4": "{}^{۱۰۸}Ag"
+        },
+        "final_answer": 2,
+        "full_text": "The concentration of a sample of MN {O_3} salt solution is 170 ppm. If the number of moles of salt in 300 grams of its solution is approximately equal to 6 \\times {10^{-4}}, what is the metal M? (O = 16:g.mo{l^{ - 1}}, N = 14)\n\nOptions:\nA) {}^7Li\nB) {}^{23}Na\nC) {}^{39}K\nD) {}^{108}Ag",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "کدام مورد درست است؟\n",
+        "options": {
+            "1": "تفاوت نقطهٔ جوش دو آلکان دارای ۱۴ و ۱۷ اتم کربن، کمتر از تفاوت نقطهٔ جوش دو آلکان دارای ۲ و ۵ اتم کربن است.",
+            "2": "یک آلکان شاخه‌دار، دارای ۶ اتم کربن در زنجیرهٔ اصلی، نمی‌تواند دو گروه اتیل به‌عنوان شاخه‌های فرعی داشته باشد.",
+            "3": "نگهداری فلز طلا در آلکانی که در دمای اتاق مایع است، می‌تواند از خوردگی آن جلوگیری نماید.",
+            "4": "نام یک آلکان دارای ۷ اتم کربن، می‌تواند ۲- اتیل پنتان باشد."
+        },
+        "final_answer": 1,
+        "full_text": "Which one is correct?\n\nOptions:\nA) The difference between the boiling point of two alkanes with 14 and 17 carbon atoms is less than the difference between the boiling point of two alkanes with 2 and 5 carbon atoms.\nB) A branched alkane, having 6 carbon atoms in the main chain, cannot have two ethyl groups as side branches.\nC) Keeping gold metal in alkane, which is liquid at room temperature, can prevent its corrosion.\nD) The name of an alkane with 7 carbon atoms can be 2-ethylpentane.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "اگر در واکنش زیر، ۱۵۰ میلی‌متر محلول ۴ مولار سولفوریک اسید مصرف شود و ۲۲/۶۵ گرم منگنز (II) سولفات به‌دست آید، بازده درصدی واکنش کدام است؟ (معادلهٔ واکنش موازنه شود. Mn = ۵۵:g.mo{l^{ - ۱}}، S = ۳۲ ، O = ۱۶)\nNaCI(s) + Mn{O_۲}(s) + {H_۲}S{O_۴}(aq) \\toNaHS{O_۴}(aq) + MnS{O_۴}(aq) + {H_۲}O(I) + C{I_۲}(g)\n",
+        "options": {
+            "1": "۶۶/۷",
+            "2": "۷۲/۵",
+            "3": "۷۵",
+            "4": "۸۰"
+        },
+        "final_answer": 3,
+        "full_text": "If in the following reaction, 150 milliliters of 4 M sulfuric acid solution is consumed and 65.22 grams of manganese (II) sulfate is obtained, what is the percentage yield of the reaction? (The reaction equation should be balanced. Mn = 55:g.mo{l^{-1}}, S = 32, O = 16)\nNaCI(s) + Mn{O_2}(s) + {H_2}S{O_4}(aq) \\toNaHS{O_4}(aq) + MnS{O_4}(aq) + {H_2}O(I) + C{ I_2}(g)\n\nOptions:\nA) 66/7\nB) 5/72\nC) 75\nD) 80",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "با توجه به ساختار نشان داده شده، کدام موارد زیر درست است؟الف) شمار گروه‌های CH با شمار این گروه‌ها در مولکول بنزن، برابر است.ب) شمار پیوندهای دوگانه میان اتم‌ها با شمار گروه‌های متیل، برابر است.ج) بخشی از آن را ساختار آروماتیک و بخش دیگر را ساختار راست زنجیر تشکیل می‌دهد.د) شمار اتم‌های هیدروژن، ۵ برابر شمار اتم‌های کربنی است که عدد اکسایش صفر دارند.\n",
+        "options": {
+            "1": "«ج» و «د»",
+            "2": "«الف» و «ب»",
+            "3": "«الف» و «ج»",
+            "4": "«ب» و «د»"
+        },
+        "final_answer": 2,
+        "full_text": "According to the structure shown, which of the following is correct? a) The number of CH groups is equal to the number of these groups in the benzene molecule. b) The number of double bonds between atoms is equal to the number of methyl groups. c) Part of it is the aromatic structure and the other part is the straight chain structure. d) The number of hydrogen atoms is 5 times the number of carbon atoms that have zero oxidation number.\n\nOptions:\nA) \"c\" and \"d\"\nB) \"a\" and \"b\"\nC) \"A\" and \"C\"\nD) \"b\" and \"d\"",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "با توجه به واکنش‌های زیر:\n۲F{e_۳}{O_۴}(s) + C{O_۲}(g) \\to ۳F{e_۲}{O_۳}(s) + CO(g)\\,\\,\\,,\\,\\,\\,\\Delta H = + ۴۷kJF{e_۳}{O_۴}(s) + CO(g) \\to ۳FeO(s) + C{O_۲}(g)\\,\\,\\,,\\,\\,\\,\\Delta H = + ۲۲kJFeO(s) + CO(g) \\to Fe(s) + C{O_۲}(g)\\,\\,\\,,\\,\\,\\,\\Delta H = - ۱۱kJ\n\\Delta H واکنش: F{e_۲}{O_۳}(s) + ۳CO(g) \\to ۲Fe(s) + ۳C{O_۲}(g)، برابر چند کیلوژول است؟\n",
+        "options": {
+            "1": "۳۲-",
+            "2": "۳۲+",
+            "3": "۲۳-",
+            "4": "۲۳+"
+        },
+        "final_answer": 3,
+        "full_text": "According to the following reactions:\n2F{e_3}{O_4}(s) + C{O_2}(g) \\to 3F{e_2}{O_3}(s) + CO(g)\\,\\,\\,,\\,\\,\\,\\Delta H = + 47kJF{e_3}{O_4}(s) + CO(g) \\to 3FeO(s) + C{O_2}(g)\\,\\,\\,,\\,\\,\\,\\Delta H = + 22kJFeO(s) + CO(g) \\to Fe(s) + C{O_2}(g)\\,\\,\\,,\\,\\,\\,\\Delta H = - 11kJ\n\\Delta H reaction: F{e_2}{O_3}(s) + 3CO(g) \\to 2Fe(s) + 3C{O_2}(g), how many kilojoules is it?\n\nOptions:\nA) 32-\nB) 32+\nC) 23-\nD) 23+",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "دربارهٔ نمودار داده شده، که سطح انرژی مواد را در یک واکنش گرماشیمیایی گازی انجام شده در یک سامانه نشان می‌دهد، چند مورد از موارد زیر، نادرست است؟ (a,b,c,d \\gt ۰)- آنتالپی واکنش کلی، برابر c + d - a است.- برای تهیهٔ دو مول Q از دو مول Y و یک مول D، باید ۰/۵d انرژی مصرف کرد.- در معادلهٔ واکنش تهیهٔ M از X و D، نسبت ضریب استوکیومتری D به ضریب استوکیومتری M،‌ برابر ۲ است.- ۴Y، به‌عنوان یکی از فراورده‌های واکنش تجزیهٔ A، به‌دلیل داشتن سطح انرژی بالاتر، از آن ناپایدارتر است.\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 4,
+        "full_text": "About the given diagram, which shows the energy levels of substances in a gaseous thermochemical reaction carried out in a system, how many of the following are false? (a,b,c,d > 0)- The total reaction enthalpy is equal to c + d - a.- To prepare two moles of Q from two moles of Y and one mole of D, 0.5d of energy must be consumed. The reaction equation for the preparation of M from X and D, the ratio of the stoichiometric coefficient of D to the stoichiometric coefficient of M is equal to 2. 4Y, as one of the products of the decomposition reaction of A, is more unstable than it due to having a higher energy level.\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "در یک ظرف در بستهٔ ۱/۲۵ لیتری، ۰/۲ مول گاز متان و ۰/۴ مول گاز هیدروژن سولفید واکنش می‌دهند. اگر پس از ۳۰ ثانیه، ۵۰ درصد حجمی گاز درون ظرف هیدروژن باشد، سرعت واکنش، چند مول بر لیتر بر دقیقه بوده است؟\nC{H_۴}(g) + {H_۲}S(g) \\to C{S_۲}(g) + {H_۲}(g) (معادلهٔ واکنش موازنه شود.)\n",
+        "options": {
+            "1": "۰/۰۸",
+            "2": "۰/۱۶",
+            "3": "۰/۲",
+            "4": "۰/۱"
+        },
+        "final_answer": 2,
+        "full_text": "0.2 moles of methane gas and 0.4 moles of hydrogen sulfide gas react in a 1.25 liter container. If after 30 seconds, 50% of the volume of the gas in the container is hydrogen, how many moles per liter per minute was the reaction rate?\nC{H_4}(g) + {H_2}S(g) \\to C{S_2}(g) + {H_2}(g) (Balance the reaction equation.)\n\nOptions:\nA) 0.08\nB) 0.16\nC) 0.2\nD) 0.1",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "کدام مورد درست است؟\n",
+        "options": {
+            "1": "در یک واکنش معیّن، تشکیل یک مادهٔ گازی، بیشتر از تشکیل مایع آن، گرما آزاد می‌کند.",
+            "2": "میزان گرمای یک واکنش معیّن در دما و فشار ثابت، مستقل از حالت فیزیکی واکنش دهنده‌ها است.",
+            "3": "اگر در یک واکنش، دما ثابت بماند، میزان انرژی جنبشی و پتانسیل واکنش دهنده‌ها به فراورده‌ها نزدیک است.",
+            "4": "در فرایند جوشش آب در دمای {۱۰۰^ \\circ }C، میزان انرژی جنبشی مولکول‌های آب نسبت به بخار آب تشکیل شده، تغییر چندانی نخواهد داشت."
+        },
+        "final_answer": 4,
+        "full_text": "Which one is correct?\n\nOptions:\nA) In a certain reaction, the formation of a gaseous substance releases more heat than the formation of its liquid.\nB) The amount of heat of a certain reaction at constant temperature and pressure is independent of the physical state of the reactants.\nC) If the temperature remains constant in a reaction, the amount of kinetic energy and potential of the reactants is close to that of the products.\nD) In ​​the process of boiling water at {100^\\circ }C, the amount of kinetic energy of water molecules will not change much compared to the formed water vapor.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "دربارهٔ ساختار مولکول نشان داده شده، کدام موارد زیر درست است؟الف) ۵ اتم کربن به اتم‌های غیر از اتم هیدروژن متصل‌اند.ب) مجموع شمار پیوندهای یگانهٔ بین اتم‌ها، ۸/۲ برابر شمار سایر پیوندهای میان آنهاست.ج) می‌تواند در واکنش تشکیل پلی‌آمید شرکت کند و امکان تشکیل پیوند هیدروژنی را دارد.د) شمار اتم‌های کربن متصل به اتم اکسیژن با شمار اتم‌های کربن متصل به اتم نیتروژن، برابر است.\n",
+        "options": {
+            "1": "«الف» و «ب»",
+            "2": "«الف» و «د»",
+            "3": "«ب» و «ج»",
+            "4": "«ج» و «د»"
+        },
+        "final_answer": 1,
+        "full_text": "About the structure of the shown molecule, which of the following is true? a) 5 carbon atoms are attached to atoms other than hydrogen atoms. b) the total number of single bonds between atoms is 2.8 times the number of other bonds between them. c) it can react The formation of polyamide participates and it is possible to form a hydrogen bond. d) The number of carbon atoms attached to the oxygen atom is equal to the number of carbon atoms attached to the nitrogen atom.\n\nOptions:\nA) \"A\" and \"B\"\nB) \"a\" and \"d\"\nC) \"b\" and \"c\"\nD) \"c\" and \"d\"",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "مخلوطی از N{a_۲}O و {K_۲}O به جرم ۲ گرم، با ۱۰۰ میلی‌لیتر محلول اسید قوی HA با pH = ۰/۳ خنثی می‌شود. به‌ تقریب، چند گرم N{a_۲}O در مخلوط وجود داشته است؟ (K = ۳۹:g.mo{l^{ - ۱}} ، Na = ۲۳ ، O = ۱۶)\nN{a_۲}O(s) + ۲HA(aq) \\to ۲NaA(aq) + {H_۲}O(I){K_۲}O(s) + ۲HA(aq) \\to ۲KA(aq) + {H_۲}O(I)\n",
+        "options": {
+            "1": "۰/۹۸",
+            "2": "۰/۶۸",
+            "3": "۱/۳۲",
+            "4": "۱/۰۲"
+        },
+        "final_answer": 2,
+        "full_text": "A mixture of N{a_2}O and {K_2}O with a mass of 2 g is neutralized with 100 ml of strong acid HA solution with pH = 0.3. Approximately, how many grams of N{a_2}O were there in the mixture? (K = 39:g.mo{l^{ - 1}}, Na = 23, O = 16)\nN{a_2}O(s) + 2HA(aq) \\to 2NaA(aq) + {H_2}O(I){K_2}O(s) + 2HA(aq) \\to 2KA(aq) + {H_2}O (I)\n\nOptions:\nA) 0.98\nB) 0.68\nC) 1/32\nD) 1/02",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "کدام مورد درست است؟\n",
+        "options": {
+            "1": "فرمول مولکولی واحد تکرار شونده در پلی‌اتن و پلی‌استر، با فرمول مولکولی مونومر تشکیل دهندهٔ آن‌ها یکسان است.",
+            "2": "در ساختار هر استر، یک اتم کربن به دو اتم اکسیژن و یک اتم کربن متصل است.",
+            "3": "عامل بوی خوش میوه‌های آناناس و موز، استری با ساختار مشابه است.",
+            "4": "در ساختار هر استر، دو اتم کربن به دو اتم اکسیژن متصل است."
+        },
+        "final_answer": 4,
+        "full_text": "Which one is correct?\n\nOptions:\nA) The molecular formula of the repeating unit in polyethylene and polyester is the same as the molecular formula of their constituent monomer.\nB) In the structure of each ester, one carbon atom is connected to two oxygen atoms and one carbon atom.\nC) The cause of the pleasant smell of pineapple and banana fruits is an ester with a similar structure.\nD) In ​​the structure of each ester, two carbon atoms are connected to two oxygen atoms.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "با توجه به ساختار چهار ترکیب داده شده، کدام موارد زیر درست است؟\n(H = ۱\\,,\\,C = ۱۲\\,,\\,O = ۱۶\\,,\\,Na = ۲۳\\,,\\,S = ۳۲:g.mo{l^{ - ۱}})\nالف) قدرت پاک‌کنندگی ترکیب (۲) از قدرت پاک‌کنندگی ترکیب (۱)، بیشتر است.ب) تفاوت جرم مولی ترکیب (۱) و (۲)، برابر جرم مولی چهارمین عضو خانوادهٔ آلکین است.ج) نسبت شمار جفت الکترون پیوندی به شمار جفت الکترون ناپیوندی در آنیون ترکیب (۱)، برابر ۹/۸ است.د) از واکنش جداگانهٔ یک مول از ترکیب (۳) و یک مول از ترکیب (۴) با مقدار کافی سود سوزآور، ۲ مول صابون تشکیل می‌شود.\n",
+        "options": {
+            "1": "«الف» و «د»",
+            "2": "«الف» و «ج»",
+            "3": "«ب» و «د»",
+            "4": "«ب» و «ج»"
+        },
+        "final_answer": 2,
+        "full_text": "According to the structure of the four given compounds, which of the following is true?\n(H = 1\\,,\\,C = 12\\,,\\,O = 16\\,,\\,Na = 23\\,,\\,S = 32:g.mo{l^{ - 1}})\na) The cleaning power of compound (2) is greater than the cleaning power of compound (1). The number of non-bonding electron pairs in the anion of compound (1) is equal to 8.9. d) 2 moles of soap are formed from the separate reaction of one mole of compound (3) and one mole of compound (4) with a sufficient amount of caustic soda.\n\nOptions:\nA) \"A\" and \"D\"\nB) \"A\" and \"C\"\nC) \"b\" and \"d\"\nD) \"b\" and \"c\"",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "از انحلال ۵/۵۷ گرم فرمیک اسید در آب در یک دمای مشخص، محلولی با pH = ۲/۳ به‌دست می‌آید. اگر ثابت یونش اسید برابر ۲ \\times {۱۰^{ - ۵}} باشد، حجم محلول، به‌تقریب، برابر چند لیتر است و به‌تقریب، چند گرم دیگر فرمیک اسید باید به محلول، در همان دما اضافه شود تا pH = ۲/۱ شود؟ (از تغییر حجم محلول بر اثر اضافه کردن فرمیک اسید صرف‌نظر شود، O = ۱۶:g.mo{l^{ - ۱}} ، C = ۱۲ ، H = ۱)\n",
+        "options": {
+            "1": "۰/۱ و ۸/۹۷",
+            "2": "۰/۵ و ۸/۹۷",
+            "3": "۰/۱ و ۹/۸۷",
+            "4": "۰/۵ و ۹/۸۷"
+        },
+        "final_answer": 1,
+        "full_text": "By dissolving 57.5 grams of formic acid in water at a certain temperature, a solution with pH = 3.2 is obtained. If the ionization constant of the acid is equal to 2 \\times {10^{-5}}, the volume of the solution is approximately equal to several liters, and approximately, a few more grams of formic acid should be added to the solution at the same temperature to pH = 1.2 be (Ignore the change in the volume of the solution due to the addition of formic acid, O = 16:g.mo{l^{-1}}, C = 12, H = 1)\n\nOptions:\nA) 0.1 and 8.97\nB) 0.5 and 8.97\nC) 0.1 and 9.87\nD) 0.5 and 9.87",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "در واکنش سلول الکتروشیمیایی «روی - هیدروژن» به‌صورت: zn(s) + ۲{H^ + }(aq) \\to Z{n^{۲ + }}(aq) + {H_۲}(g) و با {E^۰} = + ۰/۷۶V، چند مورد زیر، سبب تغییر ولتاژ سلول می‌شود؟- افزایش غلظت {H^ + }- افزودن یکی از نمک‌های روی- بالا رفتن دما- به کار بردن الکترود روی با جرم بیشتر\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 3,
+        "full_text": "In the reaction of the \"zinc-hydrogen\" electrochemical cell as: zn(s) + 2{H^ + }(aq) \\to Z{n^{2 + }}(aq) + {H_2}(g) and with {E ^0} = + 0.76V, how many of the following causes the cell voltage to change?\n\nOptions:\nA) 1\nB) 2\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "کدام مورد دربارهٔ دو عنصر {}_{۱۶}X و {}_{۱۷}Y، درست است؟\n",
+        "options": {
+            "1": "بار جزئی Y در ترکیب دوتایی آن با هیدروژن، \\delta + است.",
+            "2": "X،‌ دارای آرایش منظم از کاتیونها در سه بُعد است.",
+            "3": "مولکول {H_۲}X، خطی است.",
+            "4": "مولکول X{Y_۲}، قطبی است."
+        },
+        "final_answer": 4,
+        "full_text": "Which of the two elements {}_{16}X and {}_{17}Y is correct?\n\nOptions:\nA) The partial charge of Y in its binary combination with hydrogen is \\delta +.\nB) X has a regular arrangement of cations in three dimensions.\nC) {H_2}X molecule is linear.\nD) Molecule X{Y_2} is polar.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "با توجه به شکل زیر، که فرایند یونش محلول دو اسید HA و HX (با حجم، دما و غلظت یکسان) را نشان می‌دهد، کدام موارد زیر درست است؟الف) pH محلول اسید HA، کوچک‌تر از pH محلول اسید HX است.ب) \\left[ {{H^ + }} \\right] در محلول اسید HX، ۴ برابر \\left[ {{H^ + }} \\right] در محلول اسید HA است.ج) اگر غلظت مولار آغازین HA برابر ۰/۸ باشد، ثابت یونش آن برابر ۰/۰۴ است.د) اگر A و X دو عنصر از گروه ۱۷ جدول تناوبی باشند، به‌یقین، جرم معمولی HX از جرم مولی HA، بیشتر است.\n",
+        "options": {
+            "1": "«الف» و «ج»",
+            "2": "«ج» و «د»",
+            "3": "«الف» و «ب»",
+            "4": "«ب» و «د»"
+        },
+        "final_answer": 2,
+        "full_text": "According to the figure below, which shows the ionization process of HA and HX acid solution (with the same volume, temperature and concentration), which of the following is correct? a) The pH of HA acid solution is smaller than the pH of HX acid solution. ) \\left[ {{H^ + }} \\right] in HX acid solution is 4 times \\left[ {{H^ + }} \\right] in HA acid solution. c) If the initial molar concentration of HA equals 0/ 8, its ionization constant is equal to 0.04. d) If A and X are two elements from group 17 of the periodic table, surely, the normal mass of HX is greater than the molar mass of HA.\n\nOptions:\nA) \"A\" and \"C\"\nB) \"c\" and \"d\"\nC) \"a\" and \"b\"\nD) \"b\" and \"d\"",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "در واکنش فرضی به حالت تعادل: A(g) + D(g) \\rightleftharpoons X(g)، در یک ظرف ۴ لیتری، مقدار ۰/۲ مول از هر یک از این گازها وجود دارد. اگر حجم ظرف به یک لیتر کاهش یابد، مقدار گاز X در تعادل جدید، برابر چند مول خواهد بود؟ (شرایط دمایی واکنش، ثابت درنظر گرفته شود و \\sqrt {۳۳} \\simeq ۵/۷۴)\n",
+        "options": {
+            "1": "۰/۵۱",
+            "2": "۰/۴۳",
+            "3": "۰/۲۸",
+            "4": "۰/۱۲"
+        },
+        "final_answer": 3,
+        "full_text": "In the hypothetical reaction to the equilibrium state: A(g) + D(g) \\rightleftharpoons X(g), in a 4-liter container, there is 0.2 mol of each of these gases. If the volume of the container is reduced to one liter, how many moles of gas X will be in the new equilibrium? (The temperature conditions of the reaction should be considered constant and \\sqrt {33} \\simeq 5.74)\n\nOptions:\nA) 0.51\nB) 0.43\nC) 0.28\nD) 0.12",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "با توجه به واکنش‌های داده شده، پس از موازنهٔ معادلهٔ آن‌ها، چند مورد از موارد زیر درست است؟\nI)\\,CI{F_۳}(g) + N{H_۳}(g) \\to HF(g) + {N_۲}(g) + C{I_۲}(g)II)PC{I_۳}(g) + {H_۲}O(I) \\to {H_۳}P{O_۴}(aq) + HCI(aq) + {H_۲}(g)\n- گونهٔ اکسنده در واکنش (I)، یک هالید است.- به ازای تشکیل ۱۰ مول اسید قوی، \\frac{{۱۰}}{۳} مول الکترون در واکنش (II) مبادله می‌شود.- ضرایب استوکیومتری گونه‌های کاهش یافته و اکسایش یافته در واکنش (I)، برابر است.- ضریب استوکیومتری فراورده با مولکول ناجور هسته در واکنش (I)، \\frac{۳}{۲} ضریب استوکیومتری آب در واکنش (II) است.- تغییر عدد اکسایش گونهٔ کاهنده در واکنش (II)، برابر با ضریب استوکیومتری گونهٔ کاهنده در واکنش (I) است.\n",
+        "options": {
+            "1": "۴",
+            "2": "۲",
+            "3": "۳",
+            "4": "۵"
+        },
+        "final_answer": 3,
+        "full_text": "According to the given reactions, after balancing their equations, how many of the following are true?\nI)\\,CI{F_3}(g) + N{H_3}(g) \\to HF(g) + {N_2}(g) + C{I_2}(g) II)PC{I_3}(g) + {H_2}O(I) \\to {H_3}P{O_4}(aq) + HCI(aq) + {H_2}(g)\n- The oxidizing species in reaction (I) is a halide.- For the formation of 10 moles of strong acid, \\frac{{10}}{3} moles of electrons are exchanged in reaction (II).- Stoichiometric coefficients of reduced and oxidation species found in reaction (I) is equal to.- The stoichiometric coefficient of the product with the nucleus molecule in reaction (I) is \\frac{3}{2} the stoichiometric coefficient of water in reaction (II).- The change in the oxidation number of the reducing species in the reaction (II), is equal to the stoichiometric coefficient of the reducing species in reaction (I).\n\nOptions:\nA) 4\nB) 2\nC) 3\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "اگر شعاع یون‌های {A^ - } و {D^{۲ - }} را برابر و شعاع یون‌های {X^ + } و {Y^{۲ + }} را نیز بتوان برابر درنظر گرفت، کدام مورد دربارهٔ مقایسهٔ آنتالپی فروپاشی شبکهٔ بلور ترکیب‌های یونی تشکیل شده از این یون‌ها، درست است؟\n",
+        "options": {
+            "1": "{X_۲}D \\lt YD \\lt XA",
+            "2": "{X_۲}D \\lt XA \\lt Y{A_۲}",
+            "3": "XA \\lt YD \\lt Y{A_۲}",
+            "4": "XA \\lt {X_۲}D \\lt YD"
+        },
+        "final_answer": 4,
+        "full_text": "If the radii of {A^ - } and {D^{2 - }} ions can be considered equal and the radii of {X^ + } and {Y^{2 + }} ions can also be considered equal, which case about the comparison of lattice collapse enthalpy Crystals are ionic compounds made up of these ions, right?\n\nOptions:\nA) {X_2}D \\lt YD \\lt XA\nB) {X_2}D \\lt XA \\lt Y{A_2}\nC) XA \\lt YD \\lt Y{A_2}\nD) XA \\lt {X_2}D \\lt YD",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "دربارهٔ فرایند زنگ زدن آهن، کدام موارد زیر درست است؟الف) در این فرایند، فلز، نقش اکسنده و نافلز، نقش کاهنده را دارد.ب) F{e^{۲ + }}، به‌صورت غیرمستقیم در تشکیل زنگ آهن نقش دارد.ج) رطوبت به‌عنوان یکی از اجزای فرایند، در نیم‌واکنش اکسایش نقش دارد.د) در انجام واکنش کلی، مواد شرکت کننده با سه حالت فیزیکی متفاوت نقش دارند.\n",
+        "options": {
+            "1": "«الف» و «ج»",
+            "2": "«ب» و «د»",
+            "3": "«الف» و «د»",
+            "4": "«ب» و «ج»"
+        },
+        "final_answer": 2,
+        "full_text": "About the iron rusting process, which of the following is true? a) In this process, the metal plays the role of oxidizing agent and the nonmetal plays the reducing role. c) Moisture, as one of the components of the process, plays a role in the oxidation half-reaction. d) Participating materials with three different physical states play a role in the overall reaction.\n\nOptions:\nA) \"A\" and \"C\"\nB) \"b\" and \"d\"\nC) \"a\" and \"d\"\nD) \"b\" and \"c\"",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "شکل داده شده، روند تغییر مقدار ثابت تعادل یک واکنش گازی را با تغییر دمای واکنش نشان می‌دهد. کدام مورد درست است؟\n",
+        "options": {
+            "1": "می‌تواند به واکنش:‌ {N_۲}{H_۴} + {H_۲} \\rightleftharpoons ۲N{H_۳} ، مربوط باشد.",
+            "2": "می‌تواند به واکنش:‌ ۲S{O_۳} \\rightleftharpoons ۲S{O_۲} + {O_۲} ، مربوط باشد.",
+            "3": "افزایش دمای واکنش، غلظت فراورده‌ها را در مخلوط تعادلی افزایش می‌دهد.",
+            "4": "کاهش دمای واکنش، غلظت اجزا را در مخرج کسر محاسبهٔ مقدار ثابت تعادل، افزایش می‌دهد."
+        },
+        "final_answer": 1,
+        "full_text": "The given figure shows the change in the equilibrium constant value of a gaseous reaction as the temperature of the reaction changes. Which one is correct?\n\nOptions:\nA) It can be related to the reaction: {N_2}{H_4} + {H_2} \\rightleftharpoons 2N{H_3}.\nB) It can be related to the reaction: 2S{O_3} \\rightleftharpoons 2S{O_2} + {O_2}.\nC) Increasing the reaction temperature increases the concentration of the products in the equilibrium mixture.\nD) Decreasing the reaction temperature increases the concentration of the components in the denominator of the calculation of the equilibrium constant value.",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "اگر دو ظرف در بستهٔ متصل به یکدیگر، مطابق شکل زیر، هر یک با حجم یک لیتر، یکی دارای گاز CO و دیگری بخار {H_۲}O آماده شده، سپس شیر میان آن‌ها باز شود تا با هم مخلوط شوند و در شرایط مناسب، واکنش تعادلی: K = ۹ ، CO(g) + {H_۲}O(g) \\rightleftharpoons C{O_۲}(g) + {H_۲}(g)، انجام شود، مقدار گاز {H_۲} در مخلوط تعادلی، برابر چند مول است؟ (هر ذره هم‌ارز ۰/۰۲۵ مول در نظر گرفته شود.)\n",
+        "options": {
+            "1": "۰/۰۲۵",
+            "2": "۰/۰۵۰",
+            "3": "۰/۰۷۵",
+            "4": "۰/۱۵۰"
+        },
+        "final_answer": 4,
+        "full_text": "If two containers are prepared in a package connected to each other, as shown in the figure below, each with a volume of one liter, one with CO gas and the other with {H_2}O vapor, then the valve between them is opened so that they mix together and in the right conditions, Equilibrium reaction: K = 9, CO(g) + {H_2}O(g) \\rightleftharpoons C{O_2}(g) + {H_2}(g), the amount of {H_2} gas in the equilibrium mixture is equal to how many Is it a mole? (Each particle is considered equivalent to 0.025 mol.)\n\nOptions:\nA) 0.025\nB) 0.050\nC) 0.075\nD) 0.150",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "اگر شمار الکترون‌های دارای n = ۳ در اتم عنصرهای A، E، X و D به‌ترتیب برابر ۱۱، ۳، ۷ و ۹ باشد، کدام مورد درست است؟\n",
+        "options": {
+            "1": "نسبت شمار کاتیون(ها) به شمار آنیون(ها) در ترکیب حاصل از واکنش D و X با نسبت شمار آنیون(ها) به شمار کاتیون(ها) در ترکیب حاصل از واکنش X و E، برابر است.",
+            "2": "تفاوت شمار الکترون‌های دارای n = ۳ و I = ۰ در یون پایدار X و شمار الکترون‌های دارای n = ۳ و I = ۰ در یون پایدار D، برابر ۴ است.",
+            "3": "تفاوت عدد اتمی عناصر E و D، دو برابر تفاوت عدد اتمی عناصر A و X است.",
+            "4": "مولکول حاصل از واکنش A و X در میدان الکتریکی جهت‌گیری نمی‌کند."
+        },
+        "final_answer": 2,
+        "full_text": "If the number of electrons with n = 3 in the atom of elements A, E, X and D is equal to 11, 3, 7 and 9 respectively, which one is correct?\n\nOptions:\nA) The ratio of the number of cation(s) to the number of anion(s) in the combination resulting from the reaction of D and X is equal to the ratio of the number of anion(s) to the number of cation(s) in the combination resulting from the reaction of X and E.\nB) The difference between the number of electrons with n = 3 and I = 0 in the stable ion X and the number of electrons with n = 3 and I = 0 in the stable ion D is equal to 4.\nC) The difference in atomic number of elements E and D is twice the difference in atomic number of elements A and X.\nD) The molecule resulting from the reaction of A and X is not oriented in the electric field.",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "با توجه به طیف‌های نشری خطی چند فلز و یک نمونه از مخلوط فلزی (A)، کدام فلزها در نمونه مخلوط فلزی وجود دارد؟\n",
+        "options": {
+            "1": "D، E و F",
+            "2": "B، C و E",
+            "3": "D و F",
+            "4": "B و C"
+        },
+        "final_answer": 3,
+        "full_text": "According to the linear emission spectra of several metals and a sample of metal mixture (A), which metals are present in the sample of metal mixture?\n\nOptions:\nA) D, E and F\nB) B, C and E\nC) D and F\nD) B and C",
+        "metadata": {
+            "image": true,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "گوگرد می‌تواند در شرایط معیّن با فلوئور ترکیبی با فرمول شیمیایی S{F_n} تشکیل دهد. اگر ۲/۹۲ گرم از فراورده، ۱۲/۰۴ \\times {۱۰^{۲۱}} مولکول را دربر داشته باشد، n کدام عدد است؟ (S = ۳۲:g.mo{l^{ - ۱}}، F = ۱۹)\n",
+        "options": {
+            "1": "۶",
+            "2": "۴",
+            "3": "۳",
+            "4": "۲"
+        },
+        "final_answer": 1,
+        "full_text": "Under certain conditions, sulfur can form a compound with the chemical formula S{F_n} with fluorine. If 2.92 grams of the product contains 12.04 \\times {10^{21}} molecules, what number is n? (S = 32:g.mo{l^{ - 1}}, F = 19)\n\nOptions:\nA) 6\nB) 4\nC) 3\nD) 2",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "اگر تفاوت شمار نوترون‌ها با شمار پروتون‌های اتم {}^{۷۹}M، برابر عدد اتمی دومین فلز قلیایی در جدول تناوبی باشد، کدام موارد زیر دربارهٔ عنصر M، درست است؟الف) عنصری با خواص شیمیایی مشابه گوگرد است.ب) در لایهٔ ظرفیت آن، سه الکترون با I = ۱ وجود دارد.ج) یون پایدار آن، دارای آرایش الکترونی گاز نجیب است.د) عدد اتمی آن، برابر ۳۴ است و در گروه ۶ جدول تناوبی جای دارد.\n",
+        "options": {
+            "1": "«الف» و «د»",
+            "2": "«ب» و «ج»",
+            "3": "«الف» و «ج»",
+            "4": "«ب» و «د»"
+        },
+        "final_answer": 3,
+        "full_text": "If the difference between the number of neutrons and the number of protons in the M atom is equal to the atomic number of the second alkali metal in the periodic table, which of the following statements about the element M is true? Its valence layer has three electrons with I = 1. c) Its stable ion has the electron configuration of a noble gas. d) Its atomic number is 34 and it is in group 6 of the periodic table.\n\nOptions:\nA) \"A\" and \"D\"\nB) \"b\" and \"c\"\nC) \"A\" and \"C\"\nD) \"b\" and \"d\"",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "فرمول شیمیایی، نام و حالت فیزیکی (در دما و فشار اتاق) ترکیب‌ها در کدام مورد، درست بیان شده است؟\n",
+        "options": {
+            "1": "CHC{I_۳}: کلروفرم، مایع - Ti{O_۲}: تیتانیم (II) اکسید، جامد",
+            "2": "{C_۳}{H_۶}O: استون، مایع - O{F_۲}: دی‌فلوئورو اکسید، مایع",
+            "3": "O{F_۲}: دی‌فلوئورو اکسید، جامد - C{H_۳}COO{C_۲}{H_۵}: اتیل استات، جامد",
+            "4": "{C_۲}{H_۶}{O_۲}: اتیلن گلیکول، مایع - C{H_۳}COO{C_۲}{H_۵}: اتیل استات، مایع"
+        },
+        "final_answer": 4,
+        "full_text": "The chemical formula, name and physical state (at room temperature and pressure) of the compounds are stated correctly in which case?\n\nOptions:\nA) CHC{I_3}: chloroform, liquid - Ti{O_2}: titanium (II) oxide, solid\nB) {C_3}{H_6}O: Acetone, liquid - O{F_2}: Difluorooxide, liquid\nC) O{F_2}: difluorooxide, solid - C{H_3}COO{C_2}{H_5}: ethyl acetate, solid\nD) {C_2}{H_6}{O_2}: ethylene glycol, liquid - C{H_3}COO{C_2}{H_5}: ethyl acetate, liquid",
+        "metadata": {
+            "image": false,
+            "course": "chemistry",
+            "year": "1402",
+            "month": "tir",
+            "question_number": "35"
+        }
+    }
+}

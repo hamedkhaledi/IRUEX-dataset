@@ -1,0 +1,812 @@
+{
+    "1": {
+        "question": "کدام موارد درست است؟\nالف) در واپاشی {\\beta ^ + }، الکترون گسیل شده در هستهٔ مادر وجود ندارد و همچنین یکی از الکترون‌های مداری اتم نیست.\nب) در واپاشی {\\beta ^ + }، ذرهٔ گسیل شده توسط هسته، جرم یکسان با الکترون دارد.\nپ) اغلب هسته‌ها پس از واپاشی بتا، در حالت پایدار قرار می‌گیرند.\nت) در واپاشی {\\beta ^ + }، یکی از نوترون‌های درون هسته به یک پروتون و یک پوزیترون تبدیل می‌شود.\n",
+        "options": {
+            "1": "الف و ب",
+            "2": "الف و پ",
+            "3": "ب و ت",
+            "4": "ب و پ"
+        },
+        "final_answer": 1,
+        "full_text": "Which items are correct?\na) In the decay of {\\beta ^ + }, the emitted electron is not present in the parent nucleus and is not one of the orbital electrons of the atom.\nb) In the decay of {\\beta ^ + }, the particle emitted by the nucleus has the same mass as the electron.\nc) Most nuclei are in a stable state after beta decay.\nt) In the decay of {\\beta ^ + }, one of the neutrons inside the nucleus turns into a proton and a positron.\n\nOptions:\nA) A and B\nB) A and C\nC) b and t\nD) b and p",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "1"
+        }
+    },
+    "2": {
+        "question": "شکل زیر، نمودار سرعت - زمان متحرکی است که روی محور x حرکت می‌کند. تندی متوسط متحرک در مدتی که در خلاف جهت محور حرکت می کند، چند متر بر ثانیه است؟\n",
+        "options": {
+            "1": "صفر",
+            "2": "۶",
+            "3": "۸",
+            "4": "۹"
+        },
+        "final_answer": 2,
+        "full_text": "The figure below is a moving velocity-time graph moving along the x-axis. What is the average moving speed during the time it moves against the direction of the axis, how many meters per second?\n\nOptions:\nA) Zero\nB) 6\nC) 8\nD) 9",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "2"
+        }
+    },
+    "3": {
+        "question": "متحرکی روی محور x با شتاب ثابت حرکت می‌کند. اگر سرعت متحرک در لحظهٔ t=۰ در جهت محور x باشد و بردار سرعت متوسط در ۱۰ ثانیهٔ اول حرکت برابر {\\vec v_{av}} = (۷/۵\\frac{m}{s})\\vec i و تندی متوسط در این بازه ۸/۵\\frac{m}{s} باشد، مسافت طی شده در ۲ ثانیه اول حرکت چند متر است؟\n",
+        "options": {
+            "1": "۵",
+            "2": "۱۵",
+            "3": "۲۵",
+            "4": "۳۵"
+        },
+        "final_answer": 4,
+        "full_text": "An object moves along the x-axis with constant acceleration. If the moving speed at the moment t=0 is in the direction of the x axis and the average speed vector in the first 10 seconds of the movement is equal to {\\vec v_{av}} = (7/5\\frac{m}{s})\\vec i and acceleration If the average in this interval is 8.5\\frac{m}{s}, how many meters is the distance traveled in the first 2 seconds of movement?\n\nOptions:\nA) 5\nB) 15\nC) 25\nD) 35",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "3"
+        }
+    },
+    "4": {
+        "question": "نمودار مکان - زمان متحرکی که با شتاب ثابت حرکت می‌کند، مطابق شکل زیر است. جابه‌جایی متحرک در بازهٔ زمانی {t_۱} = ۰s تا {t_۲} = ۸s چند برابر مسافت طی شده در این بازهٔ زمانی است؟\n",
+        "options": {
+            "1": "\\frac{۵}{{۱۷}}",
+            "2": "\\frac{۵}{{۱۴}}",
+            "3": "\\frac{۸}{{۱۷}}",
+            "4": "\\frac{۹}{{۱۴}}"
+        },
+        "final_answer": 3,
+        "full_text": "The space-time diagram of a moving object moving with constant acceleration is as shown below. The moving displacement in the time interval {t_1} = 0s to {t_2} = 8s is how many times the distance traveled in this time interval?\n\nOptions:\nA) \\frac{5}{{17}}\nB) \\frac{5}{{14}}\nC) \\frac{8}{{17}}\nD) \\frac{9}{{14}}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "4"
+        }
+    },
+    "5": {
+        "question": "متحرکی با شتاب ثابت روی محور x حرکت می‌کند و در لحظه‌های {t_۱} = ۳s و {t_۲} = ۵s از مبدأ محور عبور می‌کند و در لحظه‌ای که به مکان x = - ۱m می‌رسد، جهت حرکتش عوض می‌شود. تندی متوسط متحرک از لحظهٔ {t_۱} = ۰s تا {t_۲} = ۵s چند متر بر ثانیه است؟\n",
+        "options": {
+            "1": "\\frac{{۱۳}}{۵}",
+            "2": "۳",
+            "3": "\\frac{{۱۷}}{۵}",
+            "4": "۶"
+        },
+        "final_answer": 3,
+        "full_text": "A moving object moves with constant acceleration on the x-axis and passes the origin of the axis at the moments {t_1} = 3s and {t_2} = 5s, and at the moment it reaches the location x = -1m, its direction of movement changes. How many meters per second is the moving average speed from {t_1} = 0s to {t_2} = 5s?\n\nOptions:\nA) \\frac{{13}}{5}\nB) 3\nC) \\frac{{17}}{5}\nD) 6",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "5"
+        }
+    },
+    "6": {
+        "question": "شکل زیر، تغییرات نیروی کشسانی سه فنر را برحسب تغییر طول آن‌ها نشان می‌دهد. اگر نیروی کشسانی {F_e} = ۳۰N طول فنر {S_۲} را ۴ سانتی‌متر افزایش دهد، طول فنرهای {S_۱} و {S_۳} را به‌ترتیب چند سانتی‌متر افزایش می‌دهد؟\n",
+        "options": {
+            "1": "۳ و ۶",
+            "2": "۶ و ۲",
+            "3": "۸ و ۲",
+            "4": "۹ و ۳"
+        },
+        "final_answer": 4,
+        "full_text": "The figure below shows the changes in the elastic force of three springs according to their length changes. If the elastic force {F_e} = 30N increases the length of the spring {S_2} by 4 cm, how many centimeters will it increase the length of the springs {S_1} and {S_3} respectively?\n\nOptions:\nA) 3 and 6\nB) 6 and 2\nC) 8 and 2\nD) 9 and 3",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "6"
+        }
+    },
+    "7": {
+        "question": "چوب مکعب شکلی به جرم ۵kg را به نخی بسته و با نیروی ثابت و افقی ۱۵N روی سطح افقی می‌کشیم و از حال سکون به حرکت درمی‌آوریم و بعد از ۲ ثانیه نخ پاره می‌شود. اگر ضریب اصطکاک جنبشی ۰/۲ باشد، کل مسافتی که چوب از ابتدای حرکت تا لحظهٔ ایستادن طی می‌کند، چند متر است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۱/۵",
+            "2": "۲",
+            "3": "۲/۵",
+            "4": "۳"
+        },
+        "final_answer": 4,
+        "full_text": "A cube-shaped stick with a mass of 5 kg is tied to a thread and pulled on a horizontal surface with a constant and horizontal force of 15N, and it is moved from rest and the thread breaks after 2 seconds. If the coefficient of kinetic friction is 0.2, how many meters is the total distance that the stick travels from the beginning of the movement to the moment it stops? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 1/5\nB) 2\nC) 2.5\nD) 3",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "7"
+        }
+    },
+    "8": {
+        "question": "فنر سبکی به ثابت ۲۰۰\\frac{N}{m} به سقف آسانسور بسته شده و از آن وزنهٔ m = ۵kg آویزان است و آسانسور با شتاب رو به پایین ۲\\frac{m}{{{s^۲}}} پایین می‌آید و طول فنر {L_۱} است. وقتی این آسانسور با شتاب ۱\\frac{m}{{{s^۲}}} کندشونده پایین می‌آید. طول فنر {L_۲} می‌شود. اختلاف {L_۲} و {L_۱} چند سانتی‌متر است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۱۵",
+            "2": "۷/۵",
+            "3": "۵",
+            "4": "۲/۵"
+        },
+        "final_answer": 2,
+        "full_text": "A light spring with a constant of 200\\frac{N}{m} is attached to the ceiling of the elevator and a weight of m = 5kg hangs from it, and the elevator has a downward acceleration of 2\\frac{m}{{{s^2}}} down comes and the length of the spring is {L_1}. When this elevator descends with an acceleration of 1\\frac{m}{{{s^2}}} it decelerates. The length of the spring becomes {L_2}. How many centimeters is the difference between {L_2} and {L_1}? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 15\nB) 7.5\nC) 5\nD) 2.5",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "8"
+        }
+    },
+    "9": {
+        "question": "متحرکی با تندی ثابت v = ۱۰\\pi \\frac{m}{s} روی دایره‌ای به شعاع ۲۰ متر حرکت می‌کند. شتاب متوسط این متحرک در هر ثانیه چند برابر شتاب مرکزگرای آن است؟\n",
+        "options": {
+            "1": "\\frac{{۲\\sqrt ۲ }}{\\pi }",
+            "2": "\\frac{۵}{\\pi }",
+            "3": "۵\\sqrt ۲",
+            "4": "\\sqrt ۲"
+        },
+        "final_answer": 1,
+        "full_text": "A vehicle moves with a constant velocity v = 10\\pi \\frac{m}{s} on a circle with a radius of 20 meters. How many times is the average acceleration of this mover per second of its centripetal acceleration?\n\nOptions:\nA) \\frac{{2\\sqrt 2 }}{\\pi }\nB) \\frac{5}{\\pi }\nC) 5\\sqrt 2\nD) \\sqrt 2",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "9"
+        }
+    },
+    "10": {
+        "question": "معادلهٔ حرکت نوسانگری در SI به‌صورت x = ۰/۰۲\\cos \\frac{\\pi }{۲}t است. تندی متوسط نوسانگر در بازهٔ زمانی {t_۱} = \\frac{۱}{{۱۲}}s تا {t_۲} = \\frac{۲۵}{{۱۲}}s، چند سانتی‌متر بر ثانیه است؟\n",
+        "options": {
+            "1": "۱",
+            "2": "۲",
+            "3": "۴",
+            "4": "۸"
+        },
+        "final_answer": 2,
+        "full_text": "The equation of oscillating motion in SI is x = 0.02\\cos \\frac{\\pi }{2}t. How many centimeters per second is the average speed of the oscillator in the time interval {t_1} = \\frac{1}{{12}}s to {t_2} = \\frac{25}{{12}}s?\n\nOptions:\nA) 1\nB) 2\nC) 4\nD) 8",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "10"
+        }
+    },
+    "11": {
+        "question": "شکل زیر، تصویری از موج عرضی در یک ریسمان کشیده شده را در لحظهٔ {t_۱} نشان می‌دهد. در لحظهٔ {t_۲} = {t_۱} + \\frac{۹}{{۴۰۰}}s کدام مورد، درست است؟\n",
+        "options": {
+            "1": "تندی ذرهٔ B، صفر است.",
+            "2": "تندی ذرهٔ A، بیشینه است.",
+            "3": "حرکت ذرهٔ A، تندشونده است.",
+            "4": "حرکت ذرهٔ B، تندشونده است."
+        },
+        "final_answer": 3,
+        "full_text": "The figure below shows an image of a transverse wave in a stretched string at time {t_1}. At the moment {t_2} = {t_1} + \\frac{9}{{400}}s, which item is correct?\n\nOptions:\nA) The momentum of particle B is zero.\nB) The speed of particle A is maximum.\nC) The motion of particle A is accelerating.\nD) The motion of particle B is accelerating.",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "11"
+        }
+    },
+    "12": {
+        "question": "نمودار مکان - زمان نوسانگری به جرم ۵۰ گرم مطابق شکل زیر است. انرژی مکانیکی نوسانگر چند ژول است؟ ({\\pi ^۲} = ۱۰)\n",
+        "options": {
+            "1": "\\frac{۱}{{۲۵۰}}",
+            "2": "\\frac{۱}{{۲۵}}",
+            "3": "\\frac{۲}{{۵}}",
+            "4": "\\frac{۱}{{۵۰}}"
+        },
+        "final_answer": 2,
+        "full_text": "The location-time diagram of the oscillation for a mass of 50 grams is as shown below. How many joules is the mechanical energy of the oscillator? ({\\pi ^2} = 10)\n\nOptions:\nA) \\frac{1}{{250}}\nB) \\frac{1}{{25}}\nC) \\frac{2}{{5}}\nD) \\frac{1}{{50}}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "12"
+        }
+    },
+    "13": {
+        "question": "یک دستگاه صوتی، صدایی با تراز شدت {\\beta _۱} = ۲۸dB و دستگاه صوتی دیگر، صدایی با تراز {\\beta _۲} = ۹۲dB ایجاد می‌کند. شدت‌های مربوط به این دو تراز (برحسب \\frac{W}{{{m^۲}}}) به‌ترتیب {I_۱} و {I_۲} است. \\frac{{{I_۲}}}{{{I_۱}}} کدام است؟ (\\log ۲ = ۰/۳)\n",
+        "options": {
+            "1": "۲/۵ \\times {۱۰^۶}",
+            "2": "۲/۵ \\times {۱۰^۸}",
+            "3": "۴ \\times {۱۰^۶}",
+            "4": "۴ \\times {۱۰^۸}"
+        },
+        "final_answer": 1,
+        "full_text": "One audio device produces a sound with an intensity level of {\\beta _1} = 28dB and another audio device produces a sound with an intensity level of {\\beta _2} = 92dB. The corresponding intensities of these two levels (in terms of \\frac{W}{{{m^2}}}) are {I_1} and {I_2} respectively. Which one is \\frac{{{I_2}}}{{{I_1}}}? (\\log 2 = 0.3)\n\nOptions:\nA) 2/5 \\times {10^6}\nB) 2/5 \\times {10^8}\nC) 4 \\times {10^6}\nD) 4 \\times {10^8}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "13"
+        }
+    },
+    "14": {
+        "question": "مجموع بسامدهای دو هماهنگ نخست یک تار دو انتها بسته ۳۷۵ هرتز است. اگر طول تار ۴۰cm و جرم آن ۱۰ گرم باشد، نیروی کشش تار چند نیوتون است؟\n",
+        "options": {
+            "1": "۱۸۰",
+            "2": "۲۰۰",
+            "3": "۳۶۰",
+            "4": "۲۵۰"
+        },
+        "final_answer": 4,
+        "full_text": "The sum of the frequencies of the first two harmonics of a string with two closed ends is 375 Hz. If the length of the string is 40 cm and its mass is 10 grams, how many newtons is the tension force of the string?\n\nOptions:\nA) 180\nB) 200\nC) 360\nD) 250",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "14"
+        }
+    },
+    "15": {
+        "question": "مطابق شکل زیر، پرتو نوری از هوا به یک محیط شفاف می‌تابد و در ورود به محیط (۲)، {۱۶^ \\circ } از راستای اولیه منحرف می‌شود. اگر طول موج نور در محیط دوم، \\frac{۱}{۸}\\mu m از طول موج نور در هوا کم‌تر باشد، بسامد نور چند هرتز است؟ (= ۳ \\times {۱۰^۸}\\frac{m}{s} سرعت نور در هوا، \\sin {۵۳^ \\circ } = ۰/۸)\n",
+        "options": {
+            "1": "۶ \\times {۱۰^{۱۴}}",
+            "2": "۶ \\times {۱۰^{۱۵}}",
+            "3": "۸/۴ \\times {۱۰^{۱۴}}",
+            "4": "۸/۴ \\times {۱۰^{۱۵}}"
+        },
+        "final_answer": 1,
+        "full_text": "According to the figure below, a light beam shines from the air into a transparent environment and upon entering the environment (2), {16^ \\circ } deviates from the original direction. If the wavelength of light in the second medium is \\frac{1}{8}\\mu m less than the wavelength of light in air, what is the frequency of light? (= 3 \\times {10^8}\\frac{m}{s} speed of light in air, \\sin {53^ \\circ } = 0/8)\n\nOptions:\nA) 6 \\times {10^{14}}\nB) 6 \\times {10^{15}}\nC) 8/4 \\times {10^{14}}\nD) 8/4 \\times {10^{15}}",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "15"
+        }
+    },
+    "16": {
+        "question": "مطابق شکل زیر، پرتو نوری از هوا وارد محیط شفافی می‌شود و شکست می‌یابد. این پرتو فاصلهٔ‌ A تا B را در چند نانو ثانیه طی می‌کند؟ (c = ۳ \\times {۱۰^۸}\\frac{m}{s})\n",
+        "options": {
+            "1": "\\frac{{\\sqrt ۲ }}{۲}",
+            "2": "۱",
+            "3": "\\sqrt ۲",
+            "4": "۳"
+        },
+        "final_answer": 3,
+        "full_text": "According to the figure below, a light ray from air enters a transparent medium and is refracted. How many nanoseconds does this ray travel from A to B? (c = 3 \\times {10^8}\\frac{m}{s})\n\nOptions:\nA) \\frac{{\\sqrt 2 }}{2}\nB) 1\nC) \\sqrt 2\nD) 3",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "16"
+        }
+    },
+    "17": {
+        "question": "در آزمایش فوتوالکتریک، بسامد آستانهٔ فلز \\frac{۵}{۸} \\times {۱۰^{۱۵}}Hz است. اگر انرژی هر یک از فوتون‌های فرودی به فلز ۴/۱۲۵ \\times {۱۰^{ - ۱۹}}J باشد، بیشینهٔ تندی فوتوالکترون‌های تولید شده چند متر بر ثانیه است؟ (c = ۱/۶ \\times {۱۰^{ - ۱۹}}C، {m_c} = ۹ \\times {۱۰^{ - ۳۱}}kg و h = ۴ \\times {۱۰^{ - ۱۵}}eV.s)\n",
+        "options": {
+            "1": "\\frac{۱}{۶} \\times {۱۰^۵}",
+            "2": "\\frac{۱}{۶} \\times {۱۰^۶}",
+            "3": "\\frac{۵}{۷} \\times {۱۰^۴}",
+            "4": "\\frac{۵}{۷} \\times {۱۰^۵}"
+        },
+        "final_answer": 2,
+        "full_text": "In the photoelectric test, the threshold frequency of the metal is \\frac{5}{8} \\times {10^{15}}Hz. If the energy of each photon incident on the metal is 4.125 \\times {10^{-19}}J, what is the maximum speed of the photoelectrons produced in meters per second? (c = 1/6 \\times {10^{ - 19}}C, {m_c} = 9 \\times {10^{ - 31}}kg and h = 4 \\times {10^{ - 15}}eV. s)\n\nOptions:\nA) \\frac{1}{6} \\times {10^5}\nB) \\frac{1}{6} \\times {10^6}\nC) \\frac{5}{7} \\times {10^4}\nD) \\frac{5}{7} \\times {10^5}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "17"
+        }
+    },
+    "18": {
+        "question": "کدام‌یک از موارد زیر را نمی‌توان برای اتم‌های هیدروژن گونه، با استفاده از مدل اتمی بور توجیه کرد؟\n",
+        "options": {
+            "1": "تبیین پایداری اتم",
+            "2": "طول موج‌های گسیلی طیف اتم",
+            "3": "گسسته بودن ترازهای انرژی الکترون در اتم",
+            "4": "متفاوت بودن شدت خط‌های طیف گسیلی اتم"
+        },
+        "final_answer": 4,
+        "full_text": "Which of the following cannot be explained for hydrogen atoms using Bohr's atomic model?\n\nOptions:\nA) Explain the stability of the atom\nB) emission wavelengths of the atomic spectrum\nC) discreteness of electron energy levels in the atom\nD) different intensities of emission spectrum lines of atoms",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "18"
+        }
+    },
+    "19": {
+        "question": "در اتم هیدروژن در رشتهٔ بالمر (n' = ۲)، بلندترین طول موج گسیل شده، چند نانومتر بیش‌تر از کوتاه‌ترین موج این رشته است؟ \\left[ {R = ۰/۰۱{{(nm)}^{ - ۱}}} \\right]\n",
+        "options": {
+            "1": "۲۴۰",
+            "2": "۳۲۰",
+            "3": "۴۰۰",
+            "4": "۵۰۰"
+        },
+        "final_answer": 2,
+        "full_text": "In the hydrogen atom in the Balmer string (n' = 2), the longest wavelength emitted is how many nanometers more than the shortest wavelength of this string? \\left[ {R = 0.01{{(nm)}^{ - 1}}} \\right]\n\nOptions:\nA) 240\nB) 320\nC) 400\nD) 500",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "19"
+        }
+    },
+    "20": {
+        "question": "الکترون در اتم هیدروژن در حالت پایه قرار دارد. انرژی لازم برای این‌که الکترون از حالت پایه به اولین حالت برانگیخته جهش کند، چند ژول است؟ ({E_R} = ۱۳/۶eV و e = ۱/۶ \\times {۱۰^{ - ۱۹}})\n",
+        "options": {
+            "1": "۱/۶۳۲ \\times {۱۰^{ - ۱۸}}",
+            "2": "۳/۱۷۶ \\times {۱۰^{ - ۱۸}}",
+            "3": "۴/۷۲ \\times {۱۰^{ - ۱۹}}",
+            "4": "۵/۴۴ \\times {۱۰^{ - ۱۹}}"
+        },
+        "final_answer": 1,
+        "full_text": "The electron in the hydrogen atom is in the ground state. How much energy is required for the electron to jump from the ground state to the first excited state? ({E_R} = 13.6eV and e = 1.6 \\times {10^{ - 19}})\n\nOptions:\nA) 1/632 \\times {10^{ - 18}}\nB) 3/176 \\times {10^{ - 18}}\nC) 4/72 \\times {10^{ - 19}}\nD) 5/44 \\times {10^{ - 19}}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "20"
+        }
+    },
+    "21": {
+        "question": "دانشمندی به یک نمونه از زغال قدیمی اشاره می‌کند و ادعا می‌کند که عمر این زغال حدود ۲۲۹۲۰ سال است. برای اثبات این ادعا، کربن ۱۴ این زغال، چند درصد مقدار عادی کربن ۱۴ موجود در زغالی باید باشد که تازه تولید شده است؟ (نیمه عمر کربن ۵۷۳۰ سال است.)\n",
+        "options": {
+            "1": "۱/۵۶",
+            "2": "۳/۱۳",
+            "3": "۶/۲۵",
+            "4": "۱۲/۵۰"
+        },
+        "final_answer": 3,
+        "full_text": "A scientist points to a sample of old coal and claims that the life of this coal is about 22,920 years. To prove this claim, the carbon 14 of this coal should be what percentage of the normal amount of carbon 14 in newly produced coal? (The half-life of carbon is 5730 years.)\n\nOptions:\nA) 1/56\nB) 13/3\nC) 6/25\nD) 12/50",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "21"
+        }
+    },
+    "22": {
+        "question": "دو بار الکتریکی نقطه‌ای {q_۱} = ۲۰\\mu C و {q_۲} = - ۵\\mu C در فاصلهٔ ۳۰ سانتی‌متری ازهم ثابت نگه داشته شده‌اند. بار الکتریکی {q_۳} = ۱۵\\mu C را در این محیط در نقطه‌ای قرار می‌دهیم که نیروی الکتریکی خالص وارد بر آن صفر باشد. در این حالت، نیروی الکتریکی وارد بر بار {q_۲} چند نیوتون است؟ (k = ۹ \\times {۱۰^۹}\\frac{{N.{m^۲}}}{{{C^۲}}})\n",
+        "options": {
+            "1": "۱/۵",
+            "2": "۲/۵",
+            "3": "۳",
+            "4": "۵"
+        },
+        "final_answer": 2,
+        "full_text": "Two electric point charges {q_1} = 20\\mu C and {q_2} = -5\\mu C are kept constant at a distance of 30 cm from each other. We place the electric charge {q_3} = 15\\mu C in this environment at a point where the net electric force acting on it is zero. In this case, how many newtons is the electric force on the charge {q_2}? (k = 9 \\times {10^9}\\frac{{N.{m^2}}}{{{C^2}}})\n\nOptions:\nA) 1/5\nB) 2.5\nC) 3\nD) 5",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "22"
+        }
+    },
+    "23": {
+        "question": "در شکل زیر، میدان الکتریکی خالص در نقطهٔ A برابر صفر است. \\left| {\\frac{{{q_۳}}}{{{q_۱}}}} \\right| چقدر است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۲\\sqrt ۲",
+            "3": "۴",
+            "4": "۴\\sqrt ۲"
+        },
+        "final_answer": 2,
+        "full_text": "In the figure below, the net electric field at point A is zero. \\left| {\\frac{{{q_3}}}{{{q_1}}}} \\right| How much is?\n\nOptions:\nA) 2\nB) 2\\sqrt 2\nC) 4\nD) 4\\sqrt 2",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "23"
+        }
+    },
+    "24": {
+        "question": "دو گوی رسانای کوچک و یکسان دارای بار الکتریکی {q_۱} \\gt ۰ و \\left| {{q_۲}} \\right| \\gt {q_۱} هستند و در فاصلهٔ معینی از هم قرار دارند و نیروی الکتریکی F را بهم وارد می‌کنند. اگر دو گوی را باهم تماس دهیم و در همان فاصله قرار دهیم، نیروی الکتریکی که بهم وارد می‌کنند، ۲۰ درصد کاهش می‌یابد. \\frac{{\\left| {{q_۲}} \\right|}}{{{q_۱}}} کدام است؟\n",
+        "options": {
+            "1": "۲",
+            "2": "۴",
+            "3": "۵",
+            "4": "۱۰"
+        },
+        "final_answer": 3,
+        "full_text": "Two small and identical conductive spheres with electric charge {q_1} \\gt 0 and \\left| {{q_2}} \\right| \\gt {q_1} and are located at a certain distance from each other and introduce electric force F. If we touch two spheres and place them at the same distance, the electric force they apply to each other will decrease by 20%. \\frac{{\\left| Which one is {{q_2}} \\right|}}{{{q_1}}}?\n\nOptions:\nA) 2\nB) 4\nC) 5\nD) 10",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "24"
+        }
+    },
+    "25": {
+        "question": "دو کرهٔ فلزی یکسان A و B به شعاع‌های ۵cm دارای بارهای الکتریکی {q_A} = ۲۰\\mu C و {q_B} = - ۴\\mu C را بهم تماس داده و از هم جدا می‌کنیم. چگالی سطحی بار کرهٔ‌ A چند میکروکولن بر مترمربع کاهش می‌یابد؟ (\\pi = ۳)\n",
+        "options": {
+            "1": "۱۵۰",
+            "2": "۳۰۰",
+            "3": "۴۰۰",
+            "4": "۸۰۰"
+        },
+        "final_answer": 3,
+        "full_text": "Two identical metal spheres A and B with radii of 5 cm having electric charges {q_A} = 20\\mu C and {q_B} = -4\\mu C are brought into contact and separated. The surface charge density of sphere A decreases by how many microcoulombs per square meter? (\\pi = 3)\n\nOptions:\nA) 150\nB) 300\nC) 400\nD) 800",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "25"
+        }
+    },
+    "26": {
+        "question": "ابزار زیر یک وسیلهٔ اندازه‌گیری طول است. این وسیله چه نام دارد و خطای اندازه‌گیری آن کدام است؟\n",
+        "options": {
+            "1": "ریزسنج و ۰/۰۰۱mm",
+            "2": "کولیس و ۰/۰۰۱mm",
+            "3": "ریزسنج و ۰/۰۰۳mm",
+            "4": "کولیس و ۰/۰۰۳mm"
+        },
+        "final_answer": 1,
+        "full_text": "The following tool is a length measuring tool. What is the name of this device and what is its measurement error?\n\nOptions:\nA) Micrometer and 0.001mm\nB) Caliper and 0.001mm\nC) micrometer and 0.003 mm\nD) Caliper and 0.003mm",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "26"
+        }
+    },
+    "27": {
+        "question": "ظرفیت خازنی ۵ میکروفاراد و بار الکتریکی آن q است. اگر ۳mC بار الکتریکی را از صفحهٔ منفی جدا کرده و به صفحهٔ‌ مثبت منتقل کنیم، انرژی ذخیره شده در خازن به اندازهٔ ۴/۵J افزایش می‌یابد. q چند میلی کولن است؟\n",
+        "options": {
+            "1": "۳",
+            "2": "۶",
+            "3": "۹",
+            "4": "۱۲"
+        },
+        "final_answer": 2,
+        "full_text": "Capacitance is 5 microfarads and its electric charge is q. If we separate 3mC of electric charge from the negative plate and transfer it to the positive plate, the energy stored in the capacitor increases by 4.5J. How many millicoulombs is q?\n\nOptions:\nA) 3\nB) 6\nC) 9\nD) 12",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "27"
+        }
+    },
+    "28": {
+        "question": "در مدار زیر، اختلاف پتانسیل دو سر باتری {\\varepsilon _۲} برابر ۳/۵ ولت است. توان مصرفی مقاومت R چند وات است؟\n",
+        "options": {
+            "1": "۱/۶",
+            "2": "۲/۵",
+            "3": "۳/۲",
+            "4": "۱/۵"
+        },
+        "final_answer": 1,
+        "full_text": "In the circuit below, the potential difference between the two ends of the battery {\\varepsilon _2} is equal to 3.5 volts. How many watts is the power consumption of resistance R?\n\nOptions:\nA) 1/6\nB) 2.5\nC) 2/3\nD) 1/5",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "28"
+        }
+    },
+    "29": {
+        "question": "در شکل زیر، ولت‌سنج‌ها آرمانی هستند و هر دو لامپ روشن است. اگر کلید {k_۱} را قطع کنیم، کدام‌یک از ولت‌سنج‌ها صفر را نشان می‌دهد؟\n",
+        "options": {
+            "1": "{V_۱}",
+            "2": "{V_۲}",
+            "3": "{V_۱} و V",
+            "4": "{V_۲} و V"
+        },
+        "final_answer": 2,
+        "full_text": "In the figure below, the voltmeters are ideal and both bulbs are on. If we cut the key {k_1}, which of the voltmeters will show zero?\n\nOptions:\nA) {V_1}\nB) {V_2}\nC) {V_1} and V\nD) {V_2} and V",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "29"
+        }
+    },
+    "30": {
+        "question": "شکل زیر یک مدار الکتریکی را نشان می‌دهد. اگر توان مصرفی مقاومت {R_۳}، ۶ برابر توان مصرفی مقاومت {R_۲} باشد، {R_۳} چند اهم است؟\n",
+        "options": {
+            "1": "۱۸",
+            "2": "۱۲",
+            "3": "۸",
+            "4": "۶"
+        },
+        "final_answer": 3,
+        "full_text": "The figure below shows an electric circuit. If the power consumption of resistance {R_3} is 6 times the power consumption of resistance {R_2}, how many ohms is {R_3}?\n\nOptions:\nA) 18\nB) 12\nC) 8\nD) 6",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "30"
+        }
+    },
+    "31": {
+        "question": "در شکل زیر، اگر مقاومت متغیر از صفر به ۱۸\\Omega افزایش یابد، اختلاف پتانسیل الکتریکی دو سر باتری از چند ولت به چند ولت تغییر می‌کند؟\n",
+        "options": {
+            "1": "۱۲ به ۶",
+            "2": "۱۲ به ۹",
+            "3": "صفر به ۶",
+            "4": "صفر به ۹"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, if the variable resistance increases from zero to 18\\Omega, the electric potential difference between the two ends of the battery will change from how many volts to how many volts?\n\nOptions:\nA) 12 to 6\nB) 12 to 9\nC) zero to 6\nD) Zero to 9",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "31"
+        }
+    },
+    "32": {
+        "question": "در یک میدان مغناطیسی یکنواخت، یک ذرهٔ \\alpha با سرعت ۵۰\\frac{m}{s} عمود بر میدان مغناطیسی در حرکت است و شتاب حاصل از نیروی مغناطیسی، ۴ \\times {۱۰^۵}\\frac{m}{{{s^۲}}} است. بزرگی میدان مغناطیسی چند گاوس است؟ (= ۶/۶۸ \\times {۱۰^{ - ۲۷}}kgجرم ذرهٔ \\alpha و e = ۱/۶ \\times {۱۰^{ - ۱۹}}C)\n",
+        "options": {
+            "1": "۱/۶۷",
+            "2": "۲/۲۸",
+            "3": "۳/۳۴",
+            "4": "۴/۵۶"
+        },
+        "final_answer": 1,
+        "full_text": "In a uniform magnetic field, an \\alpha particle moves with a speed of 50\\frac{m}{s} perpendicular to the magnetic field, and the acceleration resulting from the magnetic force is 4 \\times {10^5}\\frac{m}{{ {s^2}}} is How many gauss is the magnitude of the magnetic field? (= 6.68 \\times {10^{ - 27}}kg mass of \\alpha particle and e = 1.6 \\times {10^{ - 19}}C)\n\nOptions:\nA) 1/67\nB) 2/28\nC) 3/34\nD) 4/56",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "32"
+        }
+    },
+    "33": {
+        "question": "در شکل زیر، از دو سیم موازی و بلند، جریان‌های الکتریکی عبور می‌کند. اگر میدان مغناطیسی در نقطهٔ A برابر صفر باشد، کدام مورد درست است؟\n",
+        "options": {
+            "1": "{I_۲} در خلاف جهت {I_۱} و کوچک‌تر از ‌آن است.",
+            "2": "{I_۲} در خلاف جهت {I_۱} و بزرگ‌تر از ‌آن است.",
+            "3": "{I_۲} هم‌جهت با {I_۱} و بزرگ‌تر از ‌آن است.",
+            "4": "{I_۲} هم‌جهت با {I_۱} و کوچک‌تر از ‌آن است."
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, electric currents pass through two parallel and long wires. If the magnetic field at point A is zero, which one is correct?\n\nOptions:\nA) {I_2} is opposite to {I_1} and smaller than it.\nB) {I_2} is opposite to {I_1} and greater than it.\nC) {I_2} is in the same direction as {I_1} and is bigger than it.\nD) {I_2} is in the same direction as {I_1} and smaller than it.",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "33"
+        }
+    },
+    "34": {
+        "question": "مطابق شکل زیر، دو میدان یکنواخت الکتریکی و مغناطیسی عمود برهم در یک محیط قرار دارند، ذره‌‌ای با بار الکتریکی مثبت در آن فضا با سرعت \\vec V به کدام جهت حرکت کند، تا بزرگی نیروی خالص وارد بر آن بیشینه شود؟ (اثر وزن ذره ناچیز است.)\n",
+        "options": {
+            "1": "A",
+            "2": "B",
+            "3": "C",
+            "4": "D"
+        },
+        "final_answer": 1,
+        "full_text": "According to the figure below, two uniform electric and magnetic fields perpendicular to each other are located in an environment, in which direction should a particle with a positive electric charge move with a speed \\vec V in that space, so that the magnitude of the net force acting on it is maximum? (The effect of particle weight is negligible.)\n\nOptions:\nA) A\nB) B\nC) C\nD) D",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "34"
+        }
+    },
+    "35": {
+        "question": "در شکل زیر، در لحظهٔ وصل کلید، جهت جریان القایی کدام است و در حالتی‌که کلید وصل است، اگر مقاومت رئوستا را به تدریج کاهش دهیم، در این حالت جهت القایی، کدام است؟\n",
+        "options": {
+            "1": "(۱) و (۱)",
+            "2": "(۱) و (۲)",
+            "3": "(۲) و (۱)",
+            "4": "(۲) و (۲)"
+        },
+        "final_answer": 4,
+        "full_text": "In the figure below, at the moment the switch is connected, what is the direction of the induction current, and in the state that the switch is connected, if we gradually reduce the rheostat resistance, what is the direction of the induction in this case?\n\nOptions:\nA) (1) and (1)\nB) (1) and (2)\nC) (2) and (1)\nD) (2) and (2)",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "35"
+        }
+    },
+    "36": {
+        "question": "طول سیم‌لولهٔ A، دو برابر طول سیم‌لولهٔ B و تعداد حلقه‌های آن نیز دو برابر تعداد حلقه‌های سیم‌لولهٔ B است. اگر شدت جریان الکتریکی عبوری از این‌ها باهم برابر باشد، به‌ترتیب انرژی ذخیره شده در سیم‌لولهٔ A، چند برابر انرژی سیم‌لولهٔ B است و میدان مغناطیسی درون سیم‌لولهٔ A چند برابر سیم‌لولهٔ‌ B است؟ (سیم‌لولهٔ بدون هستهٔ آهنی و قطر حلقه‌های آن‌ها باهم برابر است.)\n",
+        "options": {
+            "1": "۱ و ۱",
+            "2": "۲ و ۱",
+            "3": "۲ و ۲",
+            "4": "۴ و ۲"
+        },
+        "final_answer": 2,
+        "full_text": "The length of wire A is twice the length of wire B and its number of loops is also twice the number of loops of wire B. If the intensity of the electric current passing through them is equal, how many times the energy stored in wire A is the energy of wire B, and how many times the magnetic field inside wire A is that of wire B? (The wire without iron core and the diameter of their rings are equal.)\n\nOptions:\nA) 1 and 1\nB) 2 and 1\nC) 2 and 2\nD) 4 and 2",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "36"
+        }
+    },
+    "37": {
+        "question": "هواپیمایی به جرم ۶۰ تُن با تندی ۸۰\\frac{m}{s} از باند فرودگاه بلند می‌شود و در مدت یک دقیقه تندی آن دو برابر می‌شود و به ارتفاع ۶۰۰ متری از سطح زمین می‌رسد. در این یک دقیقه، کار نیروی وزن روی هواپیما چند ژول است و انرژی مکانیکی هواپیما چند ژول افزایش می‌یابد؟ (g = ۱۰\\frac{N}{{kg}})\n",
+        "options": {
+            "1": "۳/۶ \\times {۱۰^۸} و ۹/۳۶ \\times {۱۰^۸}",
+            "2": "- ۳/۶ \\times {۱۰^۸} و ۲/۱۶ \\times {۱۰^۸}",
+            "3": "۳/۶ \\times {۱۰^۸} و ۲/۱۶ \\times {۱۰^۸}",
+            "4": "- ۳/۶ \\times {۱۰^۸} و ۹/۳۶ \\times {۱۰^۸}"
+        },
+        "final_answer": 4,
+        "full_text": "An airplane with a mass of 60 tons takes off from the airport runway with a velocity of 80\\frac{m}{s} and within one minute its velocity doubles and reaches a height of 600 meters from the ground. In this one minute, how many joules is the work of the weight force on the plane, and how many joules does the mechanical energy of the plane increase? (g = 10\\frac{N}{{kg}})\n\nOptions:\nA) 3/6 \\times {10^8} and 9/36 \\times {10^8}\nB) - 3/6 \\times {10^8} and 2/16 \\times {10^8}\nC) 3/6 \\times {10^8} and 2/16 \\times {10^8}\nD) - 3/6 \\times {10^8} and 9/36 \\times {10^8}",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "37"
+        }
+    },
+    "38": {
+        "question": "در شکل زیر، دو مایع به حالت تعادل قرار دارند. ار چگالی آن‌ها {\\rho _۱} = ۱/۲\\frac{g}{{c{m^۳}}} و {\\rho _۲} = ۱\\frac{g}{{c{m^۳}}} باشد، فشار پیمانه‌ای گاز چند پاسکال است؟ (g = ۱۰\\frac{N}{{kg}})\n",
+        "options": {
+            "1": "۳۰۰۰",
+            "2": "۳۶۰۰",
+            "3": "۵۰۰۰",
+            "4": "۵۸۰۰"
+        },
+        "final_answer": 1,
+        "full_text": "In the figure below, two liquids are in equilibrium. Their density is {\\rho _1} = 1/2\\frac{g}{{c{m^3}}} and {\\rho _2} = 1\\frac{g}{{c{m^3}}} So, how many pascals is the pressure of a cubic meter of gas? (g = 10\\frac{N}{{kg}})\n\nOptions:\nA) 3000\nB) 3600\nC) 5000\nD) 5800",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "38"
+        }
+    },
+    "39": {
+        "question": "اگر در عمق ۵ سانتی‌متری مایعی فشار ۱۰۰ کیلوپاسکال و در عمق ۲۰ سانتی‌متری آن فشار ۱۰۶ کیلوپاسکال باشد، فشار هوا در محیط چند کیلوپاسکال است؟ (g = ۱۰\\frac{m}{{{s^۲}}})\n",
+        "options": {
+            "1": "۹۶",
+            "2": "۹۷",
+            "3": "۹۸",
+            "4": "۹۹"
+        },
+        "final_answer": 3,
+        "full_text": "If the liquid pressure is 100 kPa at a depth of 5 cm and 106 kPa at a depth of 20 cm, how many kPa is the air pressure in the environment? (g = 10\\frac{m}{{{s^2}}})\n\nOptions:\nA) 96\nB) 97\nC) 98\nD) 99",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "39"
+        }
+    },
+    "40": {
+        "question": "۲۰ گرم یخ در دمای صفر درجهٔ سلسیوس (نقطهٔ ذوب) قرار دارد. چند ژول گرما لازم است تا آن را ذوب کرده و دمای آب حاصل را به ۵۰ درجهٔ فارنهایت برساند؟ (c = ۴/۲\\frac{J}{{{g^ \\circ }C}} و {L_f} = ۳۳۶\\frac{J}{g})\n",
+        "options": {
+            "1": "۱۰۹۲۰",
+            "2": "۹۰۵۰",
+            "3": "۸۱۹۰",
+            "4": "۷۵۶۰"
+        },
+        "final_answer": 4,
+        "full_text": "20 grams of ice is at zero degree Celsius (melting point). How many joules of heat are required to melt it and raise the temperature of the resulting water to 50 degrees Fahrenheit? (c = 4/2\\frac{J}{{{g^ \\circ }C}} and {L_f} = 336\\frac{J}{g})\n\nOptions:\nA) 10920\nB) 9050\nC) 8190\nD) 7560",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "40"
+        }
+    },
+    "41": {
+        "question": "طول یک میلهٔ مسی ۵۰cm و سطح مقطع آن ۵c{m^۲} است. یک انتهای این میله در دمای ثابت {۸۰^ \\circ }C و انتهای دیگر آن در دمای {۳۰^ \\circ }C قرار دارد و بدنهٔ آن عایق‌بندی شده است. در شرایط پایدار، آهنگ شارش گرما در میله چند ژول بر ثانیه است و دمای میله در فاصلهٔ ۱۰ سانتی‌متری انتهای گرم‌تر چند سلسیوس است؟ (k = ۴۰۰\\frac{W}{{m.K}})\n",
+        "options": {
+            "1": "۲۰ و ۴۰",
+            "2": "۲۰ و ۷۰",
+            "3": "۵۰ و ۴۰",
+            "4": "۵۰ و ۷۰"
+        },
+        "final_answer": 2,
+        "full_text": "The length of a copper rod is 50cm and its cross section is 5c{m^2}. One end of this rod is at a constant temperature {80^ \\circ }C and the other end is at a temperature of {30^ \\circ }C and its body is insulated. In steady state, the rate of heat flow in the rod is how many joules per second, and what is the temperature of the rod at a distance of 10 cm from the hotter end? (k = 400\\frac{W}{{m.K}})\n\nOptions:\nA) 20 and 40\nB) 20 and 70\nC) 50 and 40\nD) 50 and 70",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "41"
+        }
+    },
+    "42": {
+        "question": "یک یخچال کارنو بین دماهای {۲۷^ \\circ }C و {۱۲۷^ \\circ }C کار می‌کند. ضریب عملکرد آن چقدر است؟\n",
+        "options": {
+            "1": "\\frac{۴}{۳}",
+            "2": "\\frac{۵}{۳}",
+            "3": "۳",
+            "4": "۴"
+        },
+        "final_answer": 3,
+        "full_text": "A Carnot refrigerator operates between temperatures of {27^ \\circ }C and {127^ \\circ }C. What is its performance factor?\n\nOptions:\nA) \\frac{4}{3}\nB) \\frac{5}{3}\nC) 3\nD) 4",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "42"
+        }
+    },
+    "43": {
+        "question": "مطابق شکل زیر، حجم مقدار معینی گاز آرمانی، در یک فرایند بی‌دررو از {V_۱} به {V_۲} می‌رسد. کدام مورد زیر درست است؟\nالف) انرژی درونی گاز افزایش می‌یابد.\nب) دمای گاز کاهش می‌یابد.\nپ) دمای گاز ثابت می‌ماند.\nت) کار انجام شده روی گاز برابر گرمایی است که گاز می‌گیرد.\nث) کار انجام شده روی گاز برابر تغییر انرژی درونی گاز است.\n",
+        "options": {
+            "1": "الف و ث",
+            "2": "الف و ت",
+            "3": "ب و ث",
+            "4": "پ و ت"
+        },
+        "final_answer": 1,
+        "full_text": "According to the figure below, the volume of a certain amount of ideal gas reaches {V_1} to {V_2} in a continuous process. Which of the following is correct?\na) The internal energy of the gas increases.\nb) The temperature of the gas decreases.\nc) The temperature of the gas remains constant.\nt) The work done on the gas is equal to the heat that the gas takes.\ne) The work done on the gas is equal to the change in the internal energy of the gas.\n\nOptions:\nA) A and C\nB) A and T\nC) b and c\nD) P and T",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "43"
+        }
+    },
+    "44": {
+        "question": "فشار پیمانه‌ای مقداری گاز آرمانی ۵ \\times {۱۰^۴}Pa و انرژی درونی آن ۶۰۰J است. اگر فشار پیمانه‌ای گاز را دو برابر کنیم و هم‌زمان حجم گاز را نیز دو برابر کنیم، انرژی درونی گاز چند ژول می‌شود؟ ({P_۰} = {۱۰^۵}Pa)\n",
+        "options": {
+            "1": "۸۰۰",
+            "2": "۱۲۰۰",
+            "3": "۱۶۰۰",
+            "4": "۲۴۰۰"
+        },
+        "final_answer": 3,
+        "full_text": "The volumetric pressure of some ideal gas is 5 \\times {10^4}Pa and its internal energy is 600J. If we double the volumetric pressure of the gas and at the same time double the volume of the gas, how many joules will the internal energy of the gas be? ({P_0} = {10^5}Pa)\n\nOptions:\nA) 800\nB) 1200\nC) 1600\nD) 2400",
+        "metadata": {
+            "image": false,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "44"
+        }
+    },
+    "45": {
+        "question": "مطابق شکل زیر، مقداری گاز آرمانی دو اتمی، از دو مسیر، از حالت A به حالت C می‌رسد. اگر افزایش انرژی درونی گاز در رسیدن A به C، ۱۰۰۰J باشد، گرمایی که گاز در مسیر ABC می‌گیرد، چند ژول است؟\n",
+        "options": {
+            "1": "۸۰۰",
+            "2": "۱۲۵۰",
+            "3": "۱۶۰۰",
+            "4": "۱۷۵۰"
+        },
+        "final_answer": 3,
+        "full_text": "According to the figure below, some diatomic ideal gas reaches from state A to state C through two paths. If the increase in the internal energy of the gas in reaching A to C is 1000 J, how many joules is the heat that the gas takes in the path ABC?\n\nOptions:\nA) 800\nB) 1250\nC) 1600\nD) 1750",
+        "metadata": {
+            "image": true,
+            "course": "physics",
+            "year": "1400",
+            "month": "tir",
+            "question_number": "45"
+        }
+    }
+}
