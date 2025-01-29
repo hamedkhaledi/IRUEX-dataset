@@ -5,7 +5,7 @@ problem-solving capabilities of large language models (LLMs) in the context of I
 study aims to evaluate how well LLMs can handle the types of questions typically encountered in this high-stakes
 examination, focusing on multiple subjects including mathematics, physics, etc.
 
-#Citation
+# Citation
 
 ```
 @inproceedings{khaledi2025iruex,
