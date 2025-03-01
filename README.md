@@ -7,8 +7,7 @@ examination, focusing on multiple subjects including mathematics, physics, etc.
 
 # Live Scoreboard
 
-You can view the live leaderboard for IRUEX evaluations here:  
-[IRUEX Leaderboard](https://huggingface.co/spaces/hamedkhaledi/IRUEX_leaderboard)
+You can view the live leaderboard for IRUEX evaluations here: [IRUEX Leaderboard](https://huggingface.co/spaces/hamedkhaledi/IRUEX_leaderboard)
 
 # Citation
 
