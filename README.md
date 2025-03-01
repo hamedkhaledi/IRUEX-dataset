@@ -5,6 +5,11 @@ problem-solving capabilities of large language models (LLMs) in the context of I
 study aims to evaluate how well LLMs can handle the types of questions typically encountered in this high-stakes
 examination, focusing on multiple subjects including mathematics, physics, etc.
 
+# Live Scoreboard
+
+You can view the live leaderboard for IRUEX evaluations here:  
+[IRUEX Leaderboard](https://huggingface.co/spaces/hamedkhaledi/IRUEX_leaderboard)
+
 # Citation
 
 ```
